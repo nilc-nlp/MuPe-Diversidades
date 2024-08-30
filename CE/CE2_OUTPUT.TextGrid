@@ -1,0 +1,1272 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 259.6
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 259.6
+		intervals: size = 115
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.79
+			text = "falava tchau comadre vou passear aí ela está bom meu filho"
+		intervals [2]:
+			xmin = 3.79
+			xmax = 4.42
+			text = "..."
+		intervals [3]:
+			xmin = 4.42
+			xmax = 5.31
+			text = "eu não te conto"
+		intervals [4]:
+			xmin = 5.31
+			xmax = 5.77
+			text = ""
+		intervals [5]:
+			xmin = 5.77
+			xmax = 8.54
+			text = "eu meti o rei nesse cavalo esse cavalo saiu"
+		intervals [6]:
+			xmin = 8.54
+			xmax = 9.06
+			text = "..."
+		intervals [7]:
+			xmin = 9.06
+			xmax = 9.77
+			text = "virado no"
+		intervals [8]:
+			xmin = 9.77
+			xmax = 10.31
+			text = "..."
+		intervals [9]:
+			xmin = 10.31
+			xmax = 13.42
+			text = "cão mesmo desembestou desembestou não tinha ninguém que"
+		intervals [10]:
+			xmin = 13.42
+			xmax = 14.0
+			text = "..."
+		intervals [11]:
+			xmin = 14.0
+			xmax = 17.29
+			text = "que pegasse esse cavalo aí a minha mãe no povo falava assim é"
+		intervals [12]:
+			xmin = 17.29
+			xmax = 17.65
+			text = "..."
+		intervals [13]:
+			xmin = 17.65
+			xmax = 28.01
+			text = "antigamente eles falavam [M] é [M] ó [M] tira esse menino do meio da estrada que vem o cavaleiro né não é no meio da rua eles fala falavam assim aí oxe o cavaleiro era ela mesmo aí meu filho"
+		intervals [14]:
+			xmin = 28.01
+			xmax = 28.4
+			text = "..."
+		intervals [15]:
+			xmin = 28.4
+			xmax = 38.58
+			text = "aí vinha o meu pa o filho do meu patrão e esse cavalo numa correria eu digo vai cair digo bem feito você mandou eu eu meter a chibata eu meti a chibata aí meu filho cadê aí o"
+		intervals [16]:
+			xmin = 38.58
+			xmax = 38.92
+			text = "..."
+		intervals [17]:
+			xmin = 38.92
+			xmax = 40.0
+			text = "filho do meu patrão"
+		intervals [18]:
+			xmin = 40.0
+			xmax = 40.39
+			text = "..."
+		intervals [19]:
+			xmin = 40.39
+			xmax = 46.39
+			text = "[F] [T] você é louco você que que é isso que está acontecendo você quer morrer aí foi que ele de lá para cá"
+		intervals [20]:
+			xmin = 46.39
+			xmax = 46.82
+			text = "..."
+		intervals [21]:
+			xmin = 46.82
+			xmax = 47.44
+			text = "ele pa"
+		intervals [22]:
+			xmin = 47.44
+			xmax = 47.78
+			text = "..."
+		intervals [23]:
+			xmin = 47.78
+			xmax = 50.66
+			text = "pegou no no no rei do cacho do cavalo"
+		intervals [24]:
+			xmin = 50.66
+			xmax = 51.26
+			text = "..."
+		intervals [25]:
+			xmin = 51.26
+			xmax = 54.19
+			text = "aí ele pa conseguiu parar o cavalo né aí ela caiu"
+		intervals [26]:
+			xmin = 54.19
+			xmax = 54.55
+			text = "..."
+		intervals [27]:
+			xmin = 54.55
+			xmax = 58.71
+			text = "quebrou a perna de mentira meu filho ixi e o medo de chegar em casa né aí ela fala ma"
+		intervals [28]:
+			xmin = 58.71
+			xmax = 59.3
+			text = "..."
+		intervals [29]:
+			xmin = 59.3
+			xmax = 61.61
+			text = "[M] pelo amor de deus o que é que eu faço minha aí"
+		intervals [30]:
+			xmin = 61.61
+			xmax = 62.0
+			text = "..."
+		intervals [31]:
+			xmin = 62.0
+			xmax = 64.24
+			text = "a minha avó nesse tempo era viva aí falou [M]"
+		intervals [32]:
+			xmin = 64.24
+			xmax = 64.96
+			text = "..."
+		intervals [33]:
+			xmin = 64.96
+			xmax = 71.05
+			text = "eh chama [F] o nome dela é [F] [M] chama [F] aí que tua mãe está te chamando e eu digo ixi e agora agora"
+		intervals [34]:
+			xmin = 71.05
+			xmax = 71.68
+			text = "..."
+		intervals [35]:
+			xmin = 71.68
+			xmax = 74.81
+			text = "bateu na porta errada agora sujou mesmo vou ter que contar né aí"
+		intervals [36]:
+			xmin = 74.81
+			xmax = 75.37
+			text = "..."
+		intervals [37]:
+			xmin = 75.37
+			xmax = 75.96
+			text = "ela [M]"
+		intervals [38]:
+			xmin = 75.96
+			xmax = 76.28
+			text = "..."
+		intervals [39]:
+			xmin = 76.28
+			xmax = 83.74
+			text = "tu não conta para a minha sina porque lá esse qualquer coisinha disse quebrava a dieta né aí cheguei meu e aí eu cheguei aí mamãe falou assim [M]"
+		intervals [40]:
+			xmin = 83.74
+			xmax = 84.34
+			text = "..."
+		intervals [41]:
+			xmin = 84.34
+			xmax = 87.47
+			text = "cadê tua irmã cadê [F] eu falei ah mamãe a senhora não ah não"
+		intervals [42]:
+			xmin = 87.47
+			xmax = 87.97
+			text = "..."
+		intervals [43]:
+			xmin = 87.97
+			xmax = 93.7
+			text = "a senhora não não adivinha eu digo aí ela pelo amor de deus [M] você é louca conta mesmo que se eu sei que você é danada mesmo ai mãe"
+		intervals [44]:
+			xmin = 93.7
+			xmax = 94.08
+			text = "..."
+		intervals [45]:
+			xmin = 94.08
+			xmax = 103.22
+			text = "[T] caiu do cavalo [M] pelo amor você é louca ai meu filho ixi aí eu falei não mãe mas ela está bem né não esquenta a cabeça não que ela está bem né aí a minha ela chega"
+		intervals [46]:
+			xmin = 103.22
+			xmax = 103.58
+			text = "..."
+		intervals [47]:
+			xmin = 103.58
+			xmax = 105.74
+			text = "eh mancando sem poder andar com a perna"
+		intervals [48]:
+			xmin = 105.74
+			xmax = 106.06
+			text = "..."
+		intervals [49]:
+			xmin = 106.06
+			xmax = 107.7
+			text = "quebrada desmentida né aí ela"
+		intervals [50]:
+			xmin = 107.7
+			xmax = 108.02
+			text = "..."
+		intervals [51]:
+			xmin = 108.02
+			xmax = 110.87
+			text = "aí minha avó veio me acudir falou eu sabia eu sabia"
+		intervals [52]:
+			xmin = 110.87
+			xmax = 111.25
+			text = "..."
+		intervals [53]:
+			xmin = 111.25
+			xmax = 116.55
+			text = "que no desembesto que estava esse cavalo era você a arrumação da tua irmã que vocês não tem o que fazer aí meu filho"
+		intervals [54]:
+			xmin = 116.55
+			xmax = 116.99
+			text = "..."
+		intervals [55]:
+			xmin = 116.99
+			xmax = 118.25
+			text = "cheguei no carro aí papai"
+		intervals [56]:
+			xmin = 118.25
+			xmax = 118.98
+			text = "..."
+		intervals [57]:
+			xmin = 118.98
+			xmax = 128.05
+			text = "aí sim aí meu pai levantou né fa sentiu falta do cavalo né que ele já ia trabalhar de volta né aí não acreditei falou [M] cadê o cavalo eu falei ei pai olha"
+		intervals [58]:
+			xmin = 128.05
+			xmax = 128.53
+			text = "..."
+		intervals [59]:
+			xmin = 128.53
+			xmax = 129.87
+			text = "o senhor nem imagina"
+		intervals [60]:
+			xmin = 129.87
+			xmax = 130.31
+			text = "..."
+		intervals [61]:
+			xmin = 130.31
+			xmax = 133.06
+			text = "minha antiga [F] caiu do cavalo está lá ó"
+		intervals [62]:
+			xmin = 133.06
+			xmax = 133.36
+			text = "..."
+		intervals [63]:
+			xmin = 133.36
+			xmax = 135.68
+			text = "está deitada não pode nem fazer nada ele aí ele"
+		intervals [64]:
+			xmin = 135.68
+			xmax = 136.05
+			text = "..."
+		intervals [65]:
+			xmin = 136.05
+			xmax = 139.5
+			text = "eu vou dar uma surra em vocês olha dessa vez eu não vou bater em vocês"
+		intervals [66]:
+			xmin = 139.5
+			xmax = 140.13
+			text = "..."
+		intervals [67]:
+			xmin = 140.13
+			xmax = 142.04
+			text = "mas na próxima vez que eu chegar"
+		intervals [68]:
+			xmin = 142.04
+			xmax = 142.35
+			text = "..."
+		intervals [69]:
+			xmin = 142.35
+			xmax = 144.39
+			text = "e vocês pegarem esse cavalo"
+		intervals [70]:
+			xmin = 144.39
+			xmax = 144.91
+			text = "..."
+		intervals [71]:
+			xmin = 144.91
+			xmax = 149.18
+			text = "vocês ói vocês vão to levar uma surra tão grande vocês vão vão passar três dias"
+		intervals [72]:
+			xmin = 149.18
+			xmax = 149.51
+			text = "..."
+		intervals [73]:
+			xmin = 149.51
+			xmax = 149.77
+			text = "é"
+		intervals [74]:
+			xmin = 149.77
+			xmax = 153.53
+			text = "de cama e ela bem caladinha né eu era muito danada aí bem aí passou"
+		intervals [75]:
+			xmin = 153.53
+			xmax = 154.28
+			text = "..."
+		intervals [76]:
+			xmin = 154.28
+			xmax = 158.31
+			text = "aí que aí ele foi de volta né saiu foi trabalhar ó eu estou avisando né aí e aí ele"
+		intervals [77]:
+			xmin = 158.31
+			xmax = 159.24
+			text = "..."
+		intervals [78]:
+			xmin = 159.24
+			xmax = 161.89
+			text = "falou assim ó vou vou chegar se vocês"
+		intervals [79]:
+			xmin = 161.89
+			xmax = 162.21
+			text = "se"
+		intervals [80]:
+			xmin = 162.21
+			xmax = 177.76
+			text = "vocês pegarem nesse cavalo eu vou deixar só para vocês verem falei está bom pai oxe imagina eu não vou pegar em cavalo não para quê eu não caí mesmo não foi eu que caí foi ela que caiu não foi ela mandou eu meter a chibata e eu tangi no cavalo e o cavalo desembestou aí ele falou está bom aí ele saiu né estava saradona"
+		intervals [81]:
+			xmin = 177.76
+			xmax = 178.44
+			text = "..."
+		intervals [82]:
+			xmin = 178.44
+			xmax = 179.05
+			text = "aí ele chegou"
+		intervals [83]:
+			xmin = 179.05
+			xmax = 179.41
+			text = "..."
+		intervals [84]:
+			xmin = 179.41
+			xmax = 179.48
+			text = "aí"
+		intervals [85]:
+			xmin = 179.48
+			xmax = 179.88
+			text = "..."
+		intervals [86]:
+			xmin = 179.88
+			xmax = 182.63
+			text = "ele falou assim eu vou me arriscar eu falei meu deus chega está"
+		intervals [87]:
+			xmin = 182.63
+			xmax = 182.96
+			text = "..."
+		intervals [88]:
+			xmin = 182.96
+			xmax = 185.86
+			text = "chega estava doida para andar no cavalo aí eu chamei minha irmã falei vamos"
+		intervals [89]:
+			xmin = 185.86
+			xmax = 186.21
+			text = "..."
+		intervals [90]:
+			xmin = 186.21
+			xmax = 188.29
+			text = "vamos lá vamos ela falou você é louca deus me livre"
+		intervals [91]:
+			xmin = 188.29
+			xmax = 188.59
+			text = "..."
+		intervals [92]:
+			xmin = 188.59
+			xmax = 200.58
+			text = "agora vá você né aí eu digo ah eu vou mesmo aí montei no cavalo olha o meu pai ó saiu cadê o cavalo eu fui dar uma voltinha mas cadê que eu não caí eu não sou bobo você que é besta né aí ela falou que falou agora eu vou tanger agora eu vou meter a chibata para você"
+		intervals [93]:
+			xmin = 200.58
+			xmax = 201.1
+			text = "..."
+		intervals [94]:
+			xmin = 201.1
+			xmax = 212.4
+			text = "para você aprender é bala trocada não não eu vou pagar com a mesma moeda eu falei aqui pode tanger aí meu filho eu fui lá dei uma voltinha no cavalo pra lá embora de boa mesmo aí eu voltei amarrei o cavalo no lugar dele que estava aí"
+		intervals [95]:
+			xmin = 212.4
+			xmax = 212.8
+			text = "..."
+		intervals [96]:
+			xmin = 212.8
+			xmax = 222.07
+			text = "meu pai chegou ele falou ah pai nem nem eu fui só ali dar uma voltinha se estava com vontade mesmo dei só uma voltinha mesmo e está aí seu cavalo aí ele falou mas vocês não tem jeito mesmo né aí ele falou ah não aí"
+		intervals [97]:
+			xmin = 222.07
+			xmax = 222.48
+			text = "..."
+		intervals [98]:
+			xmin = 222.48
+			xmax = 230.77
+			text = "outra vez foi minha é minha irmã né aí ele sabe jogar baralho né isto era sua eremi essa que está no [EM] e essa minha irmã que está no ceará aí a gente"
+		intervals [99]:
+			xmin = 230.77
+			xmax = 231.1
+			text = "..."
+		intervals [100]:
+			xmin = 231.1
+			xmax = 235.9
+			text = "estava tudo jogando dominó sabe baralho né e caso homem debaixo do alpen tudo e"
+		intervals [101]:
+			xmin = 235.9
+			xmax = 236.4
+			text = "tava"
+		intervals [102]:
+			xmin = 236.4
+			xmax = 238.87
+			text = "de boa né aí meu pai aí sim aí"
+		intervals [103]:
+			xmin = 238.87
+			xmax = 239.52
+			text = "..."
+		intervals [104]:
+			xmin = 239.52
+			xmax = 243.28
+			text = "estava todo mundo jogando e eu parada fazen aí minha mãe falou assim [M]"
+		intervals [105]:
+			xmin = 243.28
+			xmax = 244.6
+			text = "..."
+		intervals [106]:
+			xmin = 244.6
+			xmax = 245.45
+			text = "vá fazer"
+		intervals [107]:
+			xmin = 245.45
+			xmax = 246.21
+			text = "..."
+		intervals [108]:
+			xmin = 246.21
+			xmax = 246.57
+			text = "um"
+		intervals [109]:
+			xmin = 246.57
+			xmax = 248.63
+			text = "não vá pôr aquele arroz é"
+		intervals [110]:
+			xmin = 248.63
+			xmax = 249.11
+			text = "..."
+		intervals [111]:
+			xmin = 249.11
+			xmax = 250.66
+			text = "ponha o feijão no fogo"
+		intervals [112]:
+			xmin = 250.66
+			xmax = 251.63
+			text = "..."
+		intervals [113]:
+			xmin = 251.63
+			xmax = 253.06
+			text = "que eu vou ali já ver eu falei o quê"
+		intervals [114]:
+			xmin = 253.06
+			xmax = 253.36
+			text = "eu"
+		intervals [115]:
+			xmin = 253.36
+			xmax = 259.6
+			text = "não vou não mãe ó a senho ah as meninas estão tudo lá mais os machos estão tudo mais mais os machos lá e a senhora vai mandar eu"
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 259.6
+		intervals: size = 184
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.35
+			text = "falava"
+		intervals [2]:
+			xmin = 0.35
+			xmax = 0.48
+			text = "..."
+		intervals [3]:
+			xmin = 0.48
+			xmax = 2.03
+			text = "tchau comadre vou passear"
+		intervals [4]:
+			xmin = 2.03
+			xmax = 2.32
+			text = "..."
+		intervals [5]:
+			xmin = 2.32
+			xmax = 3.26
+			text = "aí ela está bom meu"
+		intervals [6]:
+			xmin = 3.26
+			xmax = 3.44
+			text = "..."
+		intervals [7]:
+			xmin = 3.44
+			xmax = 3.79
+			text = "filho"
+		intervals [8]:
+			xmin = 3.79
+			xmax = 4.42
+			text = "..."
+		intervals [9]:
+			xmin = 4.42
+			xmax = 5.31
+			text = "eu não te conto"
+		intervals [10]:
+			xmin = 5.31
+			xmax = 5.51
+			text = "..."
+		intervals [11]:
+			xmin = 5.51
+			xmax = 5.77
+			text = ""
+		intervals [12]:
+			xmin = 5.77
+			xmax = 8.54
+			text = "eu meti o rei nesse cavalo esse cavalo saiu"
+		intervals [13]:
+			xmin = 8.54
+			xmax = 9.06
+			text = "..."
+		intervals [14]:
+			xmin = 9.06
+			xmax = 9.77
+			text = "virado no"
+		intervals [15]:
+			xmin = 9.77
+			xmax = 10.31
+			text = "..."
+		intervals [16]:
+			xmin = 10.31
+			xmax = 13.42
+			text = "cão mesmo desembestou desembestou não tinha ninguém que"
+		intervals [17]:
+			xmin = 13.42
+			xmax = 14.0
+			text = "..."
+		intervals [18]:
+			xmin = 14.0
+			xmax = 16.11
+			text = "que pegasse esse cavalo aí a minha mãe"
+		intervals [19]:
+			xmin = 16.11
+			xmax = 16.27
+			text = "..."
+		intervals [20]:
+			xmin = 16.27
+			xmax = 17.29
+			text = "no povo falava assim é"
+		intervals [21]:
+			xmin = 17.29
+			xmax = 17.65
+			text = "..."
+		intervals [22]:
+			xmin = 17.65
+			xmax = 19.95
+			text = "antigamente eles falavam [M] é [M]"
+		intervals [23]:
+			xmin = 19.95
+			xmax = 20.22
+			text = "..."
+		intervals [24]:
+			xmin = 20.22
+			xmax = 28.01
+			text = "ó [M] tira esse menino do meio da estrada que vem o cavaleiro né não é no meio da rua eles fala falavam assim aí oxe o cavaleiro era ela mesmo aí meu filho"
+		intervals [25]:
+			xmin = 28.01
+			xmax = 28.4
+			text = "..."
+		intervals [26]:
+			xmin = 28.4
+			xmax = 29.22
+			text = "aí vinha o meu pa"
+		intervals [27]:
+			xmin = 29.22
+			xmax = 29.44
+			text = "..."
+		intervals [28]:
+			xmin = 29.44
+			xmax = 31.67
+			text = "o filho do meu patrão e esse cavalo numa"
+		intervals [29]:
+			xmin = 31.67
+			xmax = 31.91
+			text = "..."
+		intervals [30]:
+			xmin = 31.91
+			xmax = 34.75
+			text = "correria eu digo vai cair digo bem feito você mandou"
+		intervals [31]:
+			xmin = 34.75
+			xmax = 34.91
+			text = "..."
+		intervals [32]:
+			xmin = 34.91
+			xmax = 35.19
+			text = "eu eu"
+		intervals [33]:
+			xmin = 35.19
+			xmax = 35.46
+			text = "..."
+		intervals [34]:
+			xmin = 35.46
+			xmax = 38.01
+			text = "meter a chibata eu meti a chibata aí meu filho cadê"
+		intervals [35]:
+			xmin = 38.01
+			xmax = 38.11
+			text = "..."
+		intervals [36]:
+			xmin = 38.11
+			xmax = 38.58
+			text = "aí o"
+		intervals [37]:
+			xmin = 38.58
+			xmax = 38.92
+			text = "..."
+		intervals [38]:
+			xmin = 38.92
+			xmax = 40.0
+			text = "filho do meu patrão"
+		intervals [39]:
+			xmin = 40.0
+			xmax = 40.39
+			text = "..."
+		intervals [40]:
+			xmin = 40.39
+			xmax = 46.39
+			text = "[F] [T] você é louco você que que é isso que está acontecendo você quer morrer aí foi que ele de lá para cá"
+		intervals [41]:
+			xmin = 46.39
+			xmax = 46.82
+			text = "..."
+		intervals [42]:
+			xmin = 46.82
+			xmax = 47.44
+			text = "ele pa"
+		intervals [43]:
+			xmin = 47.44
+			xmax = 47.78
+			text = "..."
+		intervals [44]:
+			xmin = 47.78
+			xmax = 50.66
+			text = "pegou no no no rei do cacho do cavalo"
+		intervals [45]:
+			xmin = 50.66
+			xmax = 51.26
+			text = "..."
+		intervals [46]:
+			xmin = 51.26
+			xmax = 51.59
+			text = "aí ele"
+		intervals [47]:
+			xmin = 51.59
+			xmax = 51.71
+			text = "..."
+		intervals [48]:
+			xmin = 51.71
+			xmax = 54.19
+			text = "pa conseguiu parar o cavalo né aí ela caiu"
+		intervals [49]:
+			xmin = 54.19
+			xmax = 54.55
+			text = "..."
+		intervals [50]:
+			xmin = 54.55
+			xmax = 58.71
+			text = "quebrou a perna de mentira meu filho ixi e o medo de chegar em casa né aí ela fala ma"
+		intervals [51]:
+			xmin = 58.71
+			xmax = 59.3
+			text = "..."
+		intervals [52]:
+			xmin = 59.3
+			xmax = 61.61
+			text = "[M] pelo amor de deus o que é que eu faço minha aí"
+		intervals [53]:
+			xmin = 61.61
+			xmax = 62.0
+			text = "..."
+		intervals [54]:
+			xmin = 62.0
+			xmax = 64.24
+			text = "a minha avó nesse tempo era viva aí falou [M]"
+		intervals [55]:
+			xmin = 64.24
+			xmax = 64.96
+			text = "..."
+		intervals [56]:
+			xmin = 64.96
+			xmax = 71.05
+			text = "eh chama [F] o nome dela é [F] [M] chama [F] aí que tua mãe está te chamando e eu digo ixi e agora agora"
+		intervals [57]:
+			xmin = 71.05
+			xmax = 71.68
+			text = "..."
+		intervals [58]:
+			xmin = 71.68
+			xmax = 74.81
+			text = "bateu na porta errada agora sujou mesmo vou ter que contar né aí"
+		intervals [59]:
+			xmin = 74.81
+			xmax = 75.37
+			text = "..."
+		intervals [60]:
+			xmin = 75.37
+			xmax = 75.96
+			text = "ela [M]"
+		intervals [61]:
+			xmin = 75.96
+			xmax = 76.28
+			text = "..."
+		intervals [62]:
+			xmin = 76.28
+			xmax = 80.3
+			text = "tu não conta para a minha sina porque lá esse qualquer coisinha disse quebrava a dieta né aí"
+		intervals [63]:
+			xmin = 80.3
+			xmax = 80.58
+			text = "..."
+		intervals [64]:
+			xmin = 80.58
+			xmax = 81.23
+			text = "cheguei meu"
+		intervals [65]:
+			xmin = 81.23
+			xmax = 81.43
+			text = "..."
+		intervals [66]:
+			xmin = 81.43
+			xmax = 81.85
+			text = "e aí eu"
+		intervals [67]:
+			xmin = 81.85
+			xmax = 82.01
+			text = "..."
+		intervals [68]:
+			xmin = 82.01
+			xmax = 83.74
+			text = "cheguei aí mamãe falou assim [M]"
+		intervals [69]:
+			xmin = 83.74
+			xmax = 84.34
+			text = "..."
+		intervals [70]:
+			xmin = 84.34
+			xmax = 87.47
+			text = "cadê tua irmã cadê [F] eu falei ah mamãe a senhora não ah não"
+		intervals [71]:
+			xmin = 87.47
+			xmax = 87.97
+			text = "..."
+		intervals [72]:
+			xmin = 87.97
+			xmax = 89.61
+			text = "a senhora não não adivinha eu digo"
+		intervals [73]:
+			xmin = 89.61
+			xmax = 89.79
+			text = "..."
+		intervals [74]:
+			xmin = 89.79
+			xmax = 90.1
+			text = "aí ela"
+		intervals [75]:
+			xmin = 90.1
+			xmax = 90.21
+			text = "..."
+		intervals [76]:
+			xmin = 90.21
+			xmax = 93.7
+			text = "pelo amor de deus [M] você é louca conta mesmo que se eu sei que você é danada mesmo ai mãe"
+		intervals [77]:
+			xmin = 93.7
+			xmax = 94.08
+			text = "..."
+		intervals [78]:
+			xmin = 94.08
+			xmax = 101.94
+			text = "[T] caiu do cavalo [M] pelo amor você é louca ai meu filho ixi aí eu falei não mãe mas ela está bem né não esquenta a cabeça não que ela está bem né aí"
+		intervals [79]:
+			xmin = 101.94
+			xmax = 102.23
+			text = "..."
+		intervals [80]:
+			xmin = 102.23
+			xmax = 103.22
+			text = "a minha ela chega"
+		intervals [81]:
+			xmin = 103.22
+			xmax = 103.58
+			text = "..."
+		intervals [82]:
+			xmin = 103.58
+			xmax = 105.74
+			text = "eh mancando sem poder andar com a perna"
+		intervals [83]:
+			xmin = 105.74
+			xmax = 106.06
+			text = "..."
+		intervals [84]:
+			xmin = 106.06
+			xmax = 107.7
+			text = "quebrada desmentida né aí ela"
+		intervals [85]:
+			xmin = 107.7
+			xmax = 108.02
+			text = "..."
+		intervals [86]:
+			xmin = 108.02
+			xmax = 108.69
+			text = "aí minha avó"
+		intervals [87]:
+			xmin = 108.69
+			xmax = 108.81
+			text = "..."
+		intervals [88]:
+			xmin = 108.81
+			xmax = 110.87
+			text = "veio me acudir falou eu sabia eu sabia"
+		intervals [89]:
+			xmin = 110.87
+			xmax = 111.25
+			text = "..."
+		intervals [90]:
+			xmin = 111.25
+			xmax = 116.55
+			text = "que no desembesto que estava esse cavalo era você a arrumação da tua irmã que vocês não tem o que fazer aí meu filho"
+		intervals [91]:
+			xmin = 116.55
+			xmax = 116.99
+			text = "..."
+		intervals [92]:
+			xmin = 116.99
+			xmax = 118.25
+			text = "cheguei no carro aí papai"
+		intervals [93]:
+			xmin = 118.25
+			xmax = 118.98
+			text = "..."
+		intervals [94]:
+			xmin = 118.98
+			xmax = 125.42
+			text = "aí sim aí meu pai levantou né fa sentiu falta do cavalo né que ele já ia trabalhar de volta né aí não acreditei falou [M]"
+		intervals [95]:
+			xmin = 125.42
+			xmax = 125.65
+			text = "..."
+		intervals [96]:
+			xmin = 125.65
+			xmax = 128.05
+			text = "cadê o cavalo eu falei ei pai olha"
+		intervals [97]:
+			xmin = 128.05
+			xmax = 128.53
+			text = "..."
+		intervals [98]:
+			xmin = 128.53
+			xmax = 129.87
+			text = "o senhor nem imagina"
+		intervals [99]:
+			xmin = 129.87
+			xmax = 130.31
+			text = "..."
+		intervals [100]:
+			xmin = 130.31
+			xmax = 133.06
+			text = "minha antiga [F] caiu do cavalo está lá ó"
+		intervals [101]:
+			xmin = 133.06
+			xmax = 133.36
+			text = "..."
+		intervals [102]:
+			xmin = 133.36
+			xmax = 135.68
+			text = "está deitada não pode nem fazer nada ele aí ele"
+		intervals [103]:
+			xmin = 135.68
+			xmax = 136.05
+			text = "..."
+		intervals [104]:
+			xmin = 136.05
+			xmax = 139.5
+			text = "eu vou dar uma surra em vocês olha dessa vez eu não vou bater em vocês"
+		intervals [105]:
+			xmin = 139.5
+			xmax = 140.13
+			text = "..."
+		intervals [106]:
+			xmin = 140.13
+			xmax = 142.04
+			text = "mas na próxima vez que eu chegar"
+		intervals [107]:
+			xmin = 142.04
+			xmax = 142.35
+			text = "..."
+		intervals [108]:
+			xmin = 142.35
+			xmax = 144.39
+			text = "e vocês pegarem esse cavalo"
+		intervals [109]:
+			xmin = 144.39
+			xmax = 144.91
+			text = "..."
+		intervals [110]:
+			xmin = 144.91
+			xmax = 149.18
+			text = "vocês ói vocês vão to levar uma surra tão grande vocês vão vão passar três dias"
+		intervals [111]:
+			xmin = 149.18
+			xmax = 149.51
+			text = "..."
+		intervals [112]:
+			xmin = 149.51
+			xmax = 149.77
+			text = "é"
+		intervals [113]:
+			xmin = 149.77
+			xmax = 153.53
+			text = "de cama e ela bem caladinha né eu era muito danada aí bem aí passou"
+		intervals [114]:
+			xmin = 153.53
+			xmax = 154.28
+			text = "..."
+		intervals [115]:
+			xmin = 154.28
+			xmax = 158.31
+			text = "aí que aí ele foi de volta né saiu foi trabalhar ó eu estou avisando né aí e aí ele"
+		intervals [116]:
+			xmin = 158.31
+			xmax = 159.24
+			text = "..."
+		intervals [117]:
+			xmin = 159.24
+			xmax = 159.87
+			text = "falou assim ó"
+		intervals [118]:
+			xmin = 159.87
+			xmax = 160.14
+			text = "..."
+		intervals [119]:
+			xmin = 160.14
+			xmax = 160.35
+			text = "vou"
+		intervals [120]:
+			xmin = 160.35
+			xmax = 160.48
+			text = "..."
+		intervals [121]:
+			xmin = 160.48
+			xmax = 161.89
+			text = "vou chegar se vocês"
+		intervals [122]:
+			xmin = 161.89
+			xmax = 162.21
+			text = "se"
+		intervals [123]:
+			xmin = 162.21
+			xmax = 163.88
+			text = "vocês pegarem nesse cavalo"
+		intervals [124]:
+			xmin = 163.88
+			xmax = 164.11
+			text = "..."
+		intervals [125]:
+			xmin = 164.11
+			xmax = 171.48
+			text = "eu vou deixar só para vocês verem falei está bom pai oxe imagina eu não vou pegar em cavalo não para quê eu não caí mesmo não foi eu que caí foi ela que caiu não foi ela mandou"
+		intervals [126]:
+			xmin = 171.48
+			xmax = 171.75
+			text = "..."
+		intervals [127]:
+			xmin = 171.75
+			xmax = 173.2
+			text = "eu meter a chibata e eu"
+		intervals [128]:
+			xmin = 173.2
+			xmax = 173.3
+			text = "..."
+		intervals [129]:
+			xmin = 173.3
+			xmax = 177.76
+			text = "tangi no cavalo e o cavalo desembestou aí ele falou está bom aí ele saiu né estava saradona"
+		intervals [130]:
+			xmin = 177.76
+			xmax = 178.44
+			text = "..."
+		intervals [131]:
+			xmin = 178.44
+			xmax = 179.05
+			text = "aí ele chegou"
+		intervals [132]:
+			xmin = 179.05
+			xmax = 179.41
+			text = "..."
+		intervals [133]:
+			xmin = 179.41
+			xmax = 179.48
+			text = "aí"
+		intervals [134]:
+			xmin = 179.48
+			xmax = 179.88
+			text = "..."
+		intervals [135]:
+			xmin = 179.88
+			xmax = 181.47
+			text = "ele falou assim eu vou me arriscar eu falei meu"
+		intervals [136]:
+			xmin = 181.47
+			xmax = 181.65
+			text = "..."
+		intervals [137]:
+			xmin = 181.65
+			xmax = 182.63
+			text = "deus chega está"
+		intervals [138]:
+			xmin = 182.63
+			xmax = 182.96
+			text = "..."
+		intervals [139]:
+			xmin = 182.96
+			xmax = 185.86
+			text = "chega estava doida para andar no cavalo aí eu chamei minha irmã falei vamos"
+		intervals [140]:
+			xmin = 185.86
+			xmax = 186.21
+			text = "..."
+		intervals [141]:
+			xmin = 186.21
+			xmax = 188.29
+			text = "vamos lá vamos ela falou você é louca deus me livre"
+		intervals [142]:
+			xmin = 188.29
+			xmax = 188.59
+			text = "..."
+		intervals [143]:
+			xmin = 188.59
+			xmax = 200.58
+			text = "agora vá você né aí eu digo ah eu vou mesmo aí montei no cavalo olha o meu pai ó saiu cadê o cavalo eu fui dar uma voltinha mas cadê que eu não caí eu não sou bobo você que é besta né aí ela falou que falou agora eu vou tanger agora eu vou meter a chibata para você"
+		intervals [144]:
+			xmin = 200.58
+			xmax = 201.1
+			text = "..."
+		intervals [145]:
+			xmin = 201.1
+			xmax = 203.69
+			text = "para você aprender é bala trocada não não"
+		intervals [146]:
+			xmin = 203.69
+			xmax = 203.94
+			text = "..."
+		intervals [147]:
+			xmin = 203.94
+			xmax = 212.4
+			text = "eu vou pagar com a mesma moeda eu falei aqui pode tanger aí meu filho eu fui lá dei uma voltinha no cavalo pra lá embora de boa mesmo aí eu voltei amarrei o cavalo no lugar dele que estava aí"
+		intervals [148]:
+			xmin = 212.4
+			xmax = 212.8
+			text = "..."
+		intervals [149]:
+			xmin = 212.8
+			xmax = 222.07
+			text = "meu pai chegou ele falou ah pai nem nem eu fui só ali dar uma voltinha se estava com vontade mesmo dei só uma voltinha mesmo e está aí seu cavalo aí ele falou mas vocês não tem jeito mesmo né aí ele falou ah não aí"
+		intervals [150]:
+			xmin = 222.07
+			xmax = 222.48
+			text = "..."
+		intervals [151]:
+			xmin = 222.48
+			xmax = 224.15
+			text = "outra vez foi minha é minha irmã"
+		intervals [152]:
+			xmin = 224.15
+			xmax = 224.31
+			text = "..."
+		intervals [153]:
+			xmin = 224.31
+			xmax = 230.77
+			text = "né aí ele sabe jogar baralho né isto era sua eremi essa que está no [EM] e essa minha irmã que está no ceará aí a gente"
+		intervals [154]:
+			xmin = 230.77
+			xmax = 231.1
+			text = "..."
+		intervals [155]:
+			xmin = 231.1
+			xmax = 232.85
+			text = "estava tudo jogando dominó"
+		intervals [156]:
+			xmin = 232.85
+			xmax = 233.06
+			text = "..."
+		intervals [157]:
+			xmin = 233.06
+			xmax = 234.13
+			text = "sabe baralho né e"
+		intervals [158]:
+			xmin = 234.13
+			xmax = 234.33
+			text = "..."
+		intervals [159]:
+			xmin = 234.33
+			xmax = 235.9
+			text = "caso homem debaixo do alpen tudo e"
+		intervals [160]:
+			xmin = 235.9
+			xmax = 236.4
+			text = "tava"
+		intervals [161]:
+			xmin = 236.4
+			xmax = 237.42
+			text = "de boa né aí"
+		intervals [162]:
+			xmin = 237.42
+			xmax = 237.58
+			text = "..."
+		intervals [163]:
+			xmin = 237.58
+			xmax = 238.87
+			text = "meu pai aí sim aí"
+		intervals [164]:
+			xmin = 238.87
+			xmax = 239.52
+			text = "..."
+		intervals [165]:
+			xmin = 239.52
+			xmax = 240.98
+			text = "estava todo mundo jogando e eu"
+		intervals [166]:
+			xmin = 240.98
+			xmax = 241.26
+			text = "..."
+		intervals [167]:
+			xmin = 241.26
+			xmax = 243.28
+			text = "parada fazen aí minha mãe falou assim [M]"
+		intervals [168]:
+			xmin = 243.28
+			xmax = 244.6
+			text = "..."
+		intervals [169]:
+			xmin = 244.6
+			xmax = 245.45
+			text = "vá fazer"
+		intervals [170]:
+			xmin = 245.45
+			xmax = 246.21
+			text = "..."
+		intervals [171]:
+			xmin = 246.21
+			xmax = 246.57
+			text = "um"
+		intervals [172]:
+			xmin = 246.57
+			xmax = 247.21
+			text = "não vá"
+		intervals [173]:
+			xmin = 247.21
+			xmax = 247.34
+			text = "..."
+		intervals [174]:
+			xmin = 247.34
+			xmax = 248.09
+			text = "pôr aquele arroz"
+		intervals [175]:
+			xmin = 248.09
+			xmax = 248.29
+			text = "..."
+		intervals [176]:
+			xmin = 248.29
+			xmax = 248.63
+			text = "é"
+		intervals [177]:
+			xmin = 248.63
+			xmax = 249.11
+			text = "..."
+		intervals [178]:
+			xmin = 249.11
+			xmax = 250.66
+			text = "ponha o feijão no fogo"
+		intervals [179]:
+			xmin = 250.66
+			xmax = 251.63
+			text = "..."
+		intervals [180]:
+			xmin = 251.63
+			xmax = 253.06
+			text = "que eu vou ali já ver eu falei o quê"
+		intervals [181]:
+			xmin = 253.06
+			xmax = 253.36
+			text = "eu"
+		intervals [182]:
+			xmin = 253.36
+			xmax = 254.19
+			text = "não vou não mãe"
+		intervals [183]:
+			xmin = 254.19
+			xmax = 254.47
+			text = "..."
+		intervals [184]:
+			xmin = 254.47
+			xmax = 259.6
+			text = "ó a senho ah as meninas estão tudo lá mais os machos estão tudo mais mais os machos lá e a senhora vai mandar eu"
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 259.6
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.51
+			text = ""
+		intervals [2]:
+			xmin = 5.51
+			xmax = 5.77
+			text = "hã"
+		intervals [3]:
+			xmin = 5.77
+			xmax = 259.6
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 259.6
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.51
+			text = ""
+		intervals [2]:
+			xmin = 5.51
+			xmax = 5.77
+			text = "hã"
+		intervals [3]:
+			xmin = 5.77
+			xmax = 259.6
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 259.6
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 259.6
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 259.6
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 259.6
+			text = ""
