@@ -1,0 +1,1512 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 262.17
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 262.17
+		intervals: size = 135
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.41
+			text = "eu cheguei vestir algumas roupinhas né"
+		intervals [2]:
+			xmin = 2.41
+			xmax = 3.3
+			text = "..."
+		intervals [3]:
+			xmin = 3.3
+			xmax = 5.23
+			text = "até na faixa de dezessete anos"
+		intervals [4]:
+			xmin = 5.23
+			xmax = 5.57
+			text = "..."
+		intervals [5]:
+			xmin = 5.57
+			xmax = 7.06
+			text = "quatorze abaixo"
+		intervals [6]:
+			xmin = 7.06
+			xmax = 7.85
+			text = "..."
+		intervals [7]:
+			xmin = 7.85
+			xmax = 10.41
+			text = "tinha eu conheci pessoas lá"
+		intervals [8]:
+			xmin = 10.41
+			xmax = 11.84
+			text = "..."
+		intervals [9]:
+			xmin = 11.84
+			xmax = 12.38
+			text = "que"
+		intervals [10]:
+			xmin = 12.38
+			xmax = 13.18
+			text = "..."
+		intervals [11]:
+			xmin = 13.18
+			xmax = 15.66
+			text = "cortavam uma fita e amarravam na cintura"
+		intervals [12]:
+			xmin = 15.66
+			xmax = 16.33
+			text = "..."
+		intervals [13]:
+			xmin = 16.33
+			xmax = 23.84
+			text = "porque não tinha condições mesmo do jeito que o senhor que o senhor trata nós o senhor luta para tratar de nós e em vez e vocês passou por isso meu filho"
+		intervals [14]:
+			xmin = 23.84
+			xmax = 24.31
+			text = "..."
+		intervals [15]:
+			xmin = 24.31
+			xmax = 26.66
+			text = "eu conto a vocês para vocês ver como é que era o"
+		intervals [16]:
+			xmin = 26.66
+			xmax = 27.21
+			text = "..."
+		intervals [17]:
+			xmin = 27.21
+			xmax = 30.5
+			text = "um o tempo passado como é que era a o"
+		intervals [18]:
+			xmin = 30.5
+			xmax = 31.02
+			text = "..."
+		intervals [19]:
+			xmin = 31.02
+			xmax = 31.08
+			text = "o"
+		intervals [20]:
+			xmin = 31.08
+			xmax = 32.17
+			text = "sofrimento"
+		intervals [21]:
+			xmin = 32.17
+			xmax = 35.16
+			text = "do seu tataravô do seu avô"
+		intervals [22]:
+			xmin = 35.16
+			xmax = 35.83
+			text = "..."
+		intervals [23]:
+			xmin = 35.83
+			xmax = 40.63
+			text = "do seu até mesmo do seu pai de uma certa até uma certas altura"
+		intervals [24]:
+			xmin = 40.63
+			xmax = 41.08
+			text = "..."
+		intervals [25]:
+			xmin = 41.08
+			xmax = 43.29
+			text = "e por isso que eu tenho esse cuidado com vocês"
+		intervals [26]:
+			xmin = 43.29
+			xmax = 43.83
+			text = "..."
+		intervals [27]:
+			xmin = 43.83
+			xmax = 45.98
+			text = "e pai não conta essas histórias porque"
+		intervals [28]:
+			xmin = 45.98
+			xmax = 46.34
+			text = "..."
+		intervals [29]:
+			xmin = 46.34
+			xmax = 47.68
+			text = "nós não aguenta eu tenho uma filha que chama"
+		intervals [30]:
+			xmin = 47.68
+			xmax = 49.31
+			text = "[E] ela é ela é eu"
+		intervals [31]:
+			xmin = 49.31
+			xmax = 49.75
+			text = "..."
+		intervals [32]:
+			xmin = 49.75
+			xmax = 52.27
+			text = "tiro o chapéu pra ela ela é ela é ela é estro ela é um"
+		intervals [33]:
+			xmin = 52.27
+			xmax = 52.68
+			text = "..."
+		intervals [34]:
+			xmin = 52.68
+			xmax = 54.85
+			text = "estro ela é uma estromonica que ela é eh"
+		intervals [35]:
+			xmin = 54.85
+			xmax = 55.68
+			text = "..."
+		intervals [36]:
+			xmin = 55.68
+			xmax = 57.1
+			text = "ela eh ela é"
+		intervals [37]:
+			xmin = 57.1
+			xmax = 58.06
+			text = "eu pus nome nos dois"
+		intervals [38]:
+			xmin = 58.06
+			xmax = 60.98
+			text = "um [E] e [A] o [A] mora lá em no interior"
+		intervals [39]:
+			xmin = 60.98
+			xmax = 61.72
+			text = "..."
+		intervals [40]:
+			xmin = 61.72
+			xmax = 62.75
+			text = "eles dois são"
+		intervals [41]:
+			xmin = 62.75
+			xmax = 63.27
+			text = "..."
+		intervals [42]:
+			xmin = 63.27
+			xmax = 66.65
+			text = "são um cartão postal meu um cartão o [A]"
+		intervals [43]:
+			xmin = 66.65
+			xmax = 67.28
+			text = "..."
+		intervals [44]:
+			xmin = 67.28
+			xmax = 68.33
+			text = "filho da [E] né"
+		intervals [45]:
+			xmin = 68.33
+			xmax = 69.02
+			text = "..."
+		intervals [46]:
+			xmin = 69.02
+			xmax = 71.35
+			text = "e assim era a vida de um passado"
+		intervals [47]:
+			xmin = 71.35
+			xmax = 71.76
+			text = "..."
+		intervals [48]:
+			xmin = 71.76
+			xmax = 74.11
+			text = "que lá no lá que que que que eu"
+		intervals [49]:
+			xmin = 74.11
+			xmax = 74.69
+			text = "..."
+		intervals [50]:
+			xmin = 74.69
+			xmax = 75.85
+			text = "costumo dizer"
+		intervals [51]:
+			xmin = 75.85
+			xmax = 76.26
+			text = "..."
+		intervals [52]:
+			xmin = 76.26
+			xmax = 76.7
+			text = "lá no"
+		intervals [53]:
+			xmin = 76.7
+			xmax = 77.01
+			text = "fu"
+		intervals [54]:
+			xmin = 77.01
+			xmax = 80.81
+			text = "nos cafongó nos cafongó cafongó é grota é grotão"
+		intervals [55]:
+			xmin = 80.81
+			xmax = 81.27
+			text = "..."
+		intervals [56]:
+			xmin = 81.27
+			xmax = 88.75
+			text = "e era muito difícil a gente ainda ia para a cidade na época das missões tinha as missões os padre ia lá na cidade"
+		intervals [57]:
+			xmin = 88.75
+			xmax = 89.08
+			text = "..."
+		intervals [58]:
+			xmin = 89.08
+			xmax = 95.71
+			text = "meu avô ia na frente fazia uma cabana lá de de de ramo de folha de garra garranches na cidade que não tinha"
+		intervals [59]:
+			xmin = 95.71
+			xmax = 96.01
+			text = "..."
+		intervals [60]:
+			xmin = 96.01
+			xmax = 101.65
+			text = "para vocês ficarem nas missões para nós ir nas missões ficava seis dias o que que era as missões as missões"
+		intervals [61]:
+			xmin = 101.65
+			xmax = 102.04
+			text = "..."
+		intervals [62]:
+			xmin = 102.04
+			xmax = 105.51
+			text = "eh os padre vinha da bahia"
+		intervals [63]:
+			xmin = 105.51
+			xmax = 105.83
+			text = "..."
+		intervals [64]:
+			xmin = 105.83
+			xmax = 108.57
+			text = "vinha de lá da aparecida do norte"
+		intervals [65]:
+			xmin = 108.57
+			xmax = 109.32
+			text = "..."
+		intervals [66]:
+			xmin = 109.32
+			xmax = 120.12
+			text = "vinha de outro lugar de lá de conquista feira de san lá para o o nordeste lá de fortaleza fazer vinha ca as caravanas de padres né e ali formava as missões"
+		intervals [67]:
+			xmin = 120.12
+			xmax = 120.56
+			text = "..."
+		intervals [68]:
+			xmin = 120.56
+			xmax = 126.72
+			text = "aí a gente fa cortava aqueles pauzão grandão para fazer aqui as cruze aqueles cruzeiro para sentar para a gente"
+		intervals [69]:
+			xmin = 126.72
+			xmax = 127.03
+			text = "..."
+		intervals [70]:
+			xmin = 127.03
+			xmax = 134.81
+			text = "fazer as aquelas capelinha para estar rezando ali fa fazer naquele tempo minha avó ela fazia penitência ponhava nós tudo na"
+		intervals [71]:
+			xmin = 134.81
+			xmax = 137.44
+			text = "ru na na na estrada meu pai furava"
+		intervals [72]:
+			xmin = 137.44
+			xmax = 137.76
+			text = "..."
+		intervals [73]:
+			xmin = 137.76
+			xmax = 145.02
+			text = "fazia uma cruzona grande assim ó uma cruzona grande assim e fu e longe de casa assim uns dois três quilômetros"
+		intervals [74]:
+			xmin = 145.02
+			xmax = 145.39
+			text = "..."
+		intervals [75]:
+			xmin = 145.39
+			xmax = 145.81
+			text = "e quando era"
+		intervals [76]:
+			xmin = 145.81
+			xmax = 147.19
+			text = "meiodia em"
+		intervals [77]:
+			xmin = 147.19
+			xmax = 147.92
+			text = "ponto"
+		intervals [78]:
+			xmin = 147.92
+			xmax = 148.4
+			text = "..."
+		intervals [79]:
+			xmin = 148.4
+			xmax = 151.13
+			text = "apanhava nós tudo para ir para o rio apanhar pedra"
+		intervals [80]:
+			xmin = 151.13
+			xmax = 151.67
+			text = "..."
+		intervals [81]:
+			xmin = 151.67
+			xmax = 153.88
+			text = "sem nada na cabeça e naquele tempo"
+		intervals [82]:
+			xmin = 153.88
+			xmax = 154.52
+			text = "..."
+		intervals [83]:
+			xmin = 154.52
+			xmax = 157.55
+			text = "eles não deixaram a gente hoje hoje eu uso cabelo assim"
+		intervals [84]:
+			xmin = 157.55
+			xmax = 157.86
+			text = "..."
+		intervals [85]:
+			xmin = 157.86
+			xmax = 161.28
+			text = "mas naquele tempo nós não tinha direito de usar cabelo ninguém tinha direito de usar cabelo"
+		intervals [86]:
+			xmin = 161.28
+			xmax = 161.83
+			text = ""
+		intervals [87]:
+			xmin = 161.83
+			xmax = 163.32
+			text = "cabelo era cortado no"
+		intervals [88]:
+			xmin = 163.32
+			xmax = 166.82
+			text = "eu costumo dizer no totó você vai dizer assim totó o que que é totó"
+		intervals [89]:
+			xmin = 166.82
+			xmax = 167.46
+			text = "..."
+		intervals [90]:
+			xmin = 167.46
+			xmax = 169.99
+			text = "totó é isso aqui que a gente tem aqui no fundo"
+		intervals [91]:
+			xmin = 169.99
+			xmax = 170.31
+			text = "aqui ó isso"
+		intervals [92]:
+			xmin = 170.31
+			xmax = 170.9
+			text = "..."
+		intervals [93]:
+			xmin = 170.9
+			xmax = 173.33
+			text = "aqui é o totó você leva uma porrada você cai tonto cá"
+		intervals [94]:
+			xmin = 173.33
+			xmax = 173.85
+			text = "..."
+		intervals [95]:
+			xmin = 173.85
+			xmax = 174.79
+			text = "e você cai no chão"
+		intervals [96]:
+			xmin = 174.79
+			xmax = 175.36
+			text = "..."
+		intervals [97]:
+			xmin = 175.36
+			xmax = 177.75
+			text = "e ainda raspava deixava peladinho o totó"
+		intervals [98]:
+			xmin = 177.75
+			xmax = 178.01
+			text = "e"
+		intervals [99]:
+			xmin = 178.01
+			xmax = 178.66
+			text = "minha avó"
+		intervals [100]:
+			xmin = 178.66
+			xmax = 179.17
+			text = "..."
+		intervals [101]:
+			xmin = 179.17
+			xmax = 184.78
+			text = "ia na frente rezando né com a pedra na cabeça e nós também com a pedra fazendo penitência para chover"
+		intervals [102]:
+			xmin = 184.78
+			xmax = 185.17
+			text = "..."
+		intervals [103]:
+			xmin = 185.17
+			xmax = 186.62
+			text = "a gente plantava"
+		intervals [104]:
+			xmin = 186.62
+			xmax = 186.95
+			text = "..."
+		intervals [105]:
+			xmin = 186.95
+			xmax = 192.19
+			text = "as lavoura e vinha aquele sol quente que ninguém aguentava as plantinha ficava tudo"
+		intervals [106]:
+			xmin = 192.19
+			xmax = 192.5
+			text = "..."
+		intervals [107]:
+			xmin = 192.5
+			xmax = 196.89
+			text = "assim trucida morrendo e aí minha avó ponhava a nós para rezar terço de noite"
+		intervals [108]:
+			xmin = 196.89
+			xmax = 197.25
+			text = "..."
+		intervals [109]:
+			xmin = 197.25
+			xmax = 198.86
+			text = "e aquelas reza pedindo"
+		intervals [110]:
+			xmin = 198.86
+			xmax = 200.03
+			text = "chuva pá"
+		intervals [111]:
+			xmin = 200.03
+			xmax = 200.82
+			text = "..."
+		intervals [112]:
+			xmin = 200.82
+			xmax = 201.47
+			text = "nove"
+		intervals [113]:
+			xmin = 201.47
+			xmax = 212.02
+			text = "dia quando era dentro dos nove dia o pai mandava o pai mandava eles ficava tudo agora beleza nós afundava na roça plantando de novo aquelas que tinha morrido para recuperar e a chuva continuar"
+		intervals [114]:
+			xmin = 212.02
+			xmax = 212.37
+			text = "..."
+		intervals [115]:
+			xmin = 212.37
+			xmax = 213.45
+			text = "então eh"
+		intervals [116]:
+			xmin = 213.45
+			xmax = 213.83
+			text = "..."
+		intervals [117]:
+			xmin = 213.83
+			xmax = 218.84
+			text = "não eu não não gosto de dizer que que a gente tinha uma vida sofrida mas sim uma vida que"
+		intervals [118]:
+			xmin = 218.84
+			xmax = 219.3
+			text = "..."
+		intervals [119]:
+			xmin = 219.3
+			xmax = 222.54
+			text = "que que a que deus a preparou para nós e nós tivemos condições"
+		intervals [120]:
+			xmin = 222.54
+			xmax = 222.85
+			text = "..."
+		intervals [121]:
+			xmin = 222.85
+			xmax = 225.44
+			text = "de vencer com a força dele mesmo aham"
+		intervals [122]:
+			xmin = 225.44
+			xmax = 225.78
+			text = "..."
+		intervals [123]:
+			xmin = 225.78
+			xmax = 229.82
+			text = "e isso foi isso que foi a vida da gente do do início do começo da vida da gente"
+		intervals [124]:
+			xmin = 229.82
+			xmax = 235.81
+			text = ""
+		intervals [125]:
+			xmin = 235.81
+			xmax = 236.71
+			text = "tinham as festas"
+		intervals [126]:
+			xmin = 236.71
+			xmax = 238.05
+			text = ""
+		intervals [127]:
+			xmin = 238.05
+			xmax = 241.38
+			text = "sim um um eu vou fazer assim eu vou responder você meu avô"
+		intervals [128]:
+			xmin = 241.38
+			xmax = 241.74
+			text = "..."
+		intervals [129]:
+			xmin = 241.74
+			xmax = 247.72
+			text = "ele ele ele era acho que até por isso mesmo que eu herdei da algumas coisas dele e eu e eu fico muito feliz"
+		intervals [130]:
+			xmin = 247.72
+			xmax = 248.14
+			text = "..."
+		intervals [131]:
+			xmin = 248.14
+			xmax = 255.66
+			text = "e tenho certeza que lá onde que ele está ele está feliz também ele ele mexia com folia né do divino"
+		intervals [132]:
+			xmin = 255.66
+			xmax = 256.19
+			text = "..."
+		intervals [133]:
+			xmin = 256.19
+			xmax = 261.21
+			text = "eh e ele fazia os instrumentos para ele para o grupo dele"
+		intervals [134]:
+			xmin = 261.21
+			xmax = 261.64
+			text = "..."
+		intervals [135]:
+			xmin = 261.64
+			xmax = 262.17
+			text = "e"
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 262.17
+		intervals: size = 208
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.41
+			text = "eu cheguei vestir algumas roupinhas né"
+		intervals [2]:
+			xmin = 2.41
+			xmax = 3.3
+			text = "..."
+		intervals [3]:
+			xmin = 3.3
+			xmax = 5.23
+			text = "até na faixa de dezessete anos"
+		intervals [4]:
+			xmin = 5.23
+			xmax = 5.57
+			text = "..."
+		intervals [5]:
+			xmin = 5.57
+			xmax = 7.06
+			text = "quatorze abaixo"
+		intervals [6]:
+			xmin = 7.06
+			xmax = 7.85
+			text = "..."
+		intervals [7]:
+			xmin = 7.85
+			xmax = 10.41
+			text = "tinha eu conheci pessoas lá"
+		intervals [8]:
+			xmin = 10.41
+			xmax = 11.84
+			text = "..."
+		intervals [9]:
+			xmin = 11.84
+			xmax = 12.38
+			text = "que"
+		intervals [10]:
+			xmin = 12.38
+			xmax = 13.18
+			text = "..."
+		intervals [11]:
+			xmin = 13.18
+			xmax = 15.66
+			text = "cortavam uma fita e amarravam na cintura"
+		intervals [12]:
+			xmin = 15.66
+			xmax = 16.33
+			text = "..."
+		intervals [13]:
+			xmin = 16.33
+			xmax = 21.82
+			text = "porque não tinha condições mesmo do jeito que o senhor que o senhor trata nós o senhor luta para tratar de nós e em vez e"
+		intervals [14]:
+			xmin = 21.82
+			xmax = 22.08
+			text = "..."
+		intervals [15]:
+			xmin = 22.08
+			xmax = 23.84
+			text = "vocês passou por isso meu filho"
+		intervals [16]:
+			xmin = 23.84
+			xmax = 24.31
+			text = "..."
+		intervals [17]:
+			xmin = 24.31
+			xmax = 26.66
+			text = "eu conto a vocês para vocês ver como é que era o"
+		intervals [18]:
+			xmin = 26.66
+			xmax = 27.21
+			text = "..."
+		intervals [19]:
+			xmin = 27.21
+			xmax = 27.64
+			text = "um"
+		intervals [20]:
+			xmin = 27.64
+			xmax = 27.76
+			text = "..."
+		intervals [21]:
+			xmin = 27.76
+			xmax = 29.05
+			text = "o tempo passado"
+		intervals [22]:
+			xmin = 29.05
+			xmax = 29.23
+			text = "..."
+		intervals [23]:
+			xmin = 29.23
+			xmax = 30.5
+			text = "como é que era a o"
+		intervals [24]:
+			xmin = 30.5
+			xmax = 31.02
+			text = "..."
+		intervals [25]:
+			xmin = 31.02
+			xmax = 31.08
+			text = "o"
+		intervals [26]:
+			xmin = 31.08
+			xmax = 32.17
+			text = "sofrimento"
+		intervals [27]:
+			xmin = 32.17
+			xmax = 35.16
+			text = "do seu tataravô do seu avô"
+		intervals [28]:
+			xmin = 35.16
+			xmax = 35.83
+			text = "..."
+		intervals [29]:
+			xmin = 35.83
+			xmax = 37.92
+			text = "do seu até mesmo do seu pai de"
+		intervals [30]:
+			xmin = 37.92
+			xmax = 38.16
+			text = "..."
+		intervals [31]:
+			xmin = 38.16
+			xmax = 40.63
+			text = "uma certa até uma certas altura"
+		intervals [32]:
+			xmin = 40.63
+			xmax = 41.08
+			text = "..."
+		intervals [33]:
+			xmin = 41.08
+			xmax = 43.29
+			text = "e por isso que eu tenho esse cuidado com vocês"
+		intervals [34]:
+			xmin = 43.29
+			xmax = 43.83
+			text = "..."
+		intervals [35]:
+			xmin = 43.83
+			xmax = 45.98
+			text = "e pai não conta essas histórias porque"
+		intervals [36]:
+			xmin = 45.98
+			xmax = 46.34
+			text = "..."
+		intervals [37]:
+			xmin = 46.34
+			xmax = 47.68
+			text = "nós não aguenta eu tenho uma filha que chama"
+		intervals [38]:
+			xmin = 47.68
+			xmax = 49.31
+			text = "[E] ela é ela é eu"
+		intervals [39]:
+			xmin = 49.31
+			xmax = 49.75
+			text = "..."
+		intervals [40]:
+			xmin = 49.75
+			xmax = 52.27
+			text = "tiro o chapéu pra ela ela é ela é ela é estro ela é um"
+		intervals [41]:
+			xmin = 52.27
+			xmax = 52.68
+			text = "..."
+		intervals [42]:
+			xmin = 52.68
+			xmax = 54.85
+			text = "estro ela é uma estromonica que ela é eh"
+		intervals [43]:
+			xmin = 54.85
+			xmax = 55.68
+			text = "..."
+		intervals [44]:
+			xmin = 55.68
+			xmax = 57.1
+			text = "ela eh ela é"
+		intervals [45]:
+			xmin = 57.1
+			xmax = 58.06
+			text = "eu pus nome nos dois"
+		intervals [46]:
+			xmin = 58.06
+			xmax = 60.98
+			text = "um [E] e [A] o [A] mora lá em no interior"
+		intervals [47]:
+			xmin = 60.98
+			xmax = 61.72
+			text = "..."
+		intervals [48]:
+			xmin = 61.72
+			xmax = 62.75
+			text = "eles dois são"
+		intervals [49]:
+			xmin = 62.75
+			xmax = 63.27
+			text = "..."
+		intervals [50]:
+			xmin = 63.27
+			xmax = 64.93
+			text = "são um cartão postal meu"
+		intervals [51]:
+			xmin = 64.93
+			xmax = 65.04
+			text = "..."
+		intervals [52]:
+			xmin = 65.04
+			xmax = 66.65
+			text = "um cartão o [A]"
+		intervals [53]:
+			xmin = 66.65
+			xmax = 67.28
+			text = "..."
+		intervals [54]:
+			xmin = 67.28
+			xmax = 68.1
+			text = "filho da [E]"
+		intervals [55]:
+			xmin = 68.1
+			xmax = 68.27
+			text = "..."
+		intervals [56]:
+			xmin = 68.27
+			xmax = 68.33
+			text = "né"
+		intervals [57]:
+			xmin = 68.33
+			xmax = 69.02
+			text = "..."
+		intervals [58]:
+			xmin = 69.02
+			xmax = 71.35
+			text = "e assim era a vida de um passado"
+		intervals [59]:
+			xmin = 71.35
+			xmax = 71.76
+			text = "..."
+		intervals [60]:
+			xmin = 71.76
+			xmax = 73.27
+			text = "que lá no lá"
+		intervals [61]:
+			xmin = 73.27
+			xmax = 73.48
+			text = "..."
+		intervals [62]:
+			xmin = 73.48
+			xmax = 74.11
+			text = "que que que que eu"
+		intervals [63]:
+			xmin = 74.11
+			xmax = 74.69
+			text = "..."
+		intervals [64]:
+			xmin = 74.69
+			xmax = 75.85
+			text = "costumo dizer"
+		intervals [65]:
+			xmin = 75.85
+			xmax = 76.26
+			text = "..."
+		intervals [66]:
+			xmin = 76.26
+			xmax = 76.7
+			text = "lá no"
+		intervals [67]:
+			xmin = 76.7
+			xmax = 77.01
+			text = "fu"
+		intervals [68]:
+			xmin = 77.01
+			xmax = 80.81
+			text = "nos cafongó nos cafongó cafongó é grota é grotão"
+		intervals [69]:
+			xmin = 80.81
+			xmax = 81.27
+			text = "..."
+		intervals [70]:
+			xmin = 81.27
+			xmax = 87.76
+			text = "e era muito difícil a gente ainda ia para a cidade na época das missões tinha as missões os padre ia lá"
+		intervals [71]:
+			xmin = 87.76
+			xmax = 88.01
+			text = "..."
+		intervals [72]:
+			xmin = 88.01
+			xmax = 88.75
+			text = "na cidade"
+		intervals [73]:
+			xmin = 88.75
+			xmax = 89.08
+			text = "..."
+		intervals [74]:
+			xmin = 89.08
+			xmax = 94.14
+			text = "meu avô ia na frente fazia uma cabana lá de de de ramo de folha de garra garranches"
+		intervals [75]:
+			xmin = 94.14
+			xmax = 94.36
+			text = "..."
+		intervals [76]:
+			xmin = 94.36
+			xmax = 95.71
+			text = "na cidade que não tinha"
+		intervals [77]:
+			xmin = 95.71
+			xmax = 96.01
+			text = "..."
+		intervals [78]:
+			xmin = 96.01
+			xmax = 99.65
+			text = "para vocês ficarem nas missões para nós ir nas missões ficava seis dias o"
+		intervals [79]:
+			xmin = 99.65
+			xmax = 99.77
+			text = "..."
+		intervals [80]:
+			xmin = 99.77
+			xmax = 101.65
+			text = "que que era as missões as missões"
+		intervals [81]:
+			xmin = 101.65
+			xmax = 102.04
+			text = "..."
+		intervals [82]:
+			xmin = 102.04
+			xmax = 104.06
+			text = "eh os padre vinha"
+		intervals [83]:
+			xmin = 104.06
+			xmax = 104.28
+			text = "..."
+		intervals [84]:
+			xmin = 104.28
+			xmax = 105.51
+			text = "da bahia"
+		intervals [85]:
+			xmin = 105.51
+			xmax = 105.83
+			text = "..."
+		intervals [86]:
+			xmin = 105.83
+			xmax = 108.57
+			text = "vinha de lá da aparecida do norte"
+		intervals [87]:
+			xmin = 108.57
+			xmax = 109.32
+			text = "..."
+		intervals [88]:
+			xmin = 109.32
+			xmax = 113.01
+			text = "vinha de outro lugar de lá de conquista feira de san lá"
+		intervals [89]:
+			xmin = 113.01
+			xmax = 113.2
+			text = "..."
+		intervals [90]:
+			xmin = 113.2
+			xmax = 116.19
+			text = "para o o nordeste lá de fortaleza fazer"
+		intervals [91]:
+			xmin = 116.19
+			xmax = 116.43
+			text = "..."
+		intervals [92]:
+			xmin = 116.43
+			xmax = 120.12
+			text = "vinha ca as caravanas de padres né e ali formava as missões"
+		intervals [93]:
+			xmin = 120.12
+			xmax = 120.56
+			text = "..."
+		intervals [94]:
+			xmin = 120.56
+			xmax = 121.63
+			text = "aí a gente fa"
+		intervals [95]:
+			xmin = 121.63
+			xmax = 121.73
+			text = "..."
+		intervals [96]:
+			xmin = 121.73
+			xmax = 122.52
+			text = "cortava aqueles"
+		intervals [97]:
+			xmin = 122.52
+			xmax = 122.62
+			text = "..."
+		intervals [98]:
+			xmin = 122.62
+			xmax = 125.48
+			text = "pauzão grandão para fazer aqui as cruze aqueles cruzeiro"
+		intervals [99]:
+			xmin = 125.48
+			xmax = 125.74
+			text = "..."
+		intervals [100]:
+			xmin = 125.74
+			xmax = 126.72
+			text = "para sentar para a gente"
+		intervals [101]:
+			xmin = 126.72
+			xmax = 127.03
+			text = "..."
+		intervals [102]:
+			xmin = 127.03
+			xmax = 127.44
+			text = "fazer as"
+		intervals [103]:
+			xmin = 127.44
+			xmax = 127.59
+			text = "..."
+		intervals [104]:
+			xmin = 127.59
+			xmax = 131.58
+			text = "aquelas capelinha para estar rezando ali fa fazer naquele tempo minha avó"
+		intervals [105]:
+			xmin = 131.58
+			xmax = 131.71
+			text = "..."
+		intervals [106]:
+			xmin = 131.71
+			xmax = 133.34
+			text = "ela fazia penitência"
+		intervals [107]:
+			xmin = 133.34
+			xmax = 133.64
+			text = "..."
+		intervals [108]:
+			xmin = 133.64
+			xmax = 134.81
+			text = "ponhava nós tudo na"
+		intervals [109]:
+			xmin = 134.81
+			xmax = 137.44
+			text = "ru na na na estrada meu pai furava"
+		intervals [110]:
+			xmin = 137.44
+			xmax = 137.76
+			text = "..."
+		intervals [111]:
+			xmin = 137.76
+			xmax = 141.15
+			text = "fazia uma cruzona grande assim ó uma cruzona grande assim"
+		intervals [112]:
+			xmin = 141.15
+			xmax = 141.44
+			text = "..."
+		intervals [113]:
+			xmin = 141.44
+			xmax = 145.02
+			text = "e fu e longe de casa assim uns dois três quilômetros"
+		intervals [114]:
+			xmin = 145.02
+			xmax = 145.39
+			text = "..."
+		intervals [115]:
+			xmin = 145.39
+			xmax = 145.81
+			text = "e quando era"
+		intervals [116]:
+			xmin = 145.81
+			xmax = 147.19
+			text = "meiodia em"
+		intervals [117]:
+			xmin = 147.19
+			xmax = 147.92
+			text = "ponto"
+		intervals [118]:
+			xmin = 147.92
+			xmax = 148.4
+			text = "..."
+		intervals [119]:
+			xmin = 148.4
+			xmax = 151.13
+			text = "apanhava nós tudo para ir para o rio apanhar pedra"
+		intervals [120]:
+			xmin = 151.13
+			xmax = 151.67
+			text = "..."
+		intervals [121]:
+			xmin = 151.67
+			xmax = 153.88
+			text = "sem nada na cabeça e naquele tempo"
+		intervals [122]:
+			xmin = 153.88
+			xmax = 154.52
+			text = "..."
+		intervals [123]:
+			xmin = 154.52
+			xmax = 154.73
+			text = "eles"
+		intervals [124]:
+			xmin = 154.73
+			xmax = 154.87
+			text = "..."
+		intervals [125]:
+			xmin = 154.87
+			xmax = 157.55
+			text = "não deixaram a gente hoje hoje eu uso cabelo assim"
+		intervals [126]:
+			xmin = 157.55
+			xmax = 157.86
+			text = "..."
+		intervals [127]:
+			xmin = 157.86
+			xmax = 161.28
+			text = "mas naquele tempo nós não tinha direito de usar cabelo ninguém tinha direito de usar cabelo"
+		intervals [128]:
+			xmin = 161.28
+			xmax = 161.83
+			text = ""
+		intervals [129]:
+			xmin = 161.83
+			xmax = 163.32
+			text = "cabelo era cortado no"
+		intervals [130]:
+			xmin = 163.32
+			xmax = 163.38
+			text = "eu"
+		intervals [131]:
+			xmin = 163.38
+			xmax = 163.62
+			text = "..."
+		intervals [132]:
+			xmin = 163.62
+			xmax = 166.82
+			text = "costumo dizer no totó você vai dizer assim totó o que que é totó"
+		intervals [133]:
+			xmin = 166.82
+			xmax = 167.46
+			text = "..."
+		intervals [134]:
+			xmin = 167.46
+			xmax = 169.99
+			text = "totó é isso aqui que a gente tem aqui no fundo"
+		intervals [135]:
+			xmin = 169.99
+			xmax = 170.31
+			text = "aqui ó isso"
+		intervals [136]:
+			xmin = 170.31
+			xmax = 170.9
+			text = "..."
+		intervals [137]:
+			xmin = 170.9
+			xmax = 172.95
+			text = "aqui é o totó você leva uma porrada você cai tonto"
+		intervals [138]:
+			xmin = 172.95
+			xmax = 173.22
+			text = "..."
+		intervals [139]:
+			xmin = 173.22
+			xmax = 173.33
+			text = "cá"
+		intervals [140]:
+			xmin = 173.33
+			xmax = 173.85
+			text = "..."
+		intervals [141]:
+			xmin = 173.85
+			xmax = 174.79
+			text = "e você cai no chão"
+		intervals [142]:
+			xmin = 174.79
+			xmax = 175.36
+			text = "..."
+		intervals [143]:
+			xmin = 175.36
+			xmax = 177.75
+			text = "e ainda raspava deixava peladinho o totó"
+		intervals [144]:
+			xmin = 177.75
+			xmax = 178.01
+			text = "e"
+		intervals [145]:
+			xmin = 178.01
+			xmax = 178.66
+			text = "minha avó"
+		intervals [146]:
+			xmin = 178.66
+			xmax = 179.17
+			text = "..."
+		intervals [147]:
+			xmin = 179.17
+			xmax = 184.78
+			text = "ia na frente rezando né com a pedra na cabeça e nós também com a pedra fazendo penitência para chover"
+		intervals [148]:
+			xmin = 184.78
+			xmax = 185.17
+			text = "..."
+		intervals [149]:
+			xmin = 185.17
+			xmax = 185.39
+			text = "a gente"
+		intervals [150]:
+			xmin = 185.39
+			xmax = 185.51
+			text = "..."
+		intervals [151]:
+			xmin = 185.51
+			xmax = 186.62
+			text = "plantava"
+		intervals [152]:
+			xmin = 186.62
+			xmax = 186.95
+			text = "..."
+		intervals [153]:
+			xmin = 186.95
+			xmax = 187.85
+			text = "as lavoura"
+		intervals [154]:
+			xmin = 187.85
+			xmax = 188.03
+			text = "..."
+		intervals [155]:
+			xmin = 188.03
+			xmax = 189.08
+			text = "e vinha aquele sol"
+		intervals [156]:
+			xmin = 189.08
+			xmax = 189.19
+			text = "..."
+		intervals [157]:
+			xmin = 189.19
+			xmax = 192.19
+			text = "quente que ninguém aguentava as plantinha ficava tudo"
+		intervals [158]:
+			xmin = 192.19
+			xmax = 192.5
+			text = "..."
+		intervals [159]:
+			xmin = 192.5
+			xmax = 194.03
+			text = "assim trucida morrendo"
+		intervals [160]:
+			xmin = 194.03
+			xmax = 194.31
+			text = "..."
+		intervals [161]:
+			xmin = 194.31
+			xmax = 196.89
+			text = "e aí minha avó ponhava a nós para rezar terço de noite"
+		intervals [162]:
+			xmin = 196.89
+			xmax = 197.25
+			text = "..."
+		intervals [163]:
+			xmin = 197.25
+			xmax = 197.28
+			text = "e"
+		intervals [164]:
+			xmin = 197.28
+			xmax = 197.44
+			text = "..."
+		intervals [165]:
+			xmin = 197.44
+			xmax = 198.86
+			text = "aquelas reza pedindo"
+		intervals [166]:
+			xmin = 198.86
+			xmax = 199.59
+			text = "chuva"
+		intervals [167]:
+			xmin = 199.59
+			xmax = 199.79
+			text = "..."
+		intervals [168]:
+			xmin = 199.79
+			xmax = 200.03
+			text = "pá"
+		intervals [169]:
+			xmin = 200.03
+			xmax = 200.82
+			text = "..."
+		intervals [170]:
+			xmin = 200.82
+			xmax = 201.47
+			text = "nove"
+		intervals [171]:
+			xmin = 201.47
+			xmax = 203.38
+			text = "dia quando era dentro dos nove dia"
+		intervals [172]:
+			xmin = 203.38
+			xmax = 203.61
+			text = "..."
+		intervals [173]:
+			xmin = 203.61
+			xmax = 204.46
+			text = "o pai mandava"
+		intervals [174]:
+			xmin = 204.46
+			xmax = 204.65
+			text = "..."
+		intervals [175]:
+			xmin = 204.65
+			xmax = 207.86
+			text = "o pai mandava eles ficava tudo agora beleza nós afundava na roça"
+		intervals [176]:
+			xmin = 207.86
+			xmax = 208.15
+			text = "..."
+		intervals [177]:
+			xmin = 208.15
+			xmax = 210.02
+			text = "plantando de novo aquelas que tinha morrido"
+		intervals [178]:
+			xmin = 210.02
+			xmax = 210.28
+			text = "..."
+		intervals [179]:
+			xmin = 210.28
+			xmax = 212.02
+			text = "para recuperar e a chuva continuar"
+		intervals [180]:
+			xmin = 212.02
+			xmax = 212.37
+			text = "..."
+		intervals [181]:
+			xmin = 212.37
+			xmax = 213.45
+			text = "então eh"
+		intervals [182]:
+			xmin = 213.45
+			xmax = 213.83
+			text = "..."
+		intervals [183]:
+			xmin = 213.83
+			xmax = 217.15
+			text = "não eu não não gosto de dizer que que a gente tinha uma vida sofrida"
+		intervals [184]:
+			xmin = 217.15
+			xmax = 217.44
+			text = "..."
+		intervals [185]:
+			xmin = 217.44
+			xmax = 218.84
+			text = "mas sim uma vida que"
+		intervals [186]:
+			xmin = 218.84
+			xmax = 219.3
+			text = "..."
+		intervals [187]:
+			xmin = 219.3
+			xmax = 222.54
+			text = "que que a que deus a preparou para nós e nós tivemos condições"
+		intervals [188]:
+			xmin = 222.54
+			xmax = 222.85
+			text = "..."
+		intervals [189]:
+			xmin = 222.85
+			xmax = 223.24
+			text = "de"
+		intervals [190]:
+			xmin = 223.24
+			xmax = 223.5
+			text = "..."
+		intervals [191]:
+			xmin = 223.5
+			xmax = 225.44
+			text = "vencer com a força dele mesmo aham"
+		intervals [192]:
+			xmin = 225.44
+			xmax = 225.78
+			text = "..."
+		intervals [193]:
+			xmin = 225.78
+			xmax = 229.82
+			text = "e isso foi isso que foi a vida da gente do do início do começo da vida da gente"
+		intervals [194]:
+			xmin = 229.82
+			xmax = 230.05
+			text = "..."
+		intervals [195]:
+			xmin = 230.05
+			xmax = 235.81
+			text = ""
+		intervals [196]:
+			xmin = 235.81
+			xmax = 236.71
+			text = "tinham as festas"
+		intervals [197]:
+			xmin = 236.71
+			xmax = 238.05
+			text = ""
+		intervals [198]:
+			xmin = 238.05
+			xmax = 241.38
+			text = "sim um um eu vou fazer assim eu vou responder você meu avô"
+		intervals [199]:
+			xmin = 241.38
+			xmax = 241.74
+			text = "..."
+		intervals [200]:
+			xmin = 241.74
+			xmax = 247.72
+			text = "ele ele ele era acho que até por isso mesmo que eu herdei da algumas coisas dele e eu e eu fico muito feliz"
+		intervals [201]:
+			xmin = 247.72
+			xmax = 248.14
+			text = "..."
+		intervals [202]:
+			xmin = 248.14
+			xmax = 252.24
+			text = "e tenho certeza que lá onde que ele está ele está feliz também ele ele mexia com"
+		intervals [203]:
+			xmin = 252.24
+			xmax = 252.54
+			text = "..."
+		intervals [204]:
+			xmin = 252.54
+			xmax = 255.66
+			text = "folia né do divino"
+		intervals [205]:
+			xmin = 255.66
+			xmax = 256.19
+			text = "..."
+		intervals [206]:
+			xmin = 256.19
+			xmax = 261.21
+			text = "eh e ele fazia os instrumentos para ele para o grupo dele"
+		intervals [207]:
+			xmin = 261.21
+			xmax = 261.64
+			text = "..."
+		intervals [208]:
+			xmin = 261.64
+			xmax = 262.17
+			text = "e"
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 262.17
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 161.28
+			text = ""
+		intervals [2]:
+			xmin = 161.28
+			xmax = 161.47
+			text = "ah tudo"
+		intervals [3]:
+			xmin = 161.47
+			xmax = 161.83
+			text = "curtinho"
+		intervals [4]:
+			xmin = 161.83
+			xmax = 229.82
+			text = ""
+		intervals [5]:
+			xmin = 229.82
+			xmax = 230.65
+			text = "que maravilha"
+		intervals [6]:
+			xmin = 230.65
+			xmax = 231.0
+			text = "..."
+		intervals [7]:
+			xmin = 231.0
+			xmax = 235.81
+			text = "agora o senhor falou assim que durante a semana era muito trabalho mas no final de semana tinham as festas"
+		intervals [8]:
+			xmin = 235.81
+			xmax = 236.71
+			text = ""
+		intervals [9]:
+			xmin = 236.71
+			xmax = 237.55
+			text = "que festas eram"
+		intervals [10]:
+			xmin = 237.55
+			xmax = 238.05
+			text = "essas"
+		intervals [11]:
+			xmin = 238.05
+			xmax = 262.17
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 262.17
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 161.28
+			text = ""
+		intervals [2]:
+			xmin = 161.28
+			xmax = 161.47
+			text = "ah tudo"
+		intervals [3]:
+			xmin = 161.47
+			xmax = 161.83
+			text = "curtinho"
+		intervals [4]:
+			xmin = 161.83
+			xmax = 230.05
+			text = ""
+		intervals [5]:
+			xmin = 230.05
+			xmax = 230.65
+			text = "que maravilha"
+		intervals [6]:
+			xmin = 230.65
+			xmax = 231.0
+			text = "..."
+		intervals [7]:
+			xmin = 231.0
+			xmax = 235.81
+			text = "agora o senhor falou assim que durante a semana era muito trabalho mas no final de semana tinham as festas"
+		intervals [8]:
+			xmin = 235.81
+			xmax = 236.71
+			text = ""
+		intervals [9]:
+			xmin = 236.71
+			xmax = 237.55
+			text = "que festas eram"
+		intervals [10]:
+			xmin = 237.55
+			xmax = 238.05
+			text = "essas"
+		intervals [11]:
+			xmin = 238.05
+			xmax = 262.17
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 262.17
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 262.17
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 262.17
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 262.17
+			text = ""

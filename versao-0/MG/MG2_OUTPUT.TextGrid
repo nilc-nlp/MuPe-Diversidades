@@ -1,0 +1,1112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 266.82
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 266.82
+		intervals: size = 88
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.56
+			text = "e tinha"
+		intervals [2]:
+			xmin = 0.56
+			xmax = 0.88
+			text = "..."
+		intervals [3]:
+			xmin = 0.88
+			xmax = 2.77
+			text = "lá na fazenda uma uma parede"
+		intervals [4]:
+			xmin = 2.77
+			xmax = 3.13
+			text = "..."
+		intervals [5]:
+			xmin = 3.13
+			xmax = 3.83
+			text = "lotada de"
+		intervals [6]:
+			xmin = 3.83
+			xmax = 4.6
+			text = "santos e"
+		intervals [7]:
+			xmin = 4.6
+			xmax = 4.93
+			text = "..."
+		intervals [8]:
+			xmin = 4.93
+			xmax = 13.58
+			text = "é é é o meu pai e a minha mãe eles são muito devotos de santo reis então é era interessante que a a naquela época as folias saíam"
+		intervals [9]:
+			xmin = 13.58
+			xmax = 14.0
+			text = "..."
+		intervals [10]:
+			xmin = 14.0
+			xmax = 21.85
+			text = "andando pelas fazendas né o tempo inteiro e acordavam chegavam na na na de madrugada então não tinha hora porque eles andavam muito a pé"
+		intervals [11]:
+			xmin = 21.85
+			xmax = 22.19
+			text = "..."
+		intervals [12]:
+			xmin = 22.19
+			xmax = 29.65
+			text = "né e passando de fazenda em fazenda então era muito interessante que o meu pai acordava os todos nós naquela escadinha né porque a folia tinha acabado de chegar"
+		intervals [13]:
+			xmin = 29.65
+			xmax = 29.98
+			text = "..."
+		intervals [14]:
+			xmin = 29.98
+			xmax = 42.94
+			text = "e a gente ia dar a esmola então ele colocava uma pratinha na mão de cada um e a gente tinha que ir lá né e tinha muito lá né o a bandeira né de santo reis que a gente tinha que ir lá beijar aquele negócio todo e de vez em quando a gente dava uma embolada naquela né aquela"
+		intervals [15]:
+			xmin = 42.94
+			xmax = 43.3
+			text = "..."
+		intervals [16]:
+			xmin = 43.3
+			xmax = 50.52
+			text = "bandeira lá levava lá para dentro né aquela coisa toda mas assim com muito respeito né e aí quando a folia ia embora a gente brincava"
+		intervals [17]:
+			xmin = 50.52
+			xmax = 50.86
+			text = "..."
+		intervals [18]:
+			xmin = 50.86
+			xmax = 56.2
+			text = "de pegar os os santos não só os os santos reis mas outros nossa senhora da abadia também que"
+		intervals [19]:
+			xmin = 56.2
+			xmax = 56.6
+			text = "..."
+		intervals [20]:
+			xmin = 56.6
+			xmax = 59.17
+			text = "nós é tem uma cidade próxima"
+		intervals [21]:
+			xmin = 59.17
+			xmax = 59.57
+			text = "..."
+		intervals [22]:
+			xmin = 59.57
+			xmax = 68.78
+			text = "a a a ibiá que chama né romaria mas a gente falava nossa senhora da abadia água suja na época porque a santa tem toda uma história da santa aí e a gente"
+		intervals [23]:
+			xmin = 68.78
+			xmax = 81.94
+			text = "é desde quando eu era criança que nós todo ano nós íamos para a romaria e era uma romaria mesmo passava até na porta da fazenda e tudo para ir para lá era estrada de terra na época né então a gente brincava lá na fazenda"
+		intervals [24]:
+			xmin = 81.94
+			xmax = 82.39
+			text = "..."
+		intervals [25]:
+			xmin = 82.39
+			xmax = 86.32
+			text = "de ir nas árvores sabe pedir esmola fazia uma bandeira"
+		intervals [26]:
+			xmin = 86.32
+			xmax = 86.64
+			text = "..."
+		intervals [27]:
+			xmin = 86.64
+			xmax = 91.35
+			text = "né e saía nas árvores o dinheiro era as folhas né das árvores"
+		intervals [28]:
+			xmin = 91.35
+			xmax = 91.81
+			text = "..."
+		intervals [29]:
+			xmin = 91.81
+			xmax = 94.43
+			text = "e a gente saía lá pedindo né de esmola"
+		intervals [30]:
+			xmin = 94.43
+			xmax = 94.77
+			text = "..."
+		intervals [31]:
+			xmin = 94.77
+			xmax = 98.87
+			text = "como se fosse passando de fazenda em fazenda então era muito engra engraçado assim"
+		intervals [32]:
+			xmin = 98.87
+			xmax = 99.31
+			text = "..."
+		intervals [33]:
+			xmin = 99.31
+			xmax = 101.05
+			text = "ah a gente se divertia muito"
+		intervals [34]:
+			xmin = 101.05
+			xmax = 103.6
+			text = "e tem assim outras passagens fora que assim"
+		intervals [35]:
+			xmin = 103.6
+			xmax = 103.9
+			text = "..."
+		intervals [36]:
+			xmin = 103.9
+			xmax = 106.5
+			text = "é a gente ficava brincando com a"
+		intervals [37]:
+			xmin = 106.5
+			xmax = 106.92
+			text = "..."
+		intervals [38]:
+			xmin = 106.92
+			xmax = 107.54
+			text = "a"
+		intervals [39]:
+			xmin = 107.54
+			xmax = 108.76
+			text = "..."
+		intervals [40]:
+			xmin = 108.76
+			xmax = 110.69
+			text = "as as vacas lá né que tinham"
+		intervals [41]:
+			xmin = 110.69
+			xmax = 111.05
+			text = "..."
+		intervals [42]:
+			xmin = 111.05
+			xmax = 112.92
+			text = "acabado de ter bezerrinho"
+		intervals [43]:
+			xmin = 112.92
+			xmax = 113.27
+			text = "..."
+		intervals [44]:
+			xmin = 113.27
+			xmax = 118.1
+			text = "e ficava o tempo inteiro corria na cerca voltava corria na cerca e voltava só para ver a vaca"
+		intervals [45]:
+			xmin = 118.1
+			xmax = 118.44
+			text = "..."
+		intervals [46]:
+			xmin = 118.44
+			xmax = 123.58
+			text = "né irada lá toda e teve um dia que a gente ia até lá eu e o [J] mexia com a vaca"
+		intervals [47]:
+			xmin = 123.58
+			xmax = 124.32
+			text = "..."
+		intervals [48]:
+			xmin = 124.32
+			xmax = 142.88
+			text = "e a vaca vinha correndo e a gente saía correndo aí mexia isso meu pai lá as pessoas lá tirando leite aquele negócio todo e a vaca veio com tudo para o lado da da cerca no que ela veio nós saímos correndo e aí eu fui fazer a volta para entrar na porta da cozinha tinha uma pedra de ponta e simplesmente essa pedra entrou"
+		intervals [49]:
+			xmin = 142.88
+			xmax = 143.4
+			text = "..."
+		intervals [50]:
+			xmin = 143.4
+			xmax = 162.39
+			text = "no meu tornozelo e rasgou o meu tornozelo né aí eu saí gritando naquela época tinha bica dágua aquele trem todo aquilo foi um transtorno né e naquela época a gente não tinha esse negócio de passar metiolate esse trem não aí minha mãe vem né estava lá na bica aquele trem todo eu gritando igual uma louca tinha rasgado o meu tornozelo e aí vem com açúcar"
+		intervals [51]:
+			xmin = 162.39
+			xmax = 162.71
+			text = "..."
+		intervals [52]:
+			xmin = 162.71
+			xmax = 164.19
+			text = "para colocar o açúcar só"
+		intervals [53]:
+			xmin = 164.19
+			xmax = 164.61
+			text = "..."
+		intervals [54]:
+			xmin = 164.61
+			xmax = 165.52
+			text = "para entancar o sangue"
+		intervals [55]:
+			xmin = 165.52
+			xmax = 165.94
+			text = "..."
+		intervals [56]:
+			xmin = 165.94
+			xmax = 171.39
+			text = "e pôr um pano amarrado e aquilo foi e cicatrizou né hoje eu vejo né hoje você dá"
+		intervals [57]:
+			xmin = 171.39
+			xmax = 171.69
+			text = "..."
+		intervals [58]:
+			xmin = 171.69
+			xmax = 172.12
+			text = "uma"
+		intervals [59]:
+			xmin = 172.12
+			xmax = 172.86
+			text = "risco"
+		intervals [60]:
+			xmin = 172.86
+			xmax = 180.81
+			text = "que você quase morre tem que ir para o médico aquele negócio todo que nada fez um um rasgo mesmo e logo na sequência depois tinha uma festa de santo reis"
+		intervals [61]:
+			xmin = 180.81
+			xmax = 181.16
+			text = "..."
+		intervals [62]:
+			xmin = 181.16
+			xmax = 187.08
+			text = "no no no em uma fazenda lá de um primo nosso subi fui a cavalo com o pé todoné"
+		intervals [63]:
+			xmin = 187.08
+			xmax = 187.48
+			text = "..."
+		intervals [64]:
+			xmin = 187.48
+			xmax = 191.05
+			text = "lá só com aquele pano só mudando aquele pano aquela confusão toda"
+		intervals [65]:
+			xmin = 191.05
+			xmax = 191.46
+			text = "..."
+		intervals [66]:
+			xmin = 191.46
+			xmax = 196.44
+			text = "e assim tivemos muitas e tinha uma grama enorme lá na na frente da casa"
+		intervals [67]:
+			xmin = 196.44
+			xmax = 196.77
+			text = "..."
+		intervals [68]:
+			xmin = 196.77
+			xmax = 204.25
+			text = "lá na fazenda a gente ficava rolando naquela grama o tempo inteiro né então assim a gente teve umas passagens muito interessantes de motor rádio que a gente ia"
+		intervals [69]:
+			xmin = 204.25
+			xmax = 204.56
+			text = "..."
+		intervals [70]:
+			xmin = 204.56
+			xmax = 206.18
+			text = "também sentava lá na grade do"
+		intervals [71]:
+			xmin = 206.18
+			xmax = 206.5
+			text = "..."
+		intervals [72]:
+			xmin = 206.5
+			xmax = 210.62
+			text = "do trator e e lá na lá na fazenda era muito interessante que chegava assim"
+		intervals [73]:
+			xmin = 210.62
+			xmax = 210.93
+			text = "..."
+		intervals [74]:
+			xmin = 210.93
+			xmax = 215.56
+			text = "é férias os nossos primos iam para a fazenda não só os primos mas"
+		intervals [75]:
+			xmin = 215.56
+			xmax = 215.94
+			text = "..."
+		intervals [76]:
+			xmin = 215.94
+			xmax = 235.18
+			text = "ah conhecidos nossos iam para a fazenda né então assim a gente brincava é tinha é na época de colheita meu pai colocava dentro dos quartos aquelas casas enormes de assoalho a gen noh e a parte horrível era que a gente tinha que varrer aquele assoalho né aquela poeira aquelas painas né que o o o colchão era de paina"
+		intervals [77]:
+			xmin = 235.18
+			xmax = 235.49
+			text = "..."
+		intervals [78]:
+			xmin = 235.49
+			xmax = 238.48
+			text = "ah acho que por isso que eu tenho tanta alergia hoje veio mais"
+		intervals [79]:
+			xmin = 238.48
+			xmax = 238.8
+			text = "..."
+		intervals [80]:
+			xmin = 238.8
+			xmax = 242.4
+			text = "mais velha né paina travesseiro de paina aquela confusão toda e meu pai"
+		intervals [81]:
+			xmin = 242.4
+			xmax = 243.23
+			text = "..."
+		intervals [82]:
+			xmin = 243.23
+			xmax = 247.56
+			text = "colocava o arroz né feijão essa colheita quase toda lá né"
+		intervals [83]:
+			xmin = 247.56
+			xmax = 247.92
+			text = "..."
+		intervals [84]:
+			xmin = 247.92
+			xmax = 248.83
+			text = "toda ensacada"
+		intervals [85]:
+			xmin = 248.83
+			xmax = 249.15
+			text = "..."
+		intervals [86]:
+			xmin = 249.15
+			xmax = 256.35
+			text = "dentro de alguns quartos da sala e tudo e a gente ia brincar à noite não tinha na época luz né era lamparina a gente amanhecia com o nariz todo"
+		intervals [87]:
+			xmin = 256.35
+			xmax = 256.81
+			text = "..."
+		intervals [88]:
+			xmin = 256.81
+			xmax = 266.82
+			text = "preto de lamparina e aí a gente ia brincar de pique nesse aqueles montes enormes de de de de sacos de arroz né e era muito engraçado né e todo mundo brincando né"
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 266.82
+		intervals: size = 180
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.56
+			text = "e tinha"
+		intervals [2]:
+			xmin = 0.56
+			xmax = 0.88
+			text = "..."
+		intervals [3]:
+			xmin = 0.88
+			xmax = 2.77
+			text = "lá na fazenda uma uma parede"
+		intervals [4]:
+			xmin = 2.77
+			xmax = 3.13
+			text = "..."
+		intervals [5]:
+			xmin = 3.13
+			xmax = 3.83
+			text = "lotada de"
+		intervals [6]:
+			xmin = 3.83
+			xmax = 4.6
+			text = "santos e"
+		intervals [7]:
+			xmin = 4.6
+			xmax = 4.93
+			text = "..."
+		intervals [8]:
+			xmin = 4.93
+			xmax = 13.58
+			text = "é é é o meu pai e a minha mãe eles são muito devotos de santo reis então é era interessante que a a naquela época as folias saíam"
+		intervals [9]:
+			xmin = 13.58
+			xmax = 14.0
+			text = "..."
+		intervals [10]:
+			xmin = 14.0
+			xmax = 15.72
+			text = "andando pelas fazendas né"
+		intervals [11]:
+			xmin = 15.72
+			xmax = 15.97
+			text = "..."
+		intervals [12]:
+			xmin = 15.97
+			xmax = 21.85
+			text = "o tempo inteiro e acordavam chegavam na na na de madrugada então não tinha hora porque eles andavam muito a pé"
+		intervals [13]:
+			xmin = 21.85
+			xmax = 22.19
+			text = "..."
+		intervals [14]:
+			xmin = 22.19
+			xmax = 27.36
+			text = "né e passando de fazenda em fazenda então era muito interessante que o meu pai acordava os todos nós naquela escadinha né"
+		intervals [15]:
+			xmin = 27.36
+			xmax = 27.59
+			text = "..."
+		intervals [16]:
+			xmin = 27.59
+			xmax = 28.59
+			text = "porque a folia tinha"
+		intervals [17]:
+			xmin = 28.59
+			xmax = 28.83
+			text = "..."
+		intervals [18]:
+			xmin = 28.83
+			xmax = 29.65
+			text = "acabado de chegar"
+		intervals [19]:
+			xmin = 29.65
+			xmax = 29.98
+			text = "..."
+		intervals [20]:
+			xmin = 29.98
+			xmax = 32.51
+			text = "e a gente ia dar a esmola então ele colocava uma pratinha"
+		intervals [21]:
+			xmin = 32.51
+			xmax = 32.77
+			text = "..."
+		intervals [22]:
+			xmin = 32.77
+			xmax = 34.69
+			text = "na mão de cada um e a gente tinha que ir lá"
+		intervals [23]:
+			xmin = 34.69
+			xmax = 34.98
+			text = "..."
+		intervals [24]:
+			xmin = 34.98
+			xmax = 42.94
+			text = "né e tinha muito lá né o a bandeira né de santo reis que a gente tinha que ir lá beijar aquele negócio todo e de vez em quando a gente dava uma embolada naquela né aquela"
+		intervals [25]:
+			xmin = 42.94
+			xmax = 43.3
+			text = "..."
+		intervals [26]:
+			xmin = 43.3
+			xmax = 50.52
+			text = "bandeira lá levava lá para dentro né aquela coisa toda mas assim com muito respeito né e aí quando a folia ia embora a gente brincava"
+		intervals [27]:
+			xmin = 50.52
+			xmax = 50.86
+			text = "..."
+		intervals [28]:
+			xmin = 50.86
+			xmax = 53.12
+			text = "de pegar os os santos não só"
+		intervals [29]:
+			xmin = 53.12
+			xmax = 53.29
+			text = "..."
+		intervals [30]:
+			xmin = 53.29
+			xmax = 56.2
+			text = "os os santos reis mas outros nossa senhora da abadia também que"
+		intervals [31]:
+			xmin = 56.2
+			xmax = 56.6
+			text = "..."
+		intervals [32]:
+			xmin = 56.6
+			xmax = 59.17
+			text = "nós é tem uma cidade próxima"
+		intervals [33]:
+			xmin = 59.17
+			xmax = 59.57
+			text = "..."
+		intervals [34]:
+			xmin = 59.57
+			xmax = 61.46
+			text = "a a a ibiá que chama né"
+		intervals [35]:
+			xmin = 61.46
+			xmax = 61.61
+			text = "..."
+		intervals [36]:
+			xmin = 61.61
+			xmax = 62.73
+			text = "romaria mas a gente falava"
+		intervals [37]:
+			xmin = 62.73
+			xmax = 62.99
+			text = "..."
+		intervals [38]:
+			xmin = 62.99
+			xmax = 68.78
+			text = "nossa senhora da abadia água suja na época porque a santa tem toda uma história da santa aí e a gente"
+		intervals [39]:
+			xmin = 68.78
+			xmax = 70.85
+			text = "é desde quando eu era criança"
+		intervals [40]:
+			xmin = 70.85
+			xmax = 71.12
+			text = "..."
+		intervals [41]:
+			xmin = 71.12
+			xmax = 71.8
+			text = "que nós"
+		intervals [42]:
+			xmin = 71.8
+			xmax = 71.92
+			text = "..."
+		intervals [43]:
+			xmin = 71.92
+			xmax = 72.64
+			text = "todo ano"
+		intervals [44]:
+			xmin = 72.64
+			xmax = 72.88
+			text = "..."
+		intervals [45]:
+			xmin = 72.88
+			xmax = 73.94
+			text = "nós íamos para"
+		intervals [46]:
+			xmin = 73.94
+			xmax = 74.11
+			text = "..."
+		intervals [47]:
+			xmin = 74.11
+			xmax = 81.94
+			text = "a romaria e era uma romaria mesmo passava até na porta da fazenda e tudo para ir para lá era estrada de terra na época né então a gente brincava lá na fazenda"
+		intervals [48]:
+			xmin = 81.94
+			xmax = 82.39
+			text = "..."
+		intervals [49]:
+			xmin = 82.39
+			xmax = 83.98
+			text = "de ir nas árvores"
+		intervals [50]:
+			xmin = 83.98
+			xmax = 84.16
+			text = "..."
+		intervals [51]:
+			xmin = 84.16
+			xmax = 86.32
+			text = "sabe pedir esmola fazia uma bandeira"
+		intervals [52]:
+			xmin = 86.32
+			xmax = 86.64
+			text = "..."
+		intervals [53]:
+			xmin = 86.64
+			xmax = 86.9
+			text = "né"
+		intervals [54]:
+			xmin = 86.9
+			xmax = 87.13
+			text = "..."
+		intervals [55]:
+			xmin = 87.13
+			xmax = 88.56
+			text = "e saía nas árvores"
+		intervals [56]:
+			xmin = 88.56
+			xmax = 88.75
+			text = "..."
+		intervals [57]:
+			xmin = 88.75
+			xmax = 90.28
+			text = "o dinheiro era as folhas"
+		intervals [58]:
+			xmin = 90.28
+			xmax = 90.41
+			text = "..."
+		intervals [59]:
+			xmin = 90.41
+			xmax = 91.35
+			text = "né das árvores"
+		intervals [60]:
+			xmin = 91.35
+			xmax = 91.81
+			text = "..."
+		intervals [61]:
+			xmin = 91.81
+			xmax = 93.52
+			text = "e a gente saía lá pedindo né"
+		intervals [62]:
+			xmin = 93.52
+			xmax = 93.65
+			text = "..."
+		intervals [63]:
+			xmin = 93.65
+			xmax = 94.43
+			text = "de esmola"
+		intervals [64]:
+			xmin = 94.43
+			xmax = 94.77
+			text = "..."
+		intervals [65]:
+			xmin = 94.77
+			xmax = 98.87
+			text = "como se fosse passando de fazenda em fazenda então era muito engra engraçado assim"
+		intervals [66]:
+			xmin = 98.87
+			xmax = 99.31
+			text = "..."
+		intervals [67]:
+			xmin = 99.31
+			xmax = 101.05
+			text = "ah a gente se divertia muito"
+		intervals [68]:
+			xmin = 101.05
+			xmax = 103.6
+			text = "e tem assim outras passagens fora que assim"
+		intervals [69]:
+			xmin = 103.6
+			xmax = 103.9
+			text = "..."
+		intervals [70]:
+			xmin = 103.9
+			xmax = 106.5
+			text = "é a gente ficava brincando com a"
+		intervals [71]:
+			xmin = 106.5
+			xmax = 106.92
+			text = "..."
+		intervals [72]:
+			xmin = 106.92
+			xmax = 107.54
+			text = "a"
+		intervals [73]:
+			xmin = 107.54
+			xmax = 108.76
+			text = "..."
+		intervals [74]:
+			xmin = 108.76
+			xmax = 109.05
+			text = "as"
+		intervals [75]:
+			xmin = 109.05
+			xmax = 109.15
+			text = "..."
+		intervals [76]:
+			xmin = 109.15
+			xmax = 110.69
+			text = "as vacas lá né que tinham"
+		intervals [77]:
+			xmin = 110.69
+			xmax = 111.05
+			text = "..."
+		intervals [78]:
+			xmin = 111.05
+			xmax = 112.92
+			text = "acabado de ter bezerrinho"
+		intervals [79]:
+			xmin = 112.92
+			xmax = 113.27
+			text = "..."
+		intervals [80]:
+			xmin = 113.27
+			xmax = 118.1
+			text = "e ficava o tempo inteiro corria na cerca voltava corria na cerca e voltava só para ver a vaca"
+		intervals [81]:
+			xmin = 118.1
+			xmax = 118.44
+			text = "..."
+		intervals [82]:
+			xmin = 118.44
+			xmax = 122.29
+			text = "né irada lá toda e teve um dia que a gente ia até lá eu e o [J]"
+		intervals [83]:
+			xmin = 122.29
+			xmax = 122.47
+			text = "..."
+		intervals [84]:
+			xmin = 122.47
+			xmax = 123.58
+			text = "mexia com a vaca"
+		intervals [85]:
+			xmin = 123.58
+			xmax = 124.32
+			text = "..."
+		intervals [86]:
+			xmin = 124.32
+			xmax = 132.3
+			text = "e a vaca vinha correndo e a gente saía correndo aí mexia isso meu pai lá as pessoas lá tirando leite aquele negócio todo e a vaca veio com tudo"
+		intervals [87]:
+			xmin = 132.3
+			xmax = 132.6
+			text = "..."
+		intervals [88]:
+			xmin = 132.6
+			xmax = 137.89
+			text = "para o lado da da cerca no que ela veio nós saímos correndo e aí eu fui fazer a volta"
+		intervals [89]:
+			xmin = 137.89
+			xmax = 137.99
+			text = "..."
+		intervals [90]:
+			xmin = 137.99
+			xmax = 142.88
+			text = "para entrar na porta da cozinha tinha uma pedra de ponta e simplesmente essa pedra entrou"
+		intervals [91]:
+			xmin = 142.88
+			xmax = 143.4
+			text = "..."
+		intervals [92]:
+			xmin = 143.4
+			xmax = 144.58
+			text = "no meu tornozelo"
+		intervals [93]:
+			xmin = 144.58
+			xmax = 144.74
+			text = "..."
+		intervals [94]:
+			xmin = 144.74
+			xmax = 145.54
+			text = "e rasgou o"
+		intervals [95]:
+			xmin = 145.54
+			xmax = 145.71
+			text = "..."
+		intervals [96]:
+			xmin = 145.71
+			xmax = 152.82
+			text = "meu tornozelo né aí eu saí gritando naquela época tinha bica dágua aquele trem todo aquilo foi um transtorno né e naquela época a gente não tinha"
+		intervals [97]:
+			xmin = 152.82
+			xmax = 152.98
+			text = "..."
+		intervals [98]:
+			xmin = 152.98
+			xmax = 159.59
+			text = "esse negócio de passar metiolate esse trem não aí minha mãe vem né estava lá na bica aquele trem todo eu gritando igual uma louca tinha rasgado o"
+		intervals [99]:
+			xmin = 159.59
+			xmax = 159.78
+			text = "..."
+		intervals [100]:
+			xmin = 159.78
+			xmax = 161.11
+			text = "meu tornozelo e aí"
+		intervals [101]:
+			xmin = 161.11
+			xmax = 161.41
+			text = "..."
+		intervals [102]:
+			xmin = 161.41
+			xmax = 162.39
+			text = "vem com açúcar"
+		intervals [103]:
+			xmin = 162.39
+			xmax = 162.71
+			text = "..."
+		intervals [104]:
+			xmin = 162.71
+			xmax = 164.19
+			text = "para colocar o açúcar só"
+		intervals [105]:
+			xmin = 164.19
+			xmax = 164.61
+			text = "..."
+		intervals [106]:
+			xmin = 164.61
+			xmax = 165.52
+			text = "para entancar o sangue"
+		intervals [107]:
+			xmin = 165.52
+			xmax = 165.94
+			text = "..."
+		intervals [108]:
+			xmin = 165.94
+			xmax = 168.33
+			text = "e pôr um pano amarrado e aquilo foi"
+		intervals [109]:
+			xmin = 168.33
+			xmax = 168.59
+			text = "..."
+		intervals [110]:
+			xmin = 168.59
+			xmax = 171.39
+			text = "e cicatrizou né hoje eu vejo né hoje você dá"
+		intervals [111]:
+			xmin = 171.39
+			xmax = 171.69
+			text = "..."
+		intervals [112]:
+			xmin = 171.69
+			xmax = 172.12
+			text = "uma"
+		intervals [113]:
+			xmin = 172.12
+			xmax = 172.86
+			text = "risco"
+		intervals [114]:
+			xmin = 172.86
+			xmax = 176.08
+			text = "que você quase morre tem que ir para o médico aquele negócio todo que nada fez um"
+		intervals [115]:
+			xmin = 176.08
+			xmax = 176.31
+			text = "..."
+		intervals [116]:
+			xmin = 176.31
+			xmax = 180.81
+			text = "um rasgo mesmo e logo na sequência depois tinha uma festa de santo reis"
+		intervals [117]:
+			xmin = 180.81
+			xmax = 181.16
+			text = "..."
+		intervals [118]:
+			xmin = 181.16
+			xmax = 182.06
+			text = "no no no em"
+		intervals [119]:
+			xmin = 182.06
+			xmax = 182.35
+			text = "..."
+		intervals [120]:
+			xmin = 182.35
+			xmax = 183.25
+			text = "uma fazenda lá"
+		intervals [121]:
+			xmin = 183.25
+			xmax = 183.41
+			text = "..."
+		intervals [122]:
+			xmin = 183.41
+			xmax = 185.15
+			text = "de um primo nosso subi"
+		intervals [123]:
+			xmin = 185.15
+			xmax = 185.3
+			text = "..."
+		intervals [124]:
+			xmin = 185.3
+			xmax = 187.08
+			text = "fui a cavalo com o pé todoné"
+		intervals [125]:
+			xmin = 187.08
+			xmax = 187.48
+			text = "..."
+		intervals [126]:
+			xmin = 187.48
+			xmax = 191.05
+			text = "lá só com aquele pano só mudando aquele pano aquela confusão toda"
+		intervals [127]:
+			xmin = 191.05
+			xmax = 191.46
+			text = "..."
+		intervals [128]:
+			xmin = 191.46
+			xmax = 192.84
+			text = "e assim tivemos muitas"
+		intervals [129]:
+			xmin = 192.84
+			xmax = 193.09
+			text = "..."
+		intervals [130]:
+			xmin = 193.09
+			xmax = 194.97
+			text = "e tinha uma grama enorme lá na"
+		intervals [131]:
+			xmin = 194.97
+			xmax = 195.23
+			text = "..."
+		intervals [132]:
+			xmin = 195.23
+			xmax = 196.44
+			text = "na frente da casa"
+		intervals [133]:
+			xmin = 196.44
+			xmax = 196.77
+			text = "..."
+		intervals [134]:
+			xmin = 196.77
+			xmax = 200.42
+			text = "lá na fazenda a gente ficava rolando naquela grama o tempo inteiro né"
+		intervals [135]:
+			xmin = 200.42
+			xmax = 200.7
+			text = "..."
+		intervals [136]:
+			xmin = 200.7
+			xmax = 204.25
+			text = "então assim a gente teve umas passagens muito interessantes de motor rádio que a gente ia"
+		intervals [137]:
+			xmin = 204.25
+			xmax = 204.56
+			text = "..."
+		intervals [138]:
+			xmin = 204.56
+			xmax = 206.18
+			text = "também sentava lá na grade do"
+		intervals [139]:
+			xmin = 206.18
+			xmax = 206.5
+			text = "..."
+		intervals [140]:
+			xmin = 206.5
+			xmax = 207.17
+			text = "do trator"
+		intervals [141]:
+			xmin = 207.17
+			xmax = 207.42
+			text = "..."
+		intervals [142]:
+			xmin = 207.42
+			xmax = 210.62
+			text = "e e lá na lá na fazenda era muito interessante que chegava assim"
+		intervals [143]:
+			xmin = 210.62
+			xmax = 210.93
+			text = "..."
+		intervals [144]:
+			xmin = 210.93
+			xmax = 215.56
+			text = "é férias os nossos primos iam para a fazenda não só os primos mas"
+		intervals [145]:
+			xmin = 215.56
+			xmax = 215.94
+			text = "..."
+		intervals [146]:
+			xmin = 215.94
+			xmax = 217.74
+			text = "ah conhecidos nossos"
+		intervals [147]:
+			xmin = 217.74
+			xmax = 217.97
+			text = "..."
+		intervals [148]:
+			xmin = 217.97
+			xmax = 219.23
+			text = "iam para a fazenda né então assim"
+		intervals [149]:
+			xmin = 219.23
+			xmax = 219.42
+			text = "..."
+		intervals [150]:
+			xmin = 219.42
+			xmax = 221.0
+			text = "a gente brincava é tinha"
+		intervals [151]:
+			xmin = 221.0
+			xmax = 221.28
+			text = "..."
+		intervals [152]:
+			xmin = 221.28
+			xmax = 223.88
+			text = "é na época de colheita meu pai colocava"
+		intervals [153]:
+			xmin = 223.88
+			xmax = 224.17
+			text = "..."
+		intervals [154]:
+			xmin = 224.17
+			xmax = 226.99
+			text = "dentro dos quartos aquelas casas enormes de assoalho a gen"
+		intervals [155]:
+			xmin = 226.99
+			xmax = 227.28
+			text = "..."
+		intervals [156]:
+			xmin = 227.28
+			xmax = 230.16
+			text = "noh e a parte horrível era que a gente tinha que varrer"
+		intervals [157]:
+			xmin = 230.16
+			xmax = 230.28
+			text = "..."
+		intervals [158]:
+			xmin = 230.28
+			xmax = 233.76
+			text = "aquele assoalho né aquela poeira aquelas painas né que o o"
+		intervals [159]:
+			xmin = 233.76
+			xmax = 233.88
+			text = "..."
+		intervals [160]:
+			xmin = 233.88
+			xmax = 235.18
+			text = "o colchão era de paina"
+		intervals [161]:
+			xmin = 235.18
+			xmax = 235.49
+			text = "..."
+		intervals [162]:
+			xmin = 235.49
+			xmax = 238.48
+			text = "ah acho que por isso que eu tenho tanta alergia hoje veio mais"
+		intervals [163]:
+			xmin = 238.48
+			xmax = 238.8
+			text = "..."
+		intervals [164]:
+			xmin = 238.8
+			xmax = 242.4
+			text = "mais velha né paina travesseiro de paina aquela confusão toda e meu pai"
+		intervals [165]:
+			xmin = 242.4
+			xmax = 243.23
+			text = "..."
+		intervals [166]:
+			xmin = 243.23
+			xmax = 244.98
+			text = "colocava o arroz né"
+		intervals [167]:
+			xmin = 244.98
+			xmax = 245.23
+			text = "..."
+		intervals [168]:
+			xmin = 245.23
+			xmax = 247.56
+			text = "feijão essa colheita quase toda lá né"
+		intervals [169]:
+			xmin = 247.56
+			xmax = 247.92
+			text = "..."
+		intervals [170]:
+			xmin = 247.92
+			xmax = 248.26
+			text = "toda"
+		intervals [171]:
+			xmin = 248.26
+			xmax = 248.41
+			text = "..."
+		intervals [172]:
+			xmin = 248.41
+			xmax = 248.83
+			text = "ensacada"
+		intervals [173]:
+			xmin = 248.83
+			xmax = 249.15
+			text = "..."
+		intervals [174]:
+			xmin = 249.15
+			xmax = 254.37
+			text = "dentro de alguns quartos da sala e tudo e a gente ia brincar à noite não tinha na época luz né era lamparina a"
+		intervals [175]:
+			xmin = 254.37
+			xmax = 254.57
+			text = "..."
+		intervals [176]:
+			xmin = 254.57
+			xmax = 256.35
+			text = "gente amanhecia com o nariz todo"
+		intervals [177]:
+			xmin = 256.35
+			xmax = 256.81
+			text = "..."
+		intervals [178]:
+			xmin = 256.81
+			xmax = 262.19
+			text = "preto de lamparina e aí a gente ia brincar de pique nesse aqueles montes enormes de"
+		intervals [179]:
+			xmin = 262.19
+			xmax = 262.4
+			text = "..."
+		intervals [180]:
+			xmin = 262.4
+			xmax = 266.82
+			text = "de de de sacos de arroz né e era muito engraçado né e todo mundo brincando né"
+	item [3]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 266.82
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 266.82
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 266.82
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 266.82
+			text = ""
