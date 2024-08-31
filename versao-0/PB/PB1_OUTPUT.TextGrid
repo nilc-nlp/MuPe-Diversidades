@@ -1,0 +1,1408 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 244.36
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 244.36
+		intervals: size = 124
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.03
+			text = "entendeu daí"
+		intervals [2]:
+			xmin = 1.03
+			xmax = 2.62
+			text = "..."
+		intervals [3]:
+			xmin = 2.62
+			xmax = 3.84
+			text = "foi continuando a vida"
+		intervals [4]:
+			xmin = 3.84
+			xmax = 8.2
+			text = "a gente foi se casando um casando outro casando outro mas eu não fui a última a casar não eu passei na frente da minha"
+		intervals [5]:
+			xmin = 8.2
+			xmax = 9.18
+			text = "..."
+		intervals [6]:
+			xmin = 9.18
+			xmax = 9.72
+			text = "irmã"
+		intervals [7]:
+			xmin = 9.72
+			xmax = 10.42
+			text = "depois ela casou"
+		intervals [8]:
+			xmin = 10.42
+			xmax = 13.3
+			text = ""
+		intervals [9]:
+			xmin = 13.3
+			xmax = 14.4
+			text = "nossa amigos de"
+		intervals [10]:
+			xmin = 14.4
+			xmax = 15.06
+			text = "..."
+		intervals [11]:
+			xmin = 15.06
+			xmax = 16.34
+			text = "amigo do vizinho"
+		intervals [12]:
+			xmin = 16.34
+			xmax = 16.67
+			text = "..."
+		intervals [13]:
+			xmin = 16.67
+			xmax = 29.86
+			text = "amigo do conhecimento amigo que vêm de fora famílias que estão por fora e vêm renasce família dentro das família primos tio parente amigo traz meu amigo traz meu amigo quando passou a namorar traz a sogra traz a ge a nora traz o genro casa"
+		intervals [14]:
+			xmin = 29.86
+			xmax = 30.49
+			text = "cheia"
+		intervals [15]:
+			xmin = 30.49
+			xmax = 31.07
+			text = "cheia mesmo"
+		intervals [16]:
+			xmin = 31.07
+			xmax = 32.18
+			text = "..."
+		intervals [17]:
+			xmin = 32.18
+			xmax = 33.84
+			text = "né principalmente nos domingos nossa"
+		intervals [18]:
+			xmin = 33.84
+			xmax = 34.64
+			text = "..."
+		intervals [19]:
+			xmin = 34.64
+			xmax = 35.55
+			text = "é só que simples"
+		intervals [20]:
+			xmin = 35.55
+			xmax = 36.12
+			text = "..."
+		intervals [21]:
+			xmin = 36.12
+			xmax = 36.34
+			text = "né"
+		intervals [22]:
+			xmin = 36.34
+			xmax = 36.95
+			text = "..."
+		intervals [23]:
+			xmin = 36.95
+			xmax = 43.19
+			text = "o meu pai ele era rígido então a gente tinha medo de cantar na frente dele de brincar na frente dele quando ele saía era cada cambalhota"
+		intervals [24]:
+			xmin = 43.19
+			xmax = 43.63
+			text = "..."
+		intervals [25]:
+			xmin = 43.63
+			xmax = 50.11
+			text = "que a gente virava a gente revirava a casa casa de cimento a gente fazia uma embolada no meio da casa outro dia eu estava fazendo isso aqui em osasco eu me lembro"
+		intervals [26]:
+			xmin = 50.11
+			xmax = 51.22
+			text = "..."
+		intervals [27]:
+			xmin = 51.22
+			xmax = 52.46
+			text = "eu me lembrei tanto disso"
+		intervals [28]:
+			xmin = 52.46
+			xmax = 53.21
+			text = "..."
+		intervals [29]:
+			xmin = 53.21
+			xmax = 60.49
+			text = "que a gente chamava os embolada a gente ia para a área do rio descia de ladeira abaixo sai rolando tragédia de criança mas tragédia que não prejudicava ninguém não caía"
+		intervals [30]:
+			xmin = 60.49
+			xmax = 60.96
+			text = "..."
+		intervals [31]:
+			xmin = 60.96
+			xmax = 65.36
+			text = "subia nas mangueiras me pendurava de para para cima para baixo perna para cima"
+		intervals [32]:
+			xmin = 65.36
+			xmax = 65.84
+			text = "..."
+		intervals [33]:
+			xmin = 65.84
+			xmax = 71.67
+			text = "balançava e hoje ainda se que eu se eu quiser fazer essas coisas eu tenho saudade eu faço como eu faço muito esporte aqui em são paulo"
+		intervals [34]:
+			xmin = 71.67
+			xmax = 72.07
+			text = "..."
+		intervals [35]:
+			xmin = 72.07
+			xmax = 74.43
+			text = "então minhas está voltando a assim"
+		intervals [36]:
+			xmin = 74.43
+			xmax = 74.81
+			text = "..."
+		intervals [37]:
+			xmin = 74.81
+			xmax = 81.77
+			text = "a minha musculação a trabalhar então isso eu adoro tenho saudade da vida de infância viu só que eu estou vivendo agora quase uma infância do passado"
+		intervals [38]:
+			xmin = 81.77
+			xmax = 82.2
+			text = "..."
+		intervals [39]:
+			xmin = 82.2
+			xmax = 84.04
+			text = "que eu não pude ter e hoje eu tenho"
+		intervals [40]:
+			xmin = 84.04
+			xmax = 98.5
+			text = ""
+		intervals [41]:
+			xmin = 98.5
+			xmax = 101.53
+			text = "a de pano a de sabugo a gente pegava o milho a de sabugo a"
+		intervals [42]:
+			xmin = 101.53
+			xmax = 101.96
+			text = "..."
+		intervals [43]:
+			xmin = 101.96
+			xmax = 102.13
+			text = "gente"
+		intervals [44]:
+			xmin = 102.13
+			xmax = 102.6
+			text = "..."
+		intervals [45]:
+			xmin = 102.6
+			xmax = 103.68
+			text = "a gente comia o milho"
+		intervals [46]:
+			xmin = 103.68
+			xmax = 104.15
+			text = "..."
+		intervals [47]:
+			xmin = 104.15
+			xmax = 114.55
+			text = "quando lucrava né pegava o o o milho fazia o sabugo enrolava de pano fazia os bonequinho e dizia que era os menininho da gente olha os menininho que lindinho sabugo enrolado os bolos de barro fazia aqueles bolos de barro assim eu"
+		intervals [48]:
+			xmin = 114.55
+			xmax = 114.99
+			text = "..."
+		intervals [49]:
+			xmin = 114.99
+			xmax = 115.67
+			text = "ainda faço"
+		intervals [50]:
+			xmin = 115.67
+			xmax = 116.12
+			text = "..."
+		intervals [51]:
+			xmin = 116.12
+			xmax = 120.35
+			text = "de se de às vezes eu faço para brincar com as massinhas para revoltar eu gosto muito de puxar pela"
+		intervals [52]:
+			xmin = 120.35
+			xmax = 120.93
+			text = "..."
+		intervals [53]:
+			xmin = 120.93
+			xmax = 122.25
+			text = "assim a terapia da mente"
+		intervals [54]:
+			xmin = 122.25
+			xmax = 123.1
+			text = "..."
+		intervals [55]:
+			xmin = 123.1
+			xmax = 130.23
+			text = "para que a minha mente seja sempre jovem inclusive o pessoal diz muito que eu não cresci eu fiquei sempre jovem eu gosto de ser jovem adorava se eu voltasse"
+		intervals [56]:
+			xmin = 130.23
+			xmax = 130.26
+			text = "a"
+		intervals [57]:
+			xmin = 130.26
+			xmax = 131.0
+			text = "ser criança"
+		intervals [58]:
+			xmin = 131.0
+			xmax = 131.53
+			text = "..."
+		intervals [59]:
+			xmin = 131.53
+			xmax = 133.96
+			text = "como eu estou me sentindo quase criança no mundo de hoje"
+		intervals [60]:
+			xmin = 133.96
+			xmax = 134.29
+			text = "..."
+		intervals [61]:
+			xmin = 134.29
+			xmax = 135.22
+			text = "em muitas coisas"
+		intervals [62]:
+			xmin = 135.22
+			xmax = 136.51
+			text = "..."
+		intervals [63]:
+			xmin = 136.51
+			xmax = 145.62
+			text = "entendeu aí os bonequinhos fazia enrolado de pano e era os menininho da gente colocava lá nas catingueira balançava numa rede era aquelas coisas criança brincadeira no sítio era essas brincadeira pegava uns berimbau"
+		intervals [64]:
+			xmin = 145.62
+			xmax = 146.13
+			text = "..."
+		intervals [65]:
+			xmin = 146.13
+			xmax = 148.06
+			text = "que tinha uns uns pedaço de pau a gente fazia"
+		intervals [66]:
+			xmin = 148.06
+			xmax = 148.58
+			text = "tocar"
+		intervals [67]:
+			xmin = 148.58
+			xmax = 152.05
+			text = "né subia nas pedra lá e ficava tocando quando o papai não estava perto tocava nos berimbau"
+		intervals [68]:
+			xmin = 152.05
+			xmax = 153.22
+			text = "..."
+		intervals [69]:
+			xmin = 153.22
+			xmax = 153.35
+			text = "é"
+		intervals [70]:
+			xmin = 153.35
+			xmax = 154.95
+			text = ""
+		intervals [71]:
+			xmin = 154.95
+			xmax = 156.39
+			text = "fazia nem palito de brincadeira"
+		intervals [72]:
+			xmin = 156.39
+			xmax = 157.31
+			text = ""
+		intervals [73]:
+			xmin = 157.31
+			xmax = 157.43
+			text = "de"
+		intervals [74]:
+			xmin = 157.43
+			xmax = 157.65
+			text = "pau"
+		intervals [75]:
+			xmin = 157.65
+			xmax = 157.98
+			text = "..."
+		intervals [76]:
+			xmin = 157.98
+			xmax = 158.3
+			text = ""
+		intervals [77]:
+			xmin = 158.3
+			xmax = 164.35
+			text = "não era não era diferente é tanto que lá em caruaru tem uma música assim berimbau berimbau berimbau"
+		intervals [78]:
+			xmin = 164.35
+			xmax = 167.89
+			text = "é um arame e um pedaço de pau e a gente fazia um pedaço de pau assim"
+		intervals [79]:
+			xmin = 167.89
+			xmax = 168.71
+			text = "..."
+		intervals [80]:
+			xmin = 168.71
+			xmax = 171.78
+			text = "colocava um arame colocava duas telha ou vidro"
+		intervals [81]:
+			xmin = 171.78
+			xmax = 172.36
+			text = "..."
+		intervals [82]:
+			xmin = 172.36
+			xmax = 177.72
+			text = "para armar esticava o arame e cantava juazeiro foi aqui"
+		intervals [83]:
+			xmin = 177.72
+			xmax = 178.06
+			text = "..."
+		intervals [84]:
+			xmin = 178.06
+			xmax = 178.55
+			text = "que"
+		intervals [85]:
+			xmin = 178.55
+			xmax = 181.88
+			text = "o nosso amor nasceu com um pau e uma faca tocava"
+		intervals [86]:
+			xmin = 181.88
+			xmax = 182.23
+			text = "..."
+		intervals [87]:
+			xmin = 182.23
+			xmax = 182.95
+			text = "música era lindo era"
+		intervals [88]:
+			xmin = 182.95
+			xmax = 183.5
+			text = "..."
+		intervals [89]:
+			xmin = 183.5
+			xmax = 184.88
+			text = "coisas deslumbrante"
+		intervals [90]:
+			xmin = 184.88
+			xmax = 185.42
+			text = "..."
+		intervals [91]:
+			xmin = 185.42
+			xmax = 188.58
+			text = "coisa que eu não vejo mais hoje na cultura mas se eu for fazer eu sei fazer"
+		intervals [92]:
+			xmin = 188.58
+			xmax = 189.47
+			text = "..."
+		intervals [93]:
+			xmin = 189.47
+			xmax = 190.7
+			text = "tenho certeza absoluta"
+		intervals [94]:
+			xmin = 190.7
+			xmax = 193.3
+			text = ""
+		intervals [95]:
+			xmin = 193.3
+			xmax = 197.15
+			text = "quando eu era criança é aparecia jornal folheto existia muito folheto romântico"
+		intervals [96]:
+			xmin = 197.15
+			xmax = 197.72
+			text = "..."
+		intervals [97]:
+			xmin = 197.72
+			xmax = 200.24
+			text = "que eu tenho muito saudade de romance e a minha irmã lia"
+		intervals [98]:
+			xmin = 200.24
+			xmax = 201.46
+			text = "muito bem"
+		intervals [99]:
+			xmin = 201.46
+			xmax = 201.8
+			text = "..."
+		intervals [100]:
+			xmin = 201.8
+			xmax = 202.56
+			text = "lia não lê"
+		intervals [101]:
+			xmin = 202.56
+			xmax = 203.35
+			text = "..."
+		intervals [102]:
+			xmin = 203.35
+			xmax = 206.98
+			text = "lê muito bem então a gente se juntava meu pai juntava todo mundo ali de noite"
+		intervals [103]:
+			xmin = 206.98
+			xmax = 207.69
+			text = "..."
+		intervals [104]:
+			xmin = 207.69
+			xmax = 209.69
+			text = "para ela ler aqueles romances bonito"
+		intervals [105]:
+			xmin = 209.69
+			xmax = 210.0
+			text = "..."
+		intervals [106]:
+			xmin = 210.0
+			xmax = 212.2
+			text = "a gente escutava nesse trecho tinha música"
+		intervals [107]:
+			xmin = 212.2
+			xmax = 212.57
+			text = "..."
+		intervals [108]:
+			xmin = 212.57
+			xmax = 220.27
+			text = "que a gente aprendia a cantar meu pai de tempo em tempo levava a gente para um circo ai que vontade de ficar naquele circo quando vinha circo quando vinha circo de fora para a serra branca"
+		intervals [109]:
+			xmin = 220.27
+			xmax = 220.89
+			text = "..."
+		intervals [110]:
+			xmin = 220.89
+			xmax = 224.87
+			text = "a gente não conhecia mas ele levava a gente para conhecer as coisas do jeitão dele mas levava"
+		intervals [111]:
+			xmin = 224.87
+			xmax = 225.49
+			text = "..."
+		intervals [112]:
+			xmin = 225.49
+			xmax = 225.8
+			text = "entendeu"
+		intervals [113]:
+			xmin = 225.8
+			xmax = 226.37
+			text = "..."
+		intervals [114]:
+			xmin = 226.37
+			xmax = 228.1
+			text = ""
+		intervals [115]:
+			xmin = 228.1
+			xmax = 232.94
+			text = "ah tinha muita coisa boa muita coisa bonita tinha anedota tinha tinha tanta coisa que a gente nem sabe nem dizer o que é tinha"
+		intervals [116]:
+			xmin = 232.94
+			xmax = 233.62
+			text = "..."
+		intervals [117]:
+			xmin = 233.62
+			xmax = 236.31
+			text = "umas mulheres passando a mão é uns homem que passava"
+		intervals [118]:
+			xmin = 236.31
+			xmax = 236.64
+			text = "..."
+		intervals [119]:
+			xmin = 236.64
+			xmax = 237.9
+			text = "a mão na barriga das mulheres"
+		intervals [120]:
+			xmin = 237.9
+			xmax = 238.56
+			text = "atrás"
+		intervals [121]:
+			xmin = 238.56
+			xmax = 239.87
+			text = "dele lá né e falava assim"
+		intervals [122]:
+			xmin = 239.87
+			xmax = 241.64
+			text = "ai que coisa gostosa essa barriga a gente"
+		intervals [123]:
+			xmin = 241.64
+			xmax = 242.49
+			text = "..."
+		intervals [124]:
+			xmin = 242.49
+			xmax = 244.36
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 244.36
+		intervals: size = 150
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.03
+			text = "entendeu daí"
+		intervals [2]:
+			xmin = 1.03
+			xmax = 2.62
+			text = "..."
+		intervals [3]:
+			xmin = 2.62
+			xmax = 3.84
+			text = "foi continuando a vida"
+		intervals [4]:
+			xmin = 3.84
+			xmax = 8.2
+			text = "a gente foi se casando um casando outro casando outro mas eu não fui a última a casar não eu passei na frente da minha"
+		intervals [5]:
+			xmin = 8.2
+			xmax = 9.18
+			text = "..."
+		intervals [6]:
+			xmin = 9.18
+			xmax = 9.52
+			text = "irmã"
+		intervals [7]:
+			xmin = 9.52
+			xmax = 9.72
+			text = "..."
+		intervals [8]:
+			xmin = 9.72
+			xmax = 10.42
+			text = "depois ela casou"
+		intervals [9]:
+			xmin = 10.42
+			xmax = 10.62
+			text = "..."
+		intervals [10]:
+			xmin = 10.62
+			xmax = 13.3
+			text = ""
+		intervals [11]:
+			xmin = 13.3
+			xmax = 14.4
+			text = "nossa amigos de"
+		intervals [12]:
+			xmin = 14.4
+			xmax = 15.06
+			text = "..."
+		intervals [13]:
+			xmin = 15.06
+			xmax = 16.34
+			text = "amigo do vizinho"
+		intervals [14]:
+			xmin = 16.34
+			xmax = 16.67
+			text = "..."
+		intervals [15]:
+			xmin = 16.67
+			xmax = 24.96
+			text = "amigo do conhecimento amigo que vêm de fora famílias que estão por fora e vêm renasce família dentro das família primos tio parente amigo traz meu amigo"
+		intervals [16]:
+			xmin = 24.96
+			xmax = 25.23
+			text = "..."
+		intervals [17]:
+			xmin = 25.23
+			xmax = 29.86
+			text = "traz meu amigo quando passou a namorar traz a sogra traz a ge a nora traz o genro casa"
+		intervals [18]:
+			xmin = 29.86
+			xmax = 30.49
+			text = "cheia"
+		intervals [19]:
+			xmin = 30.49
+			xmax = 31.07
+			text = "cheia mesmo"
+		intervals [20]:
+			xmin = 31.07
+			xmax = 32.18
+			text = "..."
+		intervals [21]:
+			xmin = 32.18
+			xmax = 33.84
+			text = "né principalmente nos domingos nossa"
+		intervals [22]:
+			xmin = 33.84
+			xmax = 34.64
+			text = "..."
+		intervals [23]:
+			xmin = 34.64
+			xmax = 35.55
+			text = "é só que simples"
+		intervals [24]:
+			xmin = 35.55
+			xmax = 36.12
+			text = "..."
+		intervals [25]:
+			xmin = 36.12
+			xmax = 36.34
+			text = "né"
+		intervals [26]:
+			xmin = 36.34
+			xmax = 36.95
+			text = "..."
+		intervals [27]:
+			xmin = 36.95
+			xmax = 43.19
+			text = "o meu pai ele era rígido então a gente tinha medo de cantar na frente dele de brincar na frente dele quando ele saía era cada cambalhota"
+		intervals [28]:
+			xmin = 43.19
+			xmax = 43.63
+			text = "..."
+		intervals [29]:
+			xmin = 43.63
+			xmax = 50.11
+			text = "que a gente virava a gente revirava a casa casa de cimento a gente fazia uma embolada no meio da casa outro dia eu estava fazendo isso aqui em osasco eu me lembro"
+		intervals [30]:
+			xmin = 50.11
+			xmax = 51.22
+			text = "..."
+		intervals [31]:
+			xmin = 51.22
+			xmax = 52.46
+			text = "eu me lembrei tanto disso"
+		intervals [32]:
+			xmin = 52.46
+			xmax = 53.21
+			text = "..."
+		intervals [33]:
+			xmin = 53.21
+			xmax = 60.49
+			text = "que a gente chamava os embolada a gente ia para a área do rio descia de ladeira abaixo sai rolando tragédia de criança mas tragédia que não prejudicava ninguém não caía"
+		intervals [34]:
+			xmin = 60.49
+			xmax = 60.96
+			text = "..."
+		intervals [35]:
+			xmin = 60.96
+			xmax = 63.09
+			text = "subia nas mangueiras me pendurava de para"
+		intervals [36]:
+			xmin = 63.09
+			xmax = 63.22
+			text = "..."
+		intervals [37]:
+			xmin = 63.22
+			xmax = 64.45
+			text = "para cima para baixo"
+		intervals [38]:
+			xmin = 64.45
+			xmax = 64.58
+			text = "..."
+		intervals [39]:
+			xmin = 64.58
+			xmax = 65.36
+			text = "perna para cima"
+		intervals [40]:
+			xmin = 65.36
+			xmax = 65.84
+			text = "..."
+		intervals [41]:
+			xmin = 65.84
+			xmax = 71.67
+			text = "balançava e hoje ainda se que eu se eu quiser fazer essas coisas eu tenho saudade eu faço como eu faço muito esporte aqui em são paulo"
+		intervals [42]:
+			xmin = 71.67
+			xmax = 72.07
+			text = "..."
+		intervals [43]:
+			xmin = 72.07
+			xmax = 74.43
+			text = "então minhas está voltando a assim"
+		intervals [44]:
+			xmin = 74.43
+			xmax = 74.81
+			text = "..."
+		intervals [45]:
+			xmin = 74.81
+			xmax = 81.77
+			text = "a minha musculação a trabalhar então isso eu adoro tenho saudade da vida de infância viu só que eu estou vivendo agora quase uma infância do passado"
+		intervals [46]:
+			xmin = 81.77
+			xmax = 82.2
+			text = "..."
+		intervals [47]:
+			xmin = 82.2
+			xmax = 82.76
+			text = "que eu não"
+		intervals [48]:
+			xmin = 82.76
+			xmax = 82.96
+			text = "..."
+		intervals [49]:
+			xmin = 82.96
+			xmax = 84.04
+			text = "pude ter e hoje eu tenho"
+		intervals [50]:
+			xmin = 84.04
+			xmax = 98.5
+			text = ""
+		intervals [51]:
+			xmin = 98.5
+			xmax = 101.53
+			text = "a de pano a de sabugo a gente pegava o milho a de sabugo a"
+		intervals [52]:
+			xmin = 101.53
+			xmax = 101.96
+			text = "..."
+		intervals [53]:
+			xmin = 101.96
+			xmax = 102.13
+			text = "gente"
+		intervals [54]:
+			xmin = 102.13
+			xmax = 102.6
+			text = "..."
+		intervals [55]:
+			xmin = 102.6
+			xmax = 103.68
+			text = "a gente comia o milho"
+		intervals [56]:
+			xmin = 103.68
+			xmax = 104.15
+			text = "..."
+		intervals [57]:
+			xmin = 104.15
+			xmax = 106.65
+			text = "quando lucrava né pegava o o o milho"
+		intervals [58]:
+			xmin = 106.65
+			xmax = 106.92
+			text = "..."
+		intervals [59]:
+			xmin = 106.92
+			xmax = 114.55
+			text = "fazia o sabugo enrolava de pano fazia os bonequinho e dizia que era os menininho da gente olha os menininho que lindinho sabugo enrolado os bolos de barro fazia aqueles bolos de barro assim eu"
+		intervals [60]:
+			xmin = 114.55
+			xmax = 114.99
+			text = "..."
+		intervals [61]:
+			xmin = 114.99
+			xmax = 115.67
+			text = "ainda faço"
+		intervals [62]:
+			xmin = 115.67
+			xmax = 116.12
+			text = "..."
+		intervals [63]:
+			xmin = 116.12
+			xmax = 120.35
+			text = "de se de às vezes eu faço para brincar com as massinhas para revoltar eu gosto muito de puxar pela"
+		intervals [64]:
+			xmin = 120.35
+			xmax = 120.93
+			text = "..."
+		intervals [65]:
+			xmin = 120.93
+			xmax = 122.25
+			text = "assim a terapia da mente"
+		intervals [66]:
+			xmin = 122.25
+			xmax = 123.1
+			text = "..."
+		intervals [67]:
+			xmin = 123.1
+			xmax = 130.23
+			text = "para que a minha mente seja sempre jovem inclusive o pessoal diz muito que eu não cresci eu fiquei sempre jovem eu gosto de ser jovem adorava se eu voltasse"
+		intervals [68]:
+			xmin = 130.23
+			xmax = 130.26
+			text = "a"
+		intervals [69]:
+			xmin = 130.26
+			xmax = 131.0
+			text = "ser criança"
+		intervals [70]:
+			xmin = 131.0
+			xmax = 131.53
+			text = "..."
+		intervals [71]:
+			xmin = 131.53
+			xmax = 133.96
+			text = "como eu estou me sentindo quase criança no mundo de hoje"
+		intervals [72]:
+			xmin = 133.96
+			xmax = 134.29
+			text = "..."
+		intervals [73]:
+			xmin = 134.29
+			xmax = 135.22
+			text = "em muitas coisas"
+		intervals [74]:
+			xmin = 135.22
+			xmax = 136.51
+			text = "..."
+		intervals [75]:
+			xmin = 136.51
+			xmax = 145.62
+			text = "entendeu aí os bonequinhos fazia enrolado de pano e era os menininho da gente colocava lá nas catingueira balançava numa rede era aquelas coisas criança brincadeira no sítio era essas brincadeira pegava uns berimbau"
+		intervals [76]:
+			xmin = 145.62
+			xmax = 146.13
+			text = "..."
+		intervals [77]:
+			xmin = 146.13
+			xmax = 148.06
+			text = "que tinha uns uns pedaço de pau a gente fazia"
+		intervals [78]:
+			xmin = 148.06
+			xmax = 148.58
+			text = "tocar"
+		intervals [79]:
+			xmin = 148.58
+			xmax = 152.05
+			text = "né subia nas pedra lá e ficava tocando quando o papai não estava perto tocava nos berimbau"
+		intervals [80]:
+			xmin = 152.05
+			xmax = 153.22
+			text = "..."
+		intervals [81]:
+			xmin = 153.22
+			xmax = 153.35
+			text = "é"
+		intervals [82]:
+			xmin = 153.35
+			xmax = 154.95
+			text = ""
+		intervals [83]:
+			xmin = 154.95
+			xmax = 156.39
+			text = "fazia nem palito de brincadeira"
+		intervals [84]:
+			xmin = 156.39
+			xmax = 157.31
+			text = ""
+		intervals [85]:
+			xmin = 157.31
+			xmax = 157.43
+			text = "de"
+		intervals [86]:
+			xmin = 157.43
+			xmax = 157.65
+			text = "pau"
+		intervals [87]:
+			xmin = 157.65
+			xmax = 157.98
+			text = "..."
+		intervals [88]:
+			xmin = 157.98
+			xmax = 158.3
+			text = ""
+		intervals [89]:
+			xmin = 158.3
+			xmax = 158.57
+			text = "não"
+		intervals [90]:
+			xmin = 158.57
+			xmax = 158.71
+			text = "..."
+		intervals [91]:
+			xmin = 158.71
+			xmax = 162.01
+			text = "era não era diferente é tanto que lá em caruaru tem uma música"
+		intervals [92]:
+			xmin = 162.01
+			xmax = 162.24
+			text = "..."
+		intervals [93]:
+			xmin = 162.24
+			xmax = 164.05
+			text = "assim berimbau berimbau berimbau"
+		intervals [94]:
+			xmin = 164.05
+			xmax = 164.35
+			text = "..."
+		intervals [95]:
+			xmin = 164.35
+			xmax = 167.89
+			text = "é um arame e um pedaço de pau e a gente fazia um pedaço de pau assim"
+		intervals [96]:
+			xmin = 167.89
+			xmax = 168.71
+			text = "..."
+		intervals [97]:
+			xmin = 168.71
+			xmax = 171.06
+			text = "colocava um arame colocava duas telha"
+		intervals [98]:
+			xmin = 171.06
+			xmax = 171.21
+			text = "..."
+		intervals [99]:
+			xmin = 171.21
+			xmax = 171.78
+			text = "ou vidro"
+		intervals [100]:
+			xmin = 171.78
+			xmax = 172.36
+			text = "..."
+		intervals [101]:
+			xmin = 172.36
+			xmax = 177.72
+			text = "para armar esticava o arame e cantava juazeiro foi aqui"
+		intervals [102]:
+			xmin = 177.72
+			xmax = 178.06
+			text = "..."
+		intervals [103]:
+			xmin = 178.06
+			xmax = 178.55
+			text = "que"
+		intervals [104]:
+			xmin = 178.55
+			xmax = 181.88
+			text = "o nosso amor nasceu com um pau e uma faca tocava"
+		intervals [105]:
+			xmin = 181.88
+			xmax = 182.23
+			text = "..."
+		intervals [106]:
+			xmin = 182.23
+			xmax = 182.95
+			text = "música era lindo era"
+		intervals [107]:
+			xmin = 182.95
+			xmax = 183.5
+			text = "..."
+		intervals [108]:
+			xmin = 183.5
+			xmax = 184.88
+			text = "coisas deslumbrante"
+		intervals [109]:
+			xmin = 184.88
+			xmax = 185.42
+			text = "..."
+		intervals [110]:
+			xmin = 185.42
+			xmax = 188.58
+			text = "coisa que eu não vejo mais hoje na cultura mas se eu for fazer eu sei fazer"
+		intervals [111]:
+			xmin = 188.58
+			xmax = 189.47
+			text = "..."
+		intervals [112]:
+			xmin = 189.47
+			xmax = 190.7
+			text = "tenho certeza absoluta"
+		intervals [113]:
+			xmin = 190.7
+			xmax = 193.3
+			text = ""
+		intervals [114]:
+			xmin = 193.3
+			xmax = 197.15
+			text = "quando eu era criança é aparecia jornal folheto existia muito folheto romântico"
+		intervals [115]:
+			xmin = 197.15
+			xmax = 197.72
+			text = "..."
+		intervals [116]:
+			xmin = 197.72
+			xmax = 200.24
+			text = "que eu tenho muito saudade de romance e a minha irmã lia"
+		intervals [117]:
+			xmin = 200.24
+			xmax = 201.46
+			text = "muito bem"
+		intervals [118]:
+			xmin = 201.46
+			xmax = 201.8
+			text = "..."
+		intervals [119]:
+			xmin = 201.8
+			xmax = 202.56
+			text = "lia não lê"
+		intervals [120]:
+			xmin = 202.56
+			xmax = 203.35
+			text = "..."
+		intervals [121]:
+			xmin = 203.35
+			xmax = 206.98
+			text = "lê muito bem então a gente se juntava meu pai juntava todo mundo ali de noite"
+		intervals [122]:
+			xmin = 206.98
+			xmax = 207.69
+			text = "..."
+		intervals [123]:
+			xmin = 207.69
+			xmax = 209.69
+			text = "para ela ler aqueles romances bonito"
+		intervals [124]:
+			xmin = 209.69
+			xmax = 210.0
+			text = "..."
+		intervals [125]:
+			xmin = 210.0
+			xmax = 210.57
+			text = "a gente escutava"
+		intervals [126]:
+			xmin = 210.57
+			xmax = 210.7
+			text = "..."
+		intervals [127]:
+			xmin = 210.7
+			xmax = 212.2
+			text = "nesse trecho tinha música"
+		intervals [128]:
+			xmin = 212.2
+			xmax = 212.57
+			text = "..."
+		intervals [129]:
+			xmin = 212.57
+			xmax = 220.27
+			text = "que a gente aprendia a cantar meu pai de tempo em tempo levava a gente para um circo ai que vontade de ficar naquele circo quando vinha circo quando vinha circo de fora para a serra branca"
+		intervals [130]:
+			xmin = 220.27
+			xmax = 220.89
+			text = "..."
+		intervals [131]:
+			xmin = 220.89
+			xmax = 224.87
+			text = "a gente não conhecia mas ele levava a gente para conhecer as coisas do jeitão dele mas levava"
+		intervals [132]:
+			xmin = 224.87
+			xmax = 225.49
+			text = "..."
+		intervals [133]:
+			xmin = 225.49
+			xmax = 225.8
+			text = "entendeu"
+		intervals [134]:
+			xmin = 225.8
+			xmax = 226.37
+			text = "..."
+		intervals [135]:
+			xmin = 226.37
+			xmax = 228.1
+			text = ""
+		intervals [136]:
+			xmin = 228.1
+			xmax = 232.94
+			text = "ah tinha muita coisa boa muita coisa bonita tinha anedota tinha tinha tanta coisa que a gente nem sabe nem dizer o que é tinha"
+		intervals [137]:
+			xmin = 232.94
+			xmax = 233.62
+			text = "..."
+		intervals [138]:
+			xmin = 233.62
+			xmax = 235.09
+			text = "umas mulheres passando a mão"
+		intervals [139]:
+			xmin = 235.09
+			xmax = 235.2
+			text = "..."
+		intervals [140]:
+			xmin = 235.2
+			xmax = 236.31
+			text = "é uns homem que passava"
+		intervals [141]:
+			xmin = 236.31
+			xmax = 236.64
+			text = "..."
+		intervals [142]:
+			xmin = 236.64
+			xmax = 237.9
+			text = "a mão na barriga das mulheres"
+		intervals [143]:
+			xmin = 237.9
+			xmax = 238.4
+			text = "atrás"
+		intervals [144]:
+			xmin = 238.4
+			xmax = 238.56
+			text = "..."
+		intervals [145]:
+			xmin = 238.56
+			xmax = 239.18
+			text = "dele lá né"
+		intervals [146]:
+			xmin = 239.18
+			xmax = 239.37
+			text = "..."
+		intervals [147]:
+			xmin = 239.37
+			xmax = 239.87
+			text = "e falava assim"
+		intervals [148]:
+			xmin = 239.87
+			xmax = 241.64
+			text = "ai que coisa gostosa essa barriga a gente"
+		intervals [149]:
+			xmin = 241.64
+			xmax = 242.49
+			text = "..."
+		intervals [150]:
+			xmin = 242.49
+			xmax = 244.36
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 244.36
+		intervals: size = 30
+		intervals [1]:
+			xmin = 0.0
+			xmax = 10.62
+			text = ""
+		intervals [2]:
+			xmin = 10.62
+			xmax = 13.3
+			text = "e como é que eram os amigos que visitavam a sua casa eram amigos do"
+		intervals [3]:
+			xmin = 13.3
+			xmax = 84.04
+			text = ""
+		intervals [4]:
+			xmin = 84.04
+			xmax = 84.25
+			text = "tem"
+		intervals [5]:
+			xmin = 84.25
+			xmax = 85.28
+			text = "..."
+		intervals [6]:
+			xmin = 85.28
+			xmax = 88.08
+			text = "uma coisa que eu queria te perguntar inclu que eu achei bem"
+		intervals [7]:
+			xmin = 88.08
+			xmax = 88.99
+			text = "legal o que você falou"
+		intervals [8]:
+			xmin = 88.99
+			xmax = 89.47
+			text = "..."
+		intervals [9]:
+			xmin = 89.47
+			xmax = 90.45
+			text = "que vocês faziam bonecas você"
+		intervals [10]:
+			xmin = 90.45
+			xmax = 91.08
+			text = "..."
+		intervals [11]:
+			xmin = 91.08
+			xmax = 92.59
+			text = "consegue lembrar e escrever"
+		intervals [12]:
+			xmin = 92.59
+			xmax = 93.38
+			text = "..."
+		intervals [13]:
+			xmin = 93.38
+			xmax = 98.32
+			text = "como é que era o processo de fazer as bonecas desde que material vocês pegavam até como se fazia você"
+		intervals [14]:
+			xmin = 98.32
+			xmax = 153.35
+			text = ""
+		intervals [15]:
+			xmin = 153.35
+			xmax = 154.95
+			text = "embora vocês faziam também o berimbau"
+		intervals [16]:
+			xmin = 154.95
+			xmax = 156.39
+			text = ""
+		intervals [17]:
+			xmin = 156.39
+			xmax = 156.79
+			text = "de que de"
+		intervals [18]:
+			xmin = 156.79
+			xmax = 157.31
+			text = "..."
+		intervals [19]:
+			xmin = 157.31
+			xmax = 157.98
+			text = ""
+		intervals [20]:
+			xmin = 157.98
+			xmax = 158.15
+			text = "de"
+		intervals [21]:
+			xmin = 158.15
+			xmax = 158.3
+			text = "pau"
+		intervals [22]:
+			xmin = 158.3
+			xmax = 190.7
+			text = ""
+		intervals [23]:
+			xmin = 190.7
+			xmax = 192.01
+			text = "quando vocês aprendiam as músicazinhas"
+		intervals [24]:
+			xmin = 192.01
+			xmax = 192.93
+			text = "..."
+		intervals [25]:
+			xmin = 192.93
+			xmax = 193.3
+			text = "todo mundo"
+		intervals [26]:
+			xmin = 193.3
+			xmax = 226.37
+			text = ""
+		intervals [27]:
+			xmin = 226.37
+			xmax = 227.51
+			text = "e como é que era esse circo"
+		intervals [28]:
+			xmin = 227.51
+			xmax = 228.04
+			text = "..."
+		intervals [29]:
+			xmin = 228.04
+			xmax = 228.1
+			text = "hein"
+		intervals [30]:
+			xmin = 228.1
+			xmax = 244.36
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 244.36
+		intervals: size = 35
+		intervals [1]:
+			xmin = 0.0
+			xmax = 10.62
+			text = ""
+		intervals [2]:
+			xmin = 10.62
+			xmax = 12.87
+			text = "e como é que eram os amigos que visitavam a sua casa eram amigos"
+		intervals [3]:
+			xmin = 12.87
+			xmax = 13.16
+			text = "..."
+		intervals [4]:
+			xmin = 13.16
+			xmax = 13.3
+			text = "do"
+		intervals [5]:
+			xmin = 13.3
+			xmax = 84.04
+			text = ""
+		intervals [6]:
+			xmin = 84.04
+			xmax = 84.25
+			text = "tem"
+		intervals [7]:
+			xmin = 84.25
+			xmax = 85.28
+			text = "..."
+		intervals [8]:
+			xmin = 85.28
+			xmax = 87.85
+			text = "uma coisa que eu queria te perguntar inclu que eu achei bem"
+		intervals [9]:
+			xmin = 87.85
+			xmax = 88.08
+			text = "..."
+		intervals [10]:
+			xmin = 88.08
+			xmax = 88.99
+			text = "legal o que você falou"
+		intervals [11]:
+			xmin = 88.99
+			xmax = 89.47
+			text = "..."
+		intervals [12]:
+			xmin = 89.47
+			xmax = 90.45
+			text = "que vocês faziam bonecas você"
+		intervals [13]:
+			xmin = 90.45
+			xmax = 91.08
+			text = "..."
+		intervals [14]:
+			xmin = 91.08
+			xmax = 92.59
+			text = "consegue lembrar e escrever"
+		intervals [15]:
+			xmin = 92.59
+			xmax = 93.38
+			text = "..."
+		intervals [16]:
+			xmin = 93.38
+			xmax = 98.32
+			text = "como é que era o processo de fazer as bonecas desde que material vocês pegavam até como se fazia você"
+		intervals [17]:
+			xmin = 98.32
+			xmax = 98.5
+			text = "..."
+		intervals [18]:
+			xmin = 98.5
+			xmax = 153.35
+			text = ""
+		intervals [19]:
+			xmin = 153.35
+			xmax = 154.95
+			text = "embora vocês faziam também o berimbau"
+		intervals [20]:
+			xmin = 154.95
+			xmax = 156.39
+			text = ""
+		intervals [21]:
+			xmin = 156.39
+			xmax = 156.79
+			text = "de que de"
+		intervals [22]:
+			xmin = 156.79
+			xmax = 157.31
+			text = "..."
+		intervals [23]:
+			xmin = 157.31
+			xmax = 157.98
+			text = ""
+		intervals [24]:
+			xmin = 157.98
+			xmax = 158.04
+			text = "de"
+		intervals [25]:
+			xmin = 158.04
+			xmax = 158.15
+			text = "..."
+		intervals [26]:
+			xmin = 158.15
+			xmax = 158.3
+			text = "pau"
+		intervals [27]:
+			xmin = 158.3
+			xmax = 190.7
+			text = ""
+		intervals [28]:
+			xmin = 190.7
+			xmax = 192.01
+			text = "quando vocês aprendiam as músicazinhas"
+		intervals [29]:
+			xmin = 192.01
+			xmax = 192.93
+			text = "..."
+		intervals [30]:
+			xmin = 192.93
+			xmax = 193.3
+			text = "todo mundo"
+		intervals [31]:
+			xmin = 193.3
+			xmax = 226.37
+			text = ""
+		intervals [32]:
+			xmin = 226.37
+			xmax = 227.51
+			text = "e como é que era esse circo"
+		intervals [33]:
+			xmin = 227.51
+			xmax = 228.04
+			text = "..."
+		intervals [34]:
+			xmin = 228.04
+			xmax = 228.1
+			text = "hein"
+		intervals [35]:
+			xmin = 228.1
+			xmax = 244.36
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 244.36
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 244.36
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 244.36
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 244.36
+			text = ""
