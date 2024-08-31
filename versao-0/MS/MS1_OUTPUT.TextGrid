@@ -1,0 +1,2580 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 528.58
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 528.58
+		intervals: size = 60
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.42
+			text = "e ele valorizava né o ensino"
+		intervals [2]:
+			xmin = 1.42
+			xmax = 16.17
+			text = ""
+		intervals [3]:
+			xmin = 16.17
+			xmax = 17.37
+			text = "e com relação você falou"
+		intervals [4]:
+			xmin = 17.37
+			xmax = 23.36
+			text = "à à ida para a escola né o que que você pode me falar dessa escola dessa primeira escola que você começou a frequentar aqui em são paulo"
+		intervals [5]:
+			xmin = 23.36
+			xmax = 59.04
+			text = ""
+		intervals [6]:
+			xmin = 59.04
+			xmax = 59.85
+			text = "e nessa escola"
+		intervals [7]:
+			xmin = 59.85
+			xmax = 62.69
+			text = "eh você lembra de algum professor assim que te marcou"
+		intervals [8]:
+			xmin = 62.69
+			xmax = 63.15
+			text = "..."
+		intervals [9]:
+			xmin = 63.15
+			xmax = 63.69
+			text = "marcou a sua"
+		intervals [10]:
+			xmin = 63.69
+			xmax = 63.99
+			text = "..."
+		intervals [11]:
+			xmin = 63.99
+			xmax = 64.14
+			text = "sua"
+		intervals [12]:
+			xmin = 64.14
+			xmax = 64.64
+			text = "vida"
+		intervals [13]:
+			xmin = 64.64
+			xmax = 65.01
+			text = "..."
+		intervals [14]:
+			xmin = 65.01
+			xmax = 65.8
+			text = "para o futuro ou"
+		intervals [15]:
+			xmin = 65.8
+			xmax = 66.43
+			text = "..."
+		intervals [16]:
+			xmin = 66.43
+			xmax = 67.29
+			text = "eram todos iguais"
+		intervals [17]:
+			xmin = 67.29
+			xmax = 126.03
+			text = ""
+		intervals [18]:
+			xmin = 126.03
+			xmax = 126.1
+			text = "é"
+		intervals [19]:
+			xmin = 126.1
+			xmax = 126.88
+			text = "..."
+		intervals [20]:
+			xmin = 126.88
+			xmax = 128.8
+			text = ""
+		intervals [21]:
+			xmin = 128.8
+			xmax = 130.03
+			text = "e você pode eh"
+		intervals [22]:
+			xmin = 130.03
+			xmax = 130.46
+			text = "..."
+		intervals [23]:
+			xmin = 130.46
+			xmax = 130.76
+			text = "falar"
+		intervals [24]:
+			xmin = 130.76
+			xmax = 133.74
+			text = "se se foram eles que te influenciaram para o para o futuro"
+		intervals [25]:
+			xmin = 133.74
+			xmax = 134.5
+			text = "..."
+		intervals [26]:
+			xmin = 134.5
+			xmax = 165.6
+			text = ""
+		intervals [27]:
+			xmin = 165.6
+			xmax = 165.67
+			text = "e"
+		intervals [28]:
+			xmin = 165.67
+			xmax = 167.26
+			text = "..."
+		intervals [29]:
+			xmin = 167.26
+			xmax = 167.74
+			text = "aí"
+		intervals [30]:
+			xmin = 167.74
+			xmax = 168.28
+			text = "..."
+		intervals [31]:
+			xmin = 168.28
+			xmax = 169.36
+			text = "do ensino médio"
+		intervals [32]:
+			xmin = 169.36
+			xmax = 169.81
+			text = "..."
+		intervals [33]:
+			xmin = 169.81
+			xmax = 169.87
+			text = "eh"
+		intervals [34]:
+			xmin = 169.87
+			xmax = 170.24
+			text = "..."
+		intervals [35]:
+			xmin = 170.24
+			xmax = 170.93
+			text = "você"
+		intervals [36]:
+			xmin = 170.93
+			xmax = 171.53
+			text = "..."
+		intervals [37]:
+			xmin = 171.53
+			xmax = 172.76
+			text = "foi fazer cursinho"
+		intervals [38]:
+			xmin = 172.76
+			xmax = 173.21
+			text = "foi"
+		intervals [39]:
+			xmin = 173.21
+			xmax = 173.53
+			text = "..."
+		intervals [40]:
+			xmin = 173.53
+			xmax = 174.05
+			text = "como que você"
+		intervals [41]:
+			xmin = 174.05
+			xmax = 174.61
+			text = "..."
+		intervals [42]:
+			xmin = 174.61
+			xmax = 262.49
+			text = ""
+		intervals [43]:
+			xmin = 262.49
+			xmax = 267.12
+			text = "e você fez e eh no noturno você continuou a trabalhar ou parou de trabalhar"
+		intervals [44]:
+			xmin = 267.12
+			xmax = 308.72
+			text = ""
+		intervals [45]:
+			xmin = 308.72
+			xmax = 311.2
+			text = "e terminando assim qual foi o caminho que você"
+		intervals [46]:
+			xmin = 311.2
+			xmax = 311.43
+			text = "que"
+		intervals [47]:
+			xmin = 311.43
+			xmax = 330.47
+			text = ""
+		intervals [48]:
+			xmin = 330.47
+			xmax = 330.91
+			text = "e por que"
+		intervals [49]:
+			xmin = 330.91
+			xmax = 331.31
+			text = "..."
+		intervals [50]:
+			xmin = 331.31
+			xmax = 333.37
+			text = "que você já tinha esse objetivo claro"
+		intervals [51]:
+			xmin = 333.37
+			xmax = 471.26
+			text = ""
+		intervals [52]:
+			xmin = 471.26
+			xmax = 471.48
+			text = "e"
+		intervals [53]:
+			xmin = 471.48
+			xmax = 472.19
+			text = "qual assim"
+		intervals [54]:
+			xmin = 472.19
+			xmax = 472.35
+			text = "o"
+		intervals [55]:
+			xmin = 472.35
+			xmax = 473.12
+			text = "..."
+		intervals [56]:
+			xmin = 473.12
+			xmax = 475.25
+			text = "seu tempo de faculdade o que que você lembra"
+		intervals [57]:
+			xmin = 475.25
+			xmax = 475.95
+			text = "o que que você pode"
+		intervals [58]:
+			xmin = 475.95
+			xmax = 476.29
+			text = "..."
+		intervals [59]:
+			xmin = 476.29
+			xmax = 476.91
+			text = "falar um pouquinho"
+		intervals [60]:
+			xmin = 476.91
+			xmax = 528.58
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 528.58
+		intervals: size = 67
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.42
+			text = "e ele valorizava né o ensino"
+		intervals [2]:
+			xmin = 1.42
+			xmax = 16.17
+			text = ""
+		intervals [3]:
+			xmin = 16.17
+			xmax = 17.37
+			text = "e com relação você falou"
+		intervals [4]:
+			xmin = 17.37
+			xmax = 21.52
+			text = "à à ida para a escola né o que que você pode me falar dessa escola dessa primeira escola que você"
+		intervals [5]:
+			xmin = 21.52
+			xmax = 21.69
+			text = "..."
+		intervals [6]:
+			xmin = 21.69
+			xmax = 23.36
+			text = "começou a frequentar aqui em são paulo"
+		intervals [7]:
+			xmin = 23.36
+			xmax = 59.04
+			text = ""
+		intervals [8]:
+			xmin = 59.04
+			xmax = 59.85
+			text = "e nessa escola"
+		intervals [9]:
+			xmin = 59.85
+			xmax = 62.69
+			text = "eh você lembra de algum professor assim que te marcou"
+		intervals [10]:
+			xmin = 62.69
+			xmax = 63.15
+			text = "..."
+		intervals [11]:
+			xmin = 63.15
+			xmax = 63.69
+			text = "marcou a sua"
+		intervals [12]:
+			xmin = 63.69
+			xmax = 63.99
+			text = "..."
+		intervals [13]:
+			xmin = 63.99
+			xmax = 64.14
+			text = "sua"
+		intervals [14]:
+			xmin = 64.14
+			xmax = 64.64
+			text = "vida"
+		intervals [15]:
+			xmin = 64.64
+			xmax = 65.01
+			text = "..."
+		intervals [16]:
+			xmin = 65.01
+			xmax = 65.8
+			text = "para o futuro ou"
+		intervals [17]:
+			xmin = 65.8
+			xmax = 66.43
+			text = "..."
+		intervals [18]:
+			xmin = 66.43
+			xmax = 66.55
+			text = "eram"
+		intervals [19]:
+			xmin = 66.55
+			xmax = 66.65
+			text = "..."
+		intervals [20]:
+			xmin = 66.65
+			xmax = 67.29
+			text = "todos iguais"
+		intervals [21]:
+			xmin = 67.29
+			xmax = 126.03
+			text = ""
+		intervals [22]:
+			xmin = 126.03
+			xmax = 126.1
+			text = "é"
+		intervals [23]:
+			xmin = 126.1
+			xmax = 126.88
+			text = "..."
+		intervals [24]:
+			xmin = 126.88
+			xmax = 128.8
+			text = ""
+		intervals [25]:
+			xmin = 128.8
+			xmax = 130.03
+			text = "e você pode eh"
+		intervals [26]:
+			xmin = 130.03
+			xmax = 130.46
+			text = "..."
+		intervals [27]:
+			xmin = 130.46
+			xmax = 130.76
+			text = "falar"
+		intervals [28]:
+			xmin = 130.76
+			xmax = 133.74
+			text = "se se foram eles que te influenciaram para o para o futuro"
+		intervals [29]:
+			xmin = 133.74
+			xmax = 134.5
+			text = "..."
+		intervals [30]:
+			xmin = 134.5
+			xmax = 165.6
+			text = ""
+		intervals [31]:
+			xmin = 165.6
+			xmax = 165.67
+			text = "e"
+		intervals [32]:
+			xmin = 165.67
+			xmax = 167.26
+			text = "..."
+		intervals [33]:
+			xmin = 167.26
+			xmax = 167.74
+			text = "aí"
+		intervals [34]:
+			xmin = 167.74
+			xmax = 168.28
+			text = "..."
+		intervals [35]:
+			xmin = 168.28
+			xmax = 169.36
+			text = "do ensino médio"
+		intervals [36]:
+			xmin = 169.36
+			xmax = 169.81
+			text = "..."
+		intervals [37]:
+			xmin = 169.81
+			xmax = 169.87
+			text = "eh"
+		intervals [38]:
+			xmin = 169.87
+			xmax = 170.24
+			text = "..."
+		intervals [39]:
+			xmin = 170.24
+			xmax = 170.93
+			text = "você"
+		intervals [40]:
+			xmin = 170.93
+			xmax = 171.53
+			text = "..."
+		intervals [41]:
+			xmin = 171.53
+			xmax = 172.76
+			text = "foi fazer cursinho"
+		intervals [42]:
+			xmin = 172.76
+			xmax = 173.21
+			text = "foi"
+		intervals [43]:
+			xmin = 173.21
+			xmax = 173.53
+			text = "..."
+		intervals [44]:
+			xmin = 173.53
+			xmax = 174.05
+			text = "como que você"
+		intervals [45]:
+			xmin = 174.05
+			xmax = 174.61
+			text = "..."
+		intervals [46]:
+			xmin = 174.61
+			xmax = 262.65
+			text = ""
+		intervals [47]:
+			xmin = 262.65
+			xmax = 267.12
+			text = "e você fez e eh no noturno você continuou a trabalhar ou parou de trabalhar"
+		intervals [48]:
+			xmin = 267.12
+			xmax = 308.72
+			text = ""
+		intervals [49]:
+			xmin = 308.72
+			xmax = 311.2
+			text = "e terminando assim qual foi o caminho que você"
+		intervals [50]:
+			xmin = 311.2
+			xmax = 311.43
+			text = "que"
+		intervals [51]:
+			xmin = 311.43
+			xmax = 330.47
+			text = ""
+		intervals [52]:
+			xmin = 330.47
+			xmax = 330.91
+			text = "e por que"
+		intervals [53]:
+			xmin = 330.91
+			xmax = 331.31
+			text = "..."
+		intervals [54]:
+			xmin = 331.31
+			xmax = 332.31
+			text = "que você já tinha esse"
+		intervals [55]:
+			xmin = 332.31
+			xmax = 332.54
+			text = "..."
+		intervals [56]:
+			xmin = 332.54
+			xmax = 333.37
+			text = "objetivo claro"
+		intervals [57]:
+			xmin = 333.37
+			xmax = 471.26
+			text = ""
+		intervals [58]:
+			xmin = 471.26
+			xmax = 471.48
+			text = "e"
+		intervals [59]:
+			xmin = 471.48
+			xmax = 472.19
+			text = "qual assim"
+		intervals [60]:
+			xmin = 472.19
+			xmax = 472.35
+			text = "o"
+		intervals [61]:
+			xmin = 472.35
+			xmax = 473.12
+			text = "..."
+		intervals [62]:
+			xmin = 473.12
+			xmax = 475.25
+			text = "seu tempo de faculdade o que que você lembra"
+		intervals [63]:
+			xmin = 475.25
+			xmax = 475.95
+			text = "o que que você pode"
+		intervals [64]:
+			xmin = 475.95
+			xmax = 476.29
+			text = "..."
+		intervals [65]:
+			xmin = 476.29
+			xmax = 476.91
+			text = "falar um pouquinho"
+		intervals [66]:
+			xmin = 476.91
+			xmax = 477.02
+			text = "..."
+		intervals [67]:
+			xmin = 477.02
+			xmax = 528.58
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 528.58
+		intervals: size = 216
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.42
+			text = ""
+		intervals [2]:
+			xmin = 1.42
+			xmax = 4.5
+			text = "valorizava valorizou para as filhas que ele teve depois e"
+		intervals [3]:
+			xmin = 4.5
+			xmax = 4.93
+			text = "..."
+		intervals [4]:
+			xmin = 4.93
+			xmax = 9.81
+			text = "para nós né mais novos que ele se procurou sempre sempre incentivar acho que por conta de não ter"
+		intervals [5]:
+			xmin = 9.81
+			xmax = 10.39
+			text = "..."
+		intervals [6]:
+			xmin = 10.39
+			xmax = 12.23
+			text = "tempo e oportunidade ele"
+		intervals [7]:
+			xmin = 12.23
+			xmax = 12.59
+			text = "..."
+		intervals [8]:
+			xmin = 12.59
+			xmax = 14.07
+			text = "transferia isso para a gente"
+		intervals [9]:
+			xmin = 14.07
+			xmax = 14.13
+			text = "né"
+		intervals [10]:
+			xmin = 14.13
+			xmax = 16.17
+			text = "..."
+		intervals [11]:
+			xmin = 16.17
+			xmax = 23.36
+			text = ""
+		intervals [12]:
+			xmin = 23.36
+			xmax = 42.86
+			text = "era gostoso não foi ruim ir para a escola né muito pelo contrário eu lem tenho boas lembranças da escola inicialmente e e foi legal porque eu ia com esses meus três irmãos nós tínhamos uma diferença de um e meio dois anos né e íamos minha mãe nem acompanhava porque ela trabalhava muito também era perto de casa a gente andava assim uns dois três quarteirões e já estávamos na escola né escola municipal"
+		intervals [13]:
+			xmin = 42.86
+			xmax = 43.8
+			text = "..."
+		intervals [14]:
+			xmin = 43.8
+			xmax = 44.94
+			text = "aqui até a oitava"
+		intervals [15]:
+			xmin = 44.94
+			xmax = 45.45
+			text = "série"
+		intervals [16]:
+			xmin = 45.45
+			xmax = 49.72
+			text = "então ali eu fiz até a oitava série né da da não frequentei o pré porque na minha época"
+		intervals [17]:
+			xmin = 49.72
+			xmax = 50.04
+			text = "..."
+		intervals [18]:
+			xmin = 50.04
+			xmax = 50.7
+			text = "era raro"
+		intervals [19]:
+			xmin = 50.7
+			xmax = 51.1
+			text = "..."
+		intervals [20]:
+			xmin = 51.1
+			xmax = 53.7
+			text = "né assim quem frequentasse o pré você já entrava na primeira"
+		intervals [21]:
+			xmin = 53.7
+			xmax = 54.13
+			text = "série"
+		intervals [22]:
+			xmin = 54.13
+			xmax = 58.88
+			text = "para ser alfabetizado ali e nessa escolinha municipal pertinho de casa eu fiz até a oitava"
+		intervals [23]:
+			xmin = 58.88
+			xmax = 67.29
+			text = ""
+		intervals [24]:
+			xmin = 67.29
+			xmax = 69.48
+			text = "engraçado né eu lembro de alguns"
+		intervals [25]:
+			xmin = 69.48
+			xmax = 69.79
+			text = "..."
+		intervals [26]:
+			xmin = 69.79
+			xmax = 72.2
+			text = "eu lembro de um professor de ciências"
+		intervals [27]:
+			xmin = 72.2
+			xmax = 72.52
+			text = "..."
+		intervals [28]:
+			xmin = 72.52
+			xmax = 74.13
+			text = "já no finalzinho da da"
+		intervals [29]:
+			xmin = 74.13
+			xmax = 74.49
+			text = "..."
+		intervals [30]:
+			xmin = 74.49
+			xmax = 74.98
+			text = "da oitava"
+		intervals [31]:
+			xmin = 74.98
+			xmax = 75.66
+			text = "série"
+		intervals [32]:
+			xmin = 75.66
+			xmax = 75.75
+			text = "que"
+		intervals [33]:
+			xmin = 75.75
+			xmax = 76.09
+			text = "..."
+		intervals [34]:
+			xmin = 76.09
+			xmax = 83.0
+			text = "ele era bem diferente dos demais bem diferente assim no sentido que eu achava mais moderno vamos ver se eu se eu consigo me explicar"
+		intervals [35]:
+			xmin = 83.0
+			xmax = 83.99
+			text = "..."
+		intervals [36]:
+			xmin = 83.99
+			xmax = 85.21
+			text = "ele"
+		intervals [37]:
+			xmin = 85.21
+			xmax = 86.02
+			text = "..."
+		intervals [38]:
+			xmin = 86.02
+			xmax = 88.44
+			text = "ãh nós vivíamos a ditadura militar né"
+		intervals [39]:
+			xmin = 88.44
+			xmax = 89.03
+			text = "..."
+		intervals [40]:
+			xmin = 89.03
+			xmax = 96.56
+			text = "e eu não sentia isso na época depois que eu fui relacionar a postura dele né mais radical de mostrar coisas diferentes"
+		intervals [41]:
+			xmin = 96.56
+			xmax = 96.94
+			text = "..."
+		intervals [42]:
+			xmin = 96.94
+			xmax = 103.19
+			text = "eh de trazer uma aula diferenciada não me lembro infelizmente não me lembro o nome dele era um professor de ciências que eu acho que até que naquela"
+		intervals [43]:
+			xmin = 103.19
+			xmax = 103.9
+			text = "situação"
+		intervals [44]:
+			xmin = 103.9
+			xmax = 107.81
+			text = "ele devia se arriscar né claro que essa compreensão eu fui ter depois na época não"
+		intervals [45]:
+			xmin = 107.81
+			xmax = 108.23
+			text = "..."
+		intervals [46]:
+			xmin = 108.23
+			xmax = 108.55
+			text = "eu só"
+		intervals [47]:
+			xmin = 108.55
+			xmax = 110.79
+			text = "ficava maravilhada com ele porque eu achava diferente"
+		intervals [48]:
+			xmin = 110.79
+			xmax = 111.14
+			text = "..."
+		intervals [49]:
+			xmin = 111.14
+			xmax = 119.66
+			text = "o tratamento com a matéria né com os conteúdos eu achava bem interessante e lembro de um professor de matemática pelo qual eu me apaixonei aquelas paixões de"
+		intervals [50]:
+			xmin = 119.66
+			xmax = 120.51
+			text = "..."
+		intervals [51]:
+			xmin = 120.51
+			xmax = 121.45
+			text = "de de"
+		intervals [52]:
+			xmin = 121.45
+			xmax = 121.91
+			text = "..."
+		intervals [53]:
+			xmin = 121.91
+			xmax = 123.55
+			text = "de aluno por professor"
+		intervals [54]:
+			xmin = 123.55
+			xmax = 124.78
+			text = "..."
+		intervals [55]:
+			xmin = 124.78
+			xmax = 125.35
+			text = "que"
+		intervals [56]:
+			xmin = 125.35
+			xmax = 126.03
+			text = "que é comum né"
+		intervals [57]:
+			xmin = 126.03
+			xmax = 126.88
+			text = ""
+		intervals [58]:
+			xmin = 126.88
+			xmax = 128.8
+			text = "e esse eu me lembro o nome era [JC]"
+		intervals [59]:
+			xmin = 128.8
+			xmax = 134.5
+			text = ""
+		intervals [60]:
+			xmin = 134.5
+			xmax = 134.56
+			text = "ah"
+		intervals [61]:
+			xmin = 134.56
+			xmax = 135.17
+			text = "..."
+		intervals [62]:
+			xmin = 135.17
+			xmax = 138.0
+			text = "eu eu me lembro que esse professor de matemática que tinha essa"
+		intervals [63]:
+			xmin = 138.0
+			xmax = 138.68
+			text = "..."
+		intervals [64]:
+			xmin = 138.68
+			xmax = 144.19
+			text = "paixãozinha né juvenil aí me estimulava a fazer todos os cálculos de matemática"
+		intervals [65]:
+			xmin = 144.19
+			xmax = 145.07
+			text = "..."
+		intervals [66]:
+			xmin = 145.07
+			xmax = 149.85
+			text = "que eu não gostava muito mas que gostava de apresentar para ele olha eu fiz"
+		intervals [67]:
+			xmin = 149.85
+			xmax = 150.18
+			text = "..."
+		intervals [68]:
+			xmin = 150.18
+			xmax = 159.98
+			text = "para ser notada né então eu acho que de certa forma era um incentivo a estudar né e esse professor de ciências também que eu achava meio diferente história não me lembro tem algumas outras lembranças"
+		intervals [69]:
+			xmin = 159.98
+			xmax = 160.62
+			text = "..."
+		intervals [70]:
+			xmin = 160.62
+			xmax = 161.16
+			text = "eh"
+		intervals [71]:
+			xmin = 161.16
+			xmax = 165.6
+			text = "vagas assim do restante a minha lembrança de escolar é mais do ensino médio mesmo"
+		intervals [72]:
+			xmin = 165.6
+			xmax = 174.61
+			text = ""
+		intervals [73]:
+			xmin = 174.61
+			xmax = 177.29
+			text = "ah e aí eu tive uma parada né depois da oitava"
+		intervals [74]:
+			xmin = 177.29
+			xmax = 177.81
+			text = "série"
+		intervals [75]:
+			xmin = 177.81
+			xmax = 179.91
+			text = "na minha época ainda tinha o vestibulinho né ali"
+		intervals [76]:
+			xmin = 179.91
+			xmax = 180.35
+			text = "..."
+		intervals [77]:
+			xmin = 180.35
+			xmax = 188.4
+			text = "me lembro que eu prestei o vestibulinho passei e aí eu fu eu ia estudar na anhanguera na lapa na época era concorrido essa história do vestibulinho que agora não tem mais né você"
+		intervals [78]:
+			xmin = 188.4
+			xmax = 188.82
+			text = "..."
+		intervals [79]:
+			xmin = 188.82
+			xmax = 190.33
+			text = "saía do ensino"
+		intervals [80]:
+			xmin = 190.33
+			xmax = 190.92
+			text = "..."
+		intervals [81]:
+			xmin = 190.92
+			xmax = 190.99
+			text = "eh"
+		intervals [82]:
+			xmin = 190.99
+			xmax = 192.55
+			text = "..."
+		intervals [83]:
+			xmin = 192.55
+			xmax = 205.29
+			text = "fundamental dois aí corres corresponderia hoje até oitava né você tinha que prestar esse vestibulinho para entrar numa escola de de ensino médio antigo colegial passei entrei mas nesse exato momento eu já estava com uns quatorze anos"
+		intervals [84]:
+			xmin = 205.29
+			xmax = 205.62
+			text = "..."
+		intervals [85]:
+			xmin = 205.62
+			xmax = 209.49
+			text = "eu queria trabalhar todo mundo trabalhava eu não trabalhava não tinha dinheiro"
+		intervals [86]:
+			xmin = 209.49
+			xmax = 209.88
+			text = "..."
+		intervals [87]:
+			xmin = 209.88
+			xmax = 217.97
+			text = "dependia muito né então eu quis trabalhar e começando o primeiro ano do do do colegial eu fui trabalhar isso me atrapalhou muito"
+		intervals [88]:
+			xmin = 217.97
+			xmax = 218.33
+			text = "..."
+		intervals [89]:
+			xmin = 218.33
+			xmax = 220.31
+			text = "muito eu não conseguia conciliar"
+		intervals [90]:
+			xmin = 220.31
+			xmax = 220.97
+			text = "..."
+		intervals [91]:
+			xmin = 220.97
+			xmax = 226.34
+			text = "e aí parei de estudar isso foi uma coisa bem negativa porque nessa parada eu fiquei acho que uns dois"
+		intervals [92]:
+			xmin = 226.34
+			xmax = 226.9
+			text = "..."
+		intervals [93]:
+			xmin = 226.9
+			xmax = 237.09
+			text = "três anos pensando também em trabalhar isso aí me preju entrando em outra escola acabei tentando fazer uma escola técnica secretariado não gostei fiquei meio perdida aí vamos dizer assim né"
+		intervals [94]:
+			xmin = 237.09
+			xmax = 237.84
+			text = "..."
+		intervals [95]:
+			xmin = 237.84
+			xmax = 240.3
+			text = "nessa parada de três anos o que acabou"
+		intervals [96]:
+			xmin = 240.3
+			xmax = 241.1
+			text = "..."
+		intervals [97]:
+			xmin = 241.1
+			xmax = 242.77
+			text = "retardando um pouco depois né"
+		intervals [98]:
+			xmin = 242.77
+			xmax = 243.99
+			text = "..."
+		intervals [99]:
+			xmin = 243.99
+			xmax = 244.88
+			text = "a depois retomei"
+		intervals [100]:
+			xmin = 244.88
+			xmax = 245.43
+			text = "..."
+		intervals [101]:
+			xmin = 245.43
+			xmax = 250.16
+			text = "fiz o ensino médio público ali também na freguesia na augusto ribeiro de carvalho"
+		intervals [102]:
+			xmin = 250.16
+			xmax = 251.14
+			text = "..."
+		intervals [103]:
+			xmin = 251.14
+			xmax = 261.17
+			text = "fica ali perto da ponte do piquiri né uma escola que era muito boa na época tinha professores excelentes daí eu tenho várias recordações de vários deles né essa escola eu gostava bastante e"
+		intervals [104]:
+			xmin = 261.17
+			xmax = 261.76
+			text = "..."
+		intervals [105]:
+			xmin = 261.76
+			xmax = 262.49
+			text = "aí concluí"
+		intervals [106]:
+			xmin = 262.49
+			xmax = 267.12
+			text = ""
+		intervals [107]:
+			xmin = 267.12
+			xmax = 267.96
+			text = "teve uma época que eu"
+		intervals [108]:
+			xmin = 267.96
+			xmax = 268.27
+			text = "..."
+		intervals [109]:
+			xmin = 268.27
+			xmax = 274.12
+			text = "trabalhei meio período numa academia e aí eu trabalhava estudava de manhã ia para a academia à tarde"
+		intervals [110]:
+			xmin = 274.12
+			xmax = 276.83
+			text = "depois arrumei outro emprego fui para o noturno também tinha essas"
+		intervals [111]:
+			xmin = 276.83
+			xmax = 277.36
+			text = "..."
+		intervals [112]:
+			xmin = 277.36
+			xmax = 278.71
+			text = "essas mexidas e o trabalho"
+		intervals [113]:
+			xmin = 278.71
+			xmax = 279.21
+			text = "sempre"
+		intervals [114]:
+			xmin = 279.21
+			xmax = 280.87
+			text = "prejudicou eu sempre achei que"
+		intervals [115]:
+			xmin = 280.87
+			xmax = 281.43
+			text = "..."
+		intervals [116]:
+			xmin = 281.43
+			xmax = 283.88
+			text = "e aí no ensino médio quando eu voltei com uma carga"
+		intervals [117]:
+			xmin = 283.88
+			xmax = 284.49
+			text = "..."
+		intervals [118]:
+			xmin = 284.49
+			xmax = 293.0
+			text = "maior com vontade de de retomar depois de três anos parada né eu sentia que o trabalho prejudicava bastante as leituras os trabalhos que tinha que fazer e"
+		intervals [119]:
+			xmin = 293.0
+			xmax = 295.14
+			text = "hoje eu sinto que que é realmente o papel de um aluno"
+		intervals [120]:
+			xmin = 295.14
+			xmax = 295.76
+			text = "..."
+		intervals [121]:
+			xmin = 295.76
+			xmax = 297.35
+			text = "trabalhador não é fácil"
+		intervals [122]:
+			xmin = 297.35
+			xmax = 299.16
+			text = "é muito melhor quando você se dedica"
+		intervals [123]:
+			xmin = 299.16
+			xmax = 300.47
+			text = "..."
+		intervals [124]:
+			xmin = 300.47
+			xmax = 308.72
+			text = "né plenamente àquela atividade mas deu deu para retomar fiz fiz acho que fiz até com seriedade e terminei em meados da década de oitenta"
+		intervals [125]:
+			xmin = 308.72
+			xmax = 311.43
+			text = ""
+		intervals [126]:
+			xmin = 311.43
+			xmax = 312.99
+			text = "então é já"
+		intervals [127]:
+			xmin = 312.99
+			xmax = 314.26
+			text = "no no final no final"
+		intervals [128]:
+			xmin = 314.26
+			xmax = 314.97
+			text = "..."
+		intervals [129]:
+			xmin = 314.97
+			xmax = 318.03
+			text = "do terceiro ano eu já prestei prestei a puc"
+		intervals [130]:
+			xmin = 318.03
+			xmax = 319.51
+			text = "..."
+		intervals [131]:
+			xmin = 319.51
+			xmax = 322.62
+			text = "por indicação né de um professor que eu gostava muito [Z]"
+		intervals [132]:
+			xmin = 322.62
+			xmax = 325.85
+			text = "de geografia e nessa época eu já tinha claro que eu queria fazer história né e"
+		intervals [133]:
+			xmin = 325.85
+			xmax = 328.33
+			text = "queria fazer história na puc e aí prestei passei e"
+		intervals [134]:
+			xmin = 328.33
+			xmax = 328.9
+			text = "..."
+		intervals [135]:
+			xmin = 328.9
+			xmax = 330.21
+			text = "estou aí nessa vida até hoje"
+		intervals [136]:
+			xmin = 330.21
+			xmax = 333.37
+			text = ""
+		intervals [137]:
+			xmin = 333.37
+			xmax = 337.45
+			text = "ah e aí é uma longa história o porquê da escolha né de de história"
+		intervals [138]:
+			xmin = 337.45
+			xmax = 339.5
+			text = "..."
+		intervals [139]:
+			xmin = 339.5
+			xmax = 344.85
+			text = "eh entrando no no ensino médio né eu tive um namorado muito interessante muito interessante"
+		intervals [140]:
+			xmin = 344.85
+			xmax = 345.65
+			text = "..."
+		intervals [141]:
+			xmin = 345.65
+			xmax = 352.58
+			text = "chamavase [GB] era um menino assim por volta de quinze anos muito envolvido na política né na naquela época"
+		intervals [142]:
+			xmin = 352.58
+			xmax = 352.94
+			text = "..."
+		intervals [143]:
+			xmin = 352.94
+			xmax = 362.18
+			text = "ele estava participando de algum de algumas reuniões clandestinas né do ele não era ainda afiliado né mas ele era muito interessado pelas questões políticas lia muito"
+		intervals [144]:
+			xmin = 362.18
+			xmax = 362.49
+			text = "..."
+		intervals [145]:
+			xmin = 362.49
+			xmax = 367.39
+			text = "mas ele era meio anarquista também ele não tinha muito uma definição ele lia com quinze anos"
+		intervals [146]:
+			xmin = 367.39
+			xmax = 368.13
+			text = "..."
+		intervals [147]:
+			xmin = 368.13
+			xmax = 368.89
+			text = "bakunin"
+		intervals [148]:
+			xmin = 368.89
+			xmax = 369.23
+			text = "..."
+		intervals [149]:
+			xmin = 369.23
+			xmax = 377.81
+			text = "né assim proudhon eu acho que ele me influenciou muito porque eu também comecei a ler algumas coisas e e e já começa um pouco a essa ideia de fazer história um pouco que"
+		intervals [150]:
+			xmin = 377.81
+			xmax = 378.96
+			text = "estimulada"
+		intervals [151]:
+			xmin = 378.96
+			xmax = 380.46
+			text = "pelas questões políticas que"
+		intervals [152]:
+			xmin = 380.46
+			xmax = 380.84
+			text = "..."
+		intervals [153]:
+			xmin = 380.84
+			xmax = 381.94
+			text = "começavam a aflorar"
+		intervals [154]:
+			xmin = 381.94
+			xmax = 382.28
+			text = "..."
+		intervals [155]:
+			xmin = 382.28
+			xmax = 383.52
+			text = "né em mim naquela época"
+		intervals [156]:
+			xmin = 383.52
+			xmax = 383.94
+			text = "..."
+		intervals [157]:
+			xmin = 383.94
+			xmax = 388.26
+			text = "coincidindo com alguns movimentos de abertura do país foi decisivo eu acho"
+		intervals [158]:
+			xmin = 388.26
+			xmax = 388.79
+			text = "..."
+		intervals [159]:
+			xmin = 388.79
+			xmax = 391.24
+			text = "né na na escolher história tinha a ver com"
+		intervals [160]:
+			xmin = 391.24
+			xmax = 391.92
+			text = "..."
+		intervals [161]:
+			xmin = 391.92
+			xmax = 397.38
+			text = "entender melhor essas questões políticas que eu estava me interessando dia a dia mesmo depois não estando mais com"
+		intervals [162]:
+			xmin = 397.38
+			xmax = 398.1
+			text = "ele"
+		intervals [163]:
+			xmin = 398.1
+			xmax = 398.63
+			text = "..."
+		intervals [164]:
+			xmin = 398.63
+			xmax = 400.31
+			text = "né eh eu comecei ah"
+		intervals [165]:
+			xmin = 400.31
+			xmax = 400.92
+			text = "..."
+		intervals [166]:
+			xmin = 400.92
+			xmax = 409.28
+			text = "a militar na u jota esse na época já ouviu falar da u jota esse a união da juventude socialista ela foi criada inclusive nessa época aí mais ou menos"
+		intervals [167]:
+			xmin = 409.28
+			xmax = 409.61
+			text = "..."
+		intervals [168]:
+			xmin = 409.61
+			xmax = 411.97
+			text = "meados dos anos oitenta oitenta e seis"
+		intervals [169]:
+			xmin = 411.97
+			xmax = 412.33
+			text = "..."
+		intervals [170]:
+			xmin = 412.33
+			xmax = 416.59
+			text = "e quem fundou foi o aldo rebelo e aí nós íamos até numas reuniões e o aldo rebelo"
+		intervals [171]:
+			xmin = 416.59
+			xmax = 417.37
+			text = "..."
+		intervals [172]:
+			xmin = 417.37
+			xmax = 419.98
+			text = "ali na rua da abolição no centro era de formação o"
+		intervals [173]:
+			xmin = 419.98
+			xmax = 420.48
+			text = "..."
+		intervals [174]:
+			xmin = 420.48
+			xmax = 430.01
+			text = "objetivo era que a gente discutisse textos né e o aldo rebelo sentava fazia cafezinho para gente era interessante né eu era apaixonada também pelo aldo rebelo naquela época achava que"
+		intervals [175]:
+			xmin = 430.01
+			xmax = 430.5
+			text = "..."
+		intervals [176]:
+			xmin = 430.5
+			xmax = 430.99
+			text = "o cara era"
+		intervals [177]:
+			xmin = 430.99
+			xmax = 431.43
+			text = "o"
+		intervals [178]:
+			xmin = 431.43
+			xmax = 440.64
+			text = "maior dos revolucionários que eu estava conhecendo tendo contato ele estava recémchegado de alagoas ele era jornalista né e o aldo vem fazer esse trabalho"
+		intervals [179]:
+			xmin = 440.64
+			xmax = 440.96
+			text = "..."
+		intervals [180]:
+			xmin = 440.96
+			xmax = 442.55
+			text = "né fundando a u jota esse"
+		intervals [181]:
+			xmin = 442.55
+			xmax = 442.92
+			text = "..."
+		intervals [182]:
+			xmin = 442.92
+			xmax = 448.78
+			text = "que depois vai ter continuidade até o lindenberg farias né aquele mais jovem eleito ele foi também um"
+		intervals [183]:
+			xmin = 448.78
+			xmax = 449.53
+			text = "..."
+		intervals [184]:
+			xmin = 449.53
+			xmax = 451.82
+			text = "um dos expoentes mas até aí eu já não estava mais"
+		intervals [185]:
+			xmin = 451.82
+			xmax = 452.51
+			text = "..."
+		intervals [186]:
+			xmin = 452.51
+			xmax = 454.3
+			text = "na u jota esse isso também foi"
+		intervals [187]:
+			xmin = 454.3
+			xmax = 454.6
+			text = "..."
+		intervals [188]:
+			xmin = 454.6
+			xmax = 461.94
+			text = "interessante né isso vai me despertando outras outros interesses né pela história pela compreensão acho que então"
+		intervals [189]:
+			xmin = 461.94
+			xmax = 462.33
+			text = "..."
+		intervals [190]:
+			xmin = 462.33
+			xmax = 466.13
+			text = "tem muito a ver com isso tem a ver também com a influência de alguns professores"
+		intervals [191]:
+			xmin = 466.13
+			xmax = 466.49
+			text = "..."
+		intervals [192]:
+			xmin = 466.49
+			xmax = 469.2
+			text = "no ensino médio por isso que eu falo que a minha lembrança"
+		intervals [193]:
+			xmin = 469.2
+			xmax = 470.03
+			text = "..."
+		intervals [194]:
+			xmin = 470.03
+			xmax = 471.26
+			text = "maior é do ensino médio"
+		intervals [195]:
+			xmin = 471.26
+			xmax = 476.91
+			text = ""
+		intervals [196]:
+			xmin = 476.91
+			xmax = 481.38
+			text = "ah foi muito rico também nossa lembro com muito carinho né dos meus anos de de de de"
+		intervals [197]:
+			xmin = 481.38
+			xmax = 481.82
+			text = "..."
+		intervals [198]:
+			xmin = 481.82
+			xmax = 482.92
+			text = "faculdade então"
+		intervals [199]:
+			xmin = 482.92
+			xmax = 483.58
+			text = "..."
+		intervals [200]:
+			xmin = 483.58
+			xmax = 489.51
+			text = "eh eu comecei na puc oitenta e sete oitenta e sete"
+		intervals [201]:
+			xmin = 489.51
+			xmax = 489.54
+			text = "e"
+		intervals [202]:
+			xmin = 489.54
+			xmax = 489.91
+			text = "..."
+		intervals [203]:
+			xmin = 489.91
+			xmax = 496.23
+			text = "tudo era um pouco amedrontador também porque você lidava ali com realidades muito diferentes"
+		intervals [204]:
+			xmin = 496.23
+			xmax = 496.74
+			text = "..."
+		intervals [205]:
+			xmin = 496.74
+			xmax = 497.74
+			text = "eh"
+		intervals [206]:
+			xmin = 497.74
+			xmax = 498.12
+			text = "mas"
+		intervals [207]:
+			xmin = 498.12
+			xmax = 499.85
+			text = "..."
+		intervals [208]:
+			xmin = 499.85
+			xmax = 507.08
+			text = "ao mesmo tempo rica realidade diferente que eu digo assim eu eu saio de uma escola pública com já com algumas deficiências de formação"
+		intervals [209]:
+			xmin = 507.08
+			xmax = 507.5
+			text = "..."
+		intervals [210]:
+			xmin = 507.5
+			xmax = 512.25
+			text = "e eu me deparo com um grupo principalmente da manhã que uma parte também de desse meu curso eu fazia de manhã"
+		intervals [211]:
+			xmin = 512.25
+			xmax = 512.67
+			text = "..."
+		intervals [212]:
+			xmin = 512.67
+			xmax = 518.38
+			text = "com um grupo com uma realidade bastante mais diferente da minha não sei se hoje tem isso na puc né"
+		intervals [213]:
+			xmin = 518.38
+			xmax = 518.69
+			text = "..."
+		intervals [214]:
+			xmin = 518.69
+			xmax = 524.1
+			text = "mas na minha época tinha você tinha assim pessoas que sa dominavam amplamente inglês francês"
+		intervals [215]:
+			xmin = 524.1
+			xmax = 524.44
+			text = "..."
+		intervals [216]:
+			xmin = 524.44
+			xmax = 528.58
+			text = "um bom número né então que vinham com uma formação vinham de escolas particulares"
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 528.58
+		intervals: size = 289
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.42
+			text = ""
+		intervals [2]:
+			xmin = 1.42
+			xmax = 4.5
+			text = "valorizava valorizou para as filhas que ele teve depois e"
+		intervals [3]:
+			xmin = 4.5
+			xmax = 4.93
+			text = "..."
+		intervals [4]:
+			xmin = 4.93
+			xmax = 8.2
+			text = "para nós né mais novos que ele se procurou sempre sempre incentivar"
+		intervals [5]:
+			xmin = 8.2
+			xmax = 8.48
+			text = "..."
+		intervals [6]:
+			xmin = 8.48
+			xmax = 9.81
+			text = "acho que por conta de não ter"
+		intervals [7]:
+			xmin = 9.81
+			xmax = 10.39
+			text = "..."
+		intervals [8]:
+			xmin = 10.39
+			xmax = 12.23
+			text = "tempo e oportunidade ele"
+		intervals [9]:
+			xmin = 12.23
+			xmax = 12.59
+			text = "..."
+		intervals [10]:
+			xmin = 12.59
+			xmax = 14.07
+			text = "transferia isso para a gente"
+		intervals [11]:
+			xmin = 14.07
+			xmax = 14.13
+			text = "né"
+		intervals [12]:
+			xmin = 14.13
+			xmax = 16.17
+			text = "..."
+		intervals [13]:
+			xmin = 16.17
+			xmax = 23.36
+			text = ""
+		intervals [14]:
+			xmin = 23.36
+			xmax = 32.33
+			text = "era gostoso não foi ruim ir para a escola né muito pelo contrário eu lem tenho boas lembranças da escola inicialmente e e foi legal porque eu ia com esses meus três irmãos nós tínhamos uma"
+		intervals [15]:
+			xmin = 32.33
+			xmax = 32.59
+			text = "..."
+		intervals [16]:
+			xmin = 32.59
+			xmax = 42.86
+			text = "diferença de um e meio dois anos né e íamos minha mãe nem acompanhava porque ela trabalhava muito também era perto de casa a gente andava assim uns dois três quarteirões e já estávamos na escola né escola municipal"
+		intervals [17]:
+			xmin = 42.86
+			xmax = 43.8
+			text = "..."
+		intervals [18]:
+			xmin = 43.8
+			xmax = 44.94
+			text = "aqui até a oitava"
+		intervals [19]:
+			xmin = 44.94
+			xmax = 45.45
+			text = "série"
+		intervals [20]:
+			xmin = 45.45
+			xmax = 47.01
+			text = "então ali eu fiz até a oitava série"
+		intervals [21]:
+			xmin = 47.01
+			xmax = 47.11
+			text = "..."
+		intervals [22]:
+			xmin = 47.11
+			xmax = 49.72
+			text = "né da da não frequentei o pré porque na minha época"
+		intervals [23]:
+			xmin = 49.72
+			xmax = 50.04
+			text = "..."
+		intervals [24]:
+			xmin = 50.04
+			xmax = 50.7
+			text = "era raro"
+		intervals [25]:
+			xmin = 50.7
+			xmax = 51.1
+			text = "..."
+		intervals [26]:
+			xmin = 51.1
+			xmax = 53.7
+			text = "né assim quem frequentasse o pré você já entrava na primeira"
+		intervals [27]:
+			xmin = 53.7
+			xmax = 54.13
+			text = "série"
+		intervals [28]:
+			xmin = 54.13
+			xmax = 58.88
+			text = "para ser alfabetizado ali e nessa escolinha municipal pertinho de casa eu fiz até a oitava"
+		intervals [29]:
+			xmin = 58.88
+			xmax = 59.04
+			text = "..."
+		intervals [30]:
+			xmin = 59.04
+			xmax = 67.29
+			text = ""
+		intervals [31]:
+			xmin = 67.29
+			xmax = 69.48
+			text = "engraçado né eu lembro de alguns"
+		intervals [32]:
+			xmin = 69.48
+			xmax = 69.79
+			text = "..."
+		intervals [33]:
+			xmin = 69.79
+			xmax = 72.2
+			text = "eu lembro de um professor de ciências"
+		intervals [34]:
+			xmin = 72.2
+			xmax = 72.52
+			text = "..."
+		intervals [35]:
+			xmin = 72.52
+			xmax = 74.13
+			text = "já no finalzinho da da"
+		intervals [36]:
+			xmin = 74.13
+			xmax = 74.49
+			text = "..."
+		intervals [37]:
+			xmin = 74.49
+			xmax = 74.98
+			text = "da oitava"
+		intervals [38]:
+			xmin = 74.98
+			xmax = 75.66
+			text = "série"
+		intervals [39]:
+			xmin = 75.66
+			xmax = 75.75
+			text = "que"
+		intervals [40]:
+			xmin = 75.75
+			xmax = 76.09
+			text = "..."
+		intervals [41]:
+			xmin = 76.09
+			xmax = 81.76
+			text = "ele era bem diferente dos demais bem diferente assim no sentido que eu achava mais moderno vamos ver se eu"
+		intervals [42]:
+			xmin = 81.76
+			xmax = 81.94
+			text = "..."
+		intervals [43]:
+			xmin = 81.94
+			xmax = 83.0
+			text = "se eu consigo me explicar"
+		intervals [44]:
+			xmin = 83.0
+			xmax = 83.99
+			text = "..."
+		intervals [45]:
+			xmin = 83.99
+			xmax = 85.21
+			text = "ele"
+		intervals [46]:
+			xmin = 85.21
+			xmax = 86.02
+			text = "..."
+		intervals [47]:
+			xmin = 86.02
+			xmax = 88.0
+			text = "ãh nós vivíamos a ditadura militar"
+		intervals [48]:
+			xmin = 88.0
+			xmax = 88.26
+			text = "..."
+		intervals [49]:
+			xmin = 88.26
+			xmax = 88.44
+			text = "né"
+		intervals [50]:
+			xmin = 88.44
+			xmax = 89.03
+			text = "..."
+		intervals [51]:
+			xmin = 89.03
+			xmax = 93.28
+			text = "e eu não sentia isso na época depois que eu fui relacionar a postura dele"
+		intervals [52]:
+			xmin = 93.28
+			xmax = 93.57
+			text = "..."
+		intervals [53]:
+			xmin = 93.57
+			xmax = 96.56
+			text = "né mais radical de mostrar coisas diferentes"
+		intervals [54]:
+			xmin = 96.56
+			xmax = 96.94
+			text = "..."
+		intervals [55]:
+			xmin = 96.94
+			xmax = 103.19
+			text = "eh de trazer uma aula diferenciada não me lembro infelizmente não me lembro o nome dele era um professor de ciências que eu acho que até que naquela"
+		intervals [56]:
+			xmin = 103.19
+			xmax = 103.9
+			text = "situação"
+		intervals [57]:
+			xmin = 103.9
+			xmax = 104.98
+			text = "ele devia se arriscar"
+		intervals [58]:
+			xmin = 104.98
+			xmax = 105.17
+			text = "..."
+		intervals [59]:
+			xmin = 105.17
+			xmax = 107.81
+			text = "né claro que essa compreensão eu fui ter depois na época não"
+		intervals [60]:
+			xmin = 107.81
+			xmax = 108.23
+			text = "..."
+		intervals [61]:
+			xmin = 108.23
+			xmax = 108.55
+			text = "eu só"
+		intervals [62]:
+			xmin = 108.55
+			xmax = 110.79
+			text = "ficava maravilhada com ele porque eu achava diferente"
+		intervals [63]:
+			xmin = 110.79
+			xmax = 111.14
+			text = "..."
+		intervals [64]:
+			xmin = 111.14
+			xmax = 115.13
+			text = "o tratamento com a matéria né com os conteúdos eu achava bem interessante"
+		intervals [65]:
+			xmin = 115.13
+			xmax = 115.24
+			text = "..."
+		intervals [66]:
+			xmin = 115.24
+			xmax = 116.81
+			text = "e lembro de um professor de matemática"
+		intervals [67]:
+			xmin = 116.81
+			xmax = 117.11
+			text = "..."
+		intervals [68]:
+			xmin = 117.11
+			xmax = 119.66
+			text = "pelo qual eu me apaixonei aquelas paixões de"
+		intervals [69]:
+			xmin = 119.66
+			xmax = 120.51
+			text = "..."
+		intervals [70]:
+			xmin = 120.51
+			xmax = 121.45
+			text = "de de"
+		intervals [71]:
+			xmin = 121.45
+			xmax = 121.91
+			text = "..."
+		intervals [72]:
+			xmin = 121.91
+			xmax = 123.55
+			text = "de aluno por professor"
+		intervals [73]:
+			xmin = 123.55
+			xmax = 124.78
+			text = "..."
+		intervals [74]:
+			xmin = 124.78
+			xmax = 125.06
+			text = "que"
+		intervals [75]:
+			xmin = 125.06
+			xmax = 125.35
+			text = "..."
+		intervals [76]:
+			xmin = 125.35
+			xmax = 126.03
+			text = "que é comum né"
+		intervals [77]:
+			xmin = 126.03
+			xmax = 126.88
+			text = ""
+		intervals [78]:
+			xmin = 126.88
+			xmax = 128.8
+			text = "e esse eu me lembro o nome era [JC]"
+		intervals [79]:
+			xmin = 128.8
+			xmax = 134.5
+			text = ""
+		intervals [80]:
+			xmin = 134.5
+			xmax = 134.56
+			text = "ah"
+		intervals [81]:
+			xmin = 134.56
+			xmax = 135.17
+			text = "..."
+		intervals [82]:
+			xmin = 135.17
+			xmax = 138.0
+			text = "eu eu me lembro que esse professor de matemática que tinha essa"
+		intervals [83]:
+			xmin = 138.0
+			xmax = 138.68
+			text = "..."
+		intervals [84]:
+			xmin = 138.68
+			xmax = 140.88
+			text = "paixãozinha né juvenil aí me"
+		intervals [85]:
+			xmin = 140.88
+			xmax = 141.11
+			text = "..."
+		intervals [86]:
+			xmin = 141.11
+			xmax = 144.19
+			text = "estimulava a fazer todos os cálculos de matemática"
+		intervals [87]:
+			xmin = 144.19
+			xmax = 145.07
+			text = "..."
+		intervals [88]:
+			xmin = 145.07
+			xmax = 146.86
+			text = "que eu não gostava muito mas que"
+		intervals [89]:
+			xmin = 146.86
+			xmax = 147.12
+			text = "..."
+		intervals [90]:
+			xmin = 147.12
+			xmax = 149.85
+			text = "gostava de apresentar para ele olha eu fiz"
+		intervals [91]:
+			xmin = 149.85
+			xmax = 150.18
+			text = "..."
+		intervals [92]:
+			xmin = 150.18
+			xmax = 152.56
+			text = "para ser notada né então eu acho que de certa forma"
+		intervals [93]:
+			xmin = 152.56
+			xmax = 152.77
+			text = "..."
+		intervals [94]:
+			xmin = 152.77
+			xmax = 154.24
+			text = "era um incentivo a estudar"
+		intervals [95]:
+			xmin = 154.24
+			xmax = 154.47
+			text = "..."
+		intervals [96]:
+			xmin = 154.47
+			xmax = 159.98
+			text = "né e esse professor de ciências também que eu achava meio diferente história não me lembro tem algumas outras lembranças"
+		intervals [97]:
+			xmin = 159.98
+			xmax = 160.62
+			text = "..."
+		intervals [98]:
+			xmin = 160.62
+			xmax = 161.16
+			text = "eh"
+		intervals [99]:
+			xmin = 161.16
+			xmax = 165.6
+			text = "vagas assim do restante a minha lembrança de escolar é mais do ensino médio mesmo"
+		intervals [100]:
+			xmin = 165.6
+			xmax = 174.61
+			text = ""
+		intervals [101]:
+			xmin = 174.61
+			xmax = 177.29
+			text = "ah e aí eu tive uma parada né depois da oitava"
+		intervals [102]:
+			xmin = 177.29
+			xmax = 177.81
+			text = "série"
+		intervals [103]:
+			xmin = 177.81
+			xmax = 179.91
+			text = "na minha época ainda tinha o vestibulinho né ali"
+		intervals [104]:
+			xmin = 179.91
+			xmax = 180.35
+			text = "..."
+		intervals [105]:
+			xmin = 180.35
+			xmax = 188.4
+			text = "me lembro que eu prestei o vestibulinho passei e aí eu fu eu ia estudar na anhanguera na lapa na época era concorrido essa história do vestibulinho que agora não tem mais né você"
+		intervals [106]:
+			xmin = 188.4
+			xmax = 188.82
+			text = "..."
+		intervals [107]:
+			xmin = 188.82
+			xmax = 190.33
+			text = "saía do ensino"
+		intervals [108]:
+			xmin = 190.33
+			xmax = 190.92
+			text = "..."
+		intervals [109]:
+			xmin = 190.92
+			xmax = 190.99
+			text = "eh"
+		intervals [110]:
+			xmin = 190.99
+			xmax = 192.55
+			text = "..."
+		intervals [111]:
+			xmin = 192.55
+			xmax = 195.89
+			text = "fundamental dois aí corres corresponderia hoje até oitava né"
+		intervals [112]:
+			xmin = 195.89
+			xmax = 196.07
+			text = "..."
+		intervals [113]:
+			xmin = 196.07
+			xmax = 203.72
+			text = "você tinha que prestar esse vestibulinho para entrar numa escola de de ensino médio antigo colegial passei entrei mas nesse exato momento eu já estava"
+		intervals [114]:
+			xmin = 203.72
+			xmax = 203.88
+			text = "..."
+		intervals [115]:
+			xmin = 203.88
+			xmax = 205.29
+			text = "com uns quatorze anos"
+		intervals [116]:
+			xmin = 205.29
+			xmax = 205.62
+			text = "..."
+		intervals [117]:
+			xmin = 205.62
+			xmax = 209.49
+			text = "eu queria trabalhar todo mundo trabalhava eu não trabalhava não tinha dinheiro"
+		intervals [118]:
+			xmin = 209.49
+			xmax = 209.88
+			text = "..."
+		intervals [119]:
+			xmin = 209.88
+			xmax = 217.97
+			text = "dependia muito né então eu quis trabalhar e começando o primeiro ano do do do colegial eu fui trabalhar isso me atrapalhou muito"
+		intervals [120]:
+			xmin = 217.97
+			xmax = 218.33
+			text = "..."
+		intervals [121]:
+			xmin = 218.33
+			xmax = 220.31
+			text = "muito eu não conseguia conciliar"
+		intervals [122]:
+			xmin = 220.31
+			xmax = 220.97
+			text = "..."
+		intervals [123]:
+			xmin = 220.97
+			xmax = 221.68
+			text = "e aí"
+		intervals [124]:
+			xmin = 221.68
+			xmax = 221.89
+			text = "..."
+		intervals [125]:
+			xmin = 221.89
+			xmax = 226.34
+			text = "parei de estudar isso foi uma coisa bem negativa porque nessa parada eu fiquei acho que uns dois"
+		intervals [126]:
+			xmin = 226.34
+			xmax = 226.9
+			text = "..."
+		intervals [127]:
+			xmin = 226.9
+			xmax = 237.09
+			text = "três anos pensando também em trabalhar isso aí me preju entrando em outra escola acabei tentando fazer uma escola técnica secretariado não gostei fiquei meio perdida aí vamos dizer assim né"
+		intervals [128]:
+			xmin = 237.09
+			xmax = 237.84
+			text = "..."
+		intervals [129]:
+			xmin = 237.84
+			xmax = 240.3
+			text = "nessa parada de três anos o que acabou"
+		intervals [130]:
+			xmin = 240.3
+			xmax = 241.1
+			text = "..."
+		intervals [131]:
+			xmin = 241.1
+			xmax = 242.77
+			text = "retardando um pouco depois né"
+		intervals [132]:
+			xmin = 242.77
+			xmax = 243.99
+			text = "..."
+		intervals [133]:
+			xmin = 243.99
+			xmax = 244.88
+			text = "a depois retomei"
+		intervals [134]:
+			xmin = 244.88
+			xmax = 245.43
+			text = "..."
+		intervals [135]:
+			xmin = 245.43
+			xmax = 250.16
+			text = "fiz o ensino médio público ali também na freguesia na augusto ribeiro de carvalho"
+		intervals [136]:
+			xmin = 250.16
+			xmax = 251.14
+			text = "..."
+		intervals [137]:
+			xmin = 251.14
+			xmax = 252.84
+			text = "fica ali perto da ponte do piquiri"
+		intervals [138]:
+			xmin = 252.84
+			xmax = 253.06
+			text = "..."
+		intervals [139]:
+			xmin = 253.06
+			xmax = 254.96
+			text = "né uma escola que era muito boa na época"
+		intervals [140]:
+			xmin = 254.96
+			xmax = 255.11
+			text = "..."
+		intervals [141]:
+			xmin = 255.11
+			xmax = 261.17
+			text = "tinha professores excelentes daí eu tenho várias recordações de vários deles né essa escola eu gostava bastante e"
+		intervals [142]:
+			xmin = 261.17
+			xmax = 261.76
+			text = "..."
+		intervals [143]:
+			xmin = 261.76
+			xmax = 262.49
+			text = "aí concluí"
+		intervals [144]:
+			xmin = 262.49
+			xmax = 262.65
+			text = "..."
+		intervals [145]:
+			xmin = 262.65
+			xmax = 267.12
+			text = ""
+		intervals [146]:
+			xmin = 267.12
+			xmax = 267.96
+			text = "teve uma época que eu"
+		intervals [147]:
+			xmin = 267.96
+			xmax = 268.27
+			text = "..."
+		intervals [148]:
+			xmin = 268.27
+			xmax = 271.53
+			text = "trabalhei meio período numa academia e aí eu trabalhava"
+		intervals [149]:
+			xmin = 271.53
+			xmax = 271.64
+			text = "..."
+		intervals [150]:
+			xmin = 271.64
+			xmax = 272.8
+			text = "estudava de manhã ia para"
+		intervals [151]:
+			xmin = 272.8
+			xmax = 273.03
+			text = "..."
+		intervals [152]:
+			xmin = 273.03
+			xmax = 273.07
+			text = "a"
+		intervals [153]:
+			xmin = 273.07
+			xmax = 273.17
+			text = "..."
+		intervals [154]:
+			xmin = 273.17
+			xmax = 274.12
+			text = "academia à tarde"
+		intervals [155]:
+			xmin = 274.12
+			xmax = 276.83
+			text = "depois arrumei outro emprego fui para o noturno também tinha essas"
+		intervals [156]:
+			xmin = 276.83
+			xmax = 277.36
+			text = "..."
+		intervals [157]:
+			xmin = 277.36
+			xmax = 278.71
+			text = "essas mexidas e o trabalho"
+		intervals [158]:
+			xmin = 278.71
+			xmax = 279.21
+			text = "sempre"
+		intervals [159]:
+			xmin = 279.21
+			xmax = 279.78
+			text = "prejudicou"
+		intervals [160]:
+			xmin = 279.78
+			xmax = 280.01
+			text = "..."
+		intervals [161]:
+			xmin = 280.01
+			xmax = 280.87
+			text = "eu sempre achei que"
+		intervals [162]:
+			xmin = 280.87
+			xmax = 281.43
+			text = "..."
+		intervals [163]:
+			xmin = 281.43
+			xmax = 283.88
+			text = "e aí no ensino médio quando eu voltei com uma carga"
+		intervals [164]:
+			xmin = 283.88
+			xmax = 284.49
+			text = "..."
+		intervals [165]:
+			xmin = 284.49
+			xmax = 293.0
+			text = "maior com vontade de de retomar depois de três anos parada né eu sentia que o trabalho prejudicava bastante as leituras os trabalhos que tinha que fazer e"
+		intervals [166]:
+			xmin = 293.0
+			xmax = 295.14
+			text = "hoje eu sinto que que é realmente o papel de um aluno"
+		intervals [167]:
+			xmin = 295.14
+			xmax = 295.76
+			text = "..."
+		intervals [168]:
+			xmin = 295.76
+			xmax = 297.35
+			text = "trabalhador não é fácil"
+		intervals [169]:
+			xmin = 297.35
+			xmax = 299.16
+			text = "é muito melhor quando você se dedica"
+		intervals [170]:
+			xmin = 299.16
+			xmax = 300.47
+			text = "..."
+		intervals [171]:
+			xmin = 300.47
+			xmax = 302.08
+			text = "né plenamente àquela atividade"
+		intervals [172]:
+			xmin = 302.08
+			xmax = 302.28
+			text = "..."
+		intervals [173]:
+			xmin = 302.28
+			xmax = 308.72
+			text = "mas deu deu para retomar fiz fiz acho que fiz até com seriedade e terminei em meados da década de oitenta"
+		intervals [174]:
+			xmin = 308.72
+			xmax = 311.43
+			text = ""
+		intervals [175]:
+			xmin = 311.43
+			xmax = 312.99
+			text = "então é já"
+		intervals [176]:
+			xmin = 312.99
+			xmax = 314.26
+			text = "no no final no final"
+		intervals [177]:
+			xmin = 314.26
+			xmax = 314.97
+			text = "..."
+		intervals [178]:
+			xmin = 314.97
+			xmax = 315.94
+			text = "do terceiro ano eu"
+		intervals [179]:
+			xmin = 315.94
+			xmax = 316.06
+			text = "..."
+		intervals [180]:
+			xmin = 316.06
+			xmax = 316.93
+			text = "já prestei"
+		intervals [181]:
+			xmin = 316.93
+			xmax = 317.09
+			text = "..."
+		intervals [182]:
+			xmin = 317.09
+			xmax = 318.03
+			text = "prestei a puc"
+		intervals [183]:
+			xmin = 318.03
+			xmax = 319.51
+			text = "..."
+		intervals [184]:
+			xmin = 319.51
+			xmax = 322.62
+			text = "por indicação né de um professor que eu gostava muito [Z]"
+		intervals [185]:
+			xmin = 322.62
+			xmax = 325.85
+			text = "de geografia e nessa época eu já tinha claro que eu queria fazer história né e"
+		intervals [186]:
+			xmin = 325.85
+			xmax = 326.78
+			text = "queria fazer história na puc"
+		intervals [187]:
+			xmin = 326.78
+			xmax = 326.94
+			text = "..."
+		intervals [188]:
+			xmin = 326.94
+			xmax = 328.33
+			text = "e aí prestei passei e"
+		intervals [189]:
+			xmin = 328.33
+			xmax = 328.9
+			text = "..."
+		intervals [190]:
+			xmin = 328.9
+			xmax = 330.21
+			text = "estou aí nessa vida até hoje"
+		intervals [191]:
+			xmin = 330.21
+			xmax = 330.47
+			text = "..."
+		intervals [192]:
+			xmin = 330.47
+			xmax = 333.37
+			text = ""
+		intervals [193]:
+			xmin = 333.37
+			xmax = 337.45
+			text = "ah e aí é uma longa história o porquê da escolha né de de história"
+		intervals [194]:
+			xmin = 337.45
+			xmax = 339.5
+			text = "..."
+		intervals [195]:
+			xmin = 339.5
+			xmax = 344.85
+			text = "eh entrando no no ensino médio né eu tive um namorado muito interessante muito interessante"
+		intervals [196]:
+			xmin = 344.85
+			xmax = 345.65
+			text = "..."
+		intervals [197]:
+			xmin = 345.65
+			xmax = 352.58
+			text = "chamavase [GB] era um menino assim por volta de quinze anos muito envolvido na política né na naquela época"
+		intervals [198]:
+			xmin = 352.58
+			xmax = 352.94
+			text = "..."
+		intervals [199]:
+			xmin = 352.94
+			xmax = 362.18
+			text = "ele estava participando de algum de algumas reuniões clandestinas né do ele não era ainda afiliado né mas ele era muito interessado pelas questões políticas lia muito"
+		intervals [200]:
+			xmin = 362.18
+			xmax = 362.49
+			text = "..."
+		intervals [201]:
+			xmin = 362.49
+			xmax = 367.39
+			text = "mas ele era meio anarquista também ele não tinha muito uma definição ele lia com quinze anos"
+		intervals [202]:
+			xmin = 367.39
+			xmax = 368.13
+			text = "..."
+		intervals [203]:
+			xmin = 368.13
+			xmax = 368.89
+			text = "bakunin"
+		intervals [204]:
+			xmin = 368.89
+			xmax = 369.23
+			text = "..."
+		intervals [205]:
+			xmin = 369.23
+			xmax = 377.81
+			text = "né assim proudhon eu acho que ele me influenciou muito porque eu também comecei a ler algumas coisas e e e já começa um pouco a essa ideia de fazer história um pouco que"
+		intervals [206]:
+			xmin = 377.81
+			xmax = 378.96
+			text = "estimulada"
+		intervals [207]:
+			xmin = 378.96
+			xmax = 380.46
+			text = "pelas questões políticas que"
+		intervals [208]:
+			xmin = 380.46
+			xmax = 380.84
+			text = "..."
+		intervals [209]:
+			xmin = 380.84
+			xmax = 381.94
+			text = "começavam a aflorar"
+		intervals [210]:
+			xmin = 381.94
+			xmax = 382.28
+			text = "..."
+		intervals [211]:
+			xmin = 382.28
+			xmax = 383.52
+			text = "né em mim naquela época"
+		intervals [212]:
+			xmin = 383.52
+			xmax = 383.94
+			text = "..."
+		intervals [213]:
+			xmin = 383.94
+			xmax = 388.26
+			text = "coincidindo com alguns movimentos de abertura do país foi decisivo eu acho"
+		intervals [214]:
+			xmin = 388.26
+			xmax = 388.79
+			text = "..."
+		intervals [215]:
+			xmin = 388.79
+			xmax = 391.24
+			text = "né na na escolher história tinha a ver com"
+		intervals [216]:
+			xmin = 391.24
+			xmax = 391.92
+			text = "..."
+		intervals [217]:
+			xmin = 391.92
+			xmax = 397.38
+			text = "entender melhor essas questões políticas que eu estava me interessando dia a dia mesmo depois não estando mais com"
+		intervals [218]:
+			xmin = 397.38
+			xmax = 398.1
+			text = "ele"
+		intervals [219]:
+			xmin = 398.1
+			xmax = 398.63
+			text = "..."
+		intervals [220]:
+			xmin = 398.63
+			xmax = 400.31
+			text = "né eh eu comecei ah"
+		intervals [221]:
+			xmin = 400.31
+			xmax = 400.92
+			text = "..."
+		intervals [222]:
+			xmin = 400.92
+			xmax = 400.95
+			text = "a"
+		intervals [223]:
+			xmin = 400.95
+			xmax = 401.23
+			text = "..."
+		intervals [224]:
+			xmin = 401.23
+			xmax = 409.28
+			text = "militar na u jota esse na época já ouviu falar da u jota esse a união da juventude socialista ela foi criada inclusive nessa época aí mais ou menos"
+		intervals [225]:
+			xmin = 409.28
+			xmax = 409.61
+			text = "..."
+		intervals [226]:
+			xmin = 409.61
+			xmax = 411.97
+			text = "meados dos anos oitenta oitenta e seis"
+		intervals [227]:
+			xmin = 411.97
+			xmax = 412.33
+			text = "..."
+		intervals [228]:
+			xmin = 412.33
+			xmax = 416.59
+			text = "e quem fundou foi o aldo rebelo e aí nós íamos até numas reuniões e o aldo rebelo"
+		intervals [229]:
+			xmin = 416.59
+			xmax = 417.37
+			text = "..."
+		intervals [230]:
+			xmin = 417.37
+			xmax = 419.98
+			text = "ali na rua da abolição no centro era de formação o"
+		intervals [231]:
+			xmin = 419.98
+			xmax = 420.48
+			text = "..."
+		intervals [232]:
+			xmin = 420.48
+			xmax = 430.01
+			text = "objetivo era que a gente discutisse textos né e o aldo rebelo sentava fazia cafezinho para gente era interessante né eu era apaixonada também pelo aldo rebelo naquela época achava que"
+		intervals [233]:
+			xmin = 430.01
+			xmax = 430.5
+			text = "..."
+		intervals [234]:
+			xmin = 430.5
+			xmax = 430.99
+			text = "o cara era"
+		intervals [235]:
+			xmin = 430.99
+			xmax = 431.26
+			text = "o"
+		intervals [236]:
+			xmin = 431.26
+			xmax = 431.43
+			text = "..."
+		intervals [237]:
+			xmin = 431.43
+			xmax = 436.79
+			text = "maior dos revolucionários que eu estava conhecendo tendo contato ele estava recémchegado de alagoas"
+		intervals [238]:
+			xmin = 436.79
+			xmax = 437.02
+			text = "..."
+		intervals [239]:
+			xmin = 437.02
+			xmax = 440.64
+			text = "ele era jornalista né e o aldo vem fazer esse trabalho"
+		intervals [240]:
+			xmin = 440.64
+			xmax = 440.96
+			text = "..."
+		intervals [241]:
+			xmin = 440.96
+			xmax = 442.55
+			text = "né fundando a u jota esse"
+		intervals [242]:
+			xmin = 442.55
+			xmax = 442.92
+			text = "..."
+		intervals [243]:
+			xmin = 442.92
+			xmax = 446.24
+			text = "que depois vai ter continuidade até o lindenberg farias"
+		intervals [244]:
+			xmin = 446.24
+			xmax = 446.46
+			text = "..."
+		intervals [245]:
+			xmin = 446.46
+			xmax = 448.78
+			text = "né aquele mais jovem eleito ele foi também um"
+		intervals [246]:
+			xmin = 448.78
+			xmax = 449.53
+			text = "..."
+		intervals [247]:
+			xmin = 449.53
+			xmax = 451.82
+			text = "um dos expoentes mas até aí eu já não estava mais"
+		intervals [248]:
+			xmin = 451.82
+			xmax = 452.51
+			text = "..."
+		intervals [249]:
+			xmin = 452.51
+			xmax = 454.3
+			text = "na u jota esse isso também foi"
+		intervals [250]:
+			xmin = 454.3
+			xmax = 454.6
+			text = "..."
+		intervals [251]:
+			xmin = 454.6
+			xmax = 460.53
+			text = "interessante né isso vai me despertando outras outros interesses né pela história"
+		intervals [252]:
+			xmin = 460.53
+			xmax = 460.66
+			text = "..."
+		intervals [253]:
+			xmin = 460.66
+			xmax = 461.94
+			text = "pela compreensão acho que então"
+		intervals [254]:
+			xmin = 461.94
+			xmax = 462.33
+			text = "..."
+		intervals [255]:
+			xmin = 462.33
+			xmax = 466.13
+			text = "tem muito a ver com isso tem a ver também com a influência de alguns professores"
+		intervals [256]:
+			xmin = 466.13
+			xmax = 466.49
+			text = "..."
+		intervals [257]:
+			xmin = 466.49
+			xmax = 469.2
+			text = "no ensino médio por isso que eu falo que a minha lembrança"
+		intervals [258]:
+			xmin = 469.2
+			xmax = 470.03
+			text = "..."
+		intervals [259]:
+			xmin = 470.03
+			xmax = 471.26
+			text = "maior é do ensino médio"
+		intervals [260]:
+			xmin = 471.26
+			xmax = 477.02
+			text = ""
+		intervals [261]:
+			xmin = 477.02
+			xmax = 481.38
+			text = "ah foi muito rico também nossa lembro com muito carinho né dos meus anos de de de de"
+		intervals [262]:
+			xmin = 481.38
+			xmax = 481.82
+			text = "..."
+		intervals [263]:
+			xmin = 481.82
+			xmax = 482.92
+			text = "faculdade então"
+		intervals [264]:
+			xmin = 482.92
+			xmax = 483.58
+			text = "..."
+		intervals [265]:
+			xmin = 483.58
+			xmax = 485.32
+			text = "eh eu comecei na puc"
+		intervals [266]:
+			xmin = 485.32
+			xmax = 485.55
+			text = "..."
+		intervals [267]:
+			xmin = 485.55
+			xmax = 488.31
+			text = "oitenta e sete"
+		intervals [268]:
+			xmin = 488.31
+			xmax = 488.41
+			text = "..."
+		intervals [269]:
+			xmin = 488.41
+			xmax = 489.51
+			text = "oitenta e sete"
+		intervals [270]:
+			xmin = 489.51
+			xmax = 489.54
+			text = "e"
+		intervals [271]:
+			xmin = 489.54
+			xmax = 489.91
+			text = "..."
+		intervals [272]:
+			xmin = 489.91
+			xmax = 496.23
+			text = "tudo era um pouco amedrontador também porque você lidava ali com realidades muito diferentes"
+		intervals [273]:
+			xmin = 496.23
+			xmax = 496.74
+			text = "..."
+		intervals [274]:
+			xmin = 496.74
+			xmax = 497.74
+			text = "eh"
+		intervals [275]:
+			xmin = 497.74
+			xmax = 498.12
+			text = "mas"
+		intervals [276]:
+			xmin = 498.12
+			xmax = 499.85
+			text = "..."
+		intervals [277]:
+			xmin = 499.85
+			xmax = 507.08
+			text = "ao mesmo tempo rica realidade diferente que eu digo assim eu eu saio de uma escola pública com já com algumas deficiências de formação"
+		intervals [278]:
+			xmin = 507.08
+			xmax = 507.5
+			text = "..."
+		intervals [279]:
+			xmin = 507.5
+			xmax = 512.25
+			text = "e eu me deparo com um grupo principalmente da manhã que uma parte também de desse meu curso eu fazia de manhã"
+		intervals [280]:
+			xmin = 512.25
+			xmax = 512.67
+			text = "..."
+		intervals [281]:
+			xmin = 512.67
+			xmax = 518.38
+			text = "com um grupo com uma realidade bastante mais diferente da minha não sei se hoje tem isso na puc né"
+		intervals [282]:
+			xmin = 518.38
+			xmax = 518.69
+			text = "..."
+		intervals [283]:
+			xmin = 518.69
+			xmax = 520.01
+			text = "mas na minha época tinha você"
+		intervals [284]:
+			xmin = 520.01
+			xmax = 520.11
+			text = "..."
+		intervals [285]:
+			xmin = 520.11
+			xmax = 524.1
+			text = "tinha assim pessoas que sa dominavam amplamente inglês francês"
+		intervals [286]:
+			xmin = 524.1
+			xmax = 524.44
+			text = "..."
+		intervals [287]:
+			xmin = 524.44
+			xmax = 525.48
+			text = "um bom número"
+		intervals [288]:
+			xmin = 525.48
+			xmax = 525.58
+			text = "..."
+		intervals [289]:
+			xmin = 525.58
+			xmax = 528.58
+			text = "né então que vinham com uma formação vinham de escolas particulares"
+	item [5]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 528.58
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 528.58
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 528.58
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 528.58
+			text = ""
