@@ -1,0 +1,1452 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 281.47
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 281.47
+		intervals: size = 149
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.05
+			text = "depois mais adiante ainda por maria helena ali perto de cruzeiro do oeste onde meu avô"
+		intervals [2]:
+			xmin = 5.05
+			xmax = 5.94
+			text = "..."
+		intervals [3]:
+			xmin = 5.94
+			xmax = 8.9
+			text = "e meu pai abriram um sítio mais pra plantar café"
+		intervals [4]:
+			xmin = 8.9
+			xmax = 10.14
+			text = "..."
+		intervals [5]:
+			xmin = 10.14
+			xmax = 12.55
+			text = "e meu avô [J] enlouqueceu porque"
+		intervals [6]:
+			xmin = 12.55
+			xmax = 13.63
+			text = "..."
+		intervals [7]:
+			xmin = 13.63
+			xmax = 17.88
+			text = "é a geada acabou com o cafezal dele e ele perdeu as terras pro banco do brasil"
+		intervals [8]:
+			xmin = 17.88
+			xmax = 19.18
+			text = "..."
+		intervals [9]:
+			xmin = 19.18
+			xmax = 20.08
+			text = "morreu louco"
+		intervals [10]:
+			xmin = 20.08
+			xmax = 20.4
+			text = "..."
+		intervals [11]:
+			xmin = 20.4
+			xmax = 20.47
+			text = "e"
+		intervals [12]:
+			xmin = 20.47
+			xmax = 21.03
+			text = "..."
+		intervals [13]:
+			xmin = 21.03
+			xmax = 22.59
+			text = "eu nunca me esqueço dessa cena"
+		intervals [14]:
+			xmin = 22.59
+			xmax = 23.56
+			text = "..."
+		intervals [15]:
+			xmin = 23.56
+			xmax = 23.76
+			text = "de"
+		intervals [16]:
+			xmin = 23.76
+			xmax = 24.4
+			text = "..."
+		intervals [17]:
+			xmin = 24.4
+			xmax = 30.9
+			text = "ainda menino a gen porque a gente fazia o trabalho de limpar as covas de café não sei se vocês sabem mas o café se planta"
+		intervals [18]:
+			xmin = 30.9
+			xmax = 31.3
+			text = "..."
+		intervals [19]:
+			xmin = 31.3
+			xmax = 32.49
+			text = "dentro de uma cova"
+		intervals [20]:
+			xmin = 32.49
+			xmax = 34.09
+			text = "..."
+		intervals [21]:
+			xmin = 34.09
+			xmax = 37.86
+			text = "porque enquanto a mudinha está pequena você cobre com gravetos e tal né"
+		intervals [22]:
+			xmin = 37.86
+			xmax = 38.6
+			text = "..."
+		intervals [23]:
+			xmin = 38.6
+			xmax = 41.34
+			text = "faz uma espécie de estufazinha para o café se desenvolver"
+		intervals [24]:
+			xmin = 41.34
+			xmax = 42.75
+			text = "..."
+		intervals [25]:
+			xmin = 42.75
+			xmax = 48.12
+			text = "e a geada uma grande geada no no paraná matou esse cafezal e"
+		intervals [26]:
+			xmin = 48.12
+			xmax = 48.51
+			text = "..."
+		intervals [27]:
+			xmin = 48.51
+			xmax = 50.1
+			text = "e o velho [J] enlouqueceu"
+		intervals [28]:
+			xmin = 50.1
+			xmax = 51.38
+			text = "..."
+		intervals [29]:
+			xmin = 51.38
+			xmax = 56.32
+			text = "ele tentava ressuscitar aquelas então eu até escrevi sobre isso um texto muito bonito sobre essa"
+		intervals [30]:
+			xmin = 56.32
+			xmax = 57.58
+			text = "cena né que"
+		intervals [31]:
+			xmin = 57.58
+			xmax = 58.14
+			text = "..."
+		intervals [32]:
+			xmin = 58.14
+			xmax = 61.8
+			text = "marcou muito minha vida né de ver um um sonho"
+		intervals [33]:
+			xmin = 61.8
+			xmax = 62.68
+			text = "..."
+		intervals [34]:
+			xmin = 62.68
+			xmax = 65.86
+			text = "tanto que o semeador que é o desenho da capa do meu livro"
+		intervals [35]:
+			xmin = 65.86
+			xmax = 66.96
+			text = "..."
+		intervals [36]:
+			xmin = 66.96
+			xmax = 67.82
+			text = "que é um homem"
+		intervals [37]:
+			xmin = 67.82
+			xmax = 68.36
+			text = "..."
+		intervals [38]:
+			xmin = 68.36
+			xmax = 70.47
+			text = "é um camponês semeando estrelas no"
+		intervals [39]:
+			xmin = 70.47
+			xmax = 70.95
+			text = "chão"
+		intervals [40]:
+			xmin = 70.95
+			xmax = 71.9
+			text = "..."
+		intervals [41]:
+			xmin = 71.9
+			xmax = 72.97
+			text = "é dedicado a ele"
+		intervals [42]:
+			xmin = 72.97
+			xmax = 74.47
+			text = "..."
+		intervals [43]:
+			xmin = 74.47
+			xmax = 76.63
+			text = "né ele semeou sonhos e colheu"
+		intervals [44]:
+			xmin = 76.63
+			xmax = 77.9
+			text = "..."
+		intervals [45]:
+			xmin = 77.9
+			xmax = 80.74
+			text = "frustração tragédia e loucura porque pi"
+		intervals [46]:
+			xmin = 80.74
+			xmax = 81.09
+			text = "..."
+		intervals [47]:
+			xmin = 81.09
+			xmax = 83.59
+			text = "pirou né perdeu tudo o que tinha"
+		intervals [48]:
+			xmin = 83.59
+			xmax = 84.22
+			text = "..."
+		intervals [49]:
+			xmin = 84.22
+			xmax = 86.43
+			text = "né nessa época eu estava com dez anos"
+		intervals [50]:
+			xmin = 86.43
+			xmax = 87.93
+			text = "..."
+		intervals [51]:
+			xmin = 87.93
+			xmax = 90.48
+			text = "ainda estava no mato lá na na roça né"
+		intervals [52]:
+			xmin = 90.48
+			xmax = 92.19
+			text = "..."
+		intervals [53]:
+			xmin = 92.19
+			xmax = 93.03
+			text = "eh ah o"
+		intervals [54]:
+			xmin = 93.03
+			xmax = 93.58
+			text = "..."
+		intervals [55]:
+			xmin = 93.58
+			xmax = 97.04
+			text = "também a eh a gente fala da roça"
+		intervals [56]:
+			xmin = 97.04
+			xmax = 98.69
+			text = "..."
+		intervals [57]:
+			xmin = 98.69
+			xmax = 103.68
+			text = "mas a roça tinha uma vantagem que depois a cidade grande nos"
+		intervals [58]:
+			xmin = 103.68
+			xmax = 104.38
+			text = "..."
+		intervals [59]:
+			xmin = 104.38
+			xmax = 105.45
+			text = "sonegava né"
+		intervals [60]:
+			xmin = 105.45
+			xmax = 106.26
+			text = "..."
+		intervals [61]:
+			xmin = 106.26
+			xmax = 108.92
+			text = "na roça você ainda comia bem né você"
+		intervals [62]:
+			xmin = 108.92
+			xmax = 109.49
+			text = "..."
+		intervals [63]:
+			xmin = 109.49
+			xmax = 114.52
+			text = "você plantava você tinha comida de boa qualidade você tinha uma vaquinha de leite"
+		intervals [64]:
+			xmin = 114.52
+			xmax = 115.31
+			text = "..."
+		intervals [65]:
+			xmin = 115.31
+			xmax = 117.55
+			text = "tinha um pão caseiro enfim você tinha um"
+		intervals [66]:
+			xmin = 117.55
+			xmax = 118.47
+			text = "..."
+		intervals [67]:
+			xmin = 118.47
+			xmax = 120.34
+			text = "foi graças a isso que a gente sobreviveu"
+		intervals [68]:
+			xmin = 120.34
+			xmax = 120.85
+			text = "..."
+		intervals [69]:
+			xmin = 120.85
+			xmax = 125.71
+			text = "porque depois já na cidade quando meu pai adoeceu e que a gente voltou para a cidade"
+		intervals [70]:
+			xmin = 125.71
+			xmax = 126.64
+			text = "..."
+		intervals [71]:
+			xmin = 126.64
+			xmax = 134.64
+			text = "aí a coisa complicou porque aí você precisava ter dinheiro e aí sem o dinheiro você passa fome ou começa a roubar"
+		intervals [72]:
+			xmin = 134.64
+			xmax = 135.43
+			text = "..."
+		intervals [73]:
+			xmin = 135.43
+			xmax = 136.18
+			text = "né enfim"
+		intervals [74]:
+			xmin = 136.18
+			xmax = 137.14
+			text = "..."
+		intervals [75]:
+			xmin = 137.14
+			xmax = 137.88
+			text = "isso é um é um"
+		intervals [76]:
+			xmin = 137.88
+			xmax = 138.52
+			text = "..."
+		intervals [77]:
+			xmin = 138.52
+			xmax = 142.55
+			text = "é um pouco a história de milhares e milhares de crianças brasileiras ainda hoje né"
+		intervals [78]:
+			xmin = 142.55
+			xmax = 143.7
+			text = "..."
+		intervals [79]:
+			xmin = 143.7
+			xmax = 148.76
+			text = ""
+		intervals [80]:
+			xmin = 148.76
+			xmax = 151.18
+			text = "eu nasci num sítio próximo de rolândia"
+		intervals [81]:
+			xmin = 151.18
+			xmax = 152.27
+			text = "..."
+		intervals [82]:
+			xmin = 152.27
+			xmax = 154.09
+			text = "que era o sítio do meu avô materno"
+		intervals [83]:
+			xmin = 154.09
+			xmax = 155.08
+			text = "..."
+		intervals [84]:
+			xmin = 155.08
+			xmax = 156.61
+			text = "meu avô paterno"
+		intervals [85]:
+			xmin = 156.61
+			xmax = 157.23
+			text = "..."
+		intervals [86]:
+			xmin = 157.23
+			xmax = 163.57
+			text = "era proprietário de uma pequena marcenaria na cidade de rolândia então meus pais se conheceram num baile"
+		intervals [87]:
+			xmin = 163.57
+			xmax = 163.9
+			text = "..."
+		intervals [88]:
+			xmin = 163.9
+			xmax = 164.64
+			text = "aquelas coisas assim"
+		intervals [89]:
+			xmin = 164.64
+			xmax = 165.33
+			text = "..."
+		intervals [90]:
+			xmin = 165.33
+			xmax = 168.33
+			text = "o sítio do meu avô era muito pró rolândia era uma cidade pequena né"
+		intervals [91]:
+			xmin = 168.33
+			xmax = 170.14
+			text = "..."
+		intervals [92]:
+			xmin = 170.14
+			xmax = 175.6
+			text = "é ainda pequena acho que até encolheu com o crescimento das outras em volta ela encolheu um pouco"
+		intervals [93]:
+			xmin = 175.6
+			xmax = 177.43
+			text = "..."
+		intervals [94]:
+			xmin = 177.43
+			xmax = 179.42
+			text = "aí casaram enfim mas"
+		intervals [95]:
+			xmin = 179.42
+			xmax = 180.1
+			text = "..."
+		intervals [96]:
+			xmin = 180.1
+			xmax = 182.35
+			text = "eu acabei nascendo mesmo nesse sítio"
+		intervals [97]:
+			xmin = 182.35
+			xmax = 182.84
+			text = "..."
+		intervals [98]:
+			xmin = 182.84
+			xmax = 183.42
+			text = "porque meu"
+		intervals [99]:
+			xmin = 183.42
+			xmax = 183.8
+			text = "..."
+		intervals [100]:
+			xmin = 183.8
+			xmax = 189.33
+			text = "o meu pai deixou a família que que morava ali no centro de rolândia que é onde existia uma marcenaria e a loja"
+		intervals [101]:
+			xmin = 189.33
+			xmax = 189.76
+			text = "..."
+		intervals [102]:
+			xmin = 189.76
+			xmax = 191.89
+			text = "loja de móveis populares nada"
+		intervals [103]:
+			xmin = 191.89
+			xmax = 192.66
+			text = "..."
+		intervals [104]:
+			xmin = 192.66
+			xmax = 194.32
+			text = "gente muito simples sem"
+		intervals [105]:
+			xmin = 194.32
+			xmax = 195.65
+			text = "..."
+		intervals [106]:
+			xmin = 195.65
+			xmax = 203.46
+			text = "eu até quando eu vou para lá vejo aquela marcenaria que parecia enorme eu vejo hoje falar ain se eu tivesse dinheiro eu compraria isso aqui para deixar como está"
+		intervals [107]:
+			xmin = 203.46
+			xmax = 204.25
+			text = "..."
+		intervals [108]:
+			xmin = 204.25
+			xmax = 206.69
+			text = "e transformar isso num centro cultural"
+		intervals [109]:
+			xmin = 206.69
+			xmax = 207.67
+			text = "..."
+		intervals [110]:
+			xmin = 207.67
+			xmax = 209.68
+			text = "tento convencer o governo"
+		intervals [111]:
+			xmin = 209.68
+			xmax = 210.16
+			text = "..."
+		intervals [112]:
+			xmin = 210.16
+			xmax = 213.78
+			text = "do paraná a comprar mas agora eu vou ter um museu na cidade"
+		intervals [113]:
+			xmin = 213.78
+			xmax = 214.54
+			text = "..."
+		intervals [114]:
+			xmin = 214.54
+			xmax = 216.99
+			text = "que será inaugurado dia vinte e oito de janeiro"
+		intervals [115]:
+			xmin = 216.99
+			xmax = 218.0
+			text = "..."
+		intervals [116]:
+			xmin = 218.0
+			xmax = 229.16
+			text = "quem sabe aí eu consigo convencer para comprar aquilo né eu passei um tempo da minha vida ali dentro brincando e achando aquilo tudo muito grande e não é grande né"
+		intervals [117]:
+			xmin = 229.16
+			xmax = 230.18
+			text = "..."
+		intervals [118]:
+			xmin = 230.18
+			xmax = 234.12
+			text = "só que você tem pó de serra sedimentado de setenta anos"
+		intervals [119]:
+			xmin = 234.12
+			xmax = 234.72
+			text = "..."
+		intervals [120]:
+			xmin = 234.72
+			xmax = 235.29
+			text = "as coisas"
+		intervals [121]:
+			xmin = 235.29
+			xmax = 235.74
+			text = "..."
+		intervals [122]:
+			xmin = 235.74
+			xmax = 237.82
+			text = "é tudo muito maravilhoso"
+		intervals [123]:
+			xmin = 237.82
+			xmax = 239.13
+			text = "..."
+		intervals [124]:
+			xmin = 239.13
+			xmax = 241.19
+			text = "né então foram morar no sítio"
+		intervals [125]:
+			xmin = 241.19
+			xmax = 242.36
+			text = "..."
+		intervals [126]:
+			xmin = 242.36
+			xmax = 244.34
+			text = "e aí começou a nascer filho né aquela história"
+		intervals [127]:
+			xmin = 244.34
+			xmax = 245.23
+			text = "..."
+		intervals [128]:
+			xmin = 245.23
+			xmax = 245.79
+			text = "e"
+		intervals [129]:
+			xmin = 245.79
+			xmax = 246.76
+			text = "..."
+		intervals [130]:
+			xmin = 246.76
+			xmax = 248.12
+			text = "eu té eu até acho"
+		intervals [131]:
+			xmin = 248.12
+			xmax = 248.85
+			text = "..."
+		intervals [132]:
+			xmin = 248.85
+			xmax = 254.81
+			text = "que o meu pai pirou de vez porque o meu pai era um sujeito habilidoso ele montava a serraria ele tinha um velho caminhão gê ême"
+		intervals [133]:
+			xmin = 254.81
+			xmax = 255.35
+			text = "cê"
+		intervals [134]:
+			xmin = 255.35
+			xmax = 256.44
+			text = "..."
+		intervals [135]:
+			xmin = 256.44
+			xmax = 260.58
+			text = "depois eu mando meu livro para vocês verem tem umas fotinhas minha lá com dez anos né no"
+		intervals [136]:
+			xmin = 260.58
+			xmax = 261.07
+			text = "..."
+		intervals [137]:
+			xmin = 261.07
+			xmax = 261.96
+			text = "próximo do caminhão"
+		intervals [138]:
+			xmin = 261.96
+			xmax = 263.15
+			text = "..."
+		intervals [139]:
+			xmin = 263.15
+			xmax = 267.19
+			text = "e ele era um sujeito com talento assim era"
+		intervals [140]:
+			xmin = 267.19
+			xmax = 268.07
+			text = "..."
+		intervals [141]:
+			xmin = 268.07
+			xmax = 269.16
+			text = "um"
+		intervals [142]:
+			xmin = 269.16
+			xmax = 270.12
+			text = "..."
+		intervals [143]:
+			xmin = 270.12
+			xmax = 275.93
+			text = "um construtor não sei ele sabia ele com aquela catraquinha de caminhão ele punha a tora em cima"
+		intervals [144]:
+			xmin = 275.93
+			xmax = 276.34
+			text = "..."
+		intervals [145]:
+			xmin = 276.34
+			xmax = 277.75
+			text = "montava a serraria"
+		intervals [146]:
+			xmin = 277.75
+			xmax = 278.77
+			text = "..."
+		intervals [147]:
+			xmin = 278.77
+			xmax = 280.62
+			text = "mas era uma pessoa"
+		intervals [148]:
+			xmin = 280.62
+			xmax = 280.98
+			text = "..."
+		intervals [149]:
+			xmin = 280.98
+			xmax = 281.47
+			text = "frágil"
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 281.47
+		intervals: size = 189
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.05
+			text = "depois mais adiante ainda por maria helena ali perto de cruzeiro do oeste onde meu avô"
+		intervals [2]:
+			xmin = 5.05
+			xmax = 5.94
+			text = "..."
+		intervals [3]:
+			xmin = 5.94
+			xmax = 8.9
+			text = "e meu pai abriram um sítio mais pra plantar café"
+		intervals [4]:
+			xmin = 8.9
+			xmax = 10.14
+			text = "..."
+		intervals [5]:
+			xmin = 10.14
+			xmax = 12.55
+			text = "e meu avô [J] enlouqueceu porque"
+		intervals [6]:
+			xmin = 12.55
+			xmax = 13.63
+			text = "..."
+		intervals [7]:
+			xmin = 13.63
+			xmax = 17.88
+			text = "é a geada acabou com o cafezal dele e ele perdeu as terras pro banco do brasil"
+		intervals [8]:
+			xmin = 17.88
+			xmax = 19.18
+			text = "..."
+		intervals [9]:
+			xmin = 19.18
+			xmax = 20.08
+			text = "morreu louco"
+		intervals [10]:
+			xmin = 20.08
+			xmax = 20.4
+			text = "..."
+		intervals [11]:
+			xmin = 20.4
+			xmax = 20.47
+			text = "e"
+		intervals [12]:
+			xmin = 20.47
+			xmax = 21.03
+			text = "..."
+		intervals [13]:
+			xmin = 21.03
+			xmax = 22.59
+			text = "eu nunca me esqueço dessa cena"
+		intervals [14]:
+			xmin = 22.59
+			xmax = 23.56
+			text = "..."
+		intervals [15]:
+			xmin = 23.56
+			xmax = 23.76
+			text = "de"
+		intervals [16]:
+			xmin = 23.76
+			xmax = 24.4
+			text = "..."
+		intervals [17]:
+			xmin = 24.4
+			xmax = 30.9
+			text = "ainda menino a gen porque a gente fazia o trabalho de limpar as covas de café não sei se vocês sabem mas o café se planta"
+		intervals [18]:
+			xmin = 30.9
+			xmax = 31.3
+			text = "..."
+		intervals [19]:
+			xmin = 31.3
+			xmax = 32.49
+			text = "dentro de uma cova"
+		intervals [20]:
+			xmin = 32.49
+			xmax = 34.09
+			text = "..."
+		intervals [21]:
+			xmin = 34.09
+			xmax = 37.86
+			text = "porque enquanto a mudinha está pequena você cobre com gravetos e tal né"
+		intervals [22]:
+			xmin = 37.86
+			xmax = 38.6
+			text = "..."
+		intervals [23]:
+			xmin = 38.6
+			xmax = 41.34
+			text = "faz uma espécie de estufazinha para o café se desenvolver"
+		intervals [24]:
+			xmin = 41.34
+			xmax = 42.75
+			text = "..."
+		intervals [25]:
+			xmin = 42.75
+			xmax = 45.0
+			text = "e a geada uma grande geada"
+		intervals [26]:
+			xmin = 45.0
+			xmax = 45.25
+			text = "..."
+		intervals [27]:
+			xmin = 45.25
+			xmax = 48.12
+			text = "no no paraná matou esse cafezal e"
+		intervals [28]:
+			xmin = 48.12
+			xmax = 48.51
+			text = "..."
+		intervals [29]:
+			xmin = 48.51
+			xmax = 50.1
+			text = "e o velho [J] enlouqueceu"
+		intervals [30]:
+			xmin = 50.1
+			xmax = 51.38
+			text = "..."
+		intervals [31]:
+			xmin = 51.38
+			xmax = 51.66
+			text = "ele"
+		intervals [32]:
+			xmin = 51.66
+			xmax = 51.78
+			text = "..."
+		intervals [33]:
+			xmin = 51.78
+			xmax = 56.32
+			text = "tentava ressuscitar aquelas então eu até escrevi sobre isso um texto muito bonito sobre essa"
+		intervals [34]:
+			xmin = 56.32
+			xmax = 57.58
+			text = "cena né que"
+		intervals [35]:
+			xmin = 57.58
+			xmax = 58.14
+			text = "..."
+		intervals [36]:
+			xmin = 58.14
+			xmax = 59.85
+			text = "marcou muito minha vida né"
+		intervals [37]:
+			xmin = 59.85
+			xmax = 60.09
+			text = "..."
+		intervals [38]:
+			xmin = 60.09
+			xmax = 60.93
+			text = "de ver um"
+		intervals [39]:
+			xmin = 60.93
+			xmax = 61.04
+			text = "..."
+		intervals [40]:
+			xmin = 61.04
+			xmax = 61.8
+			text = "um sonho"
+		intervals [41]:
+			xmin = 61.8
+			xmax = 62.68
+			text = "..."
+		intervals [42]:
+			xmin = 62.68
+			xmax = 65.86
+			text = "tanto que o semeador que é o desenho da capa do meu livro"
+		intervals [43]:
+			xmin = 65.86
+			xmax = 66.96
+			text = "..."
+		intervals [44]:
+			xmin = 66.96
+			xmax = 67.82
+			text = "que é um homem"
+		intervals [45]:
+			xmin = 67.82
+			xmax = 68.36
+			text = "..."
+		intervals [46]:
+			xmin = 68.36
+			xmax = 70.47
+			text = "é um camponês semeando estrelas no"
+		intervals [47]:
+			xmin = 70.47
+			xmax = 70.95
+			text = "chão"
+		intervals [48]:
+			xmin = 70.95
+			xmax = 71.9
+			text = "..."
+		intervals [49]:
+			xmin = 71.9
+			xmax = 72.97
+			text = "é dedicado a ele"
+		intervals [50]:
+			xmin = 72.97
+			xmax = 74.47
+			text = "..."
+		intervals [51]:
+			xmin = 74.47
+			xmax = 76.63
+			text = "né ele semeou sonhos e colheu"
+		intervals [52]:
+			xmin = 76.63
+			xmax = 77.9
+			text = "..."
+		intervals [53]:
+			xmin = 77.9
+			xmax = 79.82
+			text = "frustração tragédia e loucura"
+		intervals [54]:
+			xmin = 79.82
+			xmax = 79.96
+			text = "..."
+		intervals [55]:
+			xmin = 79.96
+			xmax = 80.74
+			text = "porque pi"
+		intervals [56]:
+			xmin = 80.74
+			xmax = 81.09
+			text = "..."
+		intervals [57]:
+			xmin = 81.09
+			xmax = 81.63
+			text = "pirou"
+		intervals [58]:
+			xmin = 81.63
+			xmax = 81.89
+			text = "..."
+		intervals [59]:
+			xmin = 81.89
+			xmax = 82.05
+			text = "né"
+		intervals [60]:
+			xmin = 82.05
+			xmax = 82.21
+			text = "..."
+		intervals [61]:
+			xmin = 82.21
+			xmax = 83.59
+			text = "perdeu tudo o que tinha"
+		intervals [62]:
+			xmin = 83.59
+			xmax = 84.22
+			text = "..."
+		intervals [63]:
+			xmin = 84.22
+			xmax = 86.43
+			text = "né nessa época eu estava com dez anos"
+		intervals [64]:
+			xmin = 86.43
+			xmax = 87.93
+			text = "..."
+		intervals [65]:
+			xmin = 87.93
+			xmax = 90.12
+			text = "ainda estava no mato lá na na roça"
+		intervals [66]:
+			xmin = 90.12
+			xmax = 90.36
+			text = "..."
+		intervals [67]:
+			xmin = 90.36
+			xmax = 90.48
+			text = "né"
+		intervals [68]:
+			xmin = 90.48
+			xmax = 92.19
+			text = "..."
+		intervals [69]:
+			xmin = 92.19
+			xmax = 93.03
+			text = "eh ah o"
+		intervals [70]:
+			xmin = 93.03
+			xmax = 93.58
+			text = "..."
+		intervals [71]:
+			xmin = 93.58
+			xmax = 95.47
+			text = "também a eh"
+		intervals [72]:
+			xmin = 95.47
+			xmax = 95.65
+			text = "..."
+		intervals [73]:
+			xmin = 95.65
+			xmax = 97.04
+			text = "a gente fala da roça"
+		intervals [74]:
+			xmin = 97.04
+			xmax = 98.69
+			text = "..."
+		intervals [75]:
+			xmin = 98.69
+			xmax = 103.68
+			text = "mas a roça tinha uma vantagem que depois a cidade grande nos"
+		intervals [76]:
+			xmin = 103.68
+			xmax = 104.38
+			text = "..."
+		intervals [77]:
+			xmin = 104.38
+			xmax = 105.45
+			text = "sonegava né"
+		intervals [78]:
+			xmin = 105.45
+			xmax = 106.26
+			text = "..."
+		intervals [79]:
+			xmin = 106.26
+			xmax = 107.99
+			text = "na roça você ainda comia bem"
+		intervals [80]:
+			xmin = 107.99
+			xmax = 108.19
+			text = "..."
+		intervals [81]:
+			xmin = 108.19
+			xmax = 108.92
+			text = "né você"
+		intervals [82]:
+			xmin = 108.92
+			xmax = 109.49
+			text = "..."
+		intervals [83]:
+			xmin = 109.49
+			xmax = 114.52
+			text = "você plantava você tinha comida de boa qualidade você tinha uma vaquinha de leite"
+		intervals [84]:
+			xmin = 114.52
+			xmax = 115.31
+			text = "..."
+		intervals [85]:
+			xmin = 115.31
+			xmax = 117.55
+			text = "tinha um pão caseiro enfim você tinha um"
+		intervals [86]:
+			xmin = 117.55
+			xmax = 118.47
+			text = "..."
+		intervals [87]:
+			xmin = 118.47
+			xmax = 120.34
+			text = "foi graças a isso que a gente sobreviveu"
+		intervals [88]:
+			xmin = 120.34
+			xmax = 120.85
+			text = "..."
+		intervals [89]:
+			xmin = 120.85
+			xmax = 125.71
+			text = "porque depois já na cidade quando meu pai adoeceu e que a gente voltou para a cidade"
+		intervals [90]:
+			xmin = 125.71
+			xmax = 126.64
+			text = "..."
+		intervals [91]:
+			xmin = 126.64
+			xmax = 134.64
+			text = "aí a coisa complicou porque aí você precisava ter dinheiro e aí sem o dinheiro você passa fome ou começa a roubar"
+		intervals [92]:
+			xmin = 134.64
+			xmax = 135.43
+			text = "..."
+		intervals [93]:
+			xmin = 135.43
+			xmax = 136.18
+			text = "né enfim"
+		intervals [94]:
+			xmin = 136.18
+			xmax = 137.14
+			text = "..."
+		intervals [95]:
+			xmin = 137.14
+			xmax = 137.55
+			text = "isso é um"
+		intervals [96]:
+			xmin = 137.55
+			xmax = 137.73
+			text = "..."
+		intervals [97]:
+			xmin = 137.73
+			xmax = 137.88
+			text = "é um"
+		intervals [98]:
+			xmin = 137.88
+			xmax = 138.52
+			text = "..."
+		intervals [99]:
+			xmin = 138.52
+			xmax = 142.55
+			text = "é um pouco a história de milhares e milhares de crianças brasileiras ainda hoje né"
+		intervals [100]:
+			xmin = 142.55
+			xmax = 143.7
+			text = "..."
+		intervals [101]:
+			xmin = 143.7
+			xmax = 148.76
+			text = ""
+		intervals [102]:
+			xmin = 148.76
+			xmax = 151.18
+			text = "eu nasci num sítio próximo de rolândia"
+		intervals [103]:
+			xmin = 151.18
+			xmax = 152.27
+			text = "..."
+		intervals [104]:
+			xmin = 152.27
+			xmax = 154.09
+			text = "que era o sítio do meu avô materno"
+		intervals [105]:
+			xmin = 154.09
+			xmax = 155.08
+			text = "..."
+		intervals [106]:
+			xmin = 155.08
+			xmax = 156.61
+			text = "meu avô paterno"
+		intervals [107]:
+			xmin = 156.61
+			xmax = 157.23
+			text = "..."
+		intervals [108]:
+			xmin = 157.23
+			xmax = 160.59
+			text = "era proprietário de uma pequena marcenaria na cidade de rolândia"
+		intervals [109]:
+			xmin = 160.59
+			xmax = 160.72
+			text = "..."
+		intervals [110]:
+			xmin = 160.72
+			xmax = 162.25
+			text = "então meus pais se conheceram"
+		intervals [111]:
+			xmin = 162.25
+			xmax = 162.54
+			text = "..."
+		intervals [112]:
+			xmin = 162.54
+			xmax = 163.57
+			text = "num baile"
+		intervals [113]:
+			xmin = 163.57
+			xmax = 163.9
+			text = "..."
+		intervals [114]:
+			xmin = 163.9
+			xmax = 164.64
+			text = "aquelas coisas assim"
+		intervals [115]:
+			xmin = 164.64
+			xmax = 165.33
+			text = "..."
+		intervals [116]:
+			xmin = 165.33
+			xmax = 168.33
+			text = "o sítio do meu avô era muito pró rolândia era uma cidade pequena né"
+		intervals [117]:
+			xmin = 168.33
+			xmax = 170.14
+			text = "..."
+		intervals [118]:
+			xmin = 170.14
+			xmax = 175.6
+			text = "é ainda pequena acho que até encolheu com o crescimento das outras em volta ela encolheu um pouco"
+		intervals [119]:
+			xmin = 175.6
+			xmax = 177.43
+			text = "..."
+		intervals [120]:
+			xmin = 177.43
+			xmax = 179.42
+			text = "aí casaram enfim mas"
+		intervals [121]:
+			xmin = 179.42
+			xmax = 180.1
+			text = "..."
+		intervals [122]:
+			xmin = 180.1
+			xmax = 182.35
+			text = "eu acabei nascendo mesmo nesse sítio"
+		intervals [123]:
+			xmin = 182.35
+			xmax = 182.84
+			text = "..."
+		intervals [124]:
+			xmin = 182.84
+			xmax = 183.42
+			text = "porque meu"
+		intervals [125]:
+			xmin = 183.42
+			xmax = 183.8
+			text = "..."
+		intervals [126]:
+			xmin = 183.8
+			xmax = 189.33
+			text = "o meu pai deixou a família que que morava ali no centro de rolândia que é onde existia uma marcenaria e a loja"
+		intervals [127]:
+			xmin = 189.33
+			xmax = 189.76
+			text = "..."
+		intervals [128]:
+			xmin = 189.76
+			xmax = 191.89
+			text = "loja de móveis populares nada"
+		intervals [129]:
+			xmin = 191.89
+			xmax = 192.66
+			text = "..."
+		intervals [130]:
+			xmin = 192.66
+			xmax = 194.32
+			text = "gente muito simples sem"
+		intervals [131]:
+			xmin = 194.32
+			xmax = 195.65
+			text = "..."
+		intervals [132]:
+			xmin = 195.65
+			xmax = 203.46
+			text = "eu até quando eu vou para lá vejo aquela marcenaria que parecia enorme eu vejo hoje falar ain se eu tivesse dinheiro eu compraria isso aqui para deixar como está"
+		intervals [133]:
+			xmin = 203.46
+			xmax = 204.25
+			text = "..."
+		intervals [134]:
+			xmin = 204.25
+			xmax = 206.69
+			text = "e transformar isso num centro cultural"
+		intervals [135]:
+			xmin = 206.69
+			xmax = 207.67
+			text = "..."
+		intervals [136]:
+			xmin = 207.67
+			xmax = 208.22
+			text = "tento"
+		intervals [137]:
+			xmin = 208.22
+			xmax = 208.39
+			text = "..."
+		intervals [138]:
+			xmin = 208.39
+			xmax = 209.68
+			text = "convencer o governo"
+		intervals [139]:
+			xmin = 209.68
+			xmax = 210.16
+			text = "..."
+		intervals [140]:
+			xmin = 210.16
+			xmax = 210.26
+			text = "do"
+		intervals [141]:
+			xmin = 210.26
+			xmax = 210.37
+			text = "..."
+		intervals [142]:
+			xmin = 210.37
+			xmax = 213.78
+			text = "paraná a comprar mas agora eu vou ter um museu na cidade"
+		intervals [143]:
+			xmin = 213.78
+			xmax = 214.54
+			text = "..."
+		intervals [144]:
+			xmin = 214.54
+			xmax = 216.08
+			text = "que será inaugurado dia vinte e oito"
+		intervals [145]:
+			xmin = 216.08
+			xmax = 216.28
+			text = "..."
+		intervals [146]:
+			xmin = 216.28
+			xmax = 216.99
+			text = "de janeiro"
+		intervals [147]:
+			xmin = 216.99
+			xmax = 218.0
+			text = "..."
+		intervals [148]:
+			xmin = 218.0
+			xmax = 220.27
+			text = "quem sabe aí eu consigo convencer"
+		intervals [149]:
+			xmin = 220.27
+			xmax = 220.55
+			text = "..."
+		intervals [150]:
+			xmin = 220.55
+			xmax = 229.16
+			text = "para comprar aquilo né eu passei um tempo da minha vida ali dentro brincando e achando aquilo tudo muito grande e não é grande né"
+		intervals [151]:
+			xmin = 229.16
+			xmax = 230.18
+			text = "..."
+		intervals [152]:
+			xmin = 230.18
+			xmax = 234.12
+			text = "só que você tem pó de serra sedimentado de setenta anos"
+		intervals [153]:
+			xmin = 234.12
+			xmax = 234.72
+			text = "..."
+		intervals [154]:
+			xmin = 234.72
+			xmax = 235.29
+			text = "as coisas"
+		intervals [155]:
+			xmin = 235.29
+			xmax = 235.74
+			text = "..."
+		intervals [156]:
+			xmin = 235.74
+			xmax = 237.82
+			text = "é tudo muito maravilhoso"
+		intervals [157]:
+			xmin = 237.82
+			xmax = 239.13
+			text = "..."
+		intervals [158]:
+			xmin = 239.13
+			xmax = 239.19
+			text = "né"
+		intervals [159]:
+			xmin = 239.19
+			xmax = 239.4
+			text = "..."
+		intervals [160]:
+			xmin = 239.4
+			xmax = 241.19
+			text = "então foram morar no sítio"
+		intervals [161]:
+			xmin = 241.19
+			xmax = 242.36
+			text = "..."
+		intervals [162]:
+			xmin = 242.36
+			xmax = 244.34
+			text = "e aí começou a nascer filho né aquela história"
+		intervals [163]:
+			xmin = 244.34
+			xmax = 245.23
+			text = "..."
+		intervals [164]:
+			xmin = 245.23
+			xmax = 245.79
+			text = "e"
+		intervals [165]:
+			xmin = 245.79
+			xmax = 246.76
+			text = "..."
+		intervals [166]:
+			xmin = 246.76
+			xmax = 248.12
+			text = "eu té eu até acho"
+		intervals [167]:
+			xmin = 248.12
+			xmax = 248.85
+			text = "..."
+		intervals [168]:
+			xmin = 248.85
+			xmax = 254.81
+			text = "que o meu pai pirou de vez porque o meu pai era um sujeito habilidoso ele montava a serraria ele tinha um velho caminhão gê ême"
+		intervals [169]:
+			xmin = 254.81
+			xmax = 255.35
+			text = "cê"
+		intervals [170]:
+			xmin = 255.35
+			xmax = 256.44
+			text = "..."
+		intervals [171]:
+			xmin = 256.44
+			xmax = 260.58
+			text = "depois eu mando meu livro para vocês verem tem umas fotinhas minha lá com dez anos né no"
+		intervals [172]:
+			xmin = 260.58
+			xmax = 261.07
+			text = "..."
+		intervals [173]:
+			xmin = 261.07
+			xmax = 261.96
+			text = "próximo do caminhão"
+		intervals [174]:
+			xmin = 261.96
+			xmax = 263.15
+			text = "..."
+		intervals [175]:
+			xmin = 263.15
+			xmax = 267.19
+			text = "e ele era um sujeito com talento assim era"
+		intervals [176]:
+			xmin = 267.19
+			xmax = 268.07
+			text = "..."
+		intervals [177]:
+			xmin = 268.07
+			xmax = 269.16
+			text = "um"
+		intervals [178]:
+			xmin = 269.16
+			xmax = 270.12
+			text = "..."
+		intervals [179]:
+			xmin = 270.12
+			xmax = 270.86
+			text = "um construtor"
+		intervals [180]:
+			xmin = 270.86
+			xmax = 271.09
+			text = "..."
+		intervals [181]:
+			xmin = 271.09
+			xmax = 271.96
+			text = "não sei ele sabia"
+		intervals [182]:
+			xmin = 271.96
+			xmax = 272.19
+			text = "..."
+		intervals [183]:
+			xmin = 272.19
+			xmax = 275.93
+			text = "ele com aquela catraquinha de caminhão ele punha a tora em cima"
+		intervals [184]:
+			xmin = 275.93
+			xmax = 276.34
+			text = "..."
+		intervals [185]:
+			xmin = 276.34
+			xmax = 277.75
+			text = "montava a serraria"
+		intervals [186]:
+			xmin = 277.75
+			xmax = 278.77
+			text = "..."
+		intervals [187]:
+			xmin = 278.77
+			xmax = 280.62
+			text = "mas era uma pessoa"
+		intervals [188]:
+			xmin = 280.62
+			xmax = 280.98
+			text = "..."
+		intervals [189]:
+			xmin = 280.98
+			xmax = 281.47
+			text = "frágil"
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 281.47
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 143.7
+			text = ""
+		intervals [2]:
+			xmin = 143.7
+			xmax = 147.29
+			text = "deixa eu perguntar uma coisa lá em rolândia seus pais foram pra lá e eles foram morar num sítio ou"
+		intervals [3]:
+			xmin = 147.29
+			xmax = 148.09
+			text = "..."
+		intervals [4]:
+			xmin = 148.09
+			xmax = 148.76
+			text = "eles moravam na ci"
+		intervals [5]:
+			xmin = 148.76
+			xmax = 281.47
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 281.47
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 143.7
+			text = ""
+		intervals [2]:
+			xmin = 143.7
+			xmax = 145.25
+			text = "deixa eu perguntar uma coisa lá em rolândia"
+		intervals [3]:
+			xmin = 145.25
+			xmax = 145.47
+			text = "..."
+		intervals [4]:
+			xmin = 145.47
+			xmax = 147.29
+			text = "seus pais foram pra lá e eles foram morar num sítio ou"
+		intervals [5]:
+			xmin = 147.29
+			xmax = 148.09
+			text = "..."
+		intervals [6]:
+			xmin = 148.09
+			xmax = 148.76
+			text = "eles moravam na ci"
+		intervals [7]:
+			xmin = 148.76
+			xmax = 281.47
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 281.47
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 281.47
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 281.47
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 281.47
+			text = ""
