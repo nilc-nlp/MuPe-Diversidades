@@ -1,0 +1,1412 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 217.26
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 217.26
+		intervals: size = 113
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.13
+			text = "enquanto o navio foi a porto alegre"
+		intervals [2]:
+			xmin = 2.13
+			xmax = 3.53
+			text = "..."
+		intervals [3]:
+			xmin = 3.53
+			xmax = 4.39
+			text = "quando voltou"
+		intervals [4]:
+			xmin = 4.39
+			xmax = 5.1
+			text = "..."
+		intervals [5]:
+			xmin = 5.1
+			xmax = 6.09
+			text = "quinze dias depois"
+		intervals [6]:
+			xmin = 6.09
+			xmax = 6.8
+			text = "..."
+		intervals [7]:
+			xmin = 6.8
+			xmax = 7.5
+			text = "aí ele"
+		intervals [8]:
+			xmin = 7.5
+			xmax = 8.65
+			text = "..."
+		intervals [9]:
+			xmin = 8.65
+			xmax = 9.08
+			text = "disse"
+		intervals [10]:
+			xmin = 9.08
+			xmax = 9.29
+			text = "en"
+		intervals [11]:
+			xmin = 9.29
+			xmax = 13.99
+			text = "como é que é ele falou eu disse olha eu vou saber da situação aí me deu o documento quando fui aprovado como"
+		intervals [12]:
+			xmin = 13.99
+			xmax = 14.32
+			text = "..."
+		intervals [13]:
+			xmin = 14.32
+			xmax = 15.51
+			text = "terceiro maquinista"
+		intervals [14]:
+			xmin = 15.51
+			xmax = 16.68
+			text = "..."
+		intervals [15]:
+			xmin = 16.68
+			xmax = 18.97
+			text = ""
+		intervals [16]:
+			xmin = 18.97
+			xmax = 19.16
+			text = "era"
+		intervals [17]:
+			xmin = 19.16
+			xmax = 22.03
+			text = "um ah ah era um responsável pela máquina durante"
+		intervals [18]:
+			xmin = 22.03
+			xmax = 22.39
+			text = "..."
+		intervals [19]:
+			xmin = 22.39
+			xmax = 24.67
+			text = "oito horas né era o responsável aí eu"
+		intervals [20]:
+			xmin = 24.67
+			xmax = 25.43
+			text = "..."
+		intervals [21]:
+			xmin = 25.43
+			xmax = 26.6
+			text = "cheguei a bordo do rio"
+		intervals [22]:
+			xmin = 26.6
+			xmax = 27.35
+			text = "..."
+		intervals [23]:
+			xmin = 27.35
+			xmax = 27.77
+			text = "no rio"
+		intervals [24]:
+			xmin = 27.77
+			xmax = 28.7
+			text = "..."
+		intervals [25]:
+			xmin = 28.7
+			xmax = 35.83
+			text = "fui para o ministério da marinha para legalizar os meus documentos e nessa altura era o o início da guerra"
+		intervals [26]:
+			xmin = 35.83
+			xmax = 38.16
+			text = "..."
+		intervals [27]:
+			xmin = 38.16
+			xmax = 38.22
+			text = "aí"
+		intervals [28]:
+			xmin = 38.22
+			xmax = 40.26
+			text = "..."
+		intervals [29]:
+			xmin = 40.26
+			xmax = 40.62
+			text = "eu"
+		intervals [30]:
+			xmin = 40.62
+			xmax = 42.95
+			text = "..."
+		intervals [31]:
+			xmin = 42.95
+			xmax = 44.98
+			text = "cheguei a bordo estava lá aí"
+		intervals [32]:
+			xmin = 44.98
+			xmax = 45.74
+			text = "..."
+		intervals [33]:
+			xmin = 45.74
+			xmax = 51.48
+			text = "encostou um navio americano horwink e todo mundo desembarcou eu disse por quê eram americanos"
+		intervals [34]:
+			xmin = 51.48
+			xmax = 51.91
+			text = "..."
+		intervals [35]:
+			xmin = 51.91
+			xmax = 57.04
+			text = "por causa da guerra aí ele chegava assim de de manhã no almoço e disse olha eu dou mais vinte por cento"
+		intervals [36]:
+			xmin = 57.04
+			xmax = 59.0
+			text = "..."
+		intervals [37]:
+			xmin = 59.0
+			xmax = 59.73
+			text = "de vantagem aí"
+		intervals [38]:
+			xmin = 59.73
+			xmax = 60.43
+			text = "..."
+		intervals [39]:
+			xmin = 60.43
+			xmax = 62.36
+			text = "eu cheguei a bordo e disse ô [C]"
+		intervals [40]:
+			xmin = 62.36
+			xmax = 63.69
+			text = "..."
+		intervals [41]:
+			xmin = 63.69
+			xmax = 71.71
+			text = "eu vou praquele navio ele disse você é louco você é louco é mas seu [C] mas eu preciso e tal você é maluco aí acompanhei no outro dia dizia assim eu dou mais"
+		intervals [42]:
+			xmin = 71.71
+			xmax = 72.33
+			text = "..."
+		intervals [43]:
+			xmin = 72.33
+			xmax = 74.1
+			text = "no dia disse eu dou cinquenta por cento"
+		intervals [44]:
+			xmin = 74.1
+			xmax = 74.79
+			text = "..."
+		intervals [45]:
+			xmin = 74.79
+			xmax = 76.73
+			text = "eu cheguei a bordo e disse [C]"
+		intervals [46]:
+			xmin = 76.73
+			xmax = 77.05
+			text = "..."
+		intervals [47]:
+			xmin = 77.05
+			xmax = 79.35
+			text = "eu vou ele disse tu vai ver o que pode te acontecer"
+		intervals [48]:
+			xmin = 79.35
+			xmax = 81.38
+			text = ""
+		intervals [49]:
+			xmin = 81.38
+			xmax = 81.52
+			text = "é"
+		intervals [50]:
+			xmin = 81.52
+			xmax = 81.86
+			text = "..."
+		intervals [51]:
+			xmin = 81.86
+			xmax = 82.72
+			text = ""
+		intervals [52]:
+			xmin = 82.72
+			xmax = 82.96
+			text = "e"
+		intervals [53]:
+			xmin = 82.96
+			xmax = 94.8
+			text = "nós já fazíamos a linha da costa costa quer dizer bahia recife et cé ele disse olha tu vai ver o que vai te acontecer isso parece mentira aí nós saímos para o pacífico e eles saíram para o norte quinze dias depois"
+		intervals [54]:
+			xmin = 94.8
+			xmax = 95.39
+			text = "..."
+		intervals [55]:
+			xmin = 95.39
+			xmax = 96.46
+			text = "isso eu nunca esqueço"
+		intervals [56]:
+			xmin = 96.46
+			xmax = 96.79
+			text = "..."
+		intervals [57]:
+			xmin = 96.79
+			xmax = 98.82
+			text = "o trem lá que a pisse me acordou e disse [J]"
+		intervals [58]:
+			xmin = 98.82
+			xmax = 99.44
+			text = "..."
+		intervals [59]:
+			xmin = 99.44
+			xmax = 102.28
+			text = "o tagiba foi torpedeado e todo mundo morreu"
+		intervals [60]:
+			xmin = 102.28
+			xmax = 103.42
+			text = "..."
+		intervals [61]:
+			xmin = 103.42
+			xmax = 104.52
+			text = "aí eu disse que que tris"
+		intervals [62]:
+			xmin = 104.52
+			xmax = 106.2
+			text = "..."
+		intervals [63]:
+			xmin = 106.2
+			xmax = 106.74
+			text = "você entendeu"
+		intervals [64]:
+			xmin = 106.74
+			xmax = 109.1
+			text = ""
+		intervals [65]:
+			xmin = 109.1
+			xmax = 117.55
+			text = "eu eu estava no outro barco do americano entendeu o tagiba era o barco que eu trabalhava entendeu quer dizer todo mundo morreu menos eu que estava em outro navio"
+		intervals [66]:
+			xmin = 117.55
+			xmax = 119.33
+			text = "..."
+		intervals [67]:
+			xmin = 119.33
+			xmax = 119.58
+			text = "isso"
+		intervals [68]:
+			xmin = 119.58
+			xmax = 119.94
+			text = "eu"
+		intervals [69]:
+			xmin = 119.94
+			xmax = 126.11
+			text = "contando isso não pensa você que estou falando não eu todos os dias me lembro dessa história e assim foi eu fiz"
+		intervals [70]:
+			xmin = 126.11
+			xmax = 126.55
+			text = "..."
+		intervals [71]:
+			xmin = 126.55
+			xmax = 128.23
+			text = "parte da gue a gente estava"
+		intervals [72]:
+			xmin = 128.23
+			xmax = 128.71
+			text = "..."
+		intervals [73]:
+			xmin = 128.71
+			xmax = 130.58
+			text = "numa viagem para aruba"
+		intervals [74]:
+			xmin = 130.58
+			xmax = 133.28
+			text = "..."
+		intervals [75]:
+			xmin = 133.28
+			xmax = 141.38
+			text = "é carregar naquele tempo não tinha petrobras todos os dias chegava no rio de janeiro um navio pe com petróleo de aruba de onde tivesse"
+		intervals [76]:
+			xmin = 141.38
+			xmax = 143.71
+			text = "..."
+		intervals [77]:
+			xmin = 143.71
+			xmax = 144.07
+			text = "aí eu"
+		intervals [78]:
+			xmin = 144.07
+			xmax = 149.37
+			text = "..."
+		intervals [79]:
+			xmin = 149.37
+			xmax = 150.98
+			text = "fiquei nesse navio"
+		intervals [80]:
+			xmin = 150.98
+			xmax = 151.66
+			text = "..."
+		intervals [81]:
+			xmin = 151.66
+			xmax = 153.9
+			text = "e quando é um dia nós pegamos naquela época"
+		intervals [82]:
+			xmin = 153.9
+			xmax = 154.39
+			text = "..."
+		intervals [83]:
+			xmin = 154.39
+			xmax = 154.42
+			text = "o"
+		intervals [84]:
+			xmin = 154.42
+			xmax = 155.03
+			text = "..."
+		intervals [85]:
+			xmin = 155.03
+			xmax = 164.39
+			text = "comandante só tinha comandantes português e noruega naquela época isso há sessenta anos atrás aí o de um comandante português que era o comandante do do navio"
+		intervals [86]:
+			xmin = 164.39
+			xmax = 165.24
+			text = "..."
+		intervals [87]:
+			xmin = 165.24
+			xmax = 168.32
+			text = "e ele estava nós íamos de aruba carregado de petróleo"
+		intervals [88]:
+			xmin = 168.32
+			xmax = 168.81
+			text = "..."
+		intervals [89]:
+			xmin = 168.81
+			xmax = 177.25
+			text = "aí o marinheiro olhou um vulto ali aí ele disse então vamos lá aí todo ano pedindo não faça isso comandante não vamos embora vamos embora em resumo eram dois tripulantes"
+		intervals [90]:
+			xmin = 177.25
+			xmax = 177.65
+			text = "..."
+		intervals [91]:
+			xmin = 177.65
+			xmax = 179.65
+			text = "de navios no a nunca a"
+		intervals [92]:
+			xmin = 179.65
+			xmax = 182.53
+			text = "alimentação dele era a cortiça do salvavidas"
+		intervals [93]:
+			xmin = 182.53
+			xmax = 184.38
+			text = "..."
+		intervals [94]:
+			xmin = 184.38
+			xmax = 185.43
+			text = "sabe o que é cortiça não sabe"
+		intervals [95]:
+			xmin = 185.43
+			xmax = 186.73
+			text = ""
+		intervals [96]:
+			xmin = 186.73
+			xmax = 188.75
+			text = "a cortiça é um um aparelho que"
+		intervals [97]:
+			xmin = 188.75
+			xmax = 189.14
+			text = "faz"
+		intervals [98]:
+			xmin = 189.14
+			xmax = 192.93
+			text = "flutuar né entendeu como é que é e nós pegamos esses náufragos e"
+		intervals [99]:
+			xmin = 192.93
+			xmax = 193.35
+			text = "..."
+		intervals [100]:
+			xmin = 193.35
+			xmax = 198.19
+			text = "e fomos para o rio de janeiro passamos vinte dias viajando para chegar no rio de janeiro fomos à"
+		intervals [101]:
+			xmin = 198.19
+			xmax = 198.78
+			text = "áfrica"
+		intervals [102]:
+			xmin = 198.78
+			xmax = 201.17
+			text = "aquilo aí tudo para fugindo do torpedeamento"
+		intervals [103]:
+			xmin = 201.17
+			xmax = 201.9
+			text = "..."
+		intervals [104]:
+			xmin = 201.9
+			xmax = 202.5
+			text = "porque eram"
+		intervals [105]:
+			xmin = 202.5
+			xmax = 202.96
+			text = "cinco"
+		intervals [106]:
+			xmin = 202.96
+			xmax = 204.78
+			text = "navios por dia eram torpedeado"
+		intervals [107]:
+			xmin = 204.78
+			xmax = 205.98
+			text = ""
+		intervals [108]:
+			xmin = 205.98
+			xmax = 206.67
+			text = "americanos"
+		intervals [109]:
+			xmin = 206.67
+			xmax = 211.92
+			text = ""
+		intervals [110]:
+			xmin = 211.92
+			xmax = 214.08
+			text = "eu era maquinista do navio já nessa época"
+		intervals [111]:
+			xmin = 214.08
+			xmax = 214.32
+			text = "já"
+		intervals [112]:
+			xmin = 214.32
+			xmax = 216.81
+			text = "..."
+		intervals [113]:
+			xmin = 216.81
+			xmax = 217.26
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 217.26
+		intervals: size = 169
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.13
+			text = "enquanto o navio foi a porto alegre"
+		intervals [2]:
+			xmin = 2.13
+			xmax = 3.53
+			text = "..."
+		intervals [3]:
+			xmin = 3.53
+			xmax = 4.39
+			text = "quando voltou"
+		intervals [4]:
+			xmin = 4.39
+			xmax = 5.1
+			text = "..."
+		intervals [5]:
+			xmin = 5.1
+			xmax = 6.09
+			text = "quinze dias depois"
+		intervals [6]:
+			xmin = 6.09
+			xmax = 6.8
+			text = "..."
+		intervals [7]:
+			xmin = 6.8
+			xmax = 7.5
+			text = "aí ele"
+		intervals [8]:
+			xmin = 7.5
+			xmax = 8.65
+			text = "..."
+		intervals [9]:
+			xmin = 8.65
+			xmax = 9.08
+			text = "disse"
+		intervals [10]:
+			xmin = 9.08
+			xmax = 9.29
+			text = "en"
+		intervals [11]:
+			xmin = 9.29
+			xmax = 10.1
+			text = "como é que é ele falou"
+		intervals [12]:
+			xmin = 10.1
+			xmax = 10.37
+			text = "..."
+		intervals [13]:
+			xmin = 10.37
+			xmax = 13.99
+			text = "eu disse olha eu vou saber da situação aí me deu o documento quando fui aprovado como"
+		intervals [14]:
+			xmin = 13.99
+			xmax = 14.32
+			text = "..."
+		intervals [15]:
+			xmin = 14.32
+			xmax = 15.51
+			text = "terceiro maquinista"
+		intervals [16]:
+			xmin = 15.51
+			xmax = 16.68
+			text = "..."
+		intervals [17]:
+			xmin = 16.68
+			xmax = 18.97
+			text = ""
+		intervals [18]:
+			xmin = 18.97
+			xmax = 19.16
+			text = "era"
+		intervals [19]:
+			xmin = 19.16
+			xmax = 19.39
+			text = "um"
+		intervals [20]:
+			xmin = 19.39
+			xmax = 19.53
+			text = "..."
+		intervals [21]:
+			xmin = 19.53
+			xmax = 21.31
+			text = "ah ah era um responsável pela máquina"
+		intervals [22]:
+			xmin = 21.31
+			xmax = 21.52
+			text = "..."
+		intervals [23]:
+			xmin = 21.52
+			xmax = 22.03
+			text = "durante"
+		intervals [24]:
+			xmin = 22.03
+			xmax = 22.39
+			text = "..."
+		intervals [25]:
+			xmin = 22.39
+			xmax = 23.2
+			text = "oito horas né"
+		intervals [26]:
+			xmin = 23.2
+			xmax = 23.41
+			text = "..."
+		intervals [27]:
+			xmin = 23.41
+			xmax = 24.67
+			text = "era o responsável aí eu"
+		intervals [28]:
+			xmin = 24.67
+			xmax = 25.43
+			text = "..."
+		intervals [29]:
+			xmin = 25.43
+			xmax = 26.6
+			text = "cheguei a bordo do rio"
+		intervals [30]:
+			xmin = 26.6
+			xmax = 27.35
+			text = "..."
+		intervals [31]:
+			xmin = 27.35
+			xmax = 27.77
+			text = "no rio"
+		intervals [32]:
+			xmin = 27.77
+			xmax = 28.7
+			text = "..."
+		intervals [33]:
+			xmin = 28.7
+			xmax = 33.42
+			text = "fui para o ministério da marinha para legalizar os meus documentos e nessa altura"
+		intervals [34]:
+			xmin = 33.42
+			xmax = 33.59
+			text = "..."
+		intervals [35]:
+			xmin = 33.59
+			xmax = 33.95
+			text = "era o"
+		intervals [36]:
+			xmin = 33.95
+			xmax = 34.09
+			text = "..."
+		intervals [37]:
+			xmin = 34.09
+			xmax = 35.83
+			text = "o início da guerra"
+		intervals [38]:
+			xmin = 35.83
+			xmax = 38.16
+			text = "..."
+		intervals [39]:
+			xmin = 38.16
+			xmax = 38.22
+			text = "aí"
+		intervals [40]:
+			xmin = 38.22
+			xmax = 40.26
+			text = "..."
+		intervals [41]:
+			xmin = 40.26
+			xmax = 40.62
+			text = "eu"
+		intervals [42]:
+			xmin = 40.62
+			xmax = 42.95
+			text = "..."
+		intervals [43]:
+			xmin = 42.95
+			xmax = 44.16
+			text = "cheguei a bordo"
+		intervals [44]:
+			xmin = 44.16
+			xmax = 44.28
+			text = "..."
+		intervals [45]:
+			xmin = 44.28
+			xmax = 44.98
+			text = "estava lá aí"
+		intervals [46]:
+			xmin = 44.98
+			xmax = 45.74
+			text = "..."
+		intervals [47]:
+			xmin = 45.74
+			xmax = 49.58
+			text = "encostou um navio americano horwink e todo mundo desembarcou"
+		intervals [48]:
+			xmin = 49.58
+			xmax = 49.74
+			text = "..."
+		intervals [49]:
+			xmin = 49.74
+			xmax = 51.48
+			text = "eu disse por quê eram americanos"
+		intervals [50]:
+			xmin = 51.48
+			xmax = 51.91
+			text = "..."
+		intervals [51]:
+			xmin = 51.91
+			xmax = 57.04
+			text = "por causa da guerra aí ele chegava assim de de manhã no almoço e disse olha eu dou mais vinte por cento"
+		intervals [52]:
+			xmin = 57.04
+			xmax = 59.0
+			text = "..."
+		intervals [53]:
+			xmin = 59.0
+			xmax = 59.73
+			text = "de vantagem aí"
+		intervals [54]:
+			xmin = 59.73
+			xmax = 60.43
+			text = "..."
+		intervals [55]:
+			xmin = 60.43
+			xmax = 62.36
+			text = "eu cheguei a bordo e disse ô [C]"
+		intervals [56]:
+			xmin = 62.36
+			xmax = 63.69
+			text = "..."
+		intervals [57]:
+			xmin = 63.69
+			xmax = 68.49
+			text = "eu vou praquele navio ele disse você é louco você é louco é mas seu [C] mas eu preciso e tal"
+		intervals [58]:
+			xmin = 68.49
+			xmax = 68.67
+			text = "..."
+		intervals [59]:
+			xmin = 68.67
+			xmax = 71.71
+			text = "você é maluco aí acompanhei no outro dia dizia assim eu dou mais"
+		intervals [60]:
+			xmin = 71.71
+			xmax = 72.33
+			text = "..."
+		intervals [61]:
+			xmin = 72.33
+			xmax = 74.1
+			text = "no dia disse eu dou cinquenta por cento"
+		intervals [62]:
+			xmin = 74.1
+			xmax = 74.79
+			text = "..."
+		intervals [63]:
+			xmin = 74.79
+			xmax = 76.03
+			text = "eu cheguei a bordo e disse"
+		intervals [64]:
+			xmin = 76.03
+			xmax = 76.22
+			text = "..."
+		intervals [65]:
+			xmin = 76.22
+			xmax = 76.73
+			text = "[C]"
+		intervals [66]:
+			xmin = 76.73
+			xmax = 77.05
+			text = "..."
+		intervals [67]:
+			xmin = 77.05
+			xmax = 79.35
+			text = "eu vou ele disse tu vai ver o que pode te acontecer"
+		intervals [68]:
+			xmin = 79.35
+			xmax = 81.38
+			text = ""
+		intervals [69]:
+			xmin = 81.38
+			xmax = 81.52
+			text = "é"
+		intervals [70]:
+			xmin = 81.52
+			xmax = 81.86
+			text = "..."
+		intervals [71]:
+			xmin = 81.86
+			xmax = 82.72
+			text = ""
+		intervals [72]:
+			xmin = 82.72
+			xmax = 82.96
+			text = "e"
+		intervals [73]:
+			xmin = 82.96
+			xmax = 87.42
+			text = "nós já fazíamos a linha da costa costa quer dizer bahia recife et cé ele disse olha"
+		intervals [74]:
+			xmin = 87.42
+			xmax = 87.57
+			text = "..."
+		intervals [75]:
+			xmin = 87.57
+			xmax = 92.19
+			text = "tu vai ver o que vai te acontecer isso parece mentira aí nós saímos para o pacífico"
+		intervals [76]:
+			xmin = 92.19
+			xmax = 92.44
+			text = "..."
+		intervals [77]:
+			xmin = 92.44
+			xmax = 94.8
+			text = "e eles saíram para o norte quinze dias depois"
+		intervals [78]:
+			xmin = 94.8
+			xmax = 95.39
+			text = "..."
+		intervals [79]:
+			xmin = 95.39
+			xmax = 96.46
+			text = "isso eu nunca esqueço"
+		intervals [80]:
+			xmin = 96.46
+			xmax = 96.79
+			text = "..."
+		intervals [81]:
+			xmin = 96.79
+			xmax = 98.82
+			text = "o trem lá que a pisse me acordou e disse [J]"
+		intervals [82]:
+			xmin = 98.82
+			xmax = 99.44
+			text = "..."
+		intervals [83]:
+			xmin = 99.44
+			xmax = 102.28
+			text = "o tagiba foi torpedeado e todo mundo morreu"
+		intervals [84]:
+			xmin = 102.28
+			xmax = 103.42
+			text = "..."
+		intervals [85]:
+			xmin = 103.42
+			xmax = 103.99
+			text = "aí eu disse que"
+		intervals [86]:
+			xmin = 103.99
+			xmax = 104.15
+			text = "..."
+		intervals [87]:
+			xmin = 104.15
+			xmax = 104.52
+			text = "que tris"
+		intervals [88]:
+			xmin = 104.52
+			xmax = 106.2
+			text = "..."
+		intervals [89]:
+			xmin = 106.2
+			xmax = 106.74
+			text = "você entendeu"
+		intervals [90]:
+			xmin = 106.74
+			xmax = 109.1
+			text = ""
+		intervals [91]:
+			xmin = 109.1
+			xmax = 115.09
+			text = "eu eu estava no outro barco do americano entendeu o tagiba era o barco que eu trabalhava entendeu quer dizer todo mundo morreu"
+		intervals [92]:
+			xmin = 115.09
+			xmax = 115.39
+			text = "..."
+		intervals [93]:
+			xmin = 115.39
+			xmax = 115.9
+			text = "menos"
+		intervals [94]:
+			xmin = 115.9
+			xmax = 116.09
+			text = "..."
+		intervals [95]:
+			xmin = 116.09
+			xmax = 117.55
+			text = "eu que estava em outro navio"
+		intervals [96]:
+			xmin = 117.55
+			xmax = 119.33
+			text = "..."
+		intervals [97]:
+			xmin = 119.33
+			xmax = 119.58
+			text = "isso"
+		intervals [98]:
+			xmin = 119.58
+			xmax = 119.94
+			text = "eu"
+		intervals [99]:
+			xmin = 119.94
+			xmax = 120.84
+			text = "contando isso"
+		intervals [100]:
+			xmin = 120.84
+			xmax = 120.99
+			text = "..."
+		intervals [101]:
+			xmin = 120.99
+			xmax = 126.11
+			text = "não pensa você que estou falando não eu todos os dias me lembro dessa história e assim foi eu fiz"
+		intervals [102]:
+			xmin = 126.11
+			xmax = 126.55
+			text = "..."
+		intervals [103]:
+			xmin = 126.55
+			xmax = 126.94
+			text = "parte"
+		intervals [104]:
+			xmin = 126.94
+			xmax = 127.04
+			text = "..."
+		intervals [105]:
+			xmin = 127.04
+			xmax = 127.44
+			text = "da gue a"
+		intervals [106]:
+			xmin = 127.44
+			xmax = 127.57
+			text = "..."
+		intervals [107]:
+			xmin = 127.57
+			xmax = 128.23
+			text = "gente estava"
+		intervals [108]:
+			xmin = 128.23
+			xmax = 128.71
+			text = "..."
+		intervals [109]:
+			xmin = 128.71
+			xmax = 129.28
+			text = "numa viagem"
+		intervals [110]:
+			xmin = 129.28
+			xmax = 129.49
+			text = "..."
+		intervals [111]:
+			xmin = 129.49
+			xmax = 130.58
+			text = "para aruba"
+		intervals [112]:
+			xmin = 130.58
+			xmax = 133.28
+			text = "..."
+		intervals [113]:
+			xmin = 133.28
+			xmax = 138.43
+			text = "é carregar naquele tempo não tinha petrobras todos os dias chegava no rio de janeiro"
+		intervals [114]:
+			xmin = 138.43
+			xmax = 138.65
+			text = "..."
+		intervals [115]:
+			xmin = 138.65
+			xmax = 141.38
+			text = "um navio pe com petróleo de aruba de onde tivesse"
+		intervals [116]:
+			xmin = 141.38
+			xmax = 143.71
+			text = "..."
+		intervals [117]:
+			xmin = 143.71
+			xmax = 144.07
+			text = "aí eu"
+		intervals [118]:
+			xmin = 144.07
+			xmax = 149.37
+			text = "..."
+		intervals [119]:
+			xmin = 149.37
+			xmax = 150.98
+			text = "fiquei nesse navio"
+		intervals [120]:
+			xmin = 150.98
+			xmax = 151.66
+			text = "..."
+		intervals [121]:
+			xmin = 151.66
+			xmax = 153.9
+			text = "e quando é um dia nós pegamos naquela época"
+		intervals [122]:
+			xmin = 153.9
+			xmax = 154.39
+			text = "..."
+		intervals [123]:
+			xmin = 154.39
+			xmax = 154.42
+			text = "o"
+		intervals [124]:
+			xmin = 154.42
+			xmax = 155.03
+			text = "..."
+		intervals [125]:
+			xmin = 155.03
+			xmax = 157.54
+			text = "comandante só tinha comandantes português"
+		intervals [126]:
+			xmin = 157.54
+			xmax = 157.68
+			text = "..."
+		intervals [127]:
+			xmin = 157.68
+			xmax = 159.01
+			text = "e noruega naquela época"
+		intervals [128]:
+			xmin = 159.01
+			xmax = 159.19
+			text = "..."
+		intervals [129]:
+			xmin = 159.19
+			xmax = 164.39
+			text = "isso há sessenta anos atrás aí o de um comandante português que era o comandante do do navio"
+		intervals [130]:
+			xmin = 164.39
+			xmax = 165.24
+			text = "..."
+		intervals [131]:
+			xmin = 165.24
+			xmax = 168.32
+			text = "e ele estava nós íamos de aruba carregado de petróleo"
+		intervals [132]:
+			xmin = 168.32
+			xmax = 168.81
+			text = "..."
+		intervals [133]:
+			xmin = 168.81
+			xmax = 175.15
+			text = "aí o marinheiro olhou um vulto ali aí ele disse então vamos lá aí todo ano pedindo não faça isso comandante não vamos embora vamos embora em resumo"
+		intervals [134]:
+			xmin = 175.15
+			xmax = 175.38
+			text = "..."
+		intervals [135]:
+			xmin = 175.38
+			xmax = 176.2
+			text = "eram dois"
+		intervals [136]:
+			xmin = 176.2
+			xmax = 176.47
+			text = "..."
+		intervals [137]:
+			xmin = 176.47
+			xmax = 177.25
+			text = "tripulantes"
+		intervals [138]:
+			xmin = 177.25
+			xmax = 177.65
+			text = "..."
+		intervals [139]:
+			xmin = 177.65
+			xmax = 178.24
+			text = "de navios"
+		intervals [140]:
+			xmin = 178.24
+			xmax = 178.4
+			text = "..."
+		intervals [141]:
+			xmin = 178.4
+			xmax = 179.65
+			text = "no a nunca a"
+		intervals [142]:
+			xmin = 179.65
+			xmax = 182.53
+			text = "alimentação dele era a cortiça do salvavidas"
+		intervals [143]:
+			xmin = 182.53
+			xmax = 184.38
+			text = "..."
+		intervals [144]:
+			xmin = 184.38
+			xmax = 185.43
+			text = "sabe o que é cortiça não sabe"
+		intervals [145]:
+			xmin = 185.43
+			xmax = 186.73
+			text = ""
+		intervals [146]:
+			xmin = 186.73
+			xmax = 188.75
+			text = "a cortiça é um um aparelho que"
+		intervals [147]:
+			xmin = 188.75
+			xmax = 189.14
+			text = "faz"
+		intervals [148]:
+			xmin = 189.14
+			xmax = 192.46
+			text = "flutuar né entendeu como é que é e nós pegamos esses náufragos"
+		intervals [149]:
+			xmin = 192.46
+			xmax = 192.75
+			text = "..."
+		intervals [150]:
+			xmin = 192.75
+			xmax = 192.93
+			text = "e"
+		intervals [151]:
+			xmin = 192.93
+			xmax = 193.35
+			text = "..."
+		intervals [152]:
+			xmin = 193.35
+			xmax = 193.4
+			text = "e"
+		intervals [153]:
+			xmin = 193.4
+			xmax = 193.61
+			text = "..."
+		intervals [154]:
+			xmin = 193.61
+			xmax = 194.05
+			text = "fomos"
+		intervals [155]:
+			xmin = 194.05
+			xmax = 194.33
+			text = "..."
+		intervals [156]:
+			xmin = 194.33
+			xmax = 198.19
+			text = "para o rio de janeiro passamos vinte dias viajando para chegar no rio de janeiro fomos à"
+		intervals [157]:
+			xmin = 198.19
+			xmax = 198.78
+			text = "áfrica"
+		intervals [158]:
+			xmin = 198.78
+			xmax = 201.17
+			text = "aquilo aí tudo para fugindo do torpedeamento"
+		intervals [159]:
+			xmin = 201.17
+			xmax = 201.9
+			text = "..."
+		intervals [160]:
+			xmin = 201.9
+			xmax = 202.5
+			text = "porque eram"
+		intervals [161]:
+			xmin = 202.5
+			xmax = 202.96
+			text = "cinco"
+		intervals [162]:
+			xmin = 202.96
+			xmax = 204.78
+			text = "navios por dia eram torpedeado"
+		intervals [163]:
+			xmin = 204.78
+			xmax = 205.98
+			text = ""
+		intervals [164]:
+			xmin = 205.98
+			xmax = 206.67
+			text = "americanos"
+		intervals [165]:
+			xmin = 206.67
+			xmax = 211.92
+			text = ""
+		intervals [166]:
+			xmin = 211.92
+			xmax = 214.08
+			text = "eu era maquinista do navio já nessa época"
+		intervals [167]:
+			xmin = 214.08
+			xmax = 214.32
+			text = "já"
+		intervals [168]:
+			xmin = 214.32
+			xmax = 216.81
+			text = "..."
+		intervals [169]:
+			xmin = 216.81
+			xmax = 217.26
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 217.26
+		intervals: size = 29
+		intervals [1]:
+			xmin = 0.0
+			xmax = 16.68
+			text = ""
+		intervals [2]:
+			xmin = 16.68
+			xmax = 17.6
+			text = "o que que o terceiro maquinista"
+		intervals [3]:
+			xmin = 17.6
+			xmax = 18.01
+			text = "fazia"
+		intervals [4]:
+			xmin = 18.01
+			xmax = 18.97
+			text = "..."
+		intervals [5]:
+			xmin = 18.97
+			xmax = 79.35
+			text = ""
+		intervals [6]:
+			xmin = 79.35
+			xmax = 80.74
+			text = "o senhor sabia que ia"
+		intervals [7]:
+			xmin = 80.74
+			xmax = 81.38
+			text = "..."
+		intervals [8]:
+			xmin = 81.38
+			xmax = 81.86
+			text = ""
+		intervals [9]:
+			xmin = 81.86
+			xmax = 81.93
+			text = "ta"
+		intervals [10]:
+			xmin = 81.93
+			xmax = 82.29
+			text = "..."
+		intervals [11]:
+			xmin = 82.29
+			xmax = 82.38
+			text = "ta"
+		intervals [12]:
+			xmin = 82.38
+			xmax = 82.72
+			text = "..."
+		intervals [13]:
+			xmin = 82.72
+			xmax = 106.74
+			text = ""
+		intervals [14]:
+			xmin = 106.74
+			xmax = 107.7
+			text = "era o outro barco que o senhor"
+		intervals [15]:
+			xmin = 107.7
+			xmax = 108.05
+			text = "estava"
+		intervals [16]:
+			xmin = 108.05
+			xmax = 109.1
+			text = "..."
+		intervals [17]:
+			xmin = 109.1
+			xmax = 185.43
+			text = ""
+		intervals [18]:
+			xmin = 185.43
+			xmax = 185.87
+			text = "não você"
+		intervals [19]:
+			xmin = 185.87
+			xmax = 186.02
+			text = "pode"
+		intervals [20]:
+			xmin = 186.02
+			xmax = 186.73
+			text = "ex explicar"
+		intervals [21]:
+			xmin = 186.73
+			xmax = 204.88
+			text = ""
+		intervals [22]:
+			xmin = 204.88
+			xmax = 205.98
+			text = "e de onde eram esses náufragos"
+		intervals [23]:
+			xmin = 205.98
+			xmax = 206.67
+			text = ""
+		intervals [24]:
+			xmin = 206.67
+			xmax = 207.67
+			text = "americanos e como é que era"
+		intervals [25]:
+			xmin = 207.67
+			xmax = 209.87
+			text = "o o cotidiano no navio o que que o senhor"
+		intervals [26]:
+			xmin = 209.87
+			xmax = 210.95
+			text = "fazia no navio"
+		intervals [27]:
+			xmin = 210.95
+			xmax = 211.26
+			text = "..."
+		intervals [28]:
+			xmin = 211.26
+			xmax = 211.92
+			text = "nessa época"
+		intervals [29]:
+			xmin = 211.92
+			xmax = 217.26
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 217.26
+		intervals: size = 29
+		intervals [1]:
+			xmin = 0.0
+			xmax = 16.68
+			text = ""
+		intervals [2]:
+			xmin = 16.68
+			xmax = 17.6
+			text = "o que que o terceiro maquinista"
+		intervals [3]:
+			xmin = 17.6
+			xmax = 18.01
+			text = "fazia"
+		intervals [4]:
+			xmin = 18.01
+			xmax = 18.97
+			text = "..."
+		intervals [5]:
+			xmin = 18.97
+			xmax = 79.35
+			text = ""
+		intervals [6]:
+			xmin = 79.35
+			xmax = 80.74
+			text = "o senhor sabia que ia"
+		intervals [7]:
+			xmin = 80.74
+			xmax = 81.38
+			text = "..."
+		intervals [8]:
+			xmin = 81.38
+			xmax = 81.86
+			text = ""
+		intervals [9]:
+			xmin = 81.86
+			xmax = 81.93
+			text = "ta"
+		intervals [10]:
+			xmin = 81.93
+			xmax = 82.29
+			text = "..."
+		intervals [11]:
+			xmin = 82.29
+			xmax = 82.38
+			text = "ta"
+		intervals [12]:
+			xmin = 82.38
+			xmax = 82.72
+			text = "..."
+		intervals [13]:
+			xmin = 82.72
+			xmax = 106.74
+			text = ""
+		intervals [14]:
+			xmin = 106.74
+			xmax = 107.7
+			text = "era o outro barco que o senhor"
+		intervals [15]:
+			xmin = 107.7
+			xmax = 108.05
+			text = "estava"
+		intervals [16]:
+			xmin = 108.05
+			xmax = 109.1
+			text = "..."
+		intervals [17]:
+			xmin = 109.1
+			xmax = 185.43
+			text = ""
+		intervals [18]:
+			xmin = 185.43
+			xmax = 185.87
+			text = "não você"
+		intervals [19]:
+			xmin = 185.87
+			xmax = 186.02
+			text = "pode"
+		intervals [20]:
+			xmin = 186.02
+			xmax = 186.73
+			text = "ex explicar"
+		intervals [21]:
+			xmin = 186.73
+			xmax = 204.88
+			text = ""
+		intervals [22]:
+			xmin = 204.88
+			xmax = 205.98
+			text = "e de onde eram esses náufragos"
+		intervals [23]:
+			xmin = 205.98
+			xmax = 206.67
+			text = ""
+		intervals [24]:
+			xmin = 206.67
+			xmax = 207.67
+			text = "americanos e como é que era"
+		intervals [25]:
+			xmin = 207.67
+			xmax = 209.87
+			text = "o o cotidiano no navio o que que o senhor"
+		intervals [26]:
+			xmin = 209.87
+			xmax = 210.95
+			text = "fazia no navio"
+		intervals [27]:
+			xmin = 210.95
+			xmax = 211.26
+			text = "..."
+		intervals [28]:
+			xmin = 211.26
+			xmax = 211.92
+			text = "nessa época"
+		intervals [29]:
+			xmin = 211.92
+			xmax = 217.26
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 217.26
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 217.26
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 217.26
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 217.26
+			text = ""

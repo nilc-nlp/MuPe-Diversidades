@@ -1,0 +1,1592 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 221.54
+tiers? <exists>
+size = 8
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 221.54
+		intervals: size = 47
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.23
+			text = "tinha biblioteca na escola"
+		intervals [2]:
+			xmin = 1.23
+			xmax = 1.88
+			text = ""
+		intervals [3]:
+			xmin = 1.88
+			xmax = 2.17
+			text = "não"
+		intervals [4]:
+			xmin = 2.17
+			xmax = 3.55
+			text = "..."
+		intervals [5]:
+			xmin = 3.55
+			xmax = 6.17
+			text = "e como é que você teve contato com os com os livros"
+		intervals [6]:
+			xmin = 6.17
+			xmax = 21.9
+			text = ""
+		intervals [7]:
+			xmin = 21.9
+			xmax = 23.94
+			text = "que você odiava porque era castigo ou porque"
+		intervals [8]:
+			xmin = 23.94
+			xmax = 31.24
+			text = ""
+		intervals [9]:
+			xmin = 31.24
+			xmax = 34.27
+			text = "mas ela te o castigo era ler livro na secretaria"
+		intervals [10]:
+			xmin = 34.27
+			xmax = 34.85
+			text = "..."
+		intervals [11]:
+			xmin = 34.85
+			xmax = 43.12
+			text = ""
+		intervals [12]:
+			xmin = 43.12
+			xmax = 47.28
+			text = "que livro que você lembra assim os primeiros que você leu que te prendeu a atenção como"
+		intervals [13]:
+			xmin = 47.28
+			xmax = 51.76
+			text = ""
+		intervals [14]:
+			xmin = 51.76
+			xmax = 51.96
+			text = "mas"
+		intervals [15]:
+			xmin = 51.96
+			xmax = 52.75
+			text = "pequenininha"
+		intervals [16]:
+			xmin = 52.75
+			xmax = 56.9
+			text = ""
+		intervals [17]:
+			xmin = 56.9
+			xmax = 56.94
+			text = "ah"
+		intervals [18]:
+			xmin = 56.94
+			xmax = 58.33
+			text = "..."
+		intervals [19]:
+			xmin = 58.33
+			xmax = 69.51
+			text = ""
+		intervals [20]:
+			xmin = 69.51
+			xmax = 74.71
+			text = "e aí o quê que você brincava assim na escola como é que era tinha bastante liberdade você tinha bastantes"
+		intervals [21]:
+			xmin = 74.71
+			xmax = 76.34
+			text = "bastante amigos"
+		intervals [22]:
+			xmin = 76.34
+			xmax = 76.51
+			text = ""
+		intervals [23]:
+			xmin = 76.51
+			xmax = 78.48
+			text = "como é que era isso o quê que você lembra"
+		intervals [24]:
+			xmin = 78.48
+			xmax = 98.18
+			text = ""
+		intervals [25]:
+			xmin = 98.18
+			xmax = 98.72
+			text = "a família"
+		intervals [26]:
+			xmin = 98.72
+			xmax = 99.7
+			text = "que era terrível"
+		intervals [27]:
+			xmin = 99.7
+			xmax = 100.13
+			text = "..."
+		intervals [28]:
+			xmin = 100.13
+			xmax = 107.81
+			text = ""
+		intervals [29]:
+			xmin = 107.81
+			xmax = 108.04
+			text = "ãh"
+		intervals [30]:
+			xmin = 108.04
+			xmax = 109.02
+			text = "..."
+		intervals [31]:
+			xmin = 109.02
+			xmax = 120.99
+			text = ""
+		intervals [32]:
+			xmin = 120.99
+			xmax = 121.17
+			text = "ãh"
+		intervals [33]:
+			xmin = 121.17
+			xmax = 137.44
+			text = ""
+		intervals [34]:
+			xmin = 137.44
+			xmax = 138.16
+			text = "oxe"
+		intervals [35]:
+			xmin = 138.16
+			xmax = 139.81
+			text = "..."
+		intervals [36]:
+			xmin = 139.81
+			xmax = 165.72
+			text = ""
+		intervals [37]:
+			xmin = 165.72
+			xmax = 168.32
+			text = "mas a família toda era terrível assim ou era só você"
+		intervals [38]:
+			xmin = 168.32
+			xmax = 169.01
+			text = "como é que é isso"
+		intervals [39]:
+			xmin = 169.01
+			xmax = 180.18
+			text = ""
+		intervals [40]:
+			xmin = 180.18
+			xmax = 181.95
+			text = "não mas o carro não passou em cima dele assim"
+		intervals [41]:
+			xmin = 181.95
+			xmax = 197.74
+			text = ""
+		intervals [42]:
+			xmin = 197.74
+			xmax = 198.0
+			text = "como"
+		intervals [43]:
+			xmin = 198.0
+			xmax = 198.48
+			text = "que vocês vieram"
+		intervals [44]:
+			xmin = 198.48
+			xmax = 220.04
+			text = ""
+		intervals [45]:
+			xmin = 220.04
+			xmax = 220.6
+			text = "você já tinha"
+		intervals [46]:
+			xmin = 220.6
+			xmax = 220.97
+			text = "saído"
+		intervals [47]:
+			xmin = 220.97
+			xmax = 221.54
+			text = "de manari"
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 221.54
+		intervals: size = 56
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.23
+			text = "tinha biblioteca na escola"
+		intervals [2]:
+			xmin = 1.23
+			xmax = 1.45
+			text = "..."
+		intervals [3]:
+			xmin = 1.45
+			xmax = 1.88
+			text = ""
+		intervals [4]:
+			xmin = 1.88
+			xmax = 2.17
+			text = "não"
+		intervals [5]:
+			xmin = 2.17
+			xmax = 3.55
+			text = "..."
+		intervals [6]:
+			xmin = 3.55
+			xmax = 5.16
+			text = "e como é que você teve contato com os"
+		intervals [7]:
+			xmin = 5.16
+			xmax = 5.29
+			text = "..."
+		intervals [8]:
+			xmin = 5.29
+			xmax = 6.17
+			text = "com os livros"
+		intervals [9]:
+			xmin = 6.17
+			xmax = 21.9
+			text = ""
+		intervals [10]:
+			xmin = 21.9
+			xmax = 23.94
+			text = "que você odiava porque era castigo ou porque"
+		intervals [11]:
+			xmin = 23.94
+			xmax = 24.07
+			text = "..."
+		intervals [12]:
+			xmin = 24.07
+			xmax = 31.24
+			text = ""
+		intervals [13]:
+			xmin = 31.24
+			xmax = 34.27
+			text = "mas ela te o castigo era ler livro na secretaria"
+		intervals [14]:
+			xmin = 34.27
+			xmax = 34.85
+			text = "..."
+		intervals [15]:
+			xmin = 34.85
+			xmax = 43.12
+			text = ""
+		intervals [16]:
+			xmin = 43.12
+			xmax = 45.91
+			text = "que livro que você lembra assim os primeiros que você leu que te"
+		intervals [17]:
+			xmin = 45.91
+			xmax = 46.11
+			text = "..."
+		intervals [18]:
+			xmin = 46.11
+			xmax = 47.28
+			text = "prendeu a atenção como"
+		intervals [19]:
+			xmin = 47.28
+			xmax = 51.76
+			text = ""
+		intervals [20]:
+			xmin = 51.76
+			xmax = 51.96
+			text = "mas"
+		intervals [21]:
+			xmin = 51.96
+			xmax = 52.75
+			text = "pequenininha"
+		intervals [22]:
+			xmin = 52.75
+			xmax = 56.9
+			text = ""
+		intervals [23]:
+			xmin = 56.9
+			xmax = 56.94
+			text = "ah"
+		intervals [24]:
+			xmin = 56.94
+			xmax = 58.33
+			text = "..."
+		intervals [25]:
+			xmin = 58.33
+			xmax = 69.51
+			text = ""
+		intervals [26]:
+			xmin = 69.51
+			xmax = 74.71
+			text = "e aí o quê que você brincava assim na escola como é que era tinha bastante liberdade você tinha bastantes"
+		intervals [27]:
+			xmin = 74.71
+			xmax = 76.34
+			text = "bastante amigos"
+		intervals [28]:
+			xmin = 76.34
+			xmax = 76.51
+			text = ""
+		intervals [29]:
+			xmin = 76.51
+			xmax = 78.48
+			text = "como é que era isso o quê que você lembra"
+		intervals [30]:
+			xmin = 78.48
+			xmax = 78.68
+			text = "..."
+		intervals [31]:
+			xmin = 78.68
+			xmax = 98.18
+			text = ""
+		intervals [32]:
+			xmin = 98.18
+			xmax = 98.72
+			text = "a família"
+		intervals [33]:
+			xmin = 98.72
+			xmax = 99.7
+			text = "que era terrível"
+		intervals [34]:
+			xmin = 99.7
+			xmax = 100.13
+			text = "..."
+		intervals [35]:
+			xmin = 100.13
+			xmax = 107.81
+			text = ""
+		intervals [36]:
+			xmin = 107.81
+			xmax = 108.04
+			text = "ãh"
+		intervals [37]:
+			xmin = 108.04
+			xmax = 109.02
+			text = "..."
+		intervals [38]:
+			xmin = 109.02
+			xmax = 120.99
+			text = ""
+		intervals [39]:
+			xmin = 120.99
+			xmax = 121.17
+			text = "ãh"
+		intervals [40]:
+			xmin = 121.17
+			xmax = 137.44
+			text = ""
+		intervals [41]:
+			xmin = 137.44
+			xmax = 138.16
+			text = "oxe"
+		intervals [42]:
+			xmin = 138.16
+			xmax = 139.81
+			text = "..."
+		intervals [43]:
+			xmin = 139.81
+			xmax = 165.72
+			text = ""
+		intervals [44]:
+			xmin = 165.72
+			xmax = 168.32
+			text = "mas a família toda era terrível assim ou era só você"
+		intervals [45]:
+			xmin = 168.32
+			xmax = 168.48
+			text = "como"
+		intervals [46]:
+			xmin = 168.48
+			xmax = 168.59
+			text = "..."
+		intervals [47]:
+			xmin = 168.59
+			xmax = 169.01
+			text = "é que é isso"
+		intervals [48]:
+			xmin = 169.01
+			xmax = 180.18
+			text = ""
+		intervals [49]:
+			xmin = 180.18
+			xmax = 181.95
+			text = "não mas o carro não passou em cima dele assim"
+		intervals [50]:
+			xmin = 181.95
+			xmax = 197.74
+			text = ""
+		intervals [51]:
+			xmin = 197.74
+			xmax = 198.0
+			text = "como"
+		intervals [52]:
+			xmin = 198.0
+			xmax = 198.48
+			text = "que vocês vieram"
+		intervals [53]:
+			xmin = 198.48
+			xmax = 220.04
+			text = ""
+		intervals [54]:
+			xmin = 220.04
+			xmax = 220.6
+			text = "você já tinha"
+		intervals [55]:
+			xmin = 220.6
+			xmax = 220.97
+			text = "saído"
+		intervals [56]:
+			xmin = 220.97
+			xmax = 221.54
+			text = "de manari"
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 221.54
+		intervals: size = 114
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.45
+			text = ""
+		intervals [2]:
+			xmin = 1.45
+			xmax = 1.88
+			text = "não"
+		intervals [3]:
+			xmin = 1.88
+			xmax = 6.17
+			text = ""
+		intervals [4]:
+			xmin = 6.17
+			xmax = 6.61
+			text = "então"
+		intervals [5]:
+			xmin = 6.61
+			xmax = 6.97
+			text = "..."
+		intervals [6]:
+			xmin = 6.97
+			xmax = 8.35
+			text = "como eu era muito arteira"
+		intervals [7]:
+			xmin = 8.35
+			xmax = 8.88
+			text = "..."
+		intervals [8]:
+			xmin = 8.88
+			xmax = 11.31
+			text = "aí teve uma professora minha de português"
+		intervals [9]:
+			xmin = 11.31
+			xmax = 12.21
+			text = "..."
+		intervals [10]:
+			xmin = 12.21
+			xmax = 20.18
+			text = "que todos os dias ela me colocava de castigo na secretaria ela me colocava para ler um monte de livros no início eu odiava odiava"
+		intervals [11]:
+			xmin = 20.18
+			xmax = 21.9
+			text = "mesmo assim mas depois eu fui"
+		intervals [12]:
+			xmin = 21.9
+			xmax = 23.94
+			text = ""
+		intervals [13]:
+			xmin = 23.94
+			xmax = 25.63
+			text = "eu acho que porque eu estava ali"
+		intervals [14]:
+			xmin = 25.63
+			xmax = 26.13
+			text = "..."
+		intervals [15]:
+			xmin = 26.13
+			xmax = 28.82
+			text = "obrigada né mas depois eu fui gostando fui"
+		intervals [16]:
+			xmin = 28.82
+			xmax = 29.17
+			text = "lendo"
+		intervals [17]:
+			xmin = 29.17
+			xmax = 31.24
+			text = "e gostando aí fui gostando até hoje"
+		intervals [18]:
+			xmin = 31.24
+			xmax = 34.85
+			text = ""
+		intervals [19]:
+			xmin = 34.85
+			xmax = 35.67
+			text = "era não era"
+		intervals [20]:
+			xmin = 35.67
+			xmax = 37.04
+			text = "um castigo eu achava"
+		intervals [21]:
+			xmin = 37.04
+			xmax = 42.14
+			text = "que era um castigo mas era uma forma na verdade de elas tentarem prender minha atenção sei lá"
+		intervals [22]:
+			xmin = 42.14
+			xmax = 43.12
+			text = "alguma coisa do tipo"
+		intervals [23]:
+			xmin = 43.12
+			xmax = 47.34
+			text = ""
+		intervals [24]:
+			xmin = 47.34
+			xmax = 47.57
+			text = "o"
+		intervals [25]:
+			xmin = 47.57
+			xmax = 51.65
+			text = "primeiro que eu li foi o pequeno príncipe depois eu li o mundo de sofia e de"
+		intervals [26]:
+			xmin = 51.65
+			xmax = 52.75
+			text = ""
+		intervals [27]:
+			xmin = 52.75
+			xmax = 53.44
+			text = "sim não"
+		intervals [28]:
+			xmin = 53.44
+			xmax = 54.09
+			text = "..."
+		intervals [29]:
+			xmin = 54.09
+			xmax = 56.55
+			text = "nessa época eu gostava de ler cordel"
+		intervals [30]:
+			xmin = 56.55
+			xmax = 56.9
+			text = "..."
+		intervals [31]:
+			xmin = 56.9
+			xmax = 58.33
+			text = ""
+		intervals [32]:
+			xmin = 58.33
+			xmax = 59.25
+			text = "os professores"
+		intervals [33]:
+			xmin = 59.25
+			xmax = 64.15
+			text = "colocavam um monte de cordel revistas interessantes de escola e tudo aí depois"
+		intervals [34]:
+			xmin = 64.15
+			xmax = 64.95
+			text = "que eu peguei o gosto"
+		intervals [35]:
+			xmin = 64.95
+			xmax = 67.68
+			text = "pela leitura comecei a ler pequeno príncipe e tudo"
+		intervals [36]:
+			xmin = 67.68
+			xmax = 69.51
+			text = "..."
+		intervals [37]:
+			xmin = 69.51
+			xmax = 76.34
+			text = ""
+		intervals [38]:
+			xmin = 76.34
+			xmax = 76.51
+			text = "tinha"
+		intervals [39]:
+			xmin = 76.51
+			xmax = 78.48
+			text = ""
+		intervals [40]:
+			xmin = 78.48
+			xmax = 93.2
+			text = "naquele tempo os os professores faziam muito piqueniques eu acho que não é normal em escola nenhuma e aí a gente fazia piquenique jogava bola pulava amarelinho era muito bom foi muito boa a minha infância eu sempre minha infância sempre meus irmãos sempre estavam juntos porque todo mundo estudava"
+		intervals [41]:
+			xmin = 93.2
+			xmax = 94.06
+			text = "..."
+		intervals [42]:
+			xmin = 94.06
+			xmax = 94.52
+			text = "a gente sempre"
+		intervals [43]:
+			xmin = 94.52
+			xmax = 98.18
+			text = "se via na escola sempre aprontava junto fazia tudo"
+		intervals [44]:
+			xmin = 98.18
+			xmax = 100.13
+			text = ""
+		intervals [45]:
+			xmin = 100.13
+			xmax = 101.73
+			text = "era de certa forma"
+		intervals [46]:
+			xmin = 101.73
+			xmax = 103.69
+			text = "..."
+		intervals [47]:
+			xmin = 103.69
+			xmax = 104.91
+			text = "mas meu pai sempre"
+		intervals [48]:
+			xmin = 104.91
+			xmax = 107.45
+			text = "foi muito rígido assim do modo dele"
+		intervals [49]:
+			xmin = 107.45
+			xmax = 107.81
+			text = "..."
+		intervals [50]:
+			xmin = 107.81
+			xmax = 109.02
+			text = ""
+		intervals [51]:
+			xmin = 109.02
+			xmax = 112.88
+			text = "por ele ser evangélico ele e minha mãe aí tinha coisa que eles não aceitavam"
+		intervals [52]:
+			xmin = 112.88
+			xmax = 113.85
+			text = "..."
+		intervals [53]:
+			xmin = 113.85
+			xmax = 116.3
+			text = "mas que deixavam a gente fazer tentavam não"
+		intervals [54]:
+			xmin = 116.3
+			xmax = 117.18
+			text = "deixar mas"
+		intervals [55]:
+			xmin = 117.18
+			xmax = 117.96
+			text = "..."
+		intervals [56]:
+			xmin = 117.96
+			xmax = 119.05
+			text = "a gente sempre fazia"
+		intervals [57]:
+			xmin = 119.05
+			xmax = 120.62
+			text = "ele levava a gente para igreja"
+		intervals [58]:
+			xmin = 120.62
+			xmax = 120.99
+			text = "..."
+		intervals [59]:
+			xmin = 120.99
+			xmax = 121.25
+			text = ""
+		intervals [60]:
+			xmin = 121.25
+			xmax = 121.73
+			text = "aí"
+		intervals [61]:
+			xmin = 121.73
+			xmax = 122.55
+			text = "..."
+		intervals [62]:
+			xmin = 122.55
+			xmax = 123.47
+			text = "tinha uma menina que era"
+		intervals [63]:
+			xmin = 123.47
+			xmax = 124.5
+			text = "muda na"
+		intervals [64]:
+			xmin = 124.5
+			xmax = 125.01
+			text = "igreja aí"
+		intervals [65]:
+			xmin = 125.01
+			xmax = 125.5
+			text = "..."
+		intervals [66]:
+			xmin = 125.5
+			xmax = 130.25
+			text = "ele levava e a gente ficava beliscando ela e ela começava a gritar aí meu pai nunca"
+		intervals [67]:
+			xmin = 130.25
+			xmax = 130.6
+			text = "mais"
+		intervals [68]:
+			xmin = 130.6
+			xmax = 131.85
+			text = "levou a gente para igreja"
+		intervals [69]:
+			xmin = 131.85
+			xmax = 132.51
+			text = "..."
+		intervals [70]:
+			xmin = 132.51
+			xmax = 134.08
+			text = "aí eu achei bom né"
+		intervals [71]:
+			xmin = 134.08
+			xmax = 137.44
+			text = "..."
+		intervals [72]:
+			xmin = 137.44
+			xmax = 139.81
+			text = ""
+		intervals [73]:
+			xmin = 139.81
+			xmax = 140.47
+			text = "aiai"
+		intervals [74]:
+			xmin = 140.47
+			xmax = 140.88
+			text = "..."
+		intervals [75]:
+			xmin = 140.88
+			xmax = 143.19
+			text = "a gente dormia na igreja aí quando acabava lá"
+		intervals [76]:
+			xmin = 143.19
+			xmax = 145.22
+			text = "o culto aí minha mãe acordava a"
+		intervals [77]:
+			xmin = 145.22
+			xmax = 149.38
+			text = "gente e a gente ia para casa aí até que enfim meu pai não levou mais"
+		intervals [78]:
+			xmin = 149.38
+			xmax = 150.03
+			text = "..."
+		intervals [79]:
+			xmin = 150.03
+			xmax = 150.25
+			text = "mas"
+		intervals [80]:
+			xmin = 150.25
+			xmax = 150.76
+			text = "até"
+		intervals [81]:
+			xmin = 150.76
+			xmax = 152.1
+			text = "hoje ele vai e até hoje"
+		intervals [82]:
+			xmin = 152.1
+			xmax = 152.38
+			text = "o"
+		intervals [83]:
+			xmin = 152.38
+			xmax = 154.65
+			text = "senhor que é pastor olha para mim assim"
+		intervals [84]:
+			xmin = 154.65
+			xmax = 155.31
+			text = "..."
+		intervals [85]:
+			xmin = 155.31
+			xmax = 157.48
+			text = "porque a muda era filha dele ai ai"
+		intervals [86]:
+			xmin = 157.48
+			xmax = 158.01
+			text = "..."
+		intervals [87]:
+			xmin = 158.01
+			xmax = 160.52
+			text = ""
+		intervals [88]:
+			xmin = 160.52
+			xmax = 163.93
+			text = "ele não faz mais nem questão de eu"
+		intervals [89]:
+			xmin = 163.93
+			xmax = 164.8
+			text = "..."
+		intervals [90]:
+			xmin = 164.8
+			xmax = 165.72
+			text = "ir ai ai"
+		intervals [91]:
+			xmin = 165.72
+			xmax = 169.01
+			text = ""
+		intervals [92]:
+			xmin = 169.01
+			xmax = 169.45
+			text = "não"
+		intervals [93]:
+			xmin = 169.45
+			xmax = 171.39
+			text = "eu e tinha outro irmão que era"
+		intervals [94]:
+			xmin = 171.39
+			xmax = 171.69
+			text = "..."
+		intervals [95]:
+			xmin = 171.69
+			xmax = 175.84
+			text = "assim também tinha outro irmão que era assim também só que o outro ele"
+		intervals [96]:
+			xmin = 175.84
+			xmax = 176.38
+			text = "..."
+		intervals [97]:
+			xmin = 176.38
+			xmax = 180.18
+			text = "ele tem fama de ter sete vidas porque ele já sofreu vários acidentes"
+		intervals [98]:
+			xmin = 180.18
+			xmax = 181.95
+			text = ""
+		intervals [99]:
+			xmin = 181.95
+			xmax = 184.37
+			text = "passou por cima da barriga dele sério"
+		intervals [100]:
+			xmin = 184.37
+			xmax = 185.19
+			text = "..."
+		intervals [101]:
+			xmin = 185.19
+			xmax = 185.9
+			text = ""
+		intervals [102]:
+			xmin = 185.9
+			xmax = 195.45
+			text = "acho que ele tinha uns quatro ele tem a barriga toda ponteada a barriga abriu é incrível né e ele sobreviveu a primeira vez que a gente veio em são paulo acho que foi em noventa e três por"
+		intervals [103]:
+			xmin = 195.45
+			xmax = 195.77
+			text = "aí"
+		intervals [104]:
+			xmin = 195.77
+			xmax = 197.74
+			text = "veio a família toda todo mundo pequeno"
+		intervals [105]:
+			xmin = 197.74
+			xmax = 198.48
+			text = ""
+		intervals [106]:
+			xmin = 198.48
+			xmax = 202.98
+			text = "em uma splinter oito irmãos e meu pai e minha mãe foi uma bagunça claro"
+		intervals [107]:
+			xmin = 202.98
+			xmax = 204.07
+			text = "..."
+		intervals [108]:
+			xmin = 204.07
+			xmax = 204.57
+			text = "foi uma"
+		intervals [109]:
+			xmin = 204.57
+			xmax = 212.02
+			text = "bagunça total dentro do carro porque quando meu pai brigava com o outro começava quando brigava com o outro o outro começava mas fo foi"
+		intervals [110]:
+			xmin = 212.02
+			xmax = 212.34
+			text = "..."
+		intervals [111]:
+			xmin = 212.34
+			xmax = 217.21
+			text = "acho que foi por isso que foi tão divertido porque você aguentar sete quatro dias dentro de um carro"
+		intervals [112]:
+			xmin = 217.21
+			xmax = 218.03
+			text = "..."
+		intervals [113]:
+			xmin = 218.03
+			xmax = 219.8
+			text = "de manari para são paulo é"
+		intervals [114]:
+			xmin = 219.8
+			xmax = 221.54
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 221.54
+		intervals: size = 148
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.45
+			text = ""
+		intervals [2]:
+			xmin = 1.45
+			xmax = 1.88
+			text = "não"
+		intervals [3]:
+			xmin = 1.88
+			xmax = 6.17
+			text = ""
+		intervals [4]:
+			xmin = 6.17
+			xmax = 6.61
+			text = "então"
+		intervals [5]:
+			xmin = 6.61
+			xmax = 6.97
+			text = "..."
+		intervals [6]:
+			xmin = 6.97
+			xmax = 8.35
+			text = "como eu era muito arteira"
+		intervals [7]:
+			xmin = 8.35
+			xmax = 8.88
+			text = "..."
+		intervals [8]:
+			xmin = 8.88
+			xmax = 9.18
+			text = "aí"
+		intervals [9]:
+			xmin = 9.18
+			xmax = 9.31
+			text = "..."
+		intervals [10]:
+			xmin = 9.31
+			xmax = 11.31
+			text = "teve uma professora minha de português"
+		intervals [11]:
+			xmin = 11.31
+			xmax = 12.21
+			text = "..."
+		intervals [12]:
+			xmin = 12.21
+			xmax = 18.15
+			text = "que todos os dias ela me colocava de castigo na secretaria ela me colocava para ler um monte de livros"
+		intervals [13]:
+			xmin = 18.15
+			xmax = 18.33
+			text = "..."
+		intervals [14]:
+			xmin = 18.33
+			xmax = 20.18
+			text = "no início eu odiava odiava"
+		intervals [15]:
+			xmin = 20.18
+			xmax = 21.9
+			text = "mesmo assim mas depois eu fui"
+		intervals [16]:
+			xmin = 21.9
+			xmax = 24.07
+			text = ""
+		intervals [17]:
+			xmin = 24.07
+			xmax = 25.63
+			text = "eu acho que porque eu estava ali"
+		intervals [18]:
+			xmin = 25.63
+			xmax = 26.13
+			text = "..."
+		intervals [19]:
+			xmin = 26.13
+			xmax = 28.82
+			text = "obrigada né mas depois eu fui gostando fui"
+		intervals [20]:
+			xmin = 28.82
+			xmax = 29.17
+			text = "lendo"
+		intervals [21]:
+			xmin = 29.17
+			xmax = 31.24
+			text = "e gostando aí fui gostando até hoje"
+		intervals [22]:
+			xmin = 31.24
+			xmax = 34.85
+			text = ""
+		intervals [23]:
+			xmin = 34.85
+			xmax = 35.67
+			text = "era não era"
+		intervals [24]:
+			xmin = 35.67
+			xmax = 37.04
+			text = "um castigo eu achava"
+		intervals [25]:
+			xmin = 37.04
+			xmax = 42.04
+			text = "que era um castigo mas era uma forma na verdade de elas tentarem prender minha atenção sei lá"
+		intervals [26]:
+			xmin = 42.04
+			xmax = 42.14
+			text = "..."
+		intervals [27]:
+			xmin = 42.14
+			xmax = 43.12
+			text = "alguma coisa do tipo"
+		intervals [28]:
+			xmin = 43.12
+			xmax = 47.34
+			text = ""
+		intervals [29]:
+			xmin = 47.34
+			xmax = 47.57
+			text = "o"
+		intervals [30]:
+			xmin = 47.57
+			xmax = 49.47
+			text = "primeiro que eu li foi o pequeno príncipe"
+		intervals [31]:
+			xmin = 49.47
+			xmax = 49.75
+			text = "..."
+		intervals [32]:
+			xmin = 49.75
+			xmax = 51.65
+			text = "depois eu li o mundo de sofia e de"
+		intervals [33]:
+			xmin = 51.65
+			xmax = 51.76
+			text = "..."
+		intervals [34]:
+			xmin = 51.76
+			xmax = 52.75
+			text = ""
+		intervals [35]:
+			xmin = 52.75
+			xmax = 53.44
+			text = "sim não"
+		intervals [36]:
+			xmin = 53.44
+			xmax = 54.09
+			text = "..."
+		intervals [37]:
+			xmin = 54.09
+			xmax = 56.55
+			text = "nessa época eu gostava de ler cordel"
+		intervals [38]:
+			xmin = 56.55
+			xmax = 56.9
+			text = "..."
+		intervals [39]:
+			xmin = 56.9
+			xmax = 58.33
+			text = ""
+		intervals [40]:
+			xmin = 58.33
+			xmax = 59.02
+			text = "os professores"
+		intervals [41]:
+			xmin = 59.02
+			xmax = 59.25
+			text = "..."
+		intervals [42]:
+			xmin = 59.25
+			xmax = 63.33
+			text = "colocavam um monte de cordel revistas interessantes de escola e tudo"
+		intervals [43]:
+			xmin = 63.33
+			xmax = 63.47
+			text = "..."
+		intervals [44]:
+			xmin = 63.47
+			xmax = 64.15
+			text = "aí depois"
+		intervals [45]:
+			xmin = 64.15
+			xmax = 64.95
+			text = "que eu peguei o gosto"
+		intervals [46]:
+			xmin = 64.95
+			xmax = 67.24
+			text = "pela leitura comecei a ler pequeno príncipe e"
+		intervals [47]:
+			xmin = 67.24
+			xmax = 67.39
+			text = "..."
+		intervals [48]:
+			xmin = 67.39
+			xmax = 67.68
+			text = "tudo"
+		intervals [49]:
+			xmin = 67.68
+			xmax = 69.51
+			text = "..."
+		intervals [50]:
+			xmin = 69.51
+			xmax = 76.34
+			text = ""
+		intervals [51]:
+			xmin = 76.34
+			xmax = 76.51
+			text = "tinha"
+		intervals [52]:
+			xmin = 76.51
+			xmax = 78.68
+			text = ""
+		intervals [53]:
+			xmin = 78.68
+			xmax = 80.32
+			text = "naquele tempo os os professores faziam"
+		intervals [54]:
+			xmin = 80.32
+			xmax = 80.43
+			text = "..."
+		intervals [55]:
+			xmin = 80.43
+			xmax = 93.2
+			text = "muito piqueniques eu acho que não é normal em escola nenhuma e aí a gente fazia piquenique jogava bola pulava amarelinho era muito bom foi muito boa a minha infância eu sempre minha infância sempre meus irmãos sempre estavam juntos porque todo mundo estudava"
+		intervals [56]:
+			xmin = 93.2
+			xmax = 94.06
+			text = "..."
+		intervals [57]:
+			xmin = 94.06
+			xmax = 94.52
+			text = "a gente sempre"
+		intervals [58]:
+			xmin = 94.52
+			xmax = 98.18
+			text = "se via na escola sempre aprontava junto fazia tudo"
+		intervals [59]:
+			xmin = 98.18
+			xmax = 100.13
+			text = ""
+		intervals [60]:
+			xmin = 100.13
+			xmax = 101.73
+			text = "era de certa forma"
+		intervals [61]:
+			xmin = 101.73
+			xmax = 103.69
+			text = "..."
+		intervals [62]:
+			xmin = 103.69
+			xmax = 104.91
+			text = "mas meu pai sempre"
+		intervals [63]:
+			xmin = 104.91
+			xmax = 107.45
+			text = "foi muito rígido assim do modo dele"
+		intervals [64]:
+			xmin = 107.45
+			xmax = 107.81
+			text = "..."
+		intervals [65]:
+			xmin = 107.81
+			xmax = 109.02
+			text = ""
+		intervals [66]:
+			xmin = 109.02
+			xmax = 112.88
+			text = "por ele ser evangélico ele e minha mãe aí tinha coisa que eles não aceitavam"
+		intervals [67]:
+			xmin = 112.88
+			xmax = 113.85
+			text = "..."
+		intervals [68]:
+			xmin = 113.85
+			xmax = 116.3
+			text = "mas que deixavam a gente fazer tentavam não"
+		intervals [69]:
+			xmin = 116.3
+			xmax = 117.18
+			text = "deixar mas"
+		intervals [70]:
+			xmin = 117.18
+			xmax = 117.96
+			text = "..."
+		intervals [71]:
+			xmin = 117.96
+			xmax = 119.05
+			text = "a gente sempre fazia"
+		intervals [72]:
+			xmin = 119.05
+			xmax = 120.62
+			text = "ele levava a gente para igreja"
+		intervals [73]:
+			xmin = 120.62
+			xmax = 120.99
+			text = "..."
+		intervals [74]:
+			xmin = 120.99
+			xmax = 121.25
+			text = ""
+		intervals [75]:
+			xmin = 121.25
+			xmax = 121.73
+			text = "aí"
+		intervals [76]:
+			xmin = 121.73
+			xmax = 122.55
+			text = "..."
+		intervals [77]:
+			xmin = 122.55
+			xmax = 123.47
+			text = "tinha uma menina que era"
+		intervals [78]:
+			xmin = 123.47
+			xmax = 124.2
+			text = "muda na"
+		intervals [79]:
+			xmin = 124.2
+			xmax = 124.5
+			text = "..."
+		intervals [80]:
+			xmin = 124.5
+			xmax = 125.01
+			text = "igreja aí"
+		intervals [81]:
+			xmin = 125.01
+			xmax = 125.5
+			text = "..."
+		intervals [82]:
+			xmin = 125.5
+			xmax = 129.34
+			text = "ele levava e a gente ficava beliscando ela e ela começava a gritar"
+		intervals [83]:
+			xmin = 129.34
+			xmax = 129.53
+			text = "..."
+		intervals [84]:
+			xmin = 129.53
+			xmax = 130.25
+			text = "aí meu pai nunca"
+		intervals [85]:
+			xmin = 130.25
+			xmax = 130.6
+			text = "mais"
+		intervals [86]:
+			xmin = 130.6
+			xmax = 131.85
+			text = "levou a gente para igreja"
+		intervals [87]:
+			xmin = 131.85
+			xmax = 132.51
+			text = "..."
+		intervals [88]:
+			xmin = 132.51
+			xmax = 134.08
+			text = "aí eu achei bom né"
+		intervals [89]:
+			xmin = 134.08
+			xmax = 137.44
+			text = "..."
+		intervals [90]:
+			xmin = 137.44
+			xmax = 139.81
+			text = ""
+		intervals [91]:
+			xmin = 139.81
+			xmax = 140.47
+			text = "aiai"
+		intervals [92]:
+			xmin = 140.47
+			xmax = 140.88
+			text = "..."
+		intervals [93]:
+			xmin = 140.88
+			xmax = 143.19
+			text = "a gente dormia na igreja aí quando acabava lá"
+		intervals [94]:
+			xmin = 143.19
+			xmax = 144.9
+			text = "o culto aí minha mãe acordava"
+		intervals [95]:
+			xmin = 144.9
+			xmax = 145.09
+			text = "..."
+		intervals [96]:
+			xmin = 145.09
+			xmax = 145.22
+			text = "a"
+		intervals [97]:
+			xmin = 145.22
+			xmax = 145.53
+			text = "gente e"
+		intervals [98]:
+			xmin = 145.53
+			xmax = 145.66
+			text = "..."
+		intervals [99]:
+			xmin = 145.66
+			xmax = 149.38
+			text = "a gente ia para casa aí até que enfim meu pai não levou mais"
+		intervals [100]:
+			xmin = 149.38
+			xmax = 150.03
+			text = "..."
+		intervals [101]:
+			xmin = 150.03
+			xmax = 150.25
+			text = "mas"
+		intervals [102]:
+			xmin = 150.25
+			xmax = 150.76
+			text = "até"
+		intervals [103]:
+			xmin = 150.76
+			xmax = 152.1
+			text = "hoje ele vai e até hoje"
+		intervals [104]:
+			xmin = 152.1
+			xmax = 152.38
+			text = "o"
+		intervals [105]:
+			xmin = 152.38
+			xmax = 154.08
+			text = "senhor que é pastor olha para mim"
+		intervals [106]:
+			xmin = 154.08
+			xmax = 154.22
+			text = "..."
+		intervals [107]:
+			xmin = 154.22
+			xmax = 154.65
+			text = "assim"
+		intervals [108]:
+			xmin = 154.65
+			xmax = 155.31
+			text = "..."
+		intervals [109]:
+			xmin = 155.31
+			xmax = 157.48
+			text = "porque a muda era filha dele ai ai"
+		intervals [110]:
+			xmin = 157.48
+			xmax = 158.01
+			text = "..."
+		intervals [111]:
+			xmin = 158.01
+			xmax = 160.52
+			text = ""
+		intervals [112]:
+			xmin = 160.52
+			xmax = 163.93
+			text = "ele não faz mais nem questão de eu"
+		intervals [113]:
+			xmin = 163.93
+			xmax = 164.8
+			text = "..."
+		intervals [114]:
+			xmin = 164.8
+			xmax = 165.72
+			text = "ir ai ai"
+		intervals [115]:
+			xmin = 165.72
+			xmax = 169.01
+			text = ""
+		intervals [116]:
+			xmin = 169.01
+			xmax = 169.2
+			text = "não"
+		intervals [117]:
+			xmin = 169.2
+			xmax = 169.45
+			text = "..."
+		intervals [118]:
+			xmin = 169.45
+			xmax = 169.87
+			text = "eu e"
+		intervals [119]:
+			xmin = 169.87
+			xmax = 170.05
+			text = "..."
+		intervals [120]:
+			xmin = 170.05
+			xmax = 171.39
+			text = "tinha outro irmão que era"
+		intervals [121]:
+			xmin = 171.39
+			xmax = 171.69
+			text = "..."
+		intervals [122]:
+			xmin = 171.69
+			xmax = 175.12
+			text = "assim também tinha outro irmão que era assim também só que o outro"
+		intervals [123]:
+			xmin = 175.12
+			xmax = 175.32
+			text = "..."
+		intervals [124]:
+			xmin = 175.32
+			xmax = 175.84
+			text = "ele"
+		intervals [125]:
+			xmin = 175.84
+			xmax = 176.38
+			text = "..."
+		intervals [126]:
+			xmin = 176.38
+			xmax = 180.18
+			text = "ele tem fama de ter sete vidas porque ele já sofreu vários acidentes"
+		intervals [127]:
+			xmin = 180.18
+			xmax = 181.95
+			text = ""
+		intervals [128]:
+			xmin = 181.95
+			xmax = 184.37
+			text = "passou por cima da barriga dele sério"
+		intervals [129]:
+			xmin = 184.37
+			xmax = 185.19
+			text = "..."
+		intervals [130]:
+			xmin = 185.19
+			xmax = 186.02
+			text = ""
+		intervals [131]:
+			xmin = 186.02
+			xmax = 194.67
+			text = "acho que ele tinha uns quatro ele tem a barriga toda ponteada a barriga abriu é incrível né e ele sobreviveu a primeira vez que a gente veio em são paulo acho que foi em noventa e"
+		intervals [132]:
+			xmin = 194.67
+			xmax = 194.87
+			text = "..."
+		intervals [133]:
+			xmin = 194.87
+			xmax = 195.45
+			text = "três por"
+		intervals [134]:
+			xmin = 195.45
+			xmax = 195.77
+			text = "aí"
+		intervals [135]:
+			xmin = 195.77
+			xmax = 197.74
+			text = "veio a família toda todo mundo pequeno"
+		intervals [136]:
+			xmin = 197.74
+			xmax = 198.48
+			text = ""
+		intervals [137]:
+			xmin = 198.48
+			xmax = 202.98
+			text = "em uma splinter oito irmãos e meu pai e minha mãe foi uma bagunça claro"
+		intervals [138]:
+			xmin = 202.98
+			xmax = 204.07
+			text = "..."
+		intervals [139]:
+			xmin = 204.07
+			xmax = 204.57
+			text = "foi uma"
+		intervals [140]:
+			xmin = 204.57
+			xmax = 205.59
+			text = "bagunça"
+		intervals [141]:
+			xmin = 205.59
+			xmax = 205.72
+			text = "..."
+		intervals [142]:
+			xmin = 205.72
+			xmax = 212.02
+			text = "total dentro do carro porque quando meu pai brigava com o outro começava quando brigava com o outro o outro começava mas fo foi"
+		intervals [143]:
+			xmin = 212.02
+			xmax = 212.34
+			text = "..."
+		intervals [144]:
+			xmin = 212.34
+			xmax = 217.21
+			text = "acho que foi por isso que foi tão divertido porque você aguentar sete quatro dias dentro de um carro"
+		intervals [145]:
+			xmin = 217.21
+			xmax = 218.03
+			text = "..."
+		intervals [146]:
+			xmin = 218.03
+			xmax = 219.8
+			text = "de manari para são paulo é"
+		intervals [147]:
+			xmin = 219.8
+			xmax = 220.04
+			text = "..."
+		intervals [148]:
+			xmin = 220.04
+			xmax = 221.54
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "TB-speaker 2"
+		xmin = 0.0
+		xmax = 221.54
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 158.01
+			text = ""
+		intervals [2]:
+			xmin = 158.01
+			xmax = 158.35
+			text = "ele"
+		intervals [3]:
+			xmin = 158.35
+			xmax = 159.42
+			text = "..."
+		intervals [4]:
+			xmin = 159.42
+			xmax = 160.23
+			text = "não te quer"
+		intervals [5]:
+			xmin = 160.23
+			xmax = 160.52
+			text = "mais"
+		intervals [6]:
+			xmin = 160.52
+			xmax = 185.19
+			text = ""
+		intervals [7]:
+			xmin = 185.19
+			xmax = 185.9
+			text = "quantos anos ele tinha"
+		intervals [8]:
+			xmin = 185.9
+			xmax = 221.54
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "NTB-speaker 2"
+		xmin = 0.0
+		xmax = 221.54
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 158.01
+			text = ""
+		intervals [2]:
+			xmin = 158.01
+			xmax = 158.35
+			text = "ele"
+		intervals [3]:
+			xmin = 158.35
+			xmax = 159.42
+			text = "..."
+		intervals [4]:
+			xmin = 159.42
+			xmax = 160.23
+			text = "não te quer"
+		intervals [5]:
+			xmin = 160.23
+			xmax = 160.52
+			text = "mais"
+		intervals [6]:
+			xmin = 160.52
+			xmax = 185.19
+			text = ""
+		intervals [7]:
+			xmin = 185.19
+			xmax = 185.9
+			text = "quantos anos ele tinha"
+		intervals [8]:
+			xmin = 185.9
+			xmax = 186.02
+			text = "..."
+		intervals [9]:
+			xmin = 186.02
+			xmax = 221.54
+			text = ""
+	item [7]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 221.54
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 221.54
+			text = ""
+	item [8]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 221.54
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 221.54
+			text = ""
