@@ -1,0 +1,1380 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 285.24
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 285.24
+		intervals: size = 116
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.17
+			text = "ele me empurrou e eu con continuei andando de bicicleta consegui viva o meu viva o papai né"
+		intervals [2]:
+			xmin = 5.17
+			xmax = 5.49
+			text = "..."
+		intervals [3]:
+			xmin = 5.49
+			xmax = 8.84
+			text = "isso foi uma é uma frase que eu lembro muito que está muito presente"
+		intervals [4]:
+			xmin = 8.84
+			xmax = 9.28
+			text = "..."
+		intervals [5]:
+			xmin = 9.28
+			xmax = 9.84
+			text = "então"
+		intervals [6]:
+			xmin = 9.84
+			xmax = 10.1
+			text = "eh"
+		intervals [7]:
+			xmin = 10.1
+			xmax = 12.22
+			text = "meu pai eh sempre foi muito"
+		intervals [8]:
+			xmin = 12.22
+			xmax = 12.54
+			text = "..."
+		intervals [9]:
+			xmin = 12.54
+			xmax = 17.42
+			text = "eh formal muito rígido em termos de disciplina então por exemplo se eu tomava"
+		intervals [10]:
+			xmin = 17.42
+			xmax = 17.77
+			text = "..."
+		intervals [11]:
+			xmin = 17.77
+			xmax = 18.05
+			text = "eh"
+		intervals [12]:
+			xmin = 18.05
+			xmax = 25.94
+			text = "suco de laranja era só os finais de semana então se eu tomava um copo era aquele copo não podia tomar outro por que não porque é uma questão de disciplina minha filha já deu"
+		intervals [13]:
+			xmin = 25.94
+			xmax = 26.25
+			text = "..."
+		intervals [14]:
+			xmin = 26.25
+			xmax = 28.54
+			text = "se num dia se num final de semana"
+		intervals [15]:
+			xmin = 28.54
+			xmax = 28.85
+			text = "..."
+		intervals [16]:
+			xmin = 28.85
+			xmax = 36.46
+			text = "eu ia numa festinha no outro final de semana não tinha festinha nem que fosse o baile de debutante da minha melhor amiga então eu tinha que escolher"
+		intervals [17]:
+			xmin = 36.46
+			xmax = 36.78
+			text = "..."
+		intervals [18]:
+			xmin = 36.78
+			xmax = 37.94
+			text = "então mas eu não tinha tudo"
+		intervals [19]:
+			xmin = 37.94
+			xmax = 38.26
+			text = "..."
+		intervals [20]:
+			xmin = 38.26
+			xmax = 40.24
+			text = "né assim meus pais até podiam me dar tudo"
+		intervals [21]:
+			xmin = 40.24
+			xmax = 40.64
+			text = "..."
+		intervals [22]:
+			xmin = 40.64
+			xmax = 45.62
+			text = "eh mas a grande preocupação deles era que eu soubesse que na vida existem limites e que eu"
+		intervals [23]:
+			xmin = 45.62
+			xmax = 46.04
+			text = "..."
+		intervals [24]:
+			xmin = 46.04
+			xmax = 49.15
+			text = "iria enfrentar a vida melhor se eu soubesse desde cedo"
+		intervals [25]:
+			xmin = 49.15
+			xmax = 49.5
+			text = "..."
+		intervals [26]:
+			xmin = 49.5
+			xmax = 57.38
+			text = "ãh que a gente precisava aprender que nem tudo na vida a gente vai conseguir na hora que a gente quer no momento que a gente quer e às vezes a gente não vai conseguir mesmo"
+		intervals [27]:
+			xmin = 57.38
+			xmax = 57.71
+			text = "..."
+		intervals [28]:
+			xmin = 57.71
+			xmax = 60.4
+			text = "e a gente tem que aprender outros caminhos para para saber enfim"
+		intervals [29]:
+			xmin = 60.4
+			xmax = 61.49
+			text = "..."
+		intervals [30]:
+			xmin = 61.49
+			xmax = 61.95
+			text = "ãhse"
+		intervals [31]:
+			xmin = 61.95
+			xmax = 63.45
+			text = "virar e ser feliz assim"
+		intervals [32]:
+			xmin = 63.45
+			xmax = 64.02
+			text = "..."
+		intervals [33]:
+			xmin = 64.02
+			xmax = 69.2
+			text = "não é então eu acho que foi foi uma educação rígida sim formal principalmente quando eu era pequena"
+		intervals [34]:
+			xmin = 69.2
+			xmax = 69.73
+			text = "..."
+		intervals [35]:
+			xmin = 69.73
+			xmax = 78.33
+			text = "ãh minha mãe eh mais amorosa mais eh incentivadora por exemplo eu fazia um texto sempre gostei de escrever muito"
+		intervals [36]:
+			xmin = 78.33
+			xmax = 78.97
+			text = "..."
+		intervals [37]:
+			xmin = 78.97
+			xmax = 79.26
+			text = "eh"
+		intervals [38]:
+			xmin = 79.26
+			xmax = 79.57
+			text = "..."
+		intervals [39]:
+			xmin = 79.57
+			xmax = 80.01
+			text = "i"
+		intervals [40]:
+			xmin = 80.01
+			xmax = 83.54
+			text = "então eu eu mostrava o texto para minha mãe minha mãe dizia assim nossa"
+		intervals [41]:
+			xmin = 83.54
+			xmax = 90.91
+			text = "minha filha está brilhante meu pai ia ler e dizia assim olha não se separa eh sujeito de ve de verbo você não podia ter colocado essa vírgula aqui"
+		intervals [42]:
+			xmin = 90.91
+			xmax = 91.36
+			text = "..."
+		intervals [43]:
+			xmin = 91.36
+			xmax = 92.75
+			text = "né mas também foi graças a"
+		intervals [44]:
+			xmin = 92.75
+			xmax = 93.19
+			text = "ele"
+		intervals [45]:
+			xmin = 93.19
+			xmax = 97.47
+			text = "que hojeãh eu tenho um um português ou tenho uma"
+		intervals [46]:
+			xmin = 97.47
+			xmax = 97.96
+			text = "..."
+		intervals [47]:
+			xmin = 97.96
+			xmax = 114.91
+			text = "uma fluência ãh para escrever um artigo para escrever um texto muito maior do que se ele também só me aplaudisse então eu acho que foi um equilíbrio eh muito bacana quer dizer eu tinha o carinho eu tinha o apoio e tinha também do meu pai mas o meu pai com foco mais eh disciplinador"
+		intervals [48]:
+			xmin = 114.91
+			xmax = 116.04
+			text = "e e"
+		intervals [49]:
+			xmin = 116.04
+			xmax = 119.58
+			text = "do que minha mãe embora eu sempre disse que eu tive dois generais em"
+		intervals [50]:
+			xmin = 119.58
+			xmax = 122.37
+			text = "casa porque meu pai minha mãe era também durona"
+		intervals [51]:
+			xmin = 122.37
+			xmax = 122.69
+			text = "..."
+		intervals [52]:
+			xmin = 122.69
+			xmax = 125.44
+			text = "e às vezes eu nunca fui muito organizada e"
+		intervals [53]:
+			xmin = 125.44
+			xmax = 130.29
+			text = "não não é um dos meus maiores eh uma das minhas maiores qualidades eu eu chegava"
+		intervals [54]:
+			xmin = 130.29
+			xmax = 130.59
+			text = "..."
+		intervals [55]:
+			xmin = 130.59
+			xmax = 138.59
+			text = "em casa ela não deixava eu dormir enquanto eu não arrumava o o o quarto todo ou se eu queria sair jogava tudo dentro do armário a hora que eu voltava estava tudo"
+		intervals [56]:
+			xmin = 138.59
+			xmax = 138.95
+			text = "..."
+		intervals [57]:
+			xmin = 138.95
+			xmax = 141.54
+			text = "fora do armário agora você não quis arrumar aquela coisinha"
+		intervals [58]:
+			xmin = 141.54
+			xmax = 141.85
+			text = "..."
+		intervals [59]:
+			xmin = 141.85
+			xmax = 143.33
+			text = "agora você vai arrumar o armário inteiro"
+		intervals [60]:
+			xmin = 143.33
+			xmax = 143.7
+			text = "..."
+		intervals [61]:
+			xmin = 143.7
+			xmax = 146.68
+			text = "então foram foram dois grandes educadores"
+		intervals [62]:
+			xmin = 146.68
+			xmax = 147.06
+			text = "..."
+		intervals [63]:
+			xmin = 147.06
+			xmax = 153.55
+			text = "e eu devo muito a eles ah essa muitos dos valores que eu tenho hoje foi porque eles foram muito persistentes comigo"
+		intervals [64]:
+			xmin = 153.55
+			xmax = 153.94
+			text = "..."
+		intervals [65]:
+			xmin = 153.94
+			xmax = 158.26
+			text = "ãhde pequena e quando eu era pequena como meu filho hoje ele vive dizendo mas mãe"
+		intervals [66]:
+			xmin = 158.26
+			xmax = 158.69
+			text = "..."
+		intervals [67]:
+			xmin = 158.69
+			xmax = 165.22
+			text = "ehpor que só eu não posso brincar lá embaixo né falei assim filho porque é uma questão de disciplina então eu estou repetindo"
+		intervals [68]:
+			xmin = 165.22
+			xmax = 165.62
+			text = "..."
+		intervals [69]:
+			xmin = 165.62
+			xmax = 167.23
+			text = "exatamente"
+		intervals [70]:
+			xmin = 167.23
+			xmax = 170.7
+			text = "o que os meus pais fizeram comigo mas eu eh eu sou muito feliz"
+		intervals [71]:
+			xmin = 170.7
+			xmax = 171.02
+			text = "..."
+		intervals [72]:
+			xmin = 171.02
+			xmax = 174.75
+			text = "ah com esses valores que a gente tem hoje e meu filho também é filho único"
+		intervals [73]:
+			xmin = 174.75
+			xmax = 175.55
+			text = "..."
+		intervals [74]:
+			xmin = 175.55
+			xmax = 191.18
+			text = "o [P] que hoje tem nove anos acabou de fazer nove anos eu gostaria de ter tido mais filhos mas não não consegui eu tenho endometriose e também a a a minha vida profissional acabou eh me fazendo com que eu optasse em ter mais filhos ah em ter filhos mais tarde"
+		intervals [75]:
+			xmin = 191.18
+			xmax = 191.49
+			text = "..."
+		intervals [76]:
+			xmin = 191.49
+			xmax = 194.9
+			text = "e aí quando eu descobri minha endometriose aí eu já já já estava"
+		intervals [77]:
+			xmin = 194.9
+			xmax = 195.22
+			text = "..."
+		intervals [78]:
+			xmin = 195.22
+			xmax = 198.57
+			text = "perto dos meus quarenta e aí a gente não conseguiu então"
+		intervals [79]:
+			xmin = 198.57
+			xmax = 198.89
+			text = "..."
+		intervals [80]:
+			xmin = 198.89
+			xmax = 201.34
+			text = "a minha maior preocupação também é essa né"
+		intervals [81]:
+			xmin = 201.34
+			xmax = 201.62
+			text = "é"
+		intervals [82]:
+			xmin = 201.62
+			xmax = 208.69
+			text = "não fazer com que ele seja uma criança mimada e que tenha tudo na vida embora a gente possa dar as melhores condições para ele"
+		intervals [83]:
+			xmin = 208.69
+			xmax = 209.09
+			text = "..."
+		intervals [84]:
+			xmin = 209.09
+			xmax = 212.61
+			text = "eh mas a gente pode dar as melhores condições as melhores educações"
+		intervals [85]:
+			xmin = 212.61
+			xmax = 212.86
+			text = "a"
+		intervals [86]:
+			xmin = 212.86
+			xmax = 213.83
+			text = "a melhor educação"
+		intervals [87]:
+			xmin = 213.83
+			xmax = 214.18
+			text = "..."
+		intervals [88]:
+			xmin = 214.18
+			xmax = 243.53
+			text = "mas eu entendo que essa melhor educação significa também ele ter limite ele ter disciplina ele ter horário para estudar horário para brincar e também faz tudo que é tipo de esporte já nadou já andou andou de patins já esquiou já fez isso então ele é uma criança ativa tem muitos amigos me cobra um irmãozinho de vez em quando mas ãh é uma criança super saudável e sabe que ehele me às vezes me liga e fala mãe nós precisamos negociar eu falo ok então vamos conversar o que que você quer"
+		intervals [89]:
+			xmin = 243.53
+			xmax = 244.07
+			text = "..."
+		intervals [90]:
+			xmin = 244.07
+			xmax = 244.92
+			text = "então eu acho que"
+		intervals [91]:
+			xmin = 244.92
+			xmax = 245.47
+			text = "..."
+		intervals [92]:
+			xmin = 245.47
+			xmax = 248.45
+			text = "eu sou muito muito grata por por essa educação"
+		intervals [93]:
+			xmin = 248.45
+			xmax = 249.12
+			text = "..."
+		intervals [94]:
+			xmin = 249.12
+			xmax = 253.35
+			text = ""
+		intervals [95]:
+			xmin = 253.35
+			xmax = 253.59
+			text = "tá"
+		intervals [96]:
+			xmin = 253.59
+			xmax = 258.86
+			text = ""
+		intervals [97]:
+			xmin = 258.86
+			xmax = 259.01
+			text = "bem"
+		intervals [98]:
+			xmin = 259.01
+			xmax = 259.37
+			text = "..."
+		intervals [99]:
+			xmin = 259.37
+			xmax = 260.09
+			text = "eu não conheci"
+		intervals [100]:
+			xmin = 260.09
+			xmax = 260.7
+			text = "..."
+		intervals [101]:
+			xmin = 260.7
+			xmax = 261.5
+			text = "o meu avô"
+		intervals [102]:
+			xmin = 261.5
+			xmax = 262.21
+			text = "..."
+		intervals [103]:
+			xmin = 262.21
+			xmax = 263.94
+			text = "materno que morreu eh eh"
+		intervals [104]:
+			xmin = 263.94
+			xmax = 264.36
+			text = "..."
+		intervals [105]:
+			xmin = 264.36
+			xmax = 264.7
+			text = "antes"
+		intervals [106]:
+			xmin = 264.7
+			xmax = 265.3
+			text = "de eu nascer"
+		intervals [107]:
+			xmin = 265.3
+			xmax = 266.73
+			text = "..."
+		intervals [108]:
+			xmin = 266.73
+			xmax = 268.31
+			text = "e a minha avó materna"
+		intervals [109]:
+			xmin = 268.31
+			xmax = 268.34
+			text = "eh"
+		intervals [110]:
+			xmin = 268.34
+			xmax = 268.7
+			text = "ela"
+		intervals [111]:
+			xmin = 268.7
+			xmax = 280.26
+			text = "sempre foi muito doente sempre teve reumatismo artrite sempre foi muito limitada de saúde materna e sempre foi uma senhora muito séria então eu lembro dela sentada no sofá na sala"
+		intervals [112]:
+			xmin = 280.26
+			xmax = 280.59
+			text = "..."
+		intervals [113]:
+			xmin = 280.59
+			xmax = 280.87
+			text = "eh"
+		intervals [114]:
+			xmin = 280.87
+			xmax = 283.15
+			text = "assistindo a televisão mas uma senhora"
+		intervals [115]:
+			xmin = 283.15
+			xmax = 283.59
+			text = "..."
+		intervals [116]:
+			xmin = 283.59
+			xmax = 285.24
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 285.24
+		intervals: size = 196
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.09
+			text = "ele me empurrou e eu con"
+		intervals [2]:
+			xmin = 1.09
+			xmax = 1.26
+			text = "..."
+		intervals [3]:
+			xmin = 1.26
+			xmax = 5.17
+			text = "continuei andando de bicicleta consegui viva o meu viva o papai né"
+		intervals [4]:
+			xmin = 5.17
+			xmax = 5.49
+			text = "..."
+		intervals [5]:
+			xmin = 5.49
+			xmax = 8.84
+			text = "isso foi uma é uma frase que eu lembro muito que está muito presente"
+		intervals [6]:
+			xmin = 8.84
+			xmax = 9.28
+			text = "..."
+		intervals [7]:
+			xmin = 9.28
+			xmax = 9.84
+			text = "então"
+		intervals [8]:
+			xmin = 9.84
+			xmax = 10.1
+			text = "eh"
+		intervals [9]:
+			xmin = 10.1
+			xmax = 12.22
+			text = "meu pai eh sempre foi muito"
+		intervals [10]:
+			xmin = 12.22
+			xmax = 12.54
+			text = "..."
+		intervals [11]:
+			xmin = 12.54
+			xmax = 14.02
+			text = "eh formal"
+		intervals [12]:
+			xmin = 14.02
+			xmax = 14.29
+			text = "..."
+		intervals [13]:
+			xmin = 14.29
+			xmax = 17.42
+			text = "muito rígido em termos de disciplina então por exemplo se eu tomava"
+		intervals [14]:
+			xmin = 17.42
+			xmax = 17.77
+			text = "..."
+		intervals [15]:
+			xmin = 17.77
+			xmax = 18.05
+			text = "eh"
+		intervals [16]:
+			xmin = 18.05
+			xmax = 20.29
+			text = "suco de laranja era só os finais de semana então"
+		intervals [17]:
+			xmin = 20.29
+			xmax = 20.55
+			text = "..."
+		intervals [18]:
+			xmin = 20.55
+			xmax = 25.94
+			text = "se eu tomava um copo era aquele copo não podia tomar outro por que não porque é uma questão de disciplina minha filha já deu"
+		intervals [19]:
+			xmin = 25.94
+			xmax = 26.25
+			text = "..."
+		intervals [20]:
+			xmin = 26.25
+			xmax = 28.54
+			text = "se num dia se num final de semana"
+		intervals [21]:
+			xmin = 28.54
+			xmax = 28.85
+			text = "..."
+		intervals [22]:
+			xmin = 28.85
+			xmax = 33.09
+			text = "eu ia numa festinha no outro final de semana não tinha festinha nem que fosse"
+		intervals [23]:
+			xmin = 33.09
+			xmax = 33.37
+			text = "..."
+		intervals [24]:
+			xmin = 33.37
+			xmax = 36.46
+			text = "o baile de debutante da minha melhor amiga então eu tinha que escolher"
+		intervals [25]:
+			xmin = 36.46
+			xmax = 36.78
+			text = "..."
+		intervals [26]:
+			xmin = 36.78
+			xmax = 37.94
+			text = "então mas eu não tinha tudo"
+		intervals [27]:
+			xmin = 37.94
+			xmax = 38.26
+			text = "..."
+		intervals [28]:
+			xmin = 38.26
+			xmax = 40.24
+			text = "né assim meus pais até podiam me dar tudo"
+		intervals [29]:
+			xmin = 40.24
+			xmax = 40.64
+			text = "..."
+		intervals [30]:
+			xmin = 40.64
+			xmax = 45.62
+			text = "eh mas a grande preocupação deles era que eu soubesse que na vida existem limites e que eu"
+		intervals [31]:
+			xmin = 45.62
+			xmax = 46.04
+			text = "..."
+		intervals [32]:
+			xmin = 46.04
+			xmax = 49.15
+			text = "iria enfrentar a vida melhor se eu soubesse desde cedo"
+		intervals [33]:
+			xmin = 49.15
+			xmax = 49.5
+			text = "..."
+		intervals [34]:
+			xmin = 49.5
+			xmax = 49.97
+			text = "ãh"
+		intervals [35]:
+			xmin = 49.97
+			xmax = 50.1
+			text = "..."
+		intervals [36]:
+			xmin = 50.1
+			xmax = 53.68
+			text = "que a gente precisava aprender que nem tudo na vida a gente vai conseguir"
+		intervals [37]:
+			xmin = 53.68
+			xmax = 53.96
+			text = "..."
+		intervals [38]:
+			xmin = 53.96
+			xmax = 57.38
+			text = "na hora que a gente quer no momento que a gente quer e às vezes a gente não vai conseguir mesmo"
+		intervals [39]:
+			xmin = 57.38
+			xmax = 57.71
+			text = "..."
+		intervals [40]:
+			xmin = 57.71
+			xmax = 60.4
+			text = "e a gente tem que aprender outros caminhos para para saber enfim"
+		intervals [41]:
+			xmin = 60.4
+			xmax = 61.49
+			text = "..."
+		intervals [42]:
+			xmin = 61.49
+			xmax = 61.95
+			text = "ãhse"
+		intervals [43]:
+			xmin = 61.95
+			xmax = 63.07
+			text = "virar e ser feliz"
+		intervals [44]:
+			xmin = 63.07
+			xmax = 63.22
+			text = "..."
+		intervals [45]:
+			xmin = 63.22
+			xmax = 63.45
+			text = "assim"
+		intervals [46]:
+			xmin = 63.45
+			xmax = 64.02
+			text = "..."
+		intervals [47]:
+			xmin = 64.02
+			xmax = 65.29
+			text = "não é então eu acho que foi"
+		intervals [48]:
+			xmin = 65.29
+			xmax = 65.58
+			text = "..."
+		intervals [49]:
+			xmin = 65.58
+			xmax = 69.2
+			text = "foi uma educação rígida sim formal principalmente quando eu era pequena"
+		intervals [50]:
+			xmin = 69.2
+			xmax = 69.73
+			text = "..."
+		intervals [51]:
+			xmin = 69.73
+			xmax = 71.27
+			text = "ãh minha mãe"
+		intervals [52]:
+			xmin = 71.27
+			xmax = 71.39
+			text = "..."
+		intervals [53]:
+			xmin = 71.39
+			xmax = 73.37
+			text = "eh mais amorosa mais"
+		intervals [54]:
+			xmin = 73.37
+			xmax = 73.65
+			text = "..."
+		intervals [55]:
+			xmin = 73.65
+			xmax = 78.33
+			text = "eh incentivadora por exemplo eu fazia um texto sempre gostei de escrever muito"
+		intervals [56]:
+			xmin = 78.33
+			xmax = 78.97
+			text = "..."
+		intervals [57]:
+			xmin = 78.97
+			xmax = 79.26
+			text = "eh"
+		intervals [58]:
+			xmin = 79.26
+			xmax = 79.57
+			text = "..."
+		intervals [59]:
+			xmin = 79.57
+			xmax = 80.01
+			text = "i"
+		intervals [60]:
+			xmin = 80.01
+			xmax = 83.54
+			text = "então eu eu mostrava o texto para minha mãe minha mãe dizia assim nossa"
+		intervals [61]:
+			xmin = 83.54
+			xmax = 90.91
+			text = "minha filha está brilhante meu pai ia ler e dizia assim olha não se separa eh sujeito de ve de verbo você não podia ter colocado essa vírgula aqui"
+		intervals [62]:
+			xmin = 90.91
+			xmax = 91.36
+			text = "..."
+		intervals [63]:
+			xmin = 91.36
+			xmax = 92.75
+			text = "né mas também foi graças a"
+		intervals [64]:
+			xmin = 92.75
+			xmax = 93.19
+			text = "ele"
+		intervals [65]:
+			xmin = 93.19
+			xmax = 97.47
+			text = "que hojeãh eu tenho um um português ou tenho uma"
+		intervals [66]:
+			xmin = 97.47
+			xmax = 97.96
+			text = "..."
+		intervals [67]:
+			xmin = 97.96
+			xmax = 99.73
+			text = "uma fluência ãh para"
+		intervals [68]:
+			xmin = 99.73
+			xmax = 99.94
+			text = "..."
+		intervals [69]:
+			xmin = 99.94
+			xmax = 103.82
+			text = "escrever um artigo para escrever um texto muito maior do que se ele também"
+		intervals [70]:
+			xmin = 103.82
+			xmax = 104.07
+			text = "..."
+		intervals [71]:
+			xmin = 104.07
+			xmax = 106.37
+			text = "só me aplaudisse então eu acho que foi um equilíbrio"
+		intervals [72]:
+			xmin = 106.37
+			xmax = 106.65
+			text = "..."
+		intervals [73]:
+			xmin = 106.65
+			xmax = 109.65
+			text = "eh muito bacana quer dizer eu tinha o carinho eu tinha o apoio"
+		intervals [74]:
+			xmin = 109.65
+			xmax = 109.94
+			text = "..."
+		intervals [75]:
+			xmin = 109.94
+			xmax = 112.8
+			text = "e tinha também do meu pai mas o meu pai com foco mais"
+		intervals [76]:
+			xmin = 112.8
+			xmax = 113.09
+			text = "..."
+		intervals [77]:
+			xmin = 113.09
+			xmax = 114.91
+			text = "eh disciplinador"
+		intervals [78]:
+			xmin = 114.91
+			xmax = 115.79
+			text = "e e"
+		intervals [79]:
+			xmin = 115.79
+			xmax = 116.04
+			text = "..."
+		intervals [80]:
+			xmin = 116.04
+			xmax = 119.58
+			text = "do que minha mãe embora eu sempre disse que eu tive dois generais em"
+		intervals [81]:
+			xmin = 119.58
+			xmax = 122.37
+			text = "casa porque meu pai minha mãe era também durona"
+		intervals [82]:
+			xmin = 122.37
+			xmax = 122.69
+			text = "..."
+		intervals [83]:
+			xmin = 122.69
+			xmax = 125.44
+			text = "e às vezes eu nunca fui muito organizada e"
+		intervals [84]:
+			xmin = 125.44
+			xmax = 125.87
+			text = "não"
+		intervals [85]:
+			xmin = 125.87
+			xmax = 125.98
+			text = "..."
+		intervals [86]:
+			xmin = 125.98
+			xmax = 130.29
+			text = "não é um dos meus maiores eh uma das minhas maiores qualidades eu eu chegava"
+		intervals [87]:
+			xmin = 130.29
+			xmax = 130.59
+			text = "..."
+		intervals [88]:
+			xmin = 130.59
+			xmax = 136.12
+			text = "em casa ela não deixava eu dormir enquanto eu não arrumava o o o quarto todo ou se eu queria sair jogava tudo"
+		intervals [89]:
+			xmin = 136.12
+			xmax = 136.28
+			text = "..."
+		intervals [90]:
+			xmin = 136.28
+			xmax = 138.06
+			text = "dentro do armário a hora que eu voltava estava"
+		intervals [91]:
+			xmin = 138.06
+			xmax = 138.18
+			text = "..."
+		intervals [92]:
+			xmin = 138.18
+			xmax = 138.59
+			text = "tudo"
+		intervals [93]:
+			xmin = 138.59
+			xmax = 138.95
+			text = "..."
+		intervals [94]:
+			xmin = 138.95
+			xmax = 141.54
+			text = "fora do armário agora você não quis arrumar aquela coisinha"
+		intervals [95]:
+			xmin = 141.54
+			xmax = 141.85
+			text = "..."
+		intervals [96]:
+			xmin = 141.85
+			xmax = 143.33
+			text = "agora você vai arrumar o armário inteiro"
+		intervals [97]:
+			xmin = 143.33
+			xmax = 143.7
+			text = "..."
+		intervals [98]:
+			xmin = 143.7
+			xmax = 146.68
+			text = "então foram foram dois grandes educadores"
+		intervals [99]:
+			xmin = 146.68
+			xmax = 147.06
+			text = "..."
+		intervals [100]:
+			xmin = 147.06
+			xmax = 153.55
+			text = "e eu devo muito a eles ah essa muitos dos valores que eu tenho hoje foi porque eles foram muito persistentes comigo"
+		intervals [101]:
+			xmin = 153.55
+			xmax = 153.94
+			text = "..."
+		intervals [102]:
+			xmin = 153.94
+			xmax = 155.15
+			text = "ãhde pequena"
+		intervals [103]:
+			xmin = 155.15
+			xmax = 155.3
+			text = "..."
+		intervals [104]:
+			xmin = 155.3
+			xmax = 158.26
+			text = "e quando eu era pequena como meu filho hoje ele vive dizendo mas mãe"
+		intervals [105]:
+			xmin = 158.26
+			xmax = 158.69
+			text = "..."
+		intervals [106]:
+			xmin = 158.69
+			xmax = 165.22
+			text = "ehpor que só eu não posso brincar lá embaixo né falei assim filho porque é uma questão de disciplina então eu estou repetindo"
+		intervals [107]:
+			xmin = 165.22
+			xmax = 165.62
+			text = "..."
+		intervals [108]:
+			xmin = 165.62
+			xmax = 166.99
+			text = "exatamente"
+		intervals [109]:
+			xmin = 166.99
+			xmax = 167.23
+			text = "..."
+		intervals [110]:
+			xmin = 167.23
+			xmax = 170.7
+			text = "o que os meus pais fizeram comigo mas eu eh eu sou muito feliz"
+		intervals [111]:
+			xmin = 170.7
+			xmax = 171.02
+			text = "..."
+		intervals [112]:
+			xmin = 171.02
+			xmax = 174.75
+			text = "ah com esses valores que a gente tem hoje e meu filho também é filho único"
+		intervals [113]:
+			xmin = 174.75
+			xmax = 175.55
+			text = "..."
+		intervals [114]:
+			xmin = 175.55
+			xmax = 176.95
+			text = "o [P] que hoje tem"
+		intervals [115]:
+			xmin = 176.95
+			xmax = 177.24
+			text = "..."
+		intervals [116]:
+			xmin = 177.24
+			xmax = 185.99
+			text = "nove anos acabou de fazer nove anos eu gostaria de ter tido mais filhos mas não não consegui eu tenho endometriose e também a a a minha vida profissional acabou"
+		intervals [117]:
+			xmin = 185.99
+			xmax = 186.27
+			text = "..."
+		intervals [118]:
+			xmin = 186.27
+			xmax = 189.7
+			text = "eh me fazendo com que eu optasse em ter mais filhos"
+		intervals [119]:
+			xmin = 189.7
+			xmax = 189.8
+			text = "..."
+		intervals [120]:
+			xmin = 189.8
+			xmax = 191.18
+			text = "ah em ter filhos mais tarde"
+		intervals [121]:
+			xmin = 191.18
+			xmax = 191.49
+			text = "..."
+		intervals [122]:
+			xmin = 191.49
+			xmax = 193.73
+			text = "e aí quando eu descobri minha endometriose aí eu já"
+		intervals [123]:
+			xmin = 193.73
+			xmax = 193.88
+			text = "..."
+		intervals [124]:
+			xmin = 193.88
+			xmax = 194.08
+			text = "já"
+		intervals [125]:
+			xmin = 194.08
+			xmax = 194.24
+			text = "..."
+		intervals [126]:
+			xmin = 194.24
+			xmax = 194.9
+			text = "já estava"
+		intervals [127]:
+			xmin = 194.9
+			xmax = 195.22
+			text = "..."
+		intervals [128]:
+			xmin = 195.22
+			xmax = 197.13
+			text = "perto dos meus quarenta e aí"
+		intervals [129]:
+			xmin = 197.13
+			xmax = 197.34
+			text = "..."
+		intervals [130]:
+			xmin = 197.34
+			xmax = 198.57
+			text = "a gente não conseguiu então"
+		intervals [131]:
+			xmin = 198.57
+			xmax = 198.89
+			text = "..."
+		intervals [132]:
+			xmin = 198.89
+			xmax = 200.83
+			text = "a minha maior preocupação também é essa"
+		intervals [133]:
+			xmin = 200.83
+			xmax = 201.01
+			text = "..."
+		intervals [134]:
+			xmin = 201.01
+			xmax = 201.34
+			text = "né"
+		intervals [135]:
+			xmin = 201.34
+			xmax = 201.62
+			text = "é"
+		intervals [136]:
+			xmin = 201.62
+			xmax = 202.22
+			text = "não fazer"
+		intervals [137]:
+			xmin = 202.22
+			xmax = 202.35
+			text = "..."
+		intervals [138]:
+			xmin = 202.35
+			xmax = 207.03
+			text = "com que ele seja uma criança mimada e que tenha tudo na vida embora a gente possa dar"
+		intervals [139]:
+			xmin = 207.03
+			xmax = 207.27
+			text = "..."
+		intervals [140]:
+			xmin = 207.27
+			xmax = 208.69
+			text = "as melhores condições para ele"
+		intervals [141]:
+			xmin = 208.69
+			xmax = 209.09
+			text = "..."
+		intervals [142]:
+			xmin = 209.09
+			xmax = 212.61
+			text = "eh mas a gente pode dar as melhores condições as melhores educações"
+		intervals [143]:
+			xmin = 212.61
+			xmax = 212.86
+			text = "a"
+		intervals [144]:
+			xmin = 212.86
+			xmax = 213.83
+			text = "a melhor educação"
+		intervals [145]:
+			xmin = 213.83
+			xmax = 214.18
+			text = "..."
+		intervals [146]:
+			xmin = 214.18
+			xmax = 219.33
+			text = "mas eu entendo que essa melhor educação significa também ele ter limite ele ter disciplina"
+		intervals [147]:
+			xmin = 219.33
+			xmax = 219.56
+			text = "..."
+		intervals [148]:
+			xmin = 219.56
+			xmax = 222.04
+			text = "ele ter horário para estudar horário para brincar"
+		intervals [149]:
+			xmin = 222.04
+			xmax = 222.24
+			text = "..."
+		intervals [150]:
+			xmin = 222.24
+			xmax = 223.16
+			text = "e também faz"
+		intervals [151]:
+			xmin = 223.16
+			xmax = 223.38
+			text = "..."
+		intervals [152]:
+			xmin = 223.38
+			xmax = 226.44
+			text = "tudo que é tipo de esporte já nadou já andou andou de"
+		intervals [153]:
+			xmin = 226.44
+			xmax = 226.68
+			text = "..."
+		intervals [154]:
+			xmin = 226.68
+			xmax = 228.68
+			text = "patins já esquiou já fez isso então"
+		intervals [155]:
+			xmin = 228.68
+			xmax = 228.98
+			text = "..."
+		intervals [156]:
+			xmin = 228.98
+			xmax = 236.56
+			text = "ele é uma criança ativa tem muitos amigos me cobra um irmãozinho de vez em quando mas ãh é uma criança super saudável e sabe que"
+		intervals [157]:
+			xmin = 236.56
+			xmax = 236.82
+			text = "..."
+		intervals [158]:
+			xmin = 236.82
+			xmax = 242.08
+			text = "ehele me às vezes me liga e fala mãe nós precisamos negociar eu falo ok então vamos"
+		intervals [159]:
+			xmin = 242.08
+			xmax = 242.38
+			text = "..."
+		intervals [160]:
+			xmin = 242.38
+			xmax = 243.53
+			text = "conversar o que que você quer"
+		intervals [161]:
+			xmin = 243.53
+			xmax = 244.07
+			text = "..."
+		intervals [162]:
+			xmin = 244.07
+			xmax = 244.92
+			text = "então eu acho que"
+		intervals [163]:
+			xmin = 244.92
+			xmax = 245.47
+			text = "..."
+		intervals [164]:
+			xmin = 245.47
+			xmax = 247.2
+			text = "eu sou muito muito grata"
+		intervals [165]:
+			xmin = 247.2
+			xmax = 247.32
+			text = "..."
+		intervals [166]:
+			xmin = 247.32
+			xmax = 248.45
+			text = "por por essa educação"
+		intervals [167]:
+			xmin = 248.45
+			xmax = 249.12
+			text = "..."
+		intervals [168]:
+			xmin = 249.12
+			xmax = 253.35
+			text = ""
+		intervals [169]:
+			xmin = 253.35
+			xmax = 253.59
+			text = "tá"
+		intervals [170]:
+			xmin = 253.59
+			xmax = 258.86
+			text = ""
+		intervals [171]:
+			xmin = 258.86
+			xmax = 259.01
+			text = "bem"
+		intervals [172]:
+			xmin = 259.01
+			xmax = 259.37
+			text = "..."
+		intervals [173]:
+			xmin = 259.37
+			xmax = 260.09
+			text = "eu não conheci"
+		intervals [174]:
+			xmin = 260.09
+			xmax = 260.7
+			text = "..."
+		intervals [175]:
+			xmin = 260.7
+			xmax = 261.5
+			text = "o meu avô"
+		intervals [176]:
+			xmin = 261.5
+			xmax = 262.21
+			text = "..."
+		intervals [177]:
+			xmin = 262.21
+			xmax = 263.94
+			text = "materno que morreu eh eh"
+		intervals [178]:
+			xmin = 263.94
+			xmax = 264.36
+			text = "..."
+		intervals [179]:
+			xmin = 264.36
+			xmax = 264.7
+			text = "antes"
+		intervals [180]:
+			xmin = 264.7
+			xmax = 265.3
+			text = "de eu nascer"
+		intervals [181]:
+			xmin = 265.3
+			xmax = 266.73
+			text = "..."
+		intervals [182]:
+			xmin = 266.73
+			xmax = 268.31
+			text = "e a minha avó materna"
+		intervals [183]:
+			xmin = 268.31
+			xmax = 268.34
+			text = "eh"
+		intervals [184]:
+			xmin = 268.34
+			xmax = 268.7
+			text = "ela"
+		intervals [185]:
+			xmin = 268.7
+			xmax = 269.73
+			text = "sempre foi muito doente"
+		intervals [186]:
+			xmin = 269.73
+			xmax = 269.84
+			text = "..."
+		intervals [187]:
+			xmin = 269.84
+			xmax = 273.77
+			text = "sempre teve reumatismo artrite sempre foi muito limitada de saúde"
+		intervals [188]:
+			xmin = 273.77
+			xmax = 273.99
+			text = "..."
+		intervals [189]:
+			xmin = 273.99
+			xmax = 277.79
+			text = "materna e sempre foi uma senhora muito séria então eu lembro dela"
+		intervals [190]:
+			xmin = 277.79
+			xmax = 278.09
+			text = "..."
+		intervals [191]:
+			xmin = 278.09
+			xmax = 280.26
+			text = "sentada no sofá na sala"
+		intervals [192]:
+			xmin = 280.26
+			xmax = 280.59
+			text = "..."
+		intervals [193]:
+			xmin = 280.59
+			xmax = 280.87
+			text = "eh"
+		intervals [194]:
+			xmin = 280.87
+			xmax = 283.15
+			text = "assistindo a televisão mas uma senhora"
+		intervals [195]:
+			xmin = 283.15
+			xmax = 283.59
+			text = "..."
+		intervals [196]:
+			xmin = 283.59
+			xmax = 285.24
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 285.24
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 249.12
+			text = ""
+		intervals [2]:
+			xmin = 249.12
+			xmax = 250.74
+			text = "antes de entrar na escola"
+		intervals [3]:
+			xmin = 250.74
+			xmax = 253.35
+			text = "eu queria assim expandir um pouco a sua família sabe"
+		intervals [4]:
+			xmin = 253.35
+			xmax = 253.59
+			text = ""
+		intervals [5]:
+			xmin = 253.59
+			xmax = 253.78
+			text = "porque"
+		intervals [6]:
+			xmin = 253.78
+			xmax = 254.19
+			text = "..."
+		intervals [7]:
+			xmin = 254.19
+			xmax = 256.18
+			text = "se o seu pai e a sua mãe eram assim"
+		intervals [8]:
+			xmin = 256.18
+			xmax = 256.88
+			text = "..."
+		intervals [9]:
+			xmin = 256.88
+			xmax = 258.86
+			text = "qual é a referência que você tem dos seus avós"
+		intervals [10]:
+			xmin = 258.86
+			xmax = 285.24
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 285.24
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 249.12
+			text = ""
+		intervals [2]:
+			xmin = 249.12
+			xmax = 250.74
+			text = "antes de entrar na escola"
+		intervals [3]:
+			xmin = 250.74
+			xmax = 253.35
+			text = "eu queria assim expandir um pouco a sua família sabe"
+		intervals [4]:
+			xmin = 253.35
+			xmax = 253.59
+			text = ""
+		intervals [5]:
+			xmin = 253.59
+			xmax = 253.78
+			text = "porque"
+		intervals [6]:
+			xmin = 253.78
+			xmax = 254.19
+			text = "..."
+		intervals [7]:
+			xmin = 254.19
+			xmax = 256.18
+			text = "se o seu pai e a sua mãe eram assim"
+		intervals [8]:
+			xmin = 256.18
+			xmax = 256.88
+			text = "..."
+		intervals [9]:
+			xmin = 256.88
+			xmax = 258.86
+			text = "qual é a referência que você tem dos seus avós"
+		intervals [10]:
+			xmin = 258.86
+			xmax = 285.24
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 285.24
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 285.24
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 285.24
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 285.24
+			text = ""
