@@ -1,0 +1,3520 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 479.98
+tiers? <exists>
+size = 8
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 479.98
+		intervals: size = 265
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.11
+			text = "aí eu fui trabalhar nessa casa que eu saí para trabalhar no café né mas mesmo assim eu continuo lá trabalho de manhã lá e à tarde no café"
+		intervals [2]:
+			xmin = 6.11
+			xmax = 8.01
+			text = ""
+		intervals [3]:
+			xmin = 8.01
+			xmax = 13.34
+			text = "sim também mas eu só só fazia descer o elevador porque eles moram lá em cima"
+		intervals [4]:
+			xmin = 13.34
+			xmax = 14.14
+			text = "e eu descia"
+		intervals [5]:
+			xmin = 14.14
+			xmax = 15.17
+			text = "..."
+		intervals [6]:
+			xmin = 15.17
+			xmax = 17.41
+			text = "e aí trabalhava e à tarde voltava de novo"
+		intervals [7]:
+			xmin = 17.41
+			xmax = 18.2
+			text = "..."
+		intervals [8]:
+			xmin = 18.2
+			xmax = 19.11
+			text = ""
+		intervals [9]:
+			xmin = 19.11
+			xmax = 19.59
+			text = "continuo"
+		intervals [10]:
+			xmin = 19.59
+			xmax = 19.93
+			text = "..."
+		intervals [11]:
+			xmin = 19.93
+			xmax = 21.17
+			text = "tem cinco anos que eu estou"
+		intervals [12]:
+			xmin = 21.17
+			xmax = 22.21
+			text = "..."
+		intervals [13]:
+			xmin = 22.21
+			xmax = 22.28
+			text = "lá"
+		intervals [14]:
+			xmin = 22.28
+			xmax = 22.78
+			text = "..."
+		intervals [15]:
+			xmin = 22.78
+			xmax = 27.75
+			text = ""
+		intervals [16]:
+			xmin = 27.75
+			xmax = 28.2
+			text = "aí eu"
+		intervals [17]:
+			xmin = 28.2
+			xmax = 35.05
+			text = "fazia o curso no senac de hotelaria e todo dia eu ia no quadro de empregos aí eu vi o o anúncio né do coa café"
+		intervals [18]:
+			xmin = 35.05
+			xmax = 35.51
+			text = "..."
+		intervals [19]:
+			xmin = 35.51
+			xmax = 35.84
+			text = "eu mandei"
+		intervals [20]:
+			xmin = 35.84
+			xmax = 43.71
+			text = "um email e a [M] me retornou aí quando ela me retornou eu fiz essa entrevista sem falar para a minha patroa né quando ela me chamou aí a minha patroa estava viajando"
+		intervals [21]:
+			xmin = 43.71
+			xmax = 44.76
+			text = "..."
+		intervals [22]:
+			xmin = 44.76
+			xmax = 45.06
+			text = "e"
+		intervals [23]:
+			xmin = 45.06
+			xmax = 50.79
+			text = "aí eu peguei liguei para ela e falei né nas minhas folgas nas horas que eu estiver livre eu venho e aí ela aceitou e"
+		intervals [24]:
+			xmin = 50.79
+			xmax = 51.12
+			text = "..."
+		intervals [25]:
+			xmin = 51.12
+			xmax = 51.64
+			text = "eu estou indo"
+		intervals [26]:
+			xmin = 51.64
+			xmax = 53.53
+			text = ""
+		intervals [27]:
+			xmin = 53.53
+			xmax = 53.89
+			text = "fiz"
+		intervals [28]:
+			xmin = 53.89
+			xmax = 55.45
+			text = ""
+		intervals [29]:
+			xmin = 55.45
+			xmax = 60.14
+			text = "eu comecei em agosto do ano passado então agosto de dois mil e sete a agosto de dois mil e oito"
+		intervals [30]:
+			xmin = 60.14
+			xmax = 60.77
+			text = "..."
+		intervals [31]:
+			xmin = 60.77
+			xmax = 62.44
+			text = ""
+		intervals [32]:
+			xmin = 62.44
+			xmax = 63.97
+			text = "em muitas coisas porque"
+		intervals [33]:
+			xmin = 63.97
+			xmax = 64.63
+			text = "..."
+		intervals [34]:
+			xmin = 64.63
+			xmax = 72.77
+			text = "eu acho que por exemplo no café eu só entrei por causa do curso porque até então eu ia em todos os lugares eu por eu não ter experiência no mercado de trabalho é"
+		intervals [35]:
+			xmin = 72.77
+			xmax = 74.0
+			text = "..."
+		intervals [36]:
+			xmin = 74.0
+			xmax = 75.18
+			text = "aí eu nunca arrumava uma"
+		intervals [37]:
+			xmin = 75.18
+			xmax = 75.67
+			text = "chance"
+		intervals [38]:
+			xmin = 75.67
+			xmax = 76.93
+			text = ""
+		intervals [39]:
+			xmin = 76.93
+			xmax = 78.05
+			text = "porque ah eu"
+		intervals [40]:
+			xmin = 78.05
+			xmax = 78.39
+			text = "..."
+		intervals [41]:
+			xmin = 78.39
+			xmax = 82.9
+			text = "achei que eu ia me adaptar mais rápido pelo fato de já eu trabalhar tanto tempo ni ni"
+		intervals [42]:
+			xmin = 82.9
+			xmax = 83.25
+			text = "em"
+		intervals [43]:
+			xmin = 83.25
+			xmax = 84.21
+			text = "casa de família"
+		intervals [44]:
+			xmin = 84.21
+			xmax = 84.75
+			text = "..."
+		intervals [45]:
+			xmin = 84.75
+			xmax = 85.61
+			text = "e"
+		intervals [46]:
+			xmin = 85.61
+			xmax = 85.85
+			text = "e"
+		intervals [47]:
+			xmin = 85.85
+			xmax = 88.64
+			text = "eu e eu gostava aí eu achei ah eu acho que"
+		intervals [48]:
+			xmin = 88.64
+			xmax = 89.12
+			text = "..."
+		intervals [49]:
+			xmin = 89.12
+			xmax = 90.64
+			text = "vai ser mais fácil para mim como"
+		intervals [50]:
+			xmin = 90.64
+			xmax = 91.03
+			text = "..."
+		intervals [51]:
+			xmin = 91.03
+			xmax = 95.08
+			text = "ele tem vários leques né tipo assim você pode trabalhar em várias áreas"
+		intervals [52]:
+			xmin = 95.08
+			xmax = 95.76
+			text = "..."
+		intervals [53]:
+			xmin = 95.76
+			xmax = 96.49
+			text = "sei lá"
+		intervals [54]:
+			xmin = 96.49
+			xmax = 96.96
+			text = "..."
+		intervals [55]:
+			xmin = 96.96
+			xmax = 98.63
+			text = "recepção é"
+		intervals [56]:
+			xmin = 98.63
+			xmax = 99.2
+			text = "..."
+		intervals [57]:
+			xmin = 99.2
+			xmax = 99.72
+			text = "no o"
+		intervals [58]:
+			xmin = 99.72
+			xmax = 100.11
+			text = "..."
+		intervals [59]:
+			xmin = 100.11
+			xmax = 101.86
+			text = "tipo os o trabalho mesmo"
+		intervals [60]:
+			xmin = 101.86
+			xmax = 102.57
+			text = "..."
+		intervals [61]:
+			xmin = 102.57
+			xmax = 104.59
+			text = "de camareira essas coisas também tem"
+		intervals [62]:
+			xmin = 104.59
+			xmax = 107.55
+			text = "a área de de alimentos e bebidas né que é a área que eu estou"
+		intervals [63]:
+			xmin = 107.55
+			xmax = 108.52
+			text = "..."
+		intervals [64]:
+			xmin = 108.52
+			xmax = 109.43
+			text = "aí eu achei melhor"
+		intervals [65]:
+			xmin = 109.43
+			xmax = 112.67
+			text = ""
+		intervals [66]:
+			xmin = 112.67
+			xmax = 114.36
+			text = "lembro a primeira entrevista foi"
+		intervals [67]:
+			xmin = 114.36
+			xmax = 115.08
+			text = "..."
+		intervals [68]:
+			xmin = 115.08
+			xmax = 117.98
+			text = "assim é foi com foi com o [M] que"
+		intervals [69]:
+			xmin = 117.98
+			xmax = 118.22
+			text = "é"
+		intervals [70]:
+			xmin = 118.22
+			xmax = 120.11
+			text = "que é um amigo da [M] que estava ajudando"
+		intervals [71]:
+			xmin = 120.11
+			xmax = 120.64
+			text = "..."
+		intervals [72]:
+			xmin = 120.64
+			xmax = 122.98
+			text = "ela nos nos treinamentos né e"
+		intervals [73]:
+			xmin = 122.98
+			xmax = 128.29
+			text = "nas entrevistas também e aí quando eu cheguei assim nossa parecia eu estava muito nervosa eu achei quando eu saí de lá eu disse"
+		intervals [74]:
+			xmin = 128.29
+			xmax = 128.84
+			text = "..."
+		intervals [75]:
+			xmin = 128.84
+			xmax = 136.55
+			text = "não isso não é para mim eu achei que eu não tinha conseguido aí no outro dia ela ligou para mim para eu fazer uma própri uma próxima entrevista na outra semana"
+		intervals [76]:
+			xmin = 136.55
+			xmax = 137.23
+			text = "..."
+		intervals [77]:
+			xmin = 137.23
+			xmax = 140.44
+			text = "aí na segunda entrevista eu ainda fiquei é meio assim eu digo"
+		intervals [78]:
+			xmin = 140.44
+			xmax = 141.33
+			text = "..."
+		intervals [79]:
+			xmin = 141.33
+			xmax = 142.97
+			text = "não sei se vai dar certo"
+		intervals [80]:
+			xmin = 142.97
+			xmax = 143.58
+			text = "..."
+		intervals [81]:
+			xmin = 143.58
+			xmax = 149.57
+			text = "ainda fiquei meio indecisa né porque mesmo porque era uma das minhas primeiras entrevistas porque eu nunca saí para procurar outro emprego"
+		intervals [82]:
+			xmin = 149.57
+			xmax = 152.17
+			text = ""
+		intervals [83]:
+			xmin = 152.17
+			xmax = 152.34
+			text = "não"
+		intervals [84]:
+			xmin = 152.34
+			xmax = 153.5
+			text = "só eu e a [M]"
+		intervals [85]:
+			xmin = 153.5
+			xmax = 153.77
+			text = ""
+		intervals [86]:
+			xmin = 153.77
+			xmax = 155.79
+			text = "a segunda entrevista né porque a outra"
+		intervals [87]:
+			xmin = 155.79
+			xmax = 156.45
+			text = "..."
+		intervals [88]:
+			xmin = 156.45
+			xmax = 158.34
+			text = "a primeira só era eu e o [M]"
+		intervals [89]:
+			xmin = 158.34
+			xmax = 159.91
+			text = "..."
+		intervals [90]:
+			xmin = 159.91
+			xmax = 160.3
+			text = "foram"
+		intervals [91]:
+			xmin = 160.3
+			xmax = 161.51
+			text = "entrevistas simples mas"
+		intervals [92]:
+			xmin = 161.51
+			xmax = 161.96
+			text = "eu"
+		intervals [93]:
+			xmin = 161.96
+			xmax = 162.95
+			text = "eu que fiquei nervosa"
+		intervals [94]:
+			xmin = 162.95
+			xmax = 164.55
+			text = ""
+		intervals [95]:
+			xmin = 164.55
+			xmax = 166.27
+			text = "ela porque na verdade lá"
+		intervals [96]:
+			xmin = 166.27
+			xmax = 172.11
+			text = "a gente é é tipo multifuncional né a gente faz várias coisas até eu gosto de fazer várias coisas"
+		intervals [97]:
+			xmin = 172.11
+			xmax = 172.7
+			text = "..."
+		intervals [98]:
+			xmin = 172.7
+			xmax = 179.04
+			text = "mesmo e ela fa quando ela me chama é auxiliar de barista né que acho que é a mesma coisa de balconista"
+		intervals [99]:
+			xmin = 179.04
+			xmax = 179.53
+			text = "..."
+		intervals [100]:
+			xmin = 179.53
+			xmax = 180.19
+			text = "que é o que eu"
+		intervals [101]:
+			xmin = 180.19
+			xmax = 180.73
+			text = "..."
+		intervals [102]:
+			xmin = 180.73
+			xmax = 181.66
+			text = "eu estou registrada"
+		intervals [103]:
+			xmin = 181.66
+			xmax = 186.09
+			text = ""
+		intervals [104]:
+			xmin = 186.09
+			xmax = 186.19
+			text = "do"
+		intervals [105]:
+			xmin = 186.19
+			xmax = 186.65
+			text = "café"
+		intervals [106]:
+			xmin = 186.65
+			xmax = 187.78
+			text = ""
+		intervals [107]:
+			xmin = 187.78
+			xmax = 188.6
+			text = "lembro"
+		intervals [108]:
+			xmin = 188.6
+			xmax = 188.97
+			text = "..."
+		intervals [109]:
+			xmin = 188.97
+			xmax = 190.96
+			text = "foi a o dia da inauguração"
+		intervals [110]:
+			xmin = 190.96
+			xmax = 192.03
+			text = "..."
+		intervals [111]:
+			xmin = 192.03
+			xmax = 196.64
+			text = "ah mas a gente já estava acostumado que a gente ia muito fazer o treinamento as é"
+		intervals [112]:
+			xmin = 196.64
+			xmax = 197.54
+			text = "..."
+		intervals [113]:
+			xmin = 197.54
+			xmax = 208.42
+			text = "os os testes das bebidas a gente ia muito fazer então a gente já estava acostumado acho que para as meninas do salão acho que foi mais difícil né que elas tinham que atender o cliente e para mim quando a [M] por exemplo diz assim"
+		intervals [114]:
+			xmin = 208.42
+			xmax = 208.77
+			text = "..."
+		intervals [115]:
+			xmin = 208.77
+			xmax = 215.69
+			text = "agora você tem que ir no salão atender algum cliente que faltou alguma menina nossa quando eu eu penso assim estar de frente para o cliente eu não"
+		intervals [116]:
+			xmin = 215.69
+			xmax = 216.6
+			text = "..."
+		intervals [117]:
+			xmin = 216.6
+			xmax = 216.97
+			text = "eu acho"
+		intervals [118]:
+			xmin = 216.97
+			xmax = 224.75
+			text = "que não vou conseguir mas eu sempre consigo mas eu não gosto muito mas acho que para elas foram bem difícil porque era o primeiro dia né era um monte de gente"
+		intervals [119]:
+			xmin = 224.75
+			xmax = 225.36
+			text = "para atender"
+		intervals [120]:
+			xmin = 225.36
+			xmax = 225.7
+			text = "..."
+		intervals [121]:
+			xmin = 225.7
+			xmax = 226.35
+			text = "mas foi tranquilo"
+		intervals [122]:
+			xmin = 226.35
+			xmax = 234.61
+			text = ""
+		intervals [123]:
+			xmin = 234.61
+			xmax = 247.22
+			text = "então porque a gente fica no bar né então a gente já fez um prépreparo tipo alguns sucos deu para preparar antes e aí a gente só servia no primeiro dia e os outros dias assim para mim o primeiro dia mesmo é aquele dia que eu ficar"
+		intervals [124]:
+			xmin = 247.22
+			xmax = 247.72
+			text = "só"
+		intervals [125]:
+			xmin = 247.72
+			xmax = 248.94
+			text = "sem um barista aí"
+		intervals [126]:
+			xmin = 248.94
+			xmax = 249.34
+			text = "..."
+		intervals [127]:
+			xmin = 249.34
+			xmax = 256.09
+			text = "eu tenho tudo eu tenho medo de fazer e errar aí eu ficava eu fico bem nervosa até hoje se alguma bebida que eu não tenho muito"
+		intervals [128]:
+			xmin = 256.09
+			xmax = 256.92
+			text = "..."
+		intervals [129]:
+			xmin = 256.92
+			xmax = 257.42
+			text = "assim"
+		intervals [130]:
+			xmin = 257.42
+			xmax = 258.05
+			text = "..."
+		intervals [131]:
+			xmin = 258.05
+			xmax = 262.45
+			text = "que eu não tenho o costume de fazer quando alguém pede ainda eu fico nervosa de errar"
+		intervals [132]:
+			xmin = 262.45
+			xmax = 267.84
+			text = ""
+		intervals [133]:
+			xmin = 267.84
+			xmax = 268.06
+			text = "nossa"
+		intervals [134]:
+			xmin = 268.06
+			xmax = 268.71
+			text = "..."
+		intervals [135]:
+			xmin = 268.71
+			xmax = 270.97
+			text = "é bem difícil até hoje ainda é bem difícil"
+		intervals [136]:
+			xmin = 270.97
+			xmax = 276.29
+			text = ""
+		intervals [137]:
+			xmin = 276.29
+			xmax = 281.72
+			text = "que eu às vezes que eu me atrapalho tem uma vez mesmo que eu me atrapalhei toda não sabia nem o que perguntar para o cliente nem o"
+		intervals [138]:
+			xmin = 281.72
+			xmax = 282.4
+			text = "que explicar"
+		intervals [139]:
+			xmin = 282.4
+			xmax = 282.69
+			text = "e"
+		intervals [140]:
+			xmin = 282.69
+			xmax = 285.48
+			text = "e ima eu ficava imaginando se ele me perguntar alguma coisa que eu não souber"
+		intervals [141]:
+			xmin = 285.48
+			xmax = 287.53
+			text = "..."
+		intervals [142]:
+			xmin = 287.53
+			xmax = 289.01
+			text = "aconteceu várias vezes"
+		intervals [143]:
+			xmin = 289.01
+			xmax = 289.1
+			text = "isso"
+		intervals [144]:
+			xmin = 289.1
+			xmax = 290.18
+			text = ""
+		intervals [145]:
+			xmin = 290.18
+			xmax = 290.78
+			text = "sempre acaba"
+		intervals [146]:
+			xmin = 290.78
+			xmax = 294.63
+			text = "bem né porque o cliente vê ali que eu não não não tenho não"
+		intervals [147]:
+			xmin = 294.63
+			xmax = 295.27
+			text = "..."
+		intervals [148]:
+			xmin = 295.27
+			xmax = 301.93
+			text = "tenho experiência no que eu estou eu tipo em treinamento alguma coisa assim mas agora já está mais já está mais normal é mais comum"
+		intervals [149]:
+			xmin = 301.93
+			xmax = 304.3
+			text = ""
+		intervals [150]:
+			xmin = 304.3
+			xmax = 304.84
+			text = "sou casada"
+		intervals [151]:
+			xmin = 304.84
+			xmax = 305.18
+			text = "..."
+		intervals [152]:
+			xmin = 305.18
+			xmax = 306.14
+			text = "tem seis meses"
+		intervals [153]:
+			xmin = 306.14
+			xmax = 306.63
+			text = "..."
+		intervals [154]:
+			xmin = 306.63
+			xmax = 307.33
+			text = ""
+		intervals [155]:
+			xmin = 307.33
+			xmax = 307.66
+			text = "é [J]"
+		intervals [156]:
+			xmin = 307.66
+			xmax = 308.23
+			text = "[F]"
+		intervals [157]:
+			xmin = 308.23
+			xmax = 309.18
+			text = ""
+		intervals [158]:
+			xmin = 309.18
+			xmax = 310.42
+			text = "ele trabalhava no prédio"
+		intervals [159]:
+			xmin = 310.42
+			xmax = 311.11
+			text = "..."
+		intervals [160]:
+			xmin = 311.11
+			xmax = 312.73
+			text = "onde eu sempre trabalhei"
+		intervals [161]:
+			xmin = 312.73
+			xmax = 313.61
+			text = "..."
+		intervals [162]:
+			xmin = 313.61
+			xmax = 314.32
+			text = "e"
+		intervals [163]:
+			xmin = 314.32
+			xmax = 314.79
+			text = "..."
+		intervals [164]:
+			xmin = 314.79
+			xmax = 316.48
+			text = "aí no início eu não"
+		intervals [165]:
+			xmin = 316.48
+			xmax = 316.86
+			text = "..."
+		intervals [166]:
+			xmin = 316.86
+			xmax = 324.38
+			text = "eu não gostava muito da ideia de namorar ele porque pelo fato de a gente ser tão próximo né trabalhar os dois no mesmo lugar mas aí foi indo"
+		intervals [167]:
+			xmin = 324.38
+			xmax = 325.25
+			text = "foi indo até quando"
+		intervals [168]:
+			xmin = 325.25
+			xmax = 326.15
+			text = "..."
+		intervals [169]:
+			xmin = 326.15
+			xmax = 332.37
+			text = "não deu mais aí a gente resolveu namorar e e passamos quase dois anos namorando e depois a gente foi morar junto"
+		intervals [170]:
+			xmin = 332.37
+			xmax = 340.35
+			text = ""
+		intervals [171]:
+			xmin = 340.35
+			xmax = 341.08
+			text = "não lá"
+		intervals [172]:
+			xmin = 341.08
+			xmax = 341.78
+			text = "..."
+		intervals [173]:
+			xmin = 341.78
+			xmax = 343.5
+			text = "tive poucos namorados lá"
+		intervals [174]:
+			xmin = 343.5
+			xmax = 344.38
+			text = "..."
+		intervals [175]:
+			xmin = 344.38
+			xmax = 345.19
+			text = "é"
+		intervals [176]:
+			xmin = 345.19
+			xmax = 347.1
+			text = "porque lá a gente não saía muito não tinha como"
+		intervals [177]:
+			xmin = 347.1
+			xmax = 347.92
+			text = "sair"
+		intervals [178]:
+			xmin = 347.92
+			xmax = 348.23
+			text = "..."
+		intervals [179]:
+			xmin = 348.23
+			xmax = 348.54
+			text = "assim"
+		intervals [180]:
+			xmin = 348.54
+			xmax = 349.28
+			text = "..."
+		intervals [181]:
+			xmin = 349.28
+			xmax = 349.42
+			text = "né"
+		intervals [182]:
+			xmin = 349.42
+			xmax = 349.93
+			text = "..."
+		intervals [183]:
+			xmin = 349.93
+			xmax = 351.87
+			text = "foi foram poucos namorados né"
+		intervals [184]:
+			xmin = 351.87
+			xmax = 352.28
+			text = "..."
+		intervals [185]:
+			xmin = 352.28
+			xmax = 353.65
+			text = "sem nada de interessante"
+		intervals [186]:
+			xmin = 353.65
+			xmax = 356.95
+			text = ""
+		intervals [187]:
+			xmin = 356.95
+			xmax = 357.27
+			text = "ah"
+		intervals [188]:
+			xmin = 357.27
+			xmax = 357.64
+			text = "..."
+		intervals [189]:
+			xmin = 357.64
+			xmax = 358.25
+			text = "ia a algumas"
+		intervals [190]:
+			xmin = 358.25
+			xmax = 361.14
+			text = "festas quando os pais deixavam né mas eram"
+		intervals [191]:
+			xmin = 361.14
+			xmax = 362.29
+			text = "poucas festas"
+		intervals [192]:
+			xmin = 362.29
+			xmax = 363.91
+			text = ""
+		intervals [193]:
+			xmin = 363.91
+			xmax = 367.85
+			text = "ah era tipo as as bandinhas mesmo dos locais"
+		intervals [194]:
+			xmin = 367.85
+			xmax = 368.27
+			text = "..."
+		intervals [195]:
+			xmin = 368.27
+			xmax = 370.07
+			text = "que faziam serestas"
+		intervals [196]:
+			xmin = 370.07
+			xmax = 370.37
+			text = "..."
+		intervals [197]:
+			xmin = 370.37
+			xmax = 374.57
+			text = "algum forró alguma coisa assim aí a gente ia mas aí quando dava para ir quando os pais deixavam"
+		intervals [198]:
+			xmin = 374.57
+			xmax = 375.81
+			text = ""
+		intervals [199]:
+			xmin = 375.81
+			xmax = 376.01
+			text = "não"
+		intervals [200]:
+			xmin = 376.01
+			xmax = 376.58
+			text = ""
+		intervals [201]:
+			xmin = 376.58
+			xmax = 376.86
+			text = "não"
+		intervals [202]:
+			xmin = 376.86
+			xmax = 377.35
+			text = "de jeito"
+		intervals [203]:
+			xmin = 377.35
+			xmax = 377.55
+			text = "nenhum"
+		intervals [204]:
+			xmin = 377.55
+			xmax = 378.19
+			text = ""
+		intervals [205]:
+			xmin = 378.19
+			xmax = 379.62
+			text = "eu saía mais agora"
+		intervals [206]:
+			xmin = 379.62
+			xmax = 380.1
+			text = "..."
+		intervals [207]:
+			xmin = 380.1
+			xmax = 383.77
+			text = "agora eu também não sinto falta de de sair da forma que eu saía antes"
+		intervals [208]:
+			xmin = 383.77
+			xmax = 384.38
+			text = "..."
+		intervals [209]:
+			xmin = 384.38
+			xmax = 388.53
+			text = "né que a gente sempre ia assim no salão essas coisas agora eu não vou mais nem tenho muita"
+		intervals [210]:
+			xmin = 388.53
+			xmax = 389.29
+			text = "falta hum"
+		intervals [211]:
+			xmin = 389.29
+			xmax = 390.24
+			text = "não eu não sinto falta"
+		intervals [212]:
+			xmin = 390.24
+			xmax = 395.05
+			text = ""
+		intervals [213]:
+			xmin = 395.05
+			xmax = 395.3
+			text = "uhum"
+		intervals [214]:
+			xmin = 395.3
+			xmax = 400.93
+			text = ""
+		intervals [215]:
+			xmin = 400.93
+			xmax = 401.08
+			text = "hum ai"
+		intervals [216]:
+			xmin = 401.08
+			xmax = 401.83
+			text = "..."
+		intervals [217]:
+			xmin = 401.83
+			xmax = 402.77
+			text = "não sei explicar"
+		intervals [218]:
+			xmin = 402.77
+			xmax = 403.2
+			text = "..."
+		intervals [219]:
+			xmin = 403.2
+			xmax = 409.25
+			text = ""
+		intervals [220]:
+			xmin = 409.25
+			xmax = 409.64
+			text = "hum"
+		intervals [221]:
+			xmin = 409.64
+			xmax = 411.04
+			text = "..."
+		intervals [222]:
+			xmin = 411.04
+			xmax = 411.69
+			text = "ai não sei"
+		intervals [223]:
+			xmin = 411.69
+			xmax = 412.72
+			text = "..."
+		intervals [224]:
+			xmin = 412.72
+			xmax = 418.09
+			text = ""
+		intervals [225]:
+			xmin = 418.09
+			xmax = 418.34
+			text = "não"
+		intervals [226]:
+			xmin = 418.34
+			xmax = 420.23
+			text = "..."
+		intervals [227]:
+			xmin = 420.23
+			xmax = 421.24
+			text = ""
+		intervals [228]:
+			xmin = 421.24
+			xmax = 423.34
+			text = "não mo só um só o meu irmão"
+		intervals [229]:
+			xmin = 423.34
+			xmax = 424.0
+			text = "..."
+		intervals [230]:
+			xmin = 424.0
+			xmax = 430.43
+			text = "o o que é irmão de pai e mãe que ele mora aqui é e a gente morou um tempo junto e tudo mais mas a gente sempre brigamos muito aí"
+		intervals [231]:
+			xmin = 430.43
+			xmax = 431.22
+			text = "..."
+		intervals [232]:
+			xmin = 431.22
+			xmax = 435.06
+			text = "a gente sempre às vezes morava junto mas separava aí depois aí"
+		intervals [233]:
+			xmin = 435.06
+			xmax = 435.53
+			text = "..."
+		intervals [234]:
+			xmin = 435.53
+			xmax = 439.45
+			text = "depois que eu casei pronto aí só de vez em quando que ele vai em casa a gente tem um pouco de contato"
+		intervals [235]:
+			xmin = 439.45
+			xmax = 442.97
+			text = ""
+		intervals [236]:
+			xmin = 442.97
+			xmax = 443.91
+			text = "hum de comprar minha"
+		intervals [237]:
+			xmin = 443.91
+			xmax = 444.37
+			text = "casa"
+		intervals [238]:
+			xmin = 444.37
+			xmax = 444.69
+			text = "..."
+		intervals [239]:
+			xmin = 444.69
+			xmax = 445.7
+			text = ""
+		intervals [240]:
+			xmin = 445.7
+			xmax = 446.91
+			text = "é e aqui né porque"
+		intervals [241]:
+			xmin = 446.91
+			xmax = 447.57
+			text = "..."
+		intervals [242]:
+			xmin = 447.57
+			xmax = 448.91
+			text = "todo mundo que eu conheço"
+		intervals [243]:
+			xmin = 448.91
+			xmax = 449.28
+			text = "..."
+		intervals [244]:
+			xmin = 449.28
+			xmax = 450.27
+			text = "é"
+		intervals [245]:
+			xmin = 450.27
+			xmax = 451.08
+			text = "faz"
+		intervals [246]:
+			xmin = 451.08
+			xmax = 456.18
+			text = "tudo que pensa é comprar alguma coisa no norte mas eu não eu falo não eu tenho que comprar minha casa aqui porque se eu gosto daqui eu"
+		intervals [247]:
+			xmin = 456.18
+			xmax = 456.68
+			text = "quero morar aqui"
+		intervals [248]:
+			xmin = 456.68
+			xmax = 458.2
+			text = ""
+		intervals [249]:
+			xmin = 458.2
+			xmax = 460.05
+			text = "não só se não tiver mais jeito de eu ficar"
+		intervals [250]:
+			xmin = 460.05
+			xmax = 461.62
+			text = "..."
+		intervals [251]:
+			xmin = 461.62
+			xmax = 461.71
+			text = "aqui"
+		intervals [252]:
+			xmin = 461.71
+			xmax = 465.47
+			text = ""
+		intervals [253]:
+			xmin = 465.47
+			xmax = 465.56
+			text = "bom"
+		intervals [254]:
+			xmin = 465.56
+			xmax = 466.22
+			text = "..."
+		intervals [255]:
+			xmin = 466.22
+			xmax = 467.25
+			text = "bom é porque eu"
+		intervals [256]:
+			xmin = 467.25
+			xmax = 467.56
+			text = "..."
+		intervals [257]:
+			xmin = 467.56
+			xmax = 469.2
+			text = "não sei é e assim"
+		intervals [258]:
+			xmin = 469.2
+			xmax = 469.64
+			text = "..."
+		intervals [259]:
+			xmin = 469.64
+			xmax = 469.67
+			text = "é"
+		intervals [260]:
+			xmin = 469.67
+			xmax = 470.56
+			text = "..."
+		intervals [261]:
+			xmin = 470.56
+			xmax = 474.33
+			text = "como é que se diz eu nunca sei falar assim o que"
+		intervals [262]:
+			xmin = 474.33
+			xmax = 474.97
+			text = "..."
+		intervals [263]:
+			xmin = 474.97
+			xmax = 477.98
+			text = "não sei expor as coisas né sempre é assim aí mas"
+		intervals [264]:
+			xmin = 477.98
+			xmax = 479.57
+			text = "..."
+		intervals [265]:
+			xmin = 479.57
+			xmax = 479.98
+			text = "é legal"
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 479.98
+		intervals: size = 297
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.11
+			text = "aí eu fui trabalhar nessa casa que eu saí para trabalhar no café né mas mesmo assim eu continuo lá trabalho de manhã lá e à tarde no café"
+		intervals [2]:
+			xmin = 6.11
+			xmax = 8.01
+			text = ""
+		intervals [3]:
+			xmin = 8.01
+			xmax = 9.78
+			text = "sim também mas eu"
+		intervals [4]:
+			xmin = 9.78
+			xmax = 10.04
+			text = "..."
+		intervals [5]:
+			xmin = 10.04
+			xmax = 13.34
+			text = "só só fazia descer o elevador porque eles moram lá em cima"
+		intervals [6]:
+			xmin = 13.34
+			xmax = 14.14
+			text = "e eu descia"
+		intervals [7]:
+			xmin = 14.14
+			xmax = 15.17
+			text = "..."
+		intervals [8]:
+			xmin = 15.17
+			xmax = 17.41
+			text = "e aí trabalhava e à tarde voltava de novo"
+		intervals [9]:
+			xmin = 17.41
+			xmax = 18.2
+			text = "..."
+		intervals [10]:
+			xmin = 18.2
+			xmax = 19.11
+			text = ""
+		intervals [11]:
+			xmin = 19.11
+			xmax = 19.59
+			text = "continuo"
+		intervals [12]:
+			xmin = 19.59
+			xmax = 19.93
+			text = "..."
+		intervals [13]:
+			xmin = 19.93
+			xmax = 21.17
+			text = "tem cinco anos que eu estou"
+		intervals [14]:
+			xmin = 21.17
+			xmax = 22.21
+			text = "..."
+		intervals [15]:
+			xmin = 22.21
+			xmax = 22.28
+			text = "lá"
+		intervals [16]:
+			xmin = 22.28
+			xmax = 22.78
+			text = "..."
+		intervals [17]:
+			xmin = 22.78
+			xmax = 27.75
+			text = ""
+		intervals [18]:
+			xmin = 27.75
+			xmax = 28.2
+			text = "aí eu"
+		intervals [19]:
+			xmin = 28.2
+			xmax = 32.9
+			text = "fazia o curso no senac de hotelaria e todo dia eu ia no quadro de empregos aí eu vi o"
+		intervals [20]:
+			xmin = 32.9
+			xmax = 33.04
+			text = "..."
+		intervals [21]:
+			xmin = 33.04
+			xmax = 35.05
+			text = "o anúncio né do coa café"
+		intervals [22]:
+			xmin = 35.05
+			xmax = 35.51
+			text = "..."
+		intervals [23]:
+			xmin = 35.51
+			xmax = 35.84
+			text = "eu mandei"
+		intervals [24]:
+			xmin = 35.84
+			xmax = 43.71
+			text = "um email e a [M] me retornou aí quando ela me retornou eu fiz essa entrevista sem falar para a minha patroa né quando ela me chamou aí a minha patroa estava viajando"
+		intervals [25]:
+			xmin = 43.71
+			xmax = 44.76
+			text = "..."
+		intervals [26]:
+			xmin = 44.76
+			xmax = 45.06
+			text = "e"
+		intervals [27]:
+			xmin = 45.06
+			xmax = 50.79
+			text = "aí eu peguei liguei para ela e falei né nas minhas folgas nas horas que eu estiver livre eu venho e aí ela aceitou e"
+		intervals [28]:
+			xmin = 50.79
+			xmax = 51.12
+			text = "..."
+		intervals [29]:
+			xmin = 51.12
+			xmax = 51.64
+			text = "eu estou indo"
+		intervals [30]:
+			xmin = 51.64
+			xmax = 53.53
+			text = ""
+		intervals [31]:
+			xmin = 53.53
+			xmax = 53.89
+			text = "fiz"
+		intervals [32]:
+			xmin = 53.89
+			xmax = 55.45
+			text = ""
+		intervals [33]:
+			xmin = 55.45
+			xmax = 58.92
+			text = "eu comecei em agosto do ano passado então agosto de dois mil e sete a"
+		intervals [34]:
+			xmin = 58.92
+			xmax = 59.04
+			text = "..."
+		intervals [35]:
+			xmin = 59.04
+			xmax = 60.14
+			text = "agosto de dois mil e oito"
+		intervals [36]:
+			xmin = 60.14
+			xmax = 60.77
+			text = "..."
+		intervals [37]:
+			xmin = 60.77
+			xmax = 62.44
+			text = ""
+		intervals [38]:
+			xmin = 62.44
+			xmax = 63.97
+			text = "em muitas coisas porque"
+		intervals [39]:
+			xmin = 63.97
+			xmax = 64.63
+			text = "..."
+		intervals [40]:
+			xmin = 64.63
+			xmax = 70.1
+			text = "eu acho que por exemplo no café eu só entrei por causa do curso porque até então eu ia em todos os lugares eu"
+		intervals [41]:
+			xmin = 70.1
+			xmax = 70.38
+			text = "..."
+		intervals [42]:
+			xmin = 70.38
+			xmax = 72.77
+			text = "por eu não ter experiência no mercado de trabalho é"
+		intervals [43]:
+			xmin = 72.77
+			xmax = 74.0
+			text = "..."
+		intervals [44]:
+			xmin = 74.0
+			xmax = 75.18
+			text = "aí eu nunca arrumava uma"
+		intervals [45]:
+			xmin = 75.18
+			xmax = 75.67
+			text = "chance"
+		intervals [46]:
+			xmin = 75.67
+			xmax = 76.93
+			text = ""
+		intervals [47]:
+			xmin = 76.93
+			xmax = 78.05
+			text = "porque ah eu"
+		intervals [48]:
+			xmin = 78.05
+			xmax = 78.39
+			text = "..."
+		intervals [49]:
+			xmin = 78.39
+			xmax = 82.9
+			text = "achei que eu ia me adaptar mais rápido pelo fato de já eu trabalhar tanto tempo ni ni"
+		intervals [50]:
+			xmin = 82.9
+			xmax = 83.25
+			text = "em"
+		intervals [51]:
+			xmin = 83.25
+			xmax = 84.21
+			text = "casa de família"
+		intervals [52]:
+			xmin = 84.21
+			xmax = 84.75
+			text = "..."
+		intervals [53]:
+			xmin = 84.75
+			xmax = 85.61
+			text = "e"
+		intervals [54]:
+			xmin = 85.61
+			xmax = 85.85
+			text = "e"
+		intervals [55]:
+			xmin = 85.85
+			xmax = 88.64
+			text = "eu e eu gostava aí eu achei ah eu acho que"
+		intervals [56]:
+			xmin = 88.64
+			xmax = 89.12
+			text = "..."
+		intervals [57]:
+			xmin = 89.12
+			xmax = 90.64
+			text = "vai ser mais fácil para mim como"
+		intervals [58]:
+			xmin = 90.64
+			xmax = 91.03
+			text = "..."
+		intervals [59]:
+			xmin = 91.03
+			xmax = 95.08
+			text = "ele tem vários leques né tipo assim você pode trabalhar em várias áreas"
+		intervals [60]:
+			xmin = 95.08
+			xmax = 95.76
+			text = "..."
+		intervals [61]:
+			xmin = 95.76
+			xmax = 96.49
+			text = "sei lá"
+		intervals [62]:
+			xmin = 96.49
+			xmax = 96.96
+			text = "..."
+		intervals [63]:
+			xmin = 96.96
+			xmax = 98.63
+			text = "recepção é"
+		intervals [64]:
+			xmin = 98.63
+			xmax = 99.2
+			text = "..."
+		intervals [65]:
+			xmin = 99.2
+			xmax = 99.72
+			text = "no o"
+		intervals [66]:
+			xmin = 99.72
+			xmax = 100.11
+			text = "..."
+		intervals [67]:
+			xmin = 100.11
+			xmax = 101.86
+			text = "tipo os o trabalho mesmo"
+		intervals [68]:
+			xmin = 101.86
+			xmax = 102.57
+			text = "..."
+		intervals [69]:
+			xmin = 102.57
+			xmax = 104.59
+			text = "de camareira essas coisas também tem"
+		intervals [70]:
+			xmin = 104.59
+			xmax = 107.55
+			text = "a área de de alimentos e bebidas né que é a área que eu estou"
+		intervals [71]:
+			xmin = 107.55
+			xmax = 108.52
+			text = "..."
+		intervals [72]:
+			xmin = 108.52
+			xmax = 109.43
+			text = "aí eu achei melhor"
+		intervals [73]:
+			xmin = 109.43
+			xmax = 112.67
+			text = ""
+		intervals [74]:
+			xmin = 112.67
+			xmax = 114.36
+			text = "lembro a primeira entrevista foi"
+		intervals [75]:
+			xmin = 114.36
+			xmax = 115.08
+			text = "..."
+		intervals [76]:
+			xmin = 115.08
+			xmax = 117.98
+			text = "assim é foi com foi com o [M] que"
+		intervals [77]:
+			xmin = 117.98
+			xmax = 118.22
+			text = "é"
+		intervals [78]:
+			xmin = 118.22
+			xmax = 120.11
+			text = "que é um amigo da [M] que estava ajudando"
+		intervals [79]:
+			xmin = 120.11
+			xmax = 120.64
+			text = "..."
+		intervals [80]:
+			xmin = 120.64
+			xmax = 122.98
+			text = "ela nos nos treinamentos né e"
+		intervals [81]:
+			xmin = 122.98
+			xmax = 128.29
+			text = "nas entrevistas também e aí quando eu cheguei assim nossa parecia eu estava muito nervosa eu achei quando eu saí de lá eu disse"
+		intervals [82]:
+			xmin = 128.29
+			xmax = 128.84
+			text = "..."
+		intervals [83]:
+			xmin = 128.84
+			xmax = 136.55
+			text = "não isso não é para mim eu achei que eu não tinha conseguido aí no outro dia ela ligou para mim para eu fazer uma própri uma próxima entrevista na outra semana"
+		intervals [84]:
+			xmin = 136.55
+			xmax = 137.23
+			text = "..."
+		intervals [85]:
+			xmin = 137.23
+			xmax = 140.44
+			text = "aí na segunda entrevista eu ainda fiquei é meio assim eu digo"
+		intervals [86]:
+			xmin = 140.44
+			xmax = 141.33
+			text = "..."
+		intervals [87]:
+			xmin = 141.33
+			xmax = 142.97
+			text = "não sei se vai dar certo"
+		intervals [88]:
+			xmin = 142.97
+			xmax = 143.58
+			text = "..."
+		intervals [89]:
+			xmin = 143.58
+			xmax = 149.57
+			text = "ainda fiquei meio indecisa né porque mesmo porque era uma das minhas primeiras entrevistas porque eu nunca saí para procurar outro emprego"
+		intervals [90]:
+			xmin = 149.57
+			xmax = 149.69
+			text = "..."
+		intervals [91]:
+			xmin = 149.69
+			xmax = 152.17
+			text = ""
+		intervals [92]:
+			xmin = 152.17
+			xmax = 152.34
+			text = "não"
+		intervals [93]:
+			xmin = 152.34
+			xmax = 153.5
+			text = "só eu e a [M]"
+		intervals [94]:
+			xmin = 153.5
+			xmax = 153.77
+			text = ""
+		intervals [95]:
+			xmin = 153.77
+			xmax = 155.79
+			text = "a segunda entrevista né porque a outra"
+		intervals [96]:
+			xmin = 155.79
+			xmax = 156.45
+			text = "..."
+		intervals [97]:
+			xmin = 156.45
+			xmax = 158.34
+			text = "a primeira só era eu e o [M]"
+		intervals [98]:
+			xmin = 158.34
+			xmax = 159.91
+			text = "..."
+		intervals [99]:
+			xmin = 159.91
+			xmax = 160.3
+			text = "foram"
+		intervals [100]:
+			xmin = 160.3
+			xmax = 161.51
+			text = "entrevistas simples mas"
+		intervals [101]:
+			xmin = 161.51
+			xmax = 161.96
+			text = "eu"
+		intervals [102]:
+			xmin = 161.96
+			xmax = 162.95
+			text = "eu que fiquei nervosa"
+		intervals [103]:
+			xmin = 162.95
+			xmax = 164.55
+			text = ""
+		intervals [104]:
+			xmin = 164.55
+			xmax = 165.44
+			text = "ela porque"
+		intervals [105]:
+			xmin = 165.44
+			xmax = 165.68
+			text = "..."
+		intervals [106]:
+			xmin = 165.68
+			xmax = 166.27
+			text = "na verdade lá"
+		intervals [107]:
+			xmin = 166.27
+			xmax = 172.11
+			text = "a gente é é tipo multifuncional né a gente faz várias coisas até eu gosto de fazer várias coisas"
+		intervals [108]:
+			xmin = 172.11
+			xmax = 172.7
+			text = "..."
+		intervals [109]:
+			xmin = 172.7
+			xmax = 179.04
+			text = "mesmo e ela fa quando ela me chama é auxiliar de barista né que acho que é a mesma coisa de balconista"
+		intervals [110]:
+			xmin = 179.04
+			xmax = 179.53
+			text = "..."
+		intervals [111]:
+			xmin = 179.53
+			xmax = 180.19
+			text = "que é o que eu"
+		intervals [112]:
+			xmin = 180.19
+			xmax = 180.73
+			text = "..."
+		intervals [113]:
+			xmin = 180.73
+			xmax = 181.66
+			text = "eu estou registrada"
+		intervals [114]:
+			xmin = 181.66
+			xmax = 186.09
+			text = ""
+		intervals [115]:
+			xmin = 186.09
+			xmax = 186.19
+			text = "do"
+		intervals [116]:
+			xmin = 186.19
+			xmax = 186.65
+			text = "café"
+		intervals [117]:
+			xmin = 186.65
+			xmax = 186.82
+			text = "..."
+		intervals [118]:
+			xmin = 186.82
+			xmax = 187.78
+			text = ""
+		intervals [119]:
+			xmin = 187.78
+			xmax = 188.6
+			text = "lembro"
+		intervals [120]:
+			xmin = 188.6
+			xmax = 188.97
+			text = "..."
+		intervals [121]:
+			xmin = 188.97
+			xmax = 190.96
+			text = "foi a o dia da inauguração"
+		intervals [122]:
+			xmin = 190.96
+			xmax = 192.03
+			text = "..."
+		intervals [123]:
+			xmin = 192.03
+			xmax = 196.64
+			text = "ah mas a gente já estava acostumado que a gente ia muito fazer o treinamento as é"
+		intervals [124]:
+			xmin = 196.64
+			xmax = 197.54
+			text = "..."
+		intervals [125]:
+			xmin = 197.54
+			xmax = 199.58
+			text = "os os testes das bebidas"
+		intervals [126]:
+			xmin = 199.58
+			xmax = 199.7
+			text = "..."
+		intervals [127]:
+			xmin = 199.7
+			xmax = 208.42
+			text = "a gente ia muito fazer então a gente já estava acostumado acho que para as meninas do salão acho que foi mais difícil né que elas tinham que atender o cliente e para mim quando a [M] por exemplo diz assim"
+		intervals [128]:
+			xmin = 208.42
+			xmax = 208.77
+			text = "..."
+		intervals [129]:
+			xmin = 208.77
+			xmax = 215.69
+			text = "agora você tem que ir no salão atender algum cliente que faltou alguma menina nossa quando eu eu penso assim estar de frente para o cliente eu não"
+		intervals [130]:
+			xmin = 215.69
+			xmax = 216.6
+			text = "..."
+		intervals [131]:
+			xmin = 216.6
+			xmax = 216.97
+			text = "eu acho"
+		intervals [132]:
+			xmin = 216.97
+			xmax = 224.75
+			text = "que não vou conseguir mas eu sempre consigo mas eu não gosto muito mas acho que para elas foram bem difícil porque era o primeiro dia né era um monte de gente"
+		intervals [133]:
+			xmin = 224.75
+			xmax = 225.36
+			text = "para atender"
+		intervals [134]:
+			xmin = 225.36
+			xmax = 225.7
+			text = "..."
+		intervals [135]:
+			xmin = 225.7
+			xmax = 226.35
+			text = "mas foi tranquilo"
+		intervals [136]:
+			xmin = 226.35
+			xmax = 234.61
+			text = ""
+		intervals [137]:
+			xmin = 234.61
+			xmax = 247.22
+			text = "então porque a gente fica no bar né então a gente já fez um prépreparo tipo alguns sucos deu para preparar antes e aí a gente só servia no primeiro dia e os outros dias assim para mim o primeiro dia mesmo é aquele dia que eu ficar"
+		intervals [138]:
+			xmin = 247.22
+			xmax = 247.72
+			text = "só"
+		intervals [139]:
+			xmin = 247.72
+			xmax = 248.94
+			text = "sem um barista aí"
+		intervals [140]:
+			xmin = 248.94
+			xmax = 249.34
+			text = "..."
+		intervals [141]:
+			xmin = 249.34
+			xmax = 256.09
+			text = "eu tenho tudo eu tenho medo de fazer e errar aí eu ficava eu fico bem nervosa até hoje se alguma bebida que eu não tenho muito"
+		intervals [142]:
+			xmin = 256.09
+			xmax = 256.92
+			text = "..."
+		intervals [143]:
+			xmin = 256.92
+			xmax = 257.42
+			text = "assim"
+		intervals [144]:
+			xmin = 257.42
+			xmax = 258.05
+			text = "..."
+		intervals [145]:
+			xmin = 258.05
+			xmax = 262.45
+			text = "que eu não tenho o costume de fazer quando alguém pede ainda eu fico nervosa de errar"
+		intervals [146]:
+			xmin = 262.45
+			xmax = 267.84
+			text = ""
+		intervals [147]:
+			xmin = 267.84
+			xmax = 268.06
+			text = "nossa"
+		intervals [148]:
+			xmin = 268.06
+			xmax = 268.71
+			text = "..."
+		intervals [149]:
+			xmin = 268.71
+			xmax = 270.97
+			text = "é bem difícil até hoje ainda é bem difícil"
+		intervals [150]:
+			xmin = 270.97
+			xmax = 276.29
+			text = ""
+		intervals [151]:
+			xmin = 276.29
+			xmax = 281.72
+			text = "que eu às vezes que eu me atrapalho tem uma vez mesmo que eu me atrapalhei toda não sabia nem o que perguntar para o cliente nem o"
+		intervals [152]:
+			xmin = 281.72
+			xmax = 282.4
+			text = "que explicar"
+		intervals [153]:
+			xmin = 282.4
+			xmax = 282.69
+			text = "e"
+		intervals [154]:
+			xmin = 282.69
+			xmax = 285.48
+			text = "e ima eu ficava imaginando se ele me perguntar alguma coisa que eu não souber"
+		intervals [155]:
+			xmin = 285.48
+			xmax = 287.53
+			text = "..."
+		intervals [156]:
+			xmin = 287.53
+			xmax = 289.01
+			text = "aconteceu várias vezes"
+		intervals [157]:
+			xmin = 289.01
+			xmax = 289.1
+			text = "isso"
+		intervals [158]:
+			xmin = 289.1
+			xmax = 290.18
+			text = ""
+		intervals [159]:
+			xmin = 290.18
+			xmax = 290.78
+			text = "sempre acaba"
+		intervals [160]:
+			xmin = 290.78
+			xmax = 294.63
+			text = "bem né porque o cliente vê ali que eu não não não tenho não"
+		intervals [161]:
+			xmin = 294.63
+			xmax = 295.27
+			text = "..."
+		intervals [162]:
+			xmin = 295.27
+			xmax = 300.23
+			text = "tenho experiência no que eu estou eu tipo em treinamento alguma coisa assim mas agora já está mais"
+		intervals [163]:
+			xmin = 300.23
+			xmax = 300.47
+			text = "..."
+		intervals [164]:
+			xmin = 300.47
+			xmax = 301.93
+			text = "já está mais normal é mais comum"
+		intervals [165]:
+			xmin = 301.93
+			xmax = 304.3
+			text = ""
+		intervals [166]:
+			xmin = 304.3
+			xmax = 304.84
+			text = "sou casada"
+		intervals [167]:
+			xmin = 304.84
+			xmax = 305.18
+			text = "..."
+		intervals [168]:
+			xmin = 305.18
+			xmax = 306.14
+			text = "tem seis meses"
+		intervals [169]:
+			xmin = 306.14
+			xmax = 306.63
+			text = "..."
+		intervals [170]:
+			xmin = 306.63
+			xmax = 307.33
+			text = ""
+		intervals [171]:
+			xmin = 307.33
+			xmax = 307.66
+			text = "é [J]"
+		intervals [172]:
+			xmin = 307.66
+			xmax = 308.23
+			text = "[F]"
+		intervals [173]:
+			xmin = 308.23
+			xmax = 309.18
+			text = ""
+		intervals [174]:
+			xmin = 309.18
+			xmax = 310.42
+			text = "ele trabalhava no prédio"
+		intervals [175]:
+			xmin = 310.42
+			xmax = 311.11
+			text = "..."
+		intervals [176]:
+			xmin = 311.11
+			xmax = 312.73
+			text = "onde eu sempre trabalhei"
+		intervals [177]:
+			xmin = 312.73
+			xmax = 313.61
+			text = "..."
+		intervals [178]:
+			xmin = 313.61
+			xmax = 314.32
+			text = "e"
+		intervals [179]:
+			xmin = 314.32
+			xmax = 314.79
+			text = "..."
+		intervals [180]:
+			xmin = 314.79
+			xmax = 316.48
+			text = "aí no início eu não"
+		intervals [181]:
+			xmin = 316.48
+			xmax = 316.86
+			text = "..."
+		intervals [182]:
+			xmin = 316.86
+			xmax = 324.38
+			text = "eu não gostava muito da ideia de namorar ele porque pelo fato de a gente ser tão próximo né trabalhar os dois no mesmo lugar mas aí foi indo"
+		intervals [183]:
+			xmin = 324.38
+			xmax = 325.25
+			text = "foi indo até quando"
+		intervals [184]:
+			xmin = 325.25
+			xmax = 326.15
+			text = "..."
+		intervals [185]:
+			xmin = 326.15
+			xmax = 332.37
+			text = "não deu mais aí a gente resolveu namorar e e passamos quase dois anos namorando e depois a gente foi morar junto"
+		intervals [186]:
+			xmin = 332.37
+			xmax = 340.35
+			text = ""
+		intervals [187]:
+			xmin = 340.35
+			xmax = 341.08
+			text = "não lá"
+		intervals [188]:
+			xmin = 341.08
+			xmax = 341.78
+			text = "..."
+		intervals [189]:
+			xmin = 341.78
+			xmax = 343.5
+			text = "tive poucos namorados lá"
+		intervals [190]:
+			xmin = 343.5
+			xmax = 344.38
+			text = "..."
+		intervals [191]:
+			xmin = 344.38
+			xmax = 344.91
+			text = "é"
+		intervals [192]:
+			xmin = 344.91
+			xmax = 345.19
+			text = "..."
+		intervals [193]:
+			xmin = 345.19
+			xmax = 347.1
+			text = "porque lá a gente não saía muito não tinha como"
+		intervals [194]:
+			xmin = 347.1
+			xmax = 347.92
+			text = "sair"
+		intervals [195]:
+			xmin = 347.92
+			xmax = 348.23
+			text = "..."
+		intervals [196]:
+			xmin = 348.23
+			xmax = 348.54
+			text = "assim"
+		intervals [197]:
+			xmin = 348.54
+			xmax = 349.28
+			text = "..."
+		intervals [198]:
+			xmin = 349.28
+			xmax = 349.42
+			text = "né"
+		intervals [199]:
+			xmin = 349.42
+			xmax = 349.93
+			text = "..."
+		intervals [200]:
+			xmin = 349.93
+			xmax = 351.87
+			text = "foi foram poucos namorados né"
+		intervals [201]:
+			xmin = 351.87
+			xmax = 352.28
+			text = "..."
+		intervals [202]:
+			xmin = 352.28
+			xmax = 353.65
+			text = "sem nada de interessante"
+		intervals [203]:
+			xmin = 353.65
+			xmax = 356.95
+			text = ""
+		intervals [204]:
+			xmin = 356.95
+			xmax = 357.27
+			text = "ah"
+		intervals [205]:
+			xmin = 357.27
+			xmax = 357.64
+			text = "..."
+		intervals [206]:
+			xmin = 357.64
+			xmax = 358.25
+			text = "ia a algumas"
+		intervals [207]:
+			xmin = 358.25
+			xmax = 360.38
+			text = "festas quando os pais deixavam"
+		intervals [208]:
+			xmin = 360.38
+			xmax = 360.66
+			text = "..."
+		intervals [209]:
+			xmin = 360.66
+			xmax = 361.14
+			text = "né mas eram"
+		intervals [210]:
+			xmin = 361.14
+			xmax = 362.29
+			text = "poucas festas"
+		intervals [211]:
+			xmin = 362.29
+			xmax = 363.91
+			text = ""
+		intervals [212]:
+			xmin = 363.91
+			xmax = 364.72
+			text = "ah era"
+		intervals [213]:
+			xmin = 364.72
+			xmax = 365.01
+			text = "..."
+		intervals [214]:
+			xmin = 365.01
+			xmax = 367.85
+			text = "tipo as as bandinhas mesmo dos locais"
+		intervals [215]:
+			xmin = 367.85
+			xmax = 368.27
+			text = "..."
+		intervals [216]:
+			xmin = 368.27
+			xmax = 370.07
+			text = "que faziam serestas"
+		intervals [217]:
+			xmin = 370.07
+			xmax = 370.37
+			text = "..."
+		intervals [218]:
+			xmin = 370.37
+			xmax = 374.57
+			text = "algum forró alguma coisa assim aí a gente ia mas aí quando dava para ir quando os pais deixavam"
+		intervals [219]:
+			xmin = 374.57
+			xmax = 375.81
+			text = ""
+		intervals [220]:
+			xmin = 375.81
+			xmax = 376.01
+			text = "não"
+		intervals [221]:
+			xmin = 376.01
+			xmax = 376.14
+			text = "..."
+		intervals [222]:
+			xmin = 376.14
+			xmax = 376.86
+			text = ""
+		intervals [223]:
+			xmin = 376.86
+			xmax = 377.35
+			text = "não de jeito"
+		intervals [224]:
+			xmin = 377.35
+			xmax = 377.55
+			text = "nenhum"
+		intervals [225]:
+			xmin = 377.55
+			xmax = 377.66
+			text = "..."
+		intervals [226]:
+			xmin = 377.66
+			xmax = 378.19
+			text = ""
+		intervals [227]:
+			xmin = 378.19
+			xmax = 379.62
+			text = "eu saía mais agora"
+		intervals [228]:
+			xmin = 379.62
+			xmax = 380.1
+			text = "..."
+		intervals [229]:
+			xmin = 380.1
+			xmax = 383.77
+			text = "agora eu também não sinto falta de de sair da forma que eu saía antes"
+		intervals [230]:
+			xmin = 383.77
+			xmax = 384.38
+			text = "..."
+		intervals [231]:
+			xmin = 384.38
+			xmax = 388.53
+			text = "né que a gente sempre ia assim no salão essas coisas agora eu não vou mais nem tenho muita"
+		intervals [232]:
+			xmin = 388.53
+			xmax = 389.29
+			text = "falta hum"
+		intervals [233]:
+			xmin = 389.29
+			xmax = 390.24
+			text = "não eu não sinto falta"
+		intervals [234]:
+			xmin = 390.24
+			xmax = 395.05
+			text = ""
+		intervals [235]:
+			xmin = 395.05
+			xmax = 395.3
+			text = "uhum"
+		intervals [236]:
+			xmin = 395.3
+			xmax = 400.93
+			text = ""
+		intervals [237]:
+			xmin = 400.93
+			xmax = 401.08
+			text = "hum ai"
+		intervals [238]:
+			xmin = 401.08
+			xmax = 401.83
+			text = "..."
+		intervals [239]:
+			xmin = 401.83
+			xmax = 402.77
+			text = "não sei explicar"
+		intervals [240]:
+			xmin = 402.77
+			xmax = 403.2
+			text = "..."
+		intervals [241]:
+			xmin = 403.2
+			xmax = 409.25
+			text = ""
+		intervals [242]:
+			xmin = 409.25
+			xmax = 409.64
+			text = "hum"
+		intervals [243]:
+			xmin = 409.64
+			xmax = 411.04
+			text = "..."
+		intervals [244]:
+			xmin = 411.04
+			xmax = 411.69
+			text = "ai não sei"
+		intervals [245]:
+			xmin = 411.69
+			xmax = 412.72
+			text = "..."
+		intervals [246]:
+			xmin = 412.72
+			xmax = 418.09
+			text = ""
+		intervals [247]:
+			xmin = 418.09
+			xmax = 418.34
+			text = "não"
+		intervals [248]:
+			xmin = 418.34
+			xmax = 420.23
+			text = "..."
+		intervals [249]:
+			xmin = 420.23
+			xmax = 421.4
+			text = ""
+		intervals [250]:
+			xmin = 421.4
+			xmax = 423.34
+			text = "não mo só um só o meu irmão"
+		intervals [251]:
+			xmin = 423.34
+			xmax = 424.0
+			text = "..."
+		intervals [252]:
+			xmin = 424.0
+			xmax = 424.89
+			text = "o o"
+		intervals [253]:
+			xmin = 424.89
+			xmax = 425.06
+			text = "..."
+		intervals [254]:
+			xmin = 425.06
+			xmax = 430.43
+			text = "que é irmão de pai e mãe que ele mora aqui é e a gente morou um tempo junto e tudo mais mas a gente sempre brigamos muito aí"
+		intervals [255]:
+			xmin = 430.43
+			xmax = 431.22
+			text = "..."
+		intervals [256]:
+			xmin = 431.22
+			xmax = 435.06
+			text = "a gente sempre às vezes morava junto mas separava aí depois aí"
+		intervals [257]:
+			xmin = 435.06
+			xmax = 435.53
+			text = "..."
+		intervals [258]:
+			xmin = 435.53
+			xmax = 439.45
+			text = "depois que eu casei pronto aí só de vez em quando que ele vai em casa a gente tem um pouco de contato"
+		intervals [259]:
+			xmin = 439.45
+			xmax = 439.59
+			text = "..."
+		intervals [260]:
+			xmin = 439.59
+			xmax = 442.97
+			text = ""
+		intervals [261]:
+			xmin = 442.97
+			xmax = 443.91
+			text = "hum de comprar minha"
+		intervals [262]:
+			xmin = 443.91
+			xmax = 444.37
+			text = "casa"
+		intervals [263]:
+			xmin = 444.37
+			xmax = 444.69
+			text = "..."
+		intervals [264]:
+			xmin = 444.69
+			xmax = 445.7
+			text = ""
+		intervals [265]:
+			xmin = 445.7
+			xmax = 446.91
+			text = "é e aqui né porque"
+		intervals [266]:
+			xmin = 446.91
+			xmax = 447.57
+			text = "..."
+		intervals [267]:
+			xmin = 447.57
+			xmax = 448.91
+			text = "todo mundo que eu conheço"
+		intervals [268]:
+			xmin = 448.91
+			xmax = 449.28
+			text = "..."
+		intervals [269]:
+			xmin = 449.28
+			xmax = 450.27
+			text = "é"
+		intervals [270]:
+			xmin = 450.27
+			xmax = 451.08
+			text = "faz"
+		intervals [271]:
+			xmin = 451.08
+			xmax = 456.18
+			text = "tudo que pensa é comprar alguma coisa no norte mas eu não eu falo não eu tenho que comprar minha casa aqui porque se eu gosto daqui eu"
+		intervals [272]:
+			xmin = 456.18
+			xmax = 456.68
+			text = "quero morar aqui"
+		intervals [273]:
+			xmin = 456.68
+			xmax = 458.2
+			text = ""
+		intervals [274]:
+			xmin = 458.2
+			xmax = 460.05
+			text = "não só se não tiver mais jeito de eu ficar"
+		intervals [275]:
+			xmin = 460.05
+			xmax = 461.62
+			text = "..."
+		intervals [276]:
+			xmin = 461.62
+			xmax = 461.71
+			text = "aqui"
+		intervals [277]:
+			xmin = 461.71
+			xmax = 461.98
+			text = "..."
+		intervals [278]:
+			xmin = 461.98
+			xmax = 465.47
+			text = ""
+		intervals [279]:
+			xmin = 465.47
+			xmax = 465.56
+			text = "bom"
+		intervals [280]:
+			xmin = 465.56
+			xmax = 466.22
+			text = "..."
+		intervals [281]:
+			xmin = 466.22
+			xmax = 466.62
+			text = "bom"
+		intervals [282]:
+			xmin = 466.62
+			xmax = 466.83
+			text = "..."
+		intervals [283]:
+			xmin = 466.83
+			xmax = 467.25
+			text = "é porque eu"
+		intervals [284]:
+			xmin = 467.25
+			xmax = 467.56
+			text = "..."
+		intervals [285]:
+			xmin = 467.56
+			xmax = 469.2
+			text = "não sei é e assim"
+		intervals [286]:
+			xmin = 469.2
+			xmax = 469.64
+			text = "..."
+		intervals [287]:
+			xmin = 469.64
+			xmax = 469.67
+			text = "é"
+		intervals [288]:
+			xmin = 469.67
+			xmax = 470.56
+			text = "..."
+		intervals [289]:
+			xmin = 470.56
+			xmax = 470.76
+			text = "como"
+		intervals [290]:
+			xmin = 470.76
+			xmax = 470.93
+			text = "..."
+		intervals [291]:
+			xmin = 470.93
+			xmax = 473.64
+			text = "é que se diz eu nunca sei falar assim o"
+		intervals [292]:
+			xmin = 473.64
+			xmax = 473.78
+			text = "..."
+		intervals [293]:
+			xmin = 473.78
+			xmax = 474.33
+			text = "que"
+		intervals [294]:
+			xmin = 474.33
+			xmax = 474.97
+			text = "..."
+		intervals [295]:
+			xmin = 474.97
+			xmax = 477.98
+			text = "não sei expor as coisas né sempre é assim aí mas"
+		intervals [296]:
+			xmin = 477.98
+			xmax = 479.57
+			text = "..."
+		intervals [297]:
+			xmin = 479.57
+			xmax = 479.98
+			text = "é legal"
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 479.98
+		intervals: size = 126
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.11
+			text = ""
+		intervals [2]:
+			xmin = 6.11
+			xmax = 8.01
+			text = "mas você não morava na na mesma casa que eles"
+		intervals [3]:
+			xmin = 8.01
+			xmax = 18.2
+			text = ""
+		intervals [4]:
+			xmin = 18.2
+			xmax = 19.11
+			text = "você continua nessa casa"
+		intervals [5]:
+			xmin = 19.11
+			xmax = 22.78
+			text = ""
+		intervals [6]:
+			xmin = 22.78
+			xmax = 23.1
+			text = "ta"
+		intervals [7]:
+			xmin = 23.1
+			xmax = 23.33
+			text = "e"
+		intervals [8]:
+			xmin = 23.33
+			xmax = 23.66
+			text = "..."
+		intervals [9]:
+			xmin = 23.66
+			xmax = 24.61
+			text = "e aí para entrar no no"
+		intervals [10]:
+			xmin = 24.61
+			xmax = 25.16
+			text = "café"
+		intervals [11]:
+			xmin = 25.16
+			xmax = 25.68
+			text = "..."
+		intervals [12]:
+			xmin = 25.68
+			xmax = 26.94
+			text = "como foi que você conseguiu"
+		intervals [13]:
+			xmin = 26.94
+			xmax = 27.27
+			text = "esse como"
+		intervals [14]:
+			xmin = 27.27
+			xmax = 27.57
+			text = "..."
+		intervals [15]:
+			xmin = 27.57
+			xmax = 27.75
+			text = "você"
+		intervals [16]:
+			xmin = 27.75
+			xmax = 51.64
+			text = ""
+		intervals [17]:
+			xmin = 51.64
+			xmax = 52.67
+			text = "e você fez curso no senac"
+		intervals [18]:
+			xmin = 52.67
+			xmax = 53.26
+			text = "então de hotelaria"
+		intervals [19]:
+			xmin = 53.26
+			xmax = 53.89
+			text = ""
+		intervals [20]:
+			xmin = 53.89
+			xmax = 53.97
+			text = "com"
+		intervals [21]:
+			xmin = 53.97
+			xmax = 54.36
+			text = "..."
+		intervals [22]:
+			xmin = 54.36
+			xmax = 54.88
+			text = "é quando que você"
+		intervals [23]:
+			xmin = 54.88
+			xmax = 55.45
+			text = "começou a fazer"
+		intervals [24]:
+			xmin = 55.45
+			xmax = 60.77
+			text = ""
+		intervals [25]:
+			xmin = 60.77
+			xmax = 62.44
+			text = "e como é que foi esse curso no que que ele te ajudou"
+		intervals [26]:
+			xmin = 62.44
+			xmax = 75.67
+			text = ""
+		intervals [27]:
+			xmin = 75.67
+			xmax = 76.93
+			text = "e por que que você optou por hotelaria"
+		intervals [28]:
+			xmin = 76.93
+			xmax = 109.43
+			text = ""
+		intervals [29]:
+			xmin = 109.43
+			xmax = 109.65
+			text = "e"
+		intervals [30]:
+			xmin = 109.65
+			xmax = 112.67
+			text = "aí quando você foi para o para o café você lembra do dia da entrevista"
+		intervals [31]:
+			xmin = 112.67
+			xmax = 149.57
+			text = ""
+		intervals [32]:
+			xmin = 149.57
+			xmax = 152.17
+			text = "e como é que foi a entrevista só você e alguém entrevistando"
+		intervals [33]:
+			xmin = 152.17
+			xmax = 153.5
+			text = ""
+		intervals [34]:
+			xmin = 153.5
+			xmax = 153.63
+			text = "só"
+		intervals [35]:
+			xmin = 153.63
+			xmax = 153.77
+			text = "você"
+		intervals [36]:
+			xmin = 153.77
+			xmax = 163.02
+			text = ""
+		intervals [37]:
+			xmin = 163.02
+			xmax = 164.55
+			text = "e aí quando você entrou foi para que cargo"
+		intervals [38]:
+			xmin = 164.55
+			xmax = 181.66
+			text = ""
+		intervals [39]:
+			xmin = 181.66
+			xmax = 181.96
+			text = "e"
+		intervals [40]:
+			xmin = 181.96
+			xmax = 182.39
+			text = "como é que foi"
+		intervals [41]:
+			xmin = 182.39
+			xmax = 182.71
+			text = "esse"
+		intervals [42]:
+			xmin = 182.71
+			xmax = 183.54
+			text = "..."
+		intervals [43]:
+			xmin = 183.54
+			xmax = 186.09
+			text = "logo que você chegou para trabalhar lá você lembra do primeiro dia de trabalho"
+		intervals [44]:
+			xmin = 186.09
+			xmax = 186.82
+			text = ""
+		intervals [45]:
+			xmin = 186.82
+			xmax = 186.92
+			text = "é"
+		intervals [46]:
+			xmin = 186.92
+			xmax = 187.78
+			text = "..."
+		intervals [47]:
+			xmin = 187.78
+			xmax = 226.35
+			text = ""
+		intervals [48]:
+			xmin = 226.35
+			xmax = 227.88
+			text = "e assim logo no começo né a gente"
+		intervals [49]:
+			xmin = 227.88
+			xmax = 232.02
+			text = "costuma ficar nervoso primeiro dia de emprego e tal você lembra de alguma coisa que você fez assim que"
+		intervals [50]:
+			xmin = 232.02
+			xmax = 232.64
+			text = "..."
+		intervals [51]:
+			xmin = 232.64
+			xmax = 233.86
+			text = "você não devia ter feito sabe"
+		intervals [52]:
+			xmin = 233.86
+			xmax = 234.61
+			text = "..."
+		intervals [53]:
+			xmin = 234.61
+			xmax = 262.45
+			text = ""
+		intervals [54]:
+			xmin = 262.45
+			xmax = 263.05
+			text = "e"
+		intervals [55]:
+			xmin = 263.05
+			xmax = 263.24
+			text = "é"
+		intervals [56]:
+			xmin = 263.24
+			xmax = 264.92
+			text = "a primeira vez que você teve que ir atender"
+		intervals [57]:
+			xmin = 264.92
+			xmax = 265.23
+			text = "..."
+		intervals [58]:
+			xmin = 265.23
+			xmax = 266.17
+			text = "o cliente direto"
+		intervals [59]:
+			xmin = 266.17
+			xmax = 266.96
+			text = "..."
+		intervals [60]:
+			xmin = 266.96
+			xmax = 267.54
+			text = "como é que"
+		intervals [61]:
+			xmin = 267.54
+			xmax = 267.84
+			text = "foi"
+		intervals [62]:
+			xmin = 267.84
+			xmax = 270.97
+			text = ""
+		intervals [63]:
+			xmin = 270.97
+			xmax = 272.44
+			text = "teve alguma vez que te marcou assim"
+		intervals [64]:
+			xmin = 272.44
+			xmax = 273.8
+			text = "..."
+		intervals [65]:
+			xmin = 273.8
+			xmax = 275.9
+			text = "algum caso que você foi atender aconteceu alguma"
+		intervals [66]:
+			xmin = 275.9
+			xmax = 276.29
+			text = "coisa"
+		intervals [67]:
+			xmin = 276.29
+			xmax = 289.1
+			text = ""
+		intervals [68]:
+			xmin = 289.1
+			xmax = 290.18
+			text = "mas sempre acaba bem"
+		intervals [69]:
+			xmin = 290.18
+			xmax = 301.93
+			text = ""
+		intervals [70]:
+			xmin = 301.93
+			xmax = 302.17
+			text = "e"
+		intervals [71]:
+			xmin = 302.17
+			xmax = 304.3
+			text = "me diz uma coisa [P] você é casada"
+		intervals [72]:
+			xmin = 304.3
+			xmax = 306.63
+			text = ""
+		intervals [73]:
+			xmin = 306.63
+			xmax = 306.75
+			text = "qual"
+		intervals [74]:
+			xmin = 306.75
+			xmax = 307.0
+			text = "que é o nome"
+		intervals [75]:
+			xmin = 307.0
+			xmax = 307.33
+			text = "do seu marido"
+		intervals [76]:
+			xmin = 307.33
+			xmax = 308.23
+			text = ""
+		intervals [77]:
+			xmin = 308.23
+			xmax = 309.18
+			text = "como é que vocês se conheceram"
+		intervals [78]:
+			xmin = 309.18
+			xmax = 332.37
+			text = ""
+		intervals [79]:
+			xmin = 332.37
+			xmax = 334.25
+			text = "e vocês têm filhos e na época de"
+		intervals [80]:
+			xmin = 334.25
+			xmax = 334.4
+			text = "quando"
+		intervals [81]:
+			xmin = 334.4
+			xmax = 335.93
+			text = "você estava lá em sergipe"
+		intervals [82]:
+			xmin = 335.93
+			xmax = 336.75
+			text = "..."
+		intervals [83]:
+			xmin = 336.75
+			xmax = 339.34
+			text = "é como que era os namoros na época"
+		intervals [84]:
+			xmin = 339.34
+			xmax = 340.35
+			text = "..."
+		intervals [85]:
+			xmin = 340.35
+			xmax = 362.29
+			text = ""
+		intervals [86]:
+			xmin = 362.29
+			xmax = 363.84
+			text = "e como que eram essas festas"
+		intervals [87]:
+			xmin = 363.84
+			xmax = 374.57
+			text = ""
+		intervals [88]:
+			xmin = 374.57
+			xmax = 375.81
+			text = "você sente muita falta disso"
+		intervals [89]:
+			xmin = 375.81
+			xmax = 376.14
+			text = ""
+		intervals [90]:
+			xmin = 376.14
+			xmax = 376.48
+			text = "aqui"
+		intervals [91]:
+			xmin = 376.48
+			xmax = 376.58
+			text = "não"
+		intervals [92]:
+			xmin = 376.58
+			xmax = 390.24
+			text = ""
+		intervals [93]:
+			xmin = 390.24
+			xmax = 391.07
+			text = "e me diz uma coisa"
+		intervals [94]:
+			xmin = 391.07
+			xmax = 391.45
+			text = "..."
+		intervals [95]:
+			xmin = 391.45
+			xmax = 391.48
+			text = "é"
+		intervals [96]:
+			xmin = 391.48
+			xmax = 392.65
+			text = "..."
+		intervals [97]:
+			xmin = 392.65
+			xmax = 394.76
+			text = "da sua da sua trajetória de vida"
+		intervals [98]:
+			xmin = 394.76
+			xmax = 395.3
+			text = ""
+		intervals [99]:
+			xmin = 395.3
+			xmax = 398.4
+			text = "quais quais são as lições assim que você tirou algum aprendizado"
+		intervals [100]:
+			xmin = 398.4
+			xmax = 398.57
+			text = "que"
+		intervals [101]:
+			xmin = 398.57
+			xmax = 400.93
+			text = "..."
+		intervals [102]:
+			xmin = 400.93
+			xmax = 403.2
+			text = ""
+		intervals [103]:
+			xmin = 403.2
+			xmax = 404.29
+			text = "e de realização tem alguma"
+		intervals [104]:
+			xmin = 404.29
+			xmax = 404.74
+			text = "..."
+		intervals [105]:
+			xmin = 404.74
+			xmax = 405.67
+			text = "grande realização"
+		intervals [106]:
+			xmin = 405.67
+			xmax = 405.96
+			text = "assim"
+		intervals [107]:
+			xmin = 405.96
+			xmax = 409.25
+			text = "..."
+		intervals [108]:
+			xmin = 409.25
+			xmax = 420.23
+			text = ""
+		intervals [109]:
+			xmin = 420.23
+			xmax = 421.24
+			text = "seus irmãos moram aqui também"
+		intervals [110]:
+			xmin = 421.24
+			xmax = 439.45
+			text = ""
+		intervals [111]:
+			xmin = 439.45
+			xmax = 440.11
+			text = "e"
+		intervals [112]:
+			xmin = 440.11
+			xmax = 440.45
+			text = "..."
+		intervals [113]:
+			xmin = 440.45
+			xmax = 441.42
+			text = "você tem algum sonho"
+		intervals [114]:
+			xmin = 441.42
+			xmax = 442.97
+			text = "..."
+		intervals [115]:
+			xmin = 442.97
+			xmax = 444.69
+			text = ""
+		intervals [116]:
+			xmin = 444.69
+			xmax = 444.9
+			text = "comprar"
+		intervals [117]:
+			xmin = 444.9
+			xmax = 445.22
+			text = "sua"
+		intervals [118]:
+			xmin = 445.22
+			xmax = 445.53
+			text = "..."
+		intervals [119]:
+			xmin = 445.53
+			xmax = 445.7
+			text = "casa"
+		intervals [120]:
+			xmin = 445.7
+			xmax = 456.68
+			text = ""
+		intervals [121]:
+			xmin = 456.68
+			xmax = 458.14
+			text = "você não não gostaria de voltar para lá então"
+		intervals [122]:
+			xmin = 458.14
+			xmax = 461.71
+			text = ""
+		intervals [123]:
+			xmin = 461.71
+			xmax = 462.18
+			text = "beleza"
+		intervals [124]:
+			xmin = 462.18
+			xmax = 464.22
+			text = "bom o que que você achou de dar essa entrevista"
+		intervals [125]:
+			xmin = 464.22
+			xmax = 465.47
+			text = "..."
+		intervals [126]:
+			xmin = 465.47
+			xmax = 479.98
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 479.98
+		intervals: size = 141
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.11
+			text = ""
+		intervals [2]:
+			xmin = 6.11
+			xmax = 8.01
+			text = "mas você não morava na na mesma casa que eles"
+		intervals [3]:
+			xmin = 8.01
+			xmax = 18.2
+			text = ""
+		intervals [4]:
+			xmin = 18.2
+			xmax = 19.11
+			text = "você continua nessa casa"
+		intervals [5]:
+			xmin = 19.11
+			xmax = 22.78
+			text = ""
+		intervals [6]:
+			xmin = 22.78
+			xmax = 22.86
+			text = "ta"
+		intervals [7]:
+			xmin = 22.86
+			xmax = 23.1
+			text = "..."
+		intervals [8]:
+			xmin = 23.1
+			xmax = 23.33
+			text = "e"
+		intervals [9]:
+			xmin = 23.33
+			xmax = 23.66
+			text = "..."
+		intervals [10]:
+			xmin = 23.66
+			xmax = 24.61
+			text = "e aí para entrar no no"
+		intervals [11]:
+			xmin = 24.61
+			xmax = 25.16
+			text = "café"
+		intervals [12]:
+			xmin = 25.16
+			xmax = 25.68
+			text = "..."
+		intervals [13]:
+			xmin = 25.68
+			xmax = 26.94
+			text = "como foi que você conseguiu"
+		intervals [14]:
+			xmin = 26.94
+			xmax = 27.27
+			text = "esse como"
+		intervals [15]:
+			xmin = 27.27
+			xmax = 27.57
+			text = "..."
+		intervals [16]:
+			xmin = 27.57
+			xmax = 27.75
+			text = "você"
+		intervals [17]:
+			xmin = 27.75
+			xmax = 51.64
+			text = ""
+		intervals [18]:
+			xmin = 51.64
+			xmax = 52.67
+			text = "e você fez curso no senac"
+		intervals [19]:
+			xmin = 52.67
+			xmax = 53.26
+			text = "então de hotelaria"
+		intervals [20]:
+			xmin = 53.26
+			xmax = 53.53
+			text = "..."
+		intervals [21]:
+			xmin = 53.53
+			xmax = 53.89
+			text = ""
+		intervals [22]:
+			xmin = 53.89
+			xmax = 53.97
+			text = "com"
+		intervals [23]:
+			xmin = 53.97
+			xmax = 54.36
+			text = "..."
+		intervals [24]:
+			xmin = 54.36
+			xmax = 54.88
+			text = "é quando que você"
+		intervals [25]:
+			xmin = 54.88
+			xmax = 55.45
+			text = "começou a fazer"
+		intervals [26]:
+			xmin = 55.45
+			xmax = 60.77
+			text = ""
+		intervals [27]:
+			xmin = 60.77
+			xmax = 62.44
+			text = "e como é que foi esse curso no que que ele te ajudou"
+		intervals [28]:
+			xmin = 62.44
+			xmax = 75.67
+			text = ""
+		intervals [29]:
+			xmin = 75.67
+			xmax = 76.93
+			text = "e por que que você optou por hotelaria"
+		intervals [30]:
+			xmin = 76.93
+			xmax = 109.43
+			text = ""
+		intervals [31]:
+			xmin = 109.43
+			xmax = 109.65
+			text = "e"
+		intervals [32]:
+			xmin = 109.65
+			xmax = 112.67
+			text = "aí quando você foi para o para o café você lembra do dia da entrevista"
+		intervals [33]:
+			xmin = 112.67
+			xmax = 149.69
+			text = ""
+		intervals [34]:
+			xmin = 149.69
+			xmax = 152.17
+			text = "e como é que foi a entrevista só você e alguém entrevistando"
+		intervals [35]:
+			xmin = 152.17
+			xmax = 153.5
+			text = ""
+		intervals [36]:
+			xmin = 153.5
+			xmax = 153.63
+			text = "só"
+		intervals [37]:
+			xmin = 153.63
+			xmax = 153.77
+			text = "você"
+		intervals [38]:
+			xmin = 153.77
+			xmax = 163.02
+			text = ""
+		intervals [39]:
+			xmin = 163.02
+			xmax = 164.55
+			text = "e aí quando você entrou foi para que cargo"
+		intervals [40]:
+			xmin = 164.55
+			xmax = 181.66
+			text = ""
+		intervals [41]:
+			xmin = 181.66
+			xmax = 181.96
+			text = "e"
+		intervals [42]:
+			xmin = 181.96
+			xmax = 182.39
+			text = "como é que foi"
+		intervals [43]:
+			xmin = 182.39
+			xmax = 182.71
+			text = "esse"
+		intervals [44]:
+			xmin = 182.71
+			xmax = 183.54
+			text = "..."
+		intervals [45]:
+			xmin = 183.54
+			xmax = 186.09
+			text = "logo que você chegou para trabalhar lá você lembra do primeiro dia de trabalho"
+		intervals [46]:
+			xmin = 186.09
+			xmax = 186.82
+			text = ""
+		intervals [47]:
+			xmin = 186.82
+			xmax = 186.92
+			text = "é"
+		intervals [48]:
+			xmin = 186.92
+			xmax = 187.78
+			text = "..."
+		intervals [49]:
+			xmin = 187.78
+			xmax = 226.35
+			text = ""
+		intervals [50]:
+			xmin = 226.35
+			xmax = 227.88
+			text = "e assim logo no começo né a gente"
+		intervals [51]:
+			xmin = 227.88
+			xmax = 232.02
+			text = "costuma ficar nervoso primeiro dia de emprego e tal você lembra de alguma coisa que você fez assim que"
+		intervals [52]:
+			xmin = 232.02
+			xmax = 232.64
+			text = "..."
+		intervals [53]:
+			xmin = 232.64
+			xmax = 233.86
+			text = "você não devia ter feito sabe"
+		intervals [54]:
+			xmin = 233.86
+			xmax = 234.61
+			text = "..."
+		intervals [55]:
+			xmin = 234.61
+			xmax = 262.45
+			text = ""
+		intervals [56]:
+			xmin = 262.45
+			xmax = 262.79
+			text = "e"
+		intervals [57]:
+			xmin = 262.79
+			xmax = 263.05
+			text = "..."
+		intervals [58]:
+			xmin = 263.05
+			xmax = 263.24
+			text = "é"
+		intervals [59]:
+			xmin = 263.24
+			xmax = 264.92
+			text = "a primeira vez que você teve que ir atender"
+		intervals [60]:
+			xmin = 264.92
+			xmax = 265.23
+			text = "..."
+		intervals [61]:
+			xmin = 265.23
+			xmax = 266.17
+			text = "o cliente direto"
+		intervals [62]:
+			xmin = 266.17
+			xmax = 266.96
+			text = "..."
+		intervals [63]:
+			xmin = 266.96
+			xmax = 267.22
+			text = "como é"
+		intervals [64]:
+			xmin = 267.22
+			xmax = 267.46
+			text = "..."
+		intervals [65]:
+			xmin = 267.46
+			xmax = 267.54
+			text = "que"
+		intervals [66]:
+			xmin = 267.54
+			xmax = 267.84
+			text = "foi"
+		intervals [67]:
+			xmin = 267.84
+			xmax = 270.97
+			text = ""
+		intervals [68]:
+			xmin = 270.97
+			xmax = 272.44
+			text = "teve alguma vez que te marcou assim"
+		intervals [69]:
+			xmin = 272.44
+			xmax = 273.8
+			text = "..."
+		intervals [70]:
+			xmin = 273.8
+			xmax = 275.9
+			text = "algum caso que você foi atender aconteceu alguma"
+		intervals [71]:
+			xmin = 275.9
+			xmax = 276.29
+			text = "coisa"
+		intervals [72]:
+			xmin = 276.29
+			xmax = 289.1
+			text = ""
+		intervals [73]:
+			xmin = 289.1
+			xmax = 289.45
+			text = "mas"
+		intervals [74]:
+			xmin = 289.45
+			xmax = 289.57
+			text = "..."
+		intervals [75]:
+			xmin = 289.57
+			xmax = 290.18
+			text = "sempre acaba bem"
+		intervals [76]:
+			xmin = 290.18
+			xmax = 301.93
+			text = ""
+		intervals [77]:
+			xmin = 301.93
+			xmax = 302.17
+			text = "e"
+		intervals [78]:
+			xmin = 302.17
+			xmax = 304.3
+			text = "me diz uma coisa [P] você é casada"
+		intervals [79]:
+			xmin = 304.3
+			xmax = 306.63
+			text = ""
+		intervals [80]:
+			xmin = 306.63
+			xmax = 306.75
+			text = "qual"
+		intervals [81]:
+			xmin = 306.75
+			xmax = 307.0
+			text = "que é o nome"
+		intervals [82]:
+			xmin = 307.0
+			xmax = 307.33
+			text = "do seu marido"
+		intervals [83]:
+			xmin = 307.33
+			xmax = 308.23
+			text = ""
+		intervals [84]:
+			xmin = 308.23
+			xmax = 309.18
+			text = "como é que vocês se conheceram"
+		intervals [85]:
+			xmin = 309.18
+			xmax = 332.37
+			text = ""
+		intervals [86]:
+			xmin = 332.37
+			xmax = 333.13
+			text = "e vocês têm filhos"
+		intervals [87]:
+			xmin = 333.13
+			xmax = 333.23
+			text = "..."
+		intervals [88]:
+			xmin = 333.23
+			xmax = 334.25
+			text = "e na época de"
+		intervals [89]:
+			xmin = 334.25
+			xmax = 334.4
+			text = "quando"
+		intervals [90]:
+			xmin = 334.4
+			xmax = 335.93
+			text = "você estava lá em sergipe"
+		intervals [91]:
+			xmin = 335.93
+			xmax = 336.75
+			text = "..."
+		intervals [92]:
+			xmin = 336.75
+			xmax = 339.34
+			text = "é como que era os namoros na época"
+		intervals [93]:
+			xmin = 339.34
+			xmax = 340.35
+			text = "..."
+		intervals [94]:
+			xmin = 340.35
+			xmax = 362.29
+			text = ""
+		intervals [95]:
+			xmin = 362.29
+			xmax = 363.84
+			text = "e como que eram essas festas"
+		intervals [96]:
+			xmin = 363.84
+			xmax = 374.57
+			text = ""
+		intervals [97]:
+			xmin = 374.57
+			xmax = 375.81
+			text = "você sente muita falta disso"
+		intervals [98]:
+			xmin = 375.81
+			xmax = 376.14
+			text = ""
+		intervals [99]:
+			xmin = 376.14
+			xmax = 376.25
+			text = "aqui"
+		intervals [100]:
+			xmin = 376.25
+			xmax = 376.48
+			text = "..."
+		intervals [101]:
+			xmin = 376.48
+			xmax = 376.58
+			text = "não"
+		intervals [102]:
+			xmin = 376.58
+			xmax = 376.86
+			text = "..."
+		intervals [103]:
+			xmin = 376.86
+			xmax = 390.24
+			text = ""
+		intervals [104]:
+			xmin = 390.24
+			xmax = 391.07
+			text = "e me diz uma coisa"
+		intervals [105]:
+			xmin = 391.07
+			xmax = 391.45
+			text = "..."
+		intervals [106]:
+			xmin = 391.45
+			xmax = 391.48
+			text = "é"
+		intervals [107]:
+			xmin = 391.48
+			xmax = 392.65
+			text = "..."
+		intervals [108]:
+			xmin = 392.65
+			xmax = 394.76
+			text = "da sua da sua trajetória de vida"
+		intervals [109]:
+			xmin = 394.76
+			xmax = 395.05
+			text = "..."
+		intervals [110]:
+			xmin = 395.05
+			xmax = 395.3
+			text = ""
+		intervals [111]:
+			xmin = 395.3
+			xmax = 397.33
+			text = "quais quais são as lições assim que você tirou"
+		intervals [112]:
+			xmin = 397.33
+			xmax = 397.56
+			text = "..."
+		intervals [113]:
+			xmin = 397.56
+			xmax = 398.4
+			text = "algum aprendizado"
+		intervals [114]:
+			xmin = 398.4
+			xmax = 398.57
+			text = "que"
+		intervals [115]:
+			xmin = 398.57
+			xmax = 400.93
+			text = "..."
+		intervals [116]:
+			xmin = 400.93
+			xmax = 403.2
+			text = ""
+		intervals [117]:
+			xmin = 403.2
+			xmax = 404.29
+			text = "e de realização tem alguma"
+		intervals [118]:
+			xmin = 404.29
+			xmax = 404.74
+			text = "..."
+		intervals [119]:
+			xmin = 404.74
+			xmax = 405.67
+			text = "grande realização"
+		intervals [120]:
+			xmin = 405.67
+			xmax = 405.96
+			text = "assim"
+		intervals [121]:
+			xmin = 405.96
+			xmax = 409.25
+			text = "..."
+		intervals [122]:
+			xmin = 409.25
+			xmax = 420.23
+			text = ""
+		intervals [123]:
+			xmin = 420.23
+			xmax = 421.24
+			text = "seus irmãos moram aqui também"
+		intervals [124]:
+			xmin = 421.24
+			xmax = 421.4
+			text = "..."
+		intervals [125]:
+			xmin = 421.4
+			xmax = 439.59
+			text = ""
+		intervals [126]:
+			xmin = 439.59
+			xmax = 440.11
+			text = "e"
+		intervals [127]:
+			xmin = 440.11
+			xmax = 440.45
+			text = "..."
+		intervals [128]:
+			xmin = 440.45
+			xmax = 441.42
+			text = "você tem algum sonho"
+		intervals [129]:
+			xmin = 441.42
+			xmax = 442.97
+			text = "..."
+		intervals [130]:
+			xmin = 442.97
+			xmax = 444.69
+			text = ""
+		intervals [131]:
+			xmin = 444.69
+			xmax = 444.9
+			text = "comprar"
+		intervals [132]:
+			xmin = 444.9
+			xmax = 445.22
+			text = "sua"
+		intervals [133]:
+			xmin = 445.22
+			xmax = 445.53
+			text = "..."
+		intervals [134]:
+			xmin = 445.53
+			xmax = 445.7
+			text = "casa"
+		intervals [135]:
+			xmin = 445.7
+			xmax = 456.68
+			text = ""
+		intervals [136]:
+			xmin = 456.68
+			xmax = 458.14
+			text = "você não não gostaria de voltar para lá então"
+		intervals [137]:
+			xmin = 458.14
+			xmax = 461.98
+			text = ""
+		intervals [138]:
+			xmin = 461.98
+			xmax = 462.18
+			text = "beleza"
+		intervals [139]:
+			xmin = 462.18
+			xmax = 464.22
+			text = "bom o que que você achou de dar essa entrevista"
+		intervals [140]:
+			xmin = 464.22
+			xmax = 465.47
+			text = "..."
+		intervals [141]:
+			xmin = 465.47
+			xmax = 479.98
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "TB-speaker 2"
+		xmin = 0.0
+		xmax = 479.98
+		intervals: size = 14
+		intervals [1]:
+			xmin = 0.0
+			xmax = 353.65
+			text = ""
+		intervals [2]:
+			xmin = 353.65
+			xmax = 353.77
+			text = "o que"
+		intervals [3]:
+			xmin = 353.77
+			xmax = 354.27
+			text = "..."
+		intervals [4]:
+			xmin = 354.27
+			xmax = 355.93
+			text = "vocês faziam para se divertir"
+		intervals [5]:
+			xmin = 355.93
+			xmax = 356.87
+			text = "..."
+		intervals [6]:
+			xmin = 356.87
+			xmax = 356.95
+			text = "lá"
+		intervals [7]:
+			xmin = 356.95
+			xmax = 377.66
+			text = ""
+		intervals [8]:
+			xmin = 377.66
+			xmax = 377.88
+			text = "e aqui"
+		intervals [9]:
+			xmin = 377.88
+			xmax = 378.13
+			text = "você"
+		intervals [10]:
+			xmin = 378.13
+			xmax = 412.72
+			text = ""
+		intervals [11]:
+			xmin = 412.72
+			xmax = 416.78
+			text = "e história que você queira contar alguma coisa que você lembra da tua infância que"
+		intervals [12]:
+			xmin = 416.78
+			xmax = 417.36
+			text = "te"
+		intervals [13]:
+			xmin = 417.36
+			xmax = 418.09
+			text = "marcou assim"
+		intervals [14]:
+			xmin = 418.09
+			xmax = 479.98
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "NTB-speaker 2"
+		xmin = 0.0
+		xmax = 479.98
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 353.65
+			text = ""
+		intervals [2]:
+			xmin = 353.65
+			xmax = 353.77
+			text = "o que"
+		intervals [3]:
+			xmin = 353.77
+			xmax = 354.27
+			text = "..."
+		intervals [4]:
+			xmin = 354.27
+			xmax = 355.93
+			text = "vocês faziam para se divertir"
+		intervals [5]:
+			xmin = 355.93
+			xmax = 356.87
+			text = "..."
+		intervals [6]:
+			xmin = 356.87
+			xmax = 356.95
+			text = "lá"
+		intervals [7]:
+			xmin = 356.95
+			xmax = 377.66
+			text = ""
+		intervals [8]:
+			xmin = 377.66
+			xmax = 377.88
+			text = "e aqui"
+		intervals [9]:
+			xmin = 377.88
+			xmax = 378.13
+			text = "você"
+		intervals [10]:
+			xmin = 378.13
+			xmax = 412.72
+			text = ""
+		intervals [11]:
+			xmin = 412.72
+			xmax = 412.76
+			text = "e"
+		intervals [12]:
+			xmin = 412.76
+			xmax = 413.01
+			text = "..."
+		intervals [13]:
+			xmin = 413.01
+			xmax = 414.29
+			text = "história que você queira contar"
+		intervals [14]:
+			xmin = 414.29
+			xmax = 414.57
+			text = "..."
+		intervals [15]:
+			xmin = 414.57
+			xmax = 415.19
+			text = "alguma coisa que"
+		intervals [16]:
+			xmin = 415.19
+			xmax = 415.32
+			text = "..."
+		intervals [17]:
+			xmin = 415.32
+			xmax = 416.78
+			text = "você lembra da tua infância que"
+		intervals [18]:
+			xmin = 416.78
+			xmax = 417.18
+			text = "te"
+		intervals [19]:
+			xmin = 417.18
+			xmax = 417.36
+			text = "..."
+		intervals [20]:
+			xmin = 417.36
+			xmax = 418.09
+			text = "marcou assim"
+		intervals [21]:
+			xmin = 418.09
+			xmax = 479.98
+			text = ""
+	item [7]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 479.98
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 479.98
+			text = ""
+	item [8]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 479.98
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 479.98
+			text = ""

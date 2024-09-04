@@ -1,0 +1,1396 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 277.42
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 277.42
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.11
+			text = "e você falou um pouco do se"
+		intervals [2]:
+			xmin = 1.11
+			xmax = 5.39
+			text = "você falou do seu pai que ele trabalhava que só sua mãe não trabalhava e como é que era essa a relação com seu pai"
+		intervals [3]:
+			xmin = 5.39
+			xmax = 191.03
+			text = ""
+		intervals [4]:
+			xmin = 191.03
+			xmax = 196.76
+			text = "eu vou lhe perguntar uma curiosidade você falou um pouquinho do seu pai era feirante falou um pouco das profissões dele e você participava por exemplo você ia na feira com"
+		intervals [5]:
+			xmin = 196.76
+			xmax = 197.1
+			text = "ele"
+		intervals [6]:
+			xmin = 197.1
+			xmax = 197.71
+			text = "e vocês"
+		intervals [7]:
+			xmin = 197.71
+			xmax = 236.85
+			text = ""
+		intervals [8]:
+			xmin = 236.85
+			xmax = 238.98
+			text = "e você falou você sempre estudou na mesma escola e"
+		intervals [9]:
+			xmin = 238.98
+			xmax = 243.04
+			text = "e você lembra de quando você entrou esse primeiro momento primeiro contato com a escola"
+		intervals [10]:
+			xmin = 243.04
+			xmax = 277.42
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 277.42
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.11
+			text = "e você falou um pouco do se"
+		intervals [2]:
+			xmin = 1.11
+			xmax = 5.39
+			text = "você falou do seu pai que ele trabalhava que só sua mãe não trabalhava e como é que era essa a relação com seu pai"
+		intervals [3]:
+			xmin = 5.39
+			xmax = 191.03
+			text = ""
+		intervals [4]:
+			xmin = 191.03
+			xmax = 196.76
+			text = "eu vou lhe perguntar uma curiosidade você falou um pouquinho do seu pai era feirante falou um pouco das profissões dele e você participava por exemplo você ia na feira com"
+		intervals [5]:
+			xmin = 196.76
+			xmax = 197.1
+			text = "ele"
+		intervals [6]:
+			xmin = 197.1
+			xmax = 197.71
+			text = "e vocês"
+		intervals [7]:
+			xmin = 197.71
+			xmax = 236.85
+			text = ""
+		intervals [8]:
+			xmin = 236.85
+			xmax = 238.98
+			text = "e você falou você sempre estudou na mesma escola e"
+		intervals [9]:
+			xmin = 238.98
+			xmax = 239.05
+			text = "e"
+		intervals [10]:
+			xmin = 239.05
+			xmax = 239.22
+			text = "..."
+		intervals [11]:
+			xmin = 239.22
+			xmax = 243.04
+			text = "você lembra de quando você entrou esse primeiro momento primeiro contato com a escola"
+		intervals [12]:
+			xmin = 243.04
+			xmax = 277.42
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 277.42
+		intervals: size = 112
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.39
+			text = ""
+		intervals [2]:
+			xmin = 5.39
+			xmax = 15.24
+			text = "meu pai era aquela coisa né assim tanto meu pai quanto a minha mãe eh pararam de estudar muito cedo para trabalhar e ajudar na família então minha mãe ela fez até a quarta série primária só né como se diz"
+		intervals [3]:
+			xmin = 15.24
+			xmax = 15.91
+			text = "..."
+		intervals [4]:
+			xmin = 15.91
+			xmax = 22.43
+			text = "então quando eu estava no ensino médio meu pai decidiu fazer o supletivo para voltar né pegar o diploma lá de primeiro grau e taranram"
+		intervals [5]:
+			xmin = 22.43
+			xmax = 23.02
+			text = "..."
+		intervals [6]:
+			xmin = 23.02
+			xmax = 30.69
+			text = "aí fez outro supletivo e aí eu lembro que no n durante o meu ensino médio meu pai entrou na faculdade foi fazer administração de empresas estudava à noite"
+		intervals [7]:
+			xmin = 30.69
+			xmax = 31.22
+			text = "..."
+		intervals [8]:
+			xmin = 31.22
+			xmax = 35.58
+			text = "então meu pai eu via muito pouco sempre trabalhou muito foi feirante no começo né ele tinha"
+		intervals [9]:
+			xmin = 35.58
+			xmax = 36.15
+			text = "..."
+		intervals [10]:
+			xmin = 36.15
+			xmax = 40.26
+			text = "ele conheceu minha mãe n no comércio eles trabalhavam numa loja que vendia roupas né"
+		intervals [11]:
+			xmin = 40.26
+			xmax = 40.95
+			text = "..."
+		intervals [12]:
+			xmin = 40.95
+			xmax = 46.92
+			text = "minha mãe nunca deu para o comércio né não durou lá muito tempo mas enfim foi lá que eles se conheceram e a dona da loja que decidiu que eles iam se casar"
+		intervals [13]:
+			xmin = 46.92
+			xmax = 47.5
+			text = "..."
+		intervals [14]:
+			xmin = 47.5
+			xmax = 56.9
+			text = "então a dona da loja que armou depois da minha mãe ter saído convidou ela para tomar café na casa dela um dia e aí ligou para o marido que era o dono da loja e falou ah manda o [E] nome do meu pai"
+		intervals [15]:
+			xmin = 56.9
+			xmax = 57.41
+			text = "..."
+		intervals [16]:
+			xmin = 57.41
+			xmax = 61.85
+			text = "trazer uma coisa aqui em casa que eu estou precisando e armou assim literalmente para eles se reencontrarem"
+		intervals [17]:
+			xmin = 61.85
+			xmax = 62.36
+			text = "..."
+		intervals [18]:
+			xmin = 62.36
+			xmax = 64.54
+			text = "e aí eles namoraram e casaram e taranram"
+		intervals [19]:
+			xmin = 64.54
+			xmax = 64.99
+			text = "..."
+		intervals [20]:
+			xmin = 64.99
+			xmax = 65.98
+			text = "então assim meu pai"
+		intervals [21]:
+			xmin = 65.98
+			xmax = 66.34
+			text = "..."
+		intervals [22]:
+			xmin = 66.34
+			xmax = 77.45
+			text = "trabalhou muito sempre na área de comércio né trabalhou depois na área de laticínio no finalzinho da carreira dele é que ele conseguiu ter uma folguinha ele trabalhava na parmalat ele era tipo supervisor de vendas mas a maior parte do trabalho dele"
+		intervals [23]:
+			xmin = 77.45
+			xmax = 77.83
+			text = "..."
+		intervals [24]:
+			xmin = 77.83
+			xmax = 82.83
+			text = "ele literalmente assim visitava supermercado para ver se quer comprar mais queijo iogurte leite essa coisa né"
+		intervals [25]:
+			xmin = 82.83
+			xmax = 83.82
+			text = "..."
+		intervals [26]:
+			xmin = 83.82
+			xmax = 85.93
+			text = "e aí de final de semana ele era feirante"
+		intervals [27]:
+			xmin = 85.93
+			xmax = 86.91
+			text = "..."
+		intervals [28]:
+			xmin = 86.91
+			xmax = 92.74
+			text = "e assim sempre trabalhou muito a única coisa que ele entendeu muito cedo que eu sou muito agradecido é que"
+		intervals [29]:
+			xmin = 92.74
+			xmax = 93.41
+			text = "..."
+		intervals [30]:
+			xmin = 93.41
+			xmax = 94.63
+			text = "escola é bom né"
+		intervals [31]:
+			xmin = 94.63
+			xmax = 95.91
+			text = "..."
+		intervals [32]:
+			xmin = 95.91
+			xmax = 99.18
+			text = "aí ele deu um jeito lá da gente todo mundo estudar então ele era muito"
+		intervals [33]:
+			xmin = 99.18
+			xmax = 99.65
+			text = "..."
+		intervals [34]:
+			xmin = 99.65
+			xmax = 105.29
+			text = "tem que estudar não pode trabalhar eu lembro quando eu arrumei meu meu primeiro emprego foi minha primeira grande briga com ele porque eu arrumei sem ele saber"
+		intervals [35]:
+			xmin = 105.29
+			xmax = 105.85
+			text = "..."
+		intervals [36]:
+			xmin = 105.85
+			xmax = 109.89
+			text = "né então assim eu eu estudei em escola pública nos três a vida inteira"
+		intervals [37]:
+			xmin = 109.89
+			xmax = 110.55
+			text = "..."
+		intervals [38]:
+			xmin = 110.55
+			xmax = 111.73
+			text = "e aí eu decidi"
+		intervals [39]:
+			xmin = 111.73
+			xmax = 112.21
+			text = "..."
+		intervals [40]:
+			xmin = 112.21
+			xmax = 112.44
+			text = "é"
+		intervals [41]:
+			xmin = 112.44
+			xmax = 113.02
+			text = "..."
+		intervals [42]:
+			xmin = 113.02
+			xmax = 115.0
+			text = "eu tinha um professor de inglês na sexta série"
+		intervals [43]:
+			xmin = 115.0
+			xmax = 115.51
+			text = "..."
+		intervals [44]:
+			xmin = 115.51
+			xmax = 117.78
+			text = "né do né do primeiro grau antigo primeiro grau"
+		intervals [45]:
+			xmin = 117.78
+			xmax = 118.9
+			text = "..."
+		intervals [46]:
+			xmin = 118.9
+			xmax = 122.75
+			text = "eh que ele falou assim ah acho que você tem jeito para esse negócio aí pede teu pai para te botar"
+		intervals [47]:
+			xmin = 122.75
+			xmax = 130.42
+			text = "em um curso aí a gente procurou naquela época era cultura inglesa né ainda é e tal lá em caxias tem competidores mas enfim"
+		intervals [48]:
+			xmin = 130.42
+			xmax = 131.06
+			text = "..."
+		intervals [49]:
+			xmin = 131.06
+			xmax = 136.94
+			text = "e aí meu pai falou ó a gente vai pagar com sacrifício e eu sa assim embora não fosse dito verbalmente eu sabia assim tipo reprovou está fora"
+		intervals [50]:
+			xmin = 136.94
+			xmax = 137.32
+			text = "..."
+		intervals [51]:
+			xmin = 137.32
+			xmax = 140.52
+			text = "assim não tem como ficar gastando dinheiro com esse negócio era caro para a gente"
+		intervals [52]:
+			xmin = 140.52
+			xmax = 141.24
+			text = "..."
+		intervals [53]:
+			xmin = 141.24
+			xmax = 142.2
+			text = "então comecei a estudar"
+		intervals [54]:
+			xmin = 142.2
+			xmax = 142.49
+			text = "lá"
+		intervals [55]:
+			xmin = 142.49
+			xmax = 143.52
+			text = "..."
+		intervals [56]:
+			xmin = 143.52
+			xmax = 146.59
+			text = "e nem sei porque que eu fui para isso aí agora mas enfim acho que não importa aí"
+		intervals [57]:
+			xmin = 146.59
+			xmax = 146.91
+			text = "..."
+		intervals [58]:
+			xmin = 146.91
+			xmax = 153.85
+			text = "foi assim que ah tá do meu primeiro emprego e aí com o inglês então antes de eu terminar a cultura inglesa eu fiquei sabendo na escola"
+		intervals [59]:
+			xmin = 153.85
+			xmax = 154.57
+			text = "..."
+		intervals [60]:
+			xmin = 154.57
+			xmax = 157.36
+			text = "né quando eu estava fazendo o ensino médio que eles estavam precisando de professor de inglês"
+		intervals [61]:
+			xmin = 157.36
+			xmax = 157.76
+			text = "..."
+		intervals [62]:
+			xmin = 157.76
+			xmax = 161.53
+			text = "aí fui e me candidatei sem estar formado ainda na cultura sem ter formado no ensino médio"
+		intervals [63]:
+			xmin = 161.53
+			xmax = 162.13
+			text = "..."
+		intervals [64]:
+			xmin = 162.13
+			xmax = 163.01
+			text = "e aí fiz"
+		intervals [65]:
+			xmin = 163.01
+			xmax = 166.13
+			text = "a entrevista e cheguei em casa todo bobo ganhei o emprego né"
+		intervals [66]:
+			xmin = 166.13
+			xmax = 166.43
+			text = "..."
+		intervals [67]:
+			xmin = 166.43
+			xmax = 171.32
+			text = "meu pai não vai não sei o que lá porque você vai pegar gosto pelo dinheiro vai largar a escola eu falei não não vou e tal"
+		intervals [68]:
+			xmin = 171.32
+			xmax = 171.69
+			text = "..."
+		intervals [69]:
+			xmin = 171.69
+			xmax = 174.22
+			text = "e realmente eu não larguei eu só dava aula sábado de manhã"
+		intervals [70]:
+			xmin = 174.22
+			xmax = 174.59
+			text = "..."
+		intervals [71]:
+			xmin = 174.59
+			xmax = 180.56
+			text = "gostava sempre quis ser professor aquela coisa assim cinco seis anos de idade pergunto que que você quer ser quando crescer ah quero ser professor e tal"
+		intervals [72]:
+			xmin = 180.56
+			xmax = 181.29
+			text = "..."
+		intervals [73]:
+			xmin = 181.29
+			xmax = 185.44
+			text = "e aí comecei a dar aula tomei gosto e não larguei o estudo mesmo e tal então ele"
+		intervals [74]:
+			xmin = 185.44
+			xmax = 186.42
+			text = "..."
+		intervals [75]:
+			xmin = 186.42
+			xmax = 190.96
+			text = "ele ele se convenceu lá depois que que eu estava cumprindo a minha palavra"
+		intervals [76]:
+			xmin = 190.96
+			xmax = 197.78
+			text = ""
+		intervals [77]:
+			xmin = 197.78
+			xmax = 203.06
+			text = "não porque isso é é aquela coisa eu acho que ele tinha esse negócio de proteger a gente do trabalho eu não sei se"
+		intervals [78]:
+			xmin = 203.06
+			xmax = 203.62
+			text = "..."
+		intervals [79]:
+			xmin = 203.62
+			xmax = 209.1
+			text = "por ele ter tido necessidade de trabalhar muito cedo sem ter muita escolha né família grande e tal ele era o segundo da linhagem lá dos"
+		intervals [80]:
+			xmin = 209.1
+			xmax = 209.45
+			text = "onze"
+		intervals [81]:
+			xmin = 209.45
+			xmax = 209.83
+			text = "..."
+		intervals [82]:
+			xmin = 209.83
+			xmax = 211.9
+			text = "né então ele trabalhava para sustentar o resto"
+		intervals [83]:
+			xmin = 211.9
+			xmax = 212.47
+			text = "..."
+		intervals [84]:
+			xmin = 212.47
+			xmax = 221.57
+			text = "meu avô o tal do alcoólatra lá né [V] é o nome dele perdeu muito dinheiro em jogo de cavalo então assim ele ele ganhou muito dinheiro mas perdeu muito eles viviam na pindaíba lá também"
+		intervals [85]:
+			xmin = 221.57
+			xmax = 222.1
+			text = "..."
+		intervals [86]:
+			xmin = 222.1
+			xmax = 224.22
+			text = "então não não nunca fui na feira com ele"
+		intervals [87]:
+			xmin = 224.22
+			xmax = 227.44
+			text = "ajudei um tio meu depois no comércio e tal mas meu pai meio que tentou"
+		intervals [88]:
+			xmin = 227.44
+			xmax = 228.19
+			text = "..."
+		intervals [89]:
+			xmin = 228.19
+			xmax = 231.78
+			text = "mas eu só entendo isso hoje também minha mãe ah seu pai está trabalhando mas a gente não saía com ele"
+		intervals [90]:
+			xmin = 231.78
+			xmax = 232.27
+			text = "..."
+		intervals [91]:
+			xmin = 232.27
+			xmax = 232.54
+			text = "hm"
+		intervals [92]:
+			xmin = 232.54
+			xmax = 233.17
+			text = "..."
+		intervals [93]:
+			xmin = 233.17
+			xmax = 234.54
+			text = "é era viver para estudar"
+		intervals [94]:
+			xmin = 234.54
+			xmax = 235.7
+			text = "..."
+		intervals [95]:
+			xmin = 235.7
+			xmax = 235.99
+			text = "sabe"
+		intervals [96]:
+			xmin = 235.99
+			xmax = 236.85
+			text = "..."
+		intervals [97]:
+			xmin = 236.85
+			xmax = 243.04
+			text = ""
+		intervals [98]:
+			xmin = 243.04
+			xmax = 243.8
+			text = "o comecinho"
+		intervals [99]:
+			xmin = 243.8
+			xmax = 255.32
+			text = "sim porque assim eu lembro que quando eu fiz quatro anos é uma das minhas primeiras memórias assim de vida na verdade quando eu fiz quatro eu entrei em março na escola eu sou de abril né e eu lembro assim quando eu fiz quatro anos na minha carteira tinha"
+		intervals [100]:
+			xmin = 255.32
+			xmax = 255.54
+			text = "um"
+		intervals [101]:
+			xmin = 255.54
+			xmax = 255.69
+			text = "um"
+		intervals [102]:
+			xmin = 255.69
+			xmax = 256.24
+			text = "..."
+		intervals [103]:
+			xmin = 256.24
+			xmax = 261.27
+			text = "um cartãozinho e um saquinho de confete assim de chocolate a minha primeira professora era a [H]"
+		intervals [104]:
+			xmin = 261.27
+			xmax = 261.6
+			text = "..."
+		intervals [105]:
+			xmin = 261.6
+			xmax = 261.84
+			text = "né eu"
+		intervals [106]:
+			xmin = 261.84
+			xmax = 262.4
+			text = "..."
+		intervals [107]:
+			xmin = 262.4
+			xmax = 264.5
+			text = "encontrei com ela muitos anos depois e tal"
+		intervals [108]:
+			xmin = 264.5
+			xmax = 270.15
+			text = "ela está lá no rio ainda dando aula e tal conhece bem a minha irmã minha irmã também é professora lá no rio então"
+		intervals [109]:
+			xmin = 270.15
+			xmax = 270.55
+			text = "..."
+		intervals [110]:
+			xmin = 270.55
+			xmax = 271.42
+			text = "tenho contato com ela"
+		intervals [111]:
+			xmin = 271.42
+			xmax = 272.11
+			text = "..."
+		intervals [112]:
+			xmin = 272.11
+			xmax = 277.42
+			text = "mas enfim então essas são as minhas memórias aí mas eu sempre gostei assim de participar do negócio de escola tanto de escrever quanto de"
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 277.42
+		intervals: size = 202
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.39
+			text = ""
+		intervals [2]:
+			xmin = 5.39
+			xmax = 7.0
+			text = "meu pai era aquela coisa né assim"
+		intervals [3]:
+			xmin = 7.0
+			xmax = 7.19
+			text = "..."
+		intervals [4]:
+			xmin = 7.19
+			xmax = 8.71
+			text = "tanto meu pai quanto a minha mãe"
+		intervals [5]:
+			xmin = 8.71
+			xmax = 8.82
+			text = "..."
+		intervals [6]:
+			xmin = 8.82
+			xmax = 14.27
+			text = "eh pararam de estudar muito cedo para trabalhar e ajudar na família então minha mãe ela fez até a quarta série primária só"
+		intervals [7]:
+			xmin = 14.27
+			xmax = 14.48
+			text = "..."
+		intervals [8]:
+			xmin = 14.48
+			xmax = 15.24
+			text = "né como se diz"
+		intervals [9]:
+			xmin = 15.24
+			xmax = 15.91
+			text = "..."
+		intervals [10]:
+			xmin = 15.91
+			xmax = 20.04
+			text = "então quando eu estava no ensino médio meu pai decidiu fazer o supletivo para voltar"
+		intervals [11]:
+			xmin = 20.04
+			xmax = 20.17
+			text = "..."
+		intervals [12]:
+			xmin = 20.17
+			xmax = 22.43
+			text = "né pegar o diploma lá de primeiro grau e taranram"
+		intervals [13]:
+			xmin = 22.43
+			xmax = 23.02
+			text = "..."
+		intervals [14]:
+			xmin = 23.02
+			xmax = 25.31
+			text = "aí fez outro supletivo e aí eu lembro que no"
+		intervals [15]:
+			xmin = 25.31
+			xmax = 25.44
+			text = "..."
+		intervals [16]:
+			xmin = 25.44
+			xmax = 25.71
+			text = "n"
+		intervals [17]:
+			xmin = 25.71
+			xmax = 25.84
+			text = "..."
+		intervals [18]:
+			xmin = 25.84
+			xmax = 30.69
+			text = "durante o meu ensino médio meu pai entrou na faculdade foi fazer administração de empresas estudava à noite"
+		intervals [19]:
+			xmin = 30.69
+			xmax = 31.22
+			text = "..."
+		intervals [20]:
+			xmin = 31.22
+			xmax = 35.58
+			text = "então meu pai eu via muito pouco sempre trabalhou muito foi feirante no começo né ele tinha"
+		intervals [21]:
+			xmin = 35.58
+			xmax = 36.15
+			text = "..."
+		intervals [22]:
+			xmin = 36.15
+			xmax = 37.1
+			text = "ele conheceu minha mãe n"
+		intervals [23]:
+			xmin = 37.1
+			xmax = 37.36
+			text = "..."
+		intervals [24]:
+			xmin = 37.36
+			xmax = 40.26
+			text = "no comércio eles trabalhavam numa loja que vendia roupas né"
+		intervals [25]:
+			xmin = 40.26
+			xmax = 40.95
+			text = "..."
+		intervals [26]:
+			xmin = 40.95
+			xmax = 44.77
+			text = "minha mãe nunca deu para o comércio né não durou lá muito tempo mas enfim foi lá que eles se conheceram"
+		intervals [27]:
+			xmin = 44.77
+			xmax = 44.89
+			text = "..."
+		intervals [28]:
+			xmin = 44.89
+			xmax = 46.92
+			text = "e a dona da loja que decidiu que eles iam se casar"
+		intervals [29]:
+			xmin = 46.92
+			xmax = 47.5
+			text = "..."
+		intervals [30]:
+			xmin = 47.5
+			xmax = 49.63
+			text = "então a dona da loja que armou depois"
+		intervals [31]:
+			xmin = 49.63
+			xmax = 49.8
+			text = "..."
+		intervals [32]:
+			xmin = 49.8
+			xmax = 56.9
+			text = "da minha mãe ter saído convidou ela para tomar café na casa dela um dia e aí ligou para o marido que era o dono da loja e falou ah manda o [E] nome do meu pai"
+		intervals [33]:
+			xmin = 56.9
+			xmax = 57.41
+			text = "..."
+		intervals [34]:
+			xmin = 57.41
+			xmax = 59.23
+			text = "trazer uma coisa aqui em casa que eu estou precisando"
+		intervals [35]:
+			xmin = 59.23
+			xmax = 59.41
+			text = "..."
+		intervals [36]:
+			xmin = 59.41
+			xmax = 61.85
+			text = "e armou assim literalmente para eles se reencontrarem"
+		intervals [37]:
+			xmin = 61.85
+			xmax = 62.36
+			text = "..."
+		intervals [38]:
+			xmin = 62.36
+			xmax = 64.54
+			text = "e aí eles namoraram e casaram e taranram"
+		intervals [39]:
+			xmin = 64.54
+			xmax = 64.99
+			text = "..."
+		intervals [40]:
+			xmin = 64.99
+			xmax = 65.98
+			text = "então assim meu pai"
+		intervals [41]:
+			xmin = 65.98
+			xmax = 66.34
+			text = "..."
+		intervals [42]:
+			xmin = 66.34
+			xmax = 68.13
+			text = "trabalhou muito sempre na área de comércio"
+		intervals [43]:
+			xmin = 68.13
+			xmax = 68.25
+			text = "..."
+		intervals [44]:
+			xmin = 68.25
+			xmax = 70.06
+			text = "né trabalhou depois na área de laticínio"
+		intervals [45]:
+			xmin = 70.06
+			xmax = 70.3
+			text = "..."
+		intervals [46]:
+			xmin = 70.3
+			xmax = 75.72
+			text = "no finalzinho da carreira dele é que ele conseguiu ter uma folguinha ele trabalhava na parmalat ele era tipo supervisor de vendas"
+		intervals [47]:
+			xmin = 75.72
+			xmax = 75.91
+			text = "..."
+		intervals [48]:
+			xmin = 75.91
+			xmax = 77.45
+			text = "mas a maior parte do trabalho dele"
+		intervals [49]:
+			xmin = 77.45
+			xmax = 77.83
+			text = "..."
+		intervals [50]:
+			xmin = 77.83
+			xmax = 82.83
+			text = "ele literalmente assim visitava supermercado para ver se quer comprar mais queijo iogurte leite essa coisa né"
+		intervals [51]:
+			xmin = 82.83
+			xmax = 83.82
+			text = "..."
+		intervals [52]:
+			xmin = 83.82
+			xmax = 84.13
+			text = "e aí"
+		intervals [53]:
+			xmin = 84.13
+			xmax = 84.27
+			text = "..."
+		intervals [54]:
+			xmin = 84.27
+			xmax = 84.38
+			text = "de"
+		intervals [55]:
+			xmin = 84.38
+			xmax = 84.49
+			text = "..."
+		intervals [56]:
+			xmin = 84.49
+			xmax = 85.93
+			text = "final de semana ele era feirante"
+		intervals [57]:
+			xmin = 85.93
+			xmax = 86.91
+			text = "..."
+		intervals [58]:
+			xmin = 86.91
+			xmax = 87.38
+			text = "e"
+		intervals [59]:
+			xmin = 87.38
+			xmax = 87.54
+			text = "..."
+		intervals [60]:
+			xmin = 87.54
+			xmax = 89.6
+			text = "assim sempre trabalhou muito a única coisa que ele"
+		intervals [61]:
+			xmin = 89.6
+			xmax = 89.76
+			text = "..."
+		intervals [62]:
+			xmin = 89.76
+			xmax = 92.74
+			text = "entendeu muito cedo que eu sou muito agradecido é que"
+		intervals [63]:
+			xmin = 92.74
+			xmax = 93.41
+			text = "..."
+		intervals [64]:
+			xmin = 93.41
+			xmax = 94.19
+			text = "escola é bom"
+		intervals [65]:
+			xmin = 94.19
+			xmax = 94.49
+			text = "..."
+		intervals [66]:
+			xmin = 94.49
+			xmax = 94.63
+			text = "né"
+		intervals [67]:
+			xmin = 94.63
+			xmax = 95.91
+			text = "..."
+		intervals [68]:
+			xmin = 95.91
+			xmax = 99.18
+			text = "aí ele deu um jeito lá da gente todo mundo estudar então ele era muito"
+		intervals [69]:
+			xmin = 99.18
+			xmax = 99.65
+			text = "..."
+		intervals [70]:
+			xmin = 99.65
+			xmax = 102.74
+			text = "tem que estudar não pode trabalhar eu lembro quando eu arrumei meu meu primeiro emprego foi minha"
+		intervals [71]:
+			xmin = 102.74
+			xmax = 102.95
+			text = "..."
+		intervals [72]:
+			xmin = 102.95
+			xmax = 105.29
+			text = "primeira grande briga com ele porque eu arrumei sem ele saber"
+		intervals [73]:
+			xmin = 105.29
+			xmax = 105.85
+			text = "..."
+		intervals [74]:
+			xmin = 105.85
+			xmax = 106.04
+			text = "né"
+		intervals [75]:
+			xmin = 106.04
+			xmax = 106.29
+			text = "..."
+		intervals [76]:
+			xmin = 106.29
+			xmax = 106.87
+			text = "então assim eu"
+		intervals [77]:
+			xmin = 106.87
+			xmax = 107.09
+			text = "..."
+		intervals [78]:
+			xmin = 107.09
+			xmax = 109.89
+			text = "eu estudei em escola pública nos três a vida inteira"
+		intervals [79]:
+			xmin = 109.89
+			xmax = 110.55
+			text = "..."
+		intervals [80]:
+			xmin = 110.55
+			xmax = 111.73
+			text = "e aí eu decidi"
+		intervals [81]:
+			xmin = 111.73
+			xmax = 112.21
+			text = "..."
+		intervals [82]:
+			xmin = 112.21
+			xmax = 112.44
+			text = "é"
+		intervals [83]:
+			xmin = 112.44
+			xmax = 113.02
+			text = "..."
+		intervals [84]:
+			xmin = 113.02
+			xmax = 115.0
+			text = "eu tinha um professor de inglês na sexta série"
+		intervals [85]:
+			xmin = 115.0
+			xmax = 115.51
+			text = "..."
+		intervals [86]:
+			xmin = 115.51
+			xmax = 115.57
+			text = "né"
+		intervals [87]:
+			xmin = 115.57
+			xmax = 115.84
+			text = "..."
+		intervals [88]:
+			xmin = 115.84
+			xmax = 116.08
+			text = "do"
+		intervals [89]:
+			xmin = 116.08
+			xmax = 116.23
+			text = "..."
+		intervals [90]:
+			xmin = 116.23
+			xmax = 117.78
+			text = "né do primeiro grau antigo primeiro grau"
+		intervals [91]:
+			xmin = 117.78
+			xmax = 118.9
+			text = "..."
+		intervals [92]:
+			xmin = 118.9
+			xmax = 119.27
+			text = "eh"
+		intervals [93]:
+			xmin = 119.27
+			xmax = 119.54
+			text = "..."
+		intervals [94]:
+			xmin = 119.54
+			xmax = 121.62
+			text = "que ele falou assim ah acho que você tem jeito para esse negócio aí"
+		intervals [95]:
+			xmin = 121.62
+			xmax = 121.76
+			text = "..."
+		intervals [96]:
+			xmin = 121.76
+			xmax = 122.75
+			text = "pede teu pai para te botar"
+		intervals [97]:
+			xmin = 122.75
+			xmax = 123.98
+			text = "em um curso aí"
+		intervals [98]:
+			xmin = 123.98
+			xmax = 124.26
+			text = "..."
+		intervals [99]:
+			xmin = 124.26
+			xmax = 124.35
+			text = "a"
+		intervals [100]:
+			xmin = 124.35
+			xmax = 124.58
+			text = "..."
+		intervals [101]:
+			xmin = 124.58
+			xmax = 126.75
+			text = "gente procurou naquela época era cultura inglesa"
+		intervals [102]:
+			xmin = 126.75
+			xmax = 127.0
+			text = "..."
+		intervals [103]:
+			xmin = 127.0
+			xmax = 127.23
+			text = "né"
+		intervals [104]:
+			xmin = 127.23
+			xmax = 127.39
+			text = "..."
+		intervals [105]:
+			xmin = 127.39
+			xmax = 129.26
+			text = "ainda é e tal lá em caxias tem"
+		intervals [106]:
+			xmin = 129.26
+			xmax = 129.36
+			text = "..."
+		intervals [107]:
+			xmin = 129.36
+			xmax = 130.42
+			text = "competidores mas enfim"
+		intervals [108]:
+			xmin = 130.42
+			xmax = 131.06
+			text = "..."
+		intervals [109]:
+			xmin = 131.06
+			xmax = 136.94
+			text = "e aí meu pai falou ó a gente vai pagar com sacrifício e eu sa assim embora não fosse dito verbalmente eu sabia assim tipo reprovou está fora"
+		intervals [110]:
+			xmin = 136.94
+			xmax = 137.32
+			text = "..."
+		intervals [111]:
+			xmin = 137.32
+			xmax = 140.52
+			text = "assim não tem como ficar gastando dinheiro com esse negócio era caro para a gente"
+		intervals [112]:
+			xmin = 140.52
+			xmax = 141.24
+			text = "..."
+		intervals [113]:
+			xmin = 141.24
+			xmax = 142.2
+			text = "então comecei a estudar"
+		intervals [114]:
+			xmin = 142.2
+			xmax = 142.49
+			text = "lá"
+		intervals [115]:
+			xmin = 142.49
+			xmax = 143.52
+			text = "..."
+		intervals [116]:
+			xmin = 143.52
+			xmax = 146.59
+			text = "e nem sei porque que eu fui para isso aí agora mas enfim acho que não importa aí"
+		intervals [117]:
+			xmin = 146.59
+			xmax = 146.91
+			text = "..."
+		intervals [118]:
+			xmin = 146.91
+			xmax = 152.1
+			text = "foi assim que ah tá do meu primeiro emprego e aí com o inglês então antes de eu terminar a cultura inglesa"
+		intervals [119]:
+			xmin = 152.1
+			xmax = 152.39
+			text = "..."
+		intervals [120]:
+			xmin = 152.39
+			xmax = 153.85
+			text = "eu fiquei sabendo na escola"
+		intervals [121]:
+			xmin = 153.85
+			xmax = 154.57
+			text = "..."
+		intervals [122]:
+			xmin = 154.57
+			xmax = 157.36
+			text = "né quando eu estava fazendo o ensino médio que eles estavam precisando de professor de inglês"
+		intervals [123]:
+			xmin = 157.36
+			xmax = 157.76
+			text = "..."
+		intervals [124]:
+			xmin = 157.76
+			xmax = 161.53
+			text = "aí fui e me candidatei sem estar formado ainda na cultura sem ter formado no ensino médio"
+		intervals [125]:
+			xmin = 161.53
+			xmax = 162.13
+			text = "..."
+		intervals [126]:
+			xmin = 162.13
+			xmax = 163.01
+			text = "e aí fiz"
+		intervals [127]:
+			xmin = 163.01
+			xmax = 165.72
+			text = "a entrevista e cheguei em casa todo bobo ganhei o emprego"
+		intervals [128]:
+			xmin = 165.72
+			xmax = 165.86
+			text = "..."
+		intervals [129]:
+			xmin = 165.86
+			xmax = 166.13
+			text = "né"
+		intervals [130]:
+			xmin = 166.13
+			xmax = 166.43
+			text = "..."
+		intervals [131]:
+			xmin = 166.43
+			xmax = 171.32
+			text = "meu pai não vai não sei o que lá porque você vai pegar gosto pelo dinheiro vai largar a escola eu falei não não vou e tal"
+		intervals [132]:
+			xmin = 171.32
+			xmax = 171.69
+			text = "..."
+		intervals [133]:
+			xmin = 171.69
+			xmax = 174.22
+			text = "e realmente eu não larguei eu só dava aula sábado de manhã"
+		intervals [134]:
+			xmin = 174.22
+			xmax = 174.59
+			text = "..."
+		intervals [135]:
+			xmin = 174.59
+			xmax = 177.44
+			text = "gostava sempre quis ser professor aquela coisa assim cinco seis anos de idade"
+		intervals [136]:
+			xmin = 177.44
+			xmax = 177.71
+			text = "..."
+		intervals [137]:
+			xmin = 177.71
+			xmax = 180.56
+			text = "pergunto que que você quer ser quando crescer ah quero ser professor e tal"
+		intervals [138]:
+			xmin = 180.56
+			xmax = 181.29
+			text = "..."
+		intervals [139]:
+			xmin = 181.29
+			xmax = 185.44
+			text = "e aí comecei a dar aula tomei gosto e não larguei o estudo mesmo e tal então ele"
+		intervals [140]:
+			xmin = 185.44
+			xmax = 186.42
+			text = "..."
+		intervals [141]:
+			xmin = 186.42
+			xmax = 186.69
+			text = "ele"
+		intervals [142]:
+			xmin = 186.69
+			xmax = 186.85
+			text = "..."
+		intervals [143]:
+			xmin = 186.85
+			xmax = 188.96
+			text = "ele se convenceu lá depois que que eu"
+		intervals [144]:
+			xmin = 188.96
+			xmax = 189.24
+			text = "..."
+		intervals [145]:
+			xmin = 189.24
+			xmax = 189.76
+			text = "estava"
+		intervals [146]:
+			xmin = 189.76
+			xmax = 189.9
+			text = "..."
+		intervals [147]:
+			xmin = 189.9
+			xmax = 190.96
+			text = "cumprindo a minha palavra"
+		intervals [148]:
+			xmin = 190.96
+			xmax = 197.78
+			text = ""
+		intervals [149]:
+			xmin = 197.78
+			xmax = 198.77
+			text = "não porque isso"
+		intervals [150]:
+			xmin = 198.77
+			xmax = 199.05
+			text = "..."
+		intervals [151]:
+			xmin = 199.05
+			xmax = 203.06
+			text = "é é aquela coisa eu acho que ele tinha esse negócio de proteger a gente do trabalho eu não sei se"
+		intervals [152]:
+			xmin = 203.06
+			xmax = 203.62
+			text = "..."
+		intervals [153]:
+			xmin = 203.62
+			xmax = 209.1
+			text = "por ele ter tido necessidade de trabalhar muito cedo sem ter muita escolha né família grande e tal ele era o segundo da linhagem lá dos"
+		intervals [154]:
+			xmin = 209.1
+			xmax = 209.45
+			text = "onze"
+		intervals [155]:
+			xmin = 209.45
+			xmax = 209.83
+			text = "..."
+		intervals [156]:
+			xmin = 209.83
+			xmax = 211.9
+			text = "né então ele trabalhava para sustentar o resto"
+		intervals [157]:
+			xmin = 211.9
+			xmax = 212.47
+			text = "..."
+		intervals [158]:
+			xmin = 212.47
+			xmax = 214.43
+			text = "meu avô o tal do alcoólatra lá"
+		intervals [159]:
+			xmin = 214.43
+			xmax = 214.56
+			text = "..."
+		intervals [160]:
+			xmin = 214.56
+			xmax = 215.61
+			text = "né [V] é o nome dele"
+		intervals [161]:
+			xmin = 215.61
+			xmax = 215.86
+			text = "..."
+		intervals [162]:
+			xmin = 215.86
+			xmax = 221.57
+			text = "perdeu muito dinheiro em jogo de cavalo então assim ele ele ganhou muito dinheiro mas perdeu muito eles viviam na pindaíba lá também"
+		intervals [163]:
+			xmin = 221.57
+			xmax = 222.1
+			text = "..."
+		intervals [164]:
+			xmin = 222.1
+			xmax = 224.22
+			text = "então não não nunca fui na feira com ele"
+		intervals [165]:
+			xmin = 224.22
+			xmax = 227.44
+			text = "ajudei um tio meu depois no comércio e tal mas meu pai meio que tentou"
+		intervals [166]:
+			xmin = 227.44
+			xmax = 228.19
+			text = "..."
+		intervals [167]:
+			xmin = 228.19
+			xmax = 231.78
+			text = "mas eu só entendo isso hoje também minha mãe ah seu pai está trabalhando mas a gente não saía com ele"
+		intervals [168]:
+			xmin = 231.78
+			xmax = 232.27
+			text = "..."
+		intervals [169]:
+			xmin = 232.27
+			xmax = 232.54
+			text = "hm"
+		intervals [170]:
+			xmin = 232.54
+			xmax = 233.17
+			text = "..."
+		intervals [171]:
+			xmin = 233.17
+			xmax = 233.37
+			text = "é era"
+		intervals [172]:
+			xmin = 233.37
+			xmax = 233.48
+			text = "..."
+		intervals [173]:
+			xmin = 233.48
+			xmax = 234.54
+			text = "viver para estudar"
+		intervals [174]:
+			xmin = 234.54
+			xmax = 235.7
+			text = "..."
+		intervals [175]:
+			xmin = 235.7
+			xmax = 235.99
+			text = "sabe"
+		intervals [176]:
+			xmin = 235.99
+			xmax = 236.85
+			text = "..."
+		intervals [177]:
+			xmin = 236.85
+			xmax = 243.04
+			text = ""
+		intervals [178]:
+			xmin = 243.04
+			xmax = 243.8
+			text = "o comecinho"
+		intervals [179]:
+			xmin = 243.8
+			xmax = 250.98
+			text = "sim porque assim eu lembro que quando eu fiz quatro anos é uma das minhas primeiras memórias assim de vida na verdade quando eu fiz quatro eu entrei em março na escola"
+		intervals [180]:
+			xmin = 250.98
+			xmax = 251.1
+			text = "..."
+		intervals [181]:
+			xmin = 251.1
+			xmax = 251.91
+			text = "eu sou de abril"
+		intervals [182]:
+			xmin = 251.91
+			xmax = 252.13
+			text = "..."
+		intervals [183]:
+			xmin = 252.13
+			xmax = 253.12
+			text = "né e eu lembro assim"
+		intervals [184]:
+			xmin = 253.12
+			xmax = 253.29
+			text = "..."
+		intervals [185]:
+			xmin = 253.29
+			xmax = 255.32
+			text = "quando eu fiz quatro anos na minha carteira tinha"
+		intervals [186]:
+			xmin = 255.32
+			xmax = 255.54
+			text = "um"
+		intervals [187]:
+			xmin = 255.54
+			xmax = 255.69
+			text = "um"
+		intervals [188]:
+			xmin = 255.69
+			xmax = 256.24
+			text = "..."
+		intervals [189]:
+			xmin = 256.24
+			xmax = 261.27
+			text = "um cartãozinho e um saquinho de confete assim de chocolate a minha primeira professora era a [H]"
+		intervals [190]:
+			xmin = 261.27
+			xmax = 261.6
+			text = "..."
+		intervals [191]:
+			xmin = 261.6
+			xmax = 261.84
+			text = "né eu"
+		intervals [192]:
+			xmin = 261.84
+			xmax = 262.4
+			text = "..."
+		intervals [193]:
+			xmin = 262.4
+			xmax = 264.5
+			text = "encontrei com ela muitos anos depois e tal"
+		intervals [194]:
+			xmin = 264.5
+			xmax = 265.91
+			text = "ela está lá no rio ainda"
+		intervals [195]:
+			xmin = 265.91
+			xmax = 266.05
+			text = "..."
+		intervals [196]:
+			xmin = 266.05
+			xmax = 270.15
+			text = "dando aula e tal conhece bem a minha irmã minha irmã também é professora lá no rio então"
+		intervals [197]:
+			xmin = 270.15
+			xmax = 270.55
+			text = "..."
+		intervals [198]:
+			xmin = 270.55
+			xmax = 271.42
+			text = "tenho contato com ela"
+		intervals [199]:
+			xmin = 271.42
+			xmax = 272.11
+			text = "..."
+		intervals [200]:
+			xmin = 272.11
+			xmax = 273.02
+			text = "mas enfim então essas são"
+		intervals [201]:
+			xmin = 273.02
+			xmax = 273.17
+			text = "..."
+		intervals [202]:
+			xmin = 273.17
+			xmax = 277.42
+			text = "as minhas memórias aí mas eu sempre gostei assim de participar do negócio de escola tanto de escrever quanto de"
+	item [5]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 277.42
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 277.42
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 277.42
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 277.42
+			text = ""

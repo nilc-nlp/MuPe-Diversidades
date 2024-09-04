@@ -1,0 +1,1788 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 279.19
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 279.19
+		intervals: size = 138
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.01
+			text = "e toda essa atividade cultural eu participava"
+		intervals [2]:
+			xmin = 2.01
+			xmax = 2.36
+			text = "..."
+		intervals [3]:
+			xmin = 2.36
+			xmax = 4.43
+			text = "muito bem se tivesse nota para isso"
+		intervals [4]:
+			xmin = 4.43
+			xmax = 4.88
+			text = "..."
+		intervals [5]:
+			xmin = 4.88
+			xmax = 5.77
+			text = "eu teria dez"
+		intervals [6]:
+			xmin = 5.77
+			xmax = 6.35
+			text = "..."
+		intervals [7]:
+			xmin = 6.35
+			xmax = 10.35
+			text = "agora nas outras nas matérias mesmo português matemática"
+		intervals [8]:
+			xmin = 10.35
+			xmax = 10.78
+			text = "..."
+		intervals [9]:
+			xmin = 10.78
+			xmax = 16.06
+			text = "eu já não era muito ma matemática que era o meu ponto fraco português geografia história eu sempre saía bem porque assim"
+		intervals [10]:
+			xmin = 16.06
+			xmax = 16.44
+			text = "..."
+		intervals [11]:
+			xmin = 16.44
+			xmax = 17.83
+			text = "é onde tem mais essa parte"
+		intervals [12]:
+			xmin = 17.83
+			xmax = 18.39
+			text = "lúdica"
+		intervals [13]:
+			xmin = 18.39
+			xmax = 21.27
+			text = "de ficar criando imaginando contando histórias"
+		intervals [14]:
+			xmin = 21.27
+			xmax = 21.77
+			text = "..."
+		intervals [15]:
+			xmin = 21.77
+			xmax = 22.67
+			text = "isso é mais fácil"
+		intervals [16]:
+			xmin = 22.67
+			xmax = 23.06
+			text = "..."
+		intervals [17]:
+			xmin = 23.06
+			xmax = 24.36
+			text = "o pensamento lógico"
+		intervals [18]:
+			xmin = 24.36
+			xmax = 24.69
+			text = "..."
+		intervals [19]:
+			xmin = 24.69
+			xmax = 25.14
+			text = "já é o que"
+		intervals [20]:
+			xmin = 25.14
+			xmax = 25.35
+			text = "é"
+		intervals [21]:
+			xmin = 25.35
+			xmax = 25.73
+			text = "..."
+		intervals [22]:
+			xmin = 25.73
+			xmax = 26.8
+			text = "um pouco mais difícil"
+		intervals [23]:
+			xmin = 26.8
+			xmax = 27.31
+			text = "..."
+		intervals [24]:
+			xmin = 27.31
+			xmax = 28.12
+			text = "para a minha cabeça"
+		intervals [25]:
+			xmin = 28.12
+			xmax = 28.86
+			text = "..."
+		intervals [26]:
+			xmin = 28.86
+			xmax = 36.66
+			text = ""
+		intervals [27]:
+			xmin = 36.66
+			xmax = 38.16
+			text = "rio grande é pequeno"
+		intervals [28]:
+			xmin = 38.16
+			xmax = 38.61
+			text = "..."
+		intervals [29]:
+			xmin = 38.61
+			xmax = 39.69
+			text = "hum é pequeno o"
+		intervals [30]:
+			xmin = 39.69
+			xmax = 40.73
+			text = "..."
+		intervals [31]:
+			xmin = 40.73
+			xmax = 41.31
+			text = "o hoje"
+		intervals [32]:
+			xmin = 41.31
+			xmax = 46.11
+			text = "tem mais ou menos uns duzentos e cinquenta mil trezentos mil habitantes no máximo porque"
+		intervals [33]:
+			xmin = 46.11
+			xmax = 46.97
+			text = "..."
+		intervals [34]:
+			xmin = 46.97
+			xmax = 52.07
+			text = "a cidade cresceu muito em função do super porto que muita gente de fora"
+		intervals [35]:
+			xmin = 52.07
+			xmax = 53.7
+			text = "veio para rio grande isso há"
+		intervals [36]:
+			xmin = 53.7
+			xmax = 54.33
+			text = "..."
+		intervals [37]:
+			xmin = 54.33
+			xmax = 56.55
+			text = "quarenta ãh e tantos anos atrás"
+		intervals [38]:
+			xmin = 56.55
+			xmax = 57.34
+			text = "não só"
+		intervals [39]:
+			xmin = 57.34
+			xmax = 57.67
+			text = "..."
+		intervals [40]:
+			xmin = 57.67
+			xmax = 59.35
+			text = "só moravam mesmo os habitantes"
+		intervals [41]:
+			xmin = 59.35
+			xmax = 59.8
+			text = "..."
+		intervals [42]:
+			xmin = 59.8
+			xmax = 61.92
+			text = "na época rio grande tinha o quê uns"
+		intervals [43]:
+			xmin = 61.92
+			xmax = 62.62
+			text = "..."
+		intervals [44]:
+			xmin = 62.62
+			xmax = 64.99
+			text = "entre quinze e vinte mil habitantes mais ou menos"
+		intervals [45]:
+			xmin = 64.99
+			xmax = 65.9
+			text = ""
+		intervals [46]:
+			xmin = 65.9
+			xmax = 68.43
+			text = "é uma cidade pequena porque ela também é li ela é ê limitada"
+		intervals [47]:
+			xmin = 68.43
+			xmax = 68.8
+			text = "..."
+		intervals [48]:
+			xmin = 68.8
+			xmax = 69.5
+			text = "pelo mar"
+		intervals [49]:
+			xmin = 69.5
+			xmax = 70.2
+			text = "..."
+		intervals [50]:
+			xmin = 70.2
+			xmax = 72.39
+			text = "rio grande ela fica à direita"
+		intervals [51]:
+			xmin = 72.39
+			xmax = 72.97
+			text = "..."
+		intervals [52]:
+			xmin = 72.97
+			xmax = 77.47
+			text = "na margem direita da quando a lagoa dos patos se encontra com o oceano atlântico"
+		intervals [53]:
+			xmin = 77.47
+			xmax = 78.18
+			text = "..."
+		intervals [54]:
+			xmin = 78.18
+			xmax = 79.95
+			text = "a margem direita tem um banco"
+		intervals [55]:
+			xmin = 79.95
+			xmax = 80.39
+			text = "..."
+		intervals [56]:
+			xmin = 80.39
+			xmax = 81.46
+			text = "uma península uma"
+		intervals [57]:
+			xmin = 81.46
+			xmax = 82.0
+			text = "..."
+		intervals [58]:
+			xmin = 82.0
+			xmax = 83.18
+			text = "um braço de areia"
+		intervals [59]:
+			xmin = 83.18
+			xmax = 83.94
+			text = "..."
+		intervals [60]:
+			xmin = 83.94
+			xmax = 85.41
+			text = "e é ali que rio grande foi"
+		intervals [61]:
+			xmin = 85.41
+			xmax = 86.36
+			text = "se desenvolvendo"
+		intervals [62]:
+			xmin = 86.36
+			xmax = 87.48
+			text = "..."
+		intervals [63]:
+			xmin = 87.48
+			xmax = 87.9
+			text = "por"
+		intervals [64]:
+			xmin = 87.9
+			xmax = 88.57
+			text = "..."
+		intervals [65]:
+			xmin = 88.57
+			xmax = 90.16
+			text = "por ser um ponto estratégico"
+		intervals [66]:
+			xmin = 90.16
+			xmax = 90.72
+			text = "..."
+		intervals [67]:
+			xmin = 90.72
+			xmax = 93.36
+			text = "que anteriormente os portugueses e os espanhóis"
+		intervals [68]:
+			xmin = 93.36
+			xmax = 94.02
+			text = "..."
+		intervals [69]:
+			xmin = 94.02
+			xmax = 99.96
+			text = "na época da dominação eles disputavam esse ponto porque militarmente era um ponto estratégico"
+		intervals [70]:
+			xmin = 99.96
+			xmax = 100.48
+			text = "..."
+		intervals [71]:
+			xmin = 100.48
+			xmax = 102.67
+			text = "quem dominava esse ponto dominava toda"
+		intervals [72]:
+			xmin = 102.67
+			xmax = 102.99
+			text = "..."
+		intervals [73]:
+			xmin = 102.99
+			xmax = 105.21
+			text = "a entrada da lagoa dos patos"
+		intervals [74]:
+			xmin = 105.21
+			xmax = 106.22
+			text = "..."
+		intervals [75]:
+			xmin = 106.22
+			xmax = 111.19
+			text = "então a partir dessa disputa é que a cidade foi desenvolvendo primeiro fizeram um forte"
+		intervals [76]:
+			xmin = 111.19
+			xmax = 111.57
+			text = "..."
+		intervals [77]:
+			xmin = 111.57
+			xmax = 113.36
+			text = "daí junto com o forte uma igreja"
+		intervals [78]:
+			xmin = 113.36
+			xmax = 113.67
+			text = "..."
+		intervals [79]:
+			xmin = 113.67
+			xmax = 116.01
+			text = "e a partir daí que rio grande foi crescendo"
+		intervals [80]:
+			xmin = 116.01
+			xmax = 116.7
+			text = "..."
+		intervals [81]:
+			xmin = 116.7
+			xmax = 120.06
+			text = ""
+		intervals [82]:
+			xmin = 120.06
+			xmax = 120.35
+			text = "ãh"
+		intervals [83]:
+			xmin = 120.35
+			xmax = 120.79
+			text = "..."
+		intervals [84]:
+			xmin = 120.79
+			xmax = 123.93
+			text = "vamos tentar pegar a passar da sua infância chegar à sua adolescência"
+		intervals [85]:
+			xmin = 123.93
+			xmax = 124.26
+			text = "..."
+		intervals [86]:
+			xmin = 124.26
+			xmax = 127.71
+			text = "tendo como fio condutor dessa narrativa a sua"
+		intervals [87]:
+			xmin = 127.71
+			xmax = 129.19
+			text = "descoberta e a sua aptidão"
+		intervals [88]:
+			xmin = 129.19
+			xmax = 129.68
+			text = "..."
+		intervals [89]:
+			xmin = 129.68
+			xmax = 134.77
+			text = "para a música sua mãe você estava dizendo que ela descobriu começou a descobrir esse seu lado com quando você tinha um ano e meio hum"
+		intervals [90]:
+			xmin = 134.77
+			xmax = 135.82
+			text = ""
+		intervals [91]:
+			xmin = 135.82
+			xmax = 136.72
+			text = "com te dando a lata"
+		intervals [92]:
+			xmin = 136.72
+			xmax = 139.2
+			text = "lá e como é que isso foi seguindo eh essa sua"
+		intervals [93]:
+			xmin = 139.2
+			xmax = 140.82
+			text = "esse seu contato com a música"
+		intervals [94]:
+			xmin = 140.82
+			xmax = 141.26
+			text = "..."
+		intervals [95]:
+			xmin = 141.26
+			xmax = 143.66
+			text = "o estímulo que a sua mãe dava para esse seu"
+		intervals [96]:
+			xmin = 143.66
+			xmax = 144.57
+			text = "para esse seu dom"
+		intervals [97]:
+			xmin = 144.57
+			xmax = 144.96
+			text = "..."
+		intervals [98]:
+			xmin = 144.96
+			xmax = 146.15
+			text = "conta para a gente como foi isso"
+		intervals [99]:
+			xmin = 146.15
+			xmax = 146.74
+			text = "..."
+		intervals [100]:
+			xmin = 146.74
+			xmax = 223.41
+			text = ""
+		intervals [101]:
+			xmin = 223.41
+			xmax = 224.39
+			text = "não profissionalmente"
+		intervals [102]:
+			xmin = 224.39
+			xmax = 224.69
+			text = "não"
+		intervals [103]:
+			xmin = 224.69
+			xmax = 226.15
+			text = ""
+		intervals [104]:
+			xmin = 226.15
+			xmax = 229.26
+			text = "não meu pai não minha mãe também não mas eles"
+		intervals [105]:
+			xmin = 229.26
+			xmax = 231.15
+			text = "têm um ouvido muito legal"
+		intervals [106]:
+			xmin = 231.15
+			xmax = 231.99
+			text = "..."
+		intervals [107]:
+			xmin = 231.99
+			xmax = 232.71
+			text = "muito legal"
+		intervals [108]:
+			xmin = 232.71
+			xmax = 233.63
+			text = "..."
+		intervals [109]:
+			xmin = 233.63
+			xmax = 234.09
+			text = "eh"
+		intervals [110]:
+			xmin = 234.09
+			xmax = 234.75
+			text = "..."
+		intervals [111]:
+			xmin = 234.75
+			xmax = 235.77
+			text = "os meus tios"
+		intervals [112]:
+			xmin = 235.77
+			xmax = 236.17
+			text = "..."
+		intervals [113]:
+			xmin = 236.17
+			xmax = 239.19
+			text = "tanto por parte de hum de pai ou parte de mãe"
+		intervals [114]:
+			xmin = 239.19
+			xmax = 239.61
+			text = "..."
+		intervals [115]:
+			xmin = 239.61
+			xmax = 243.95
+			text = "vários tocavam instrumentos nunca chegaram a ser profissional por parte de pai"
+		intervals [116]:
+			xmin = 243.95
+			xmax = 244.56
+			text = "..."
+		intervals [117]:
+			xmin = 244.56
+			xmax = 246.55
+			text = "tinham dois tios que tocavam"
+		intervals [118]:
+			xmin = 246.55
+			xmax = 246.91
+			text = "..."
+		intervals [119]:
+			xmin = 246.91
+			xmax = 247.61
+			text = "percussão"
+		intervals [120]:
+			xmin = 247.61
+			xmax = 249.13
+			text = "..."
+		intervals [121]:
+			xmin = 249.13
+			xmax = 252.09
+			text = "por parte de mãe também tinham dois tios"
+		intervals [122]:
+			xmin = 252.09
+			xmax = 253.15
+			text = "..."
+		intervals [123]:
+			xmin = 253.15
+			xmax = 253.92
+			text = "que tocavam"
+		intervals [124]:
+			xmin = 253.92
+			xmax = 254.65
+			text = "..."
+		intervals [125]:
+			xmin = 254.65
+			xmax = 257.76
+			text = "banjo esse meu tio meu tio [J] tocava banjo"
+		intervals [126]:
+			xmin = 257.76
+			xmax = 260.48
+			text = "e trombone e tinha um outro tio que tocava violão"
+		intervals [127]:
+			xmin = 260.48
+			xmax = 260.91
+			text = "..."
+		intervals [128]:
+			xmin = 260.91
+			xmax = 264.59
+			text = "inclusive tem uma história muito im muito importante que muito curiosa que o meu pai conta"
+		intervals [129]:
+			xmin = 264.59
+			xmax = 265.47
+			text = "..."
+		intervals [130]:
+			xmin = 265.47
+			xmax = 268.03
+			text = "que eu tinha uns três ou quatro anos e esses meus tios"
+		intervals [131]:
+			xmin = 268.03
+			xmax = 268.56
+			text = "..."
+		intervals [132]:
+			xmin = 268.56
+			xmax = 269.8
+			text = "sempre ficavam lá em casa"
+		intervals [133]:
+			xmin = 269.8
+			xmax = 270.21
+			text = "..."
+		intervals [134]:
+			xmin = 270.21
+			xmax = 276.52
+			text = "que um na casa do meu pai era onde que se reuniam tanto o lado do meu pai quanto o lado da minha mãe os meus tios"
+		intervals [135]:
+			xmin = 276.52
+			xmax = 276.87
+			text = "..."
+		intervals [136]:
+			xmin = 276.87
+			xmax = 278.17
+			text = "maternos e paternos"
+		intervals [137]:
+			xmin = 278.17
+			xmax = 278.52
+			text = "..."
+		intervals [138]:
+			xmin = 278.52
+			xmax = 279.19
+			text = "se juntavam"
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 279.19
+		intervals: size = 163
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.01
+			text = "e toda essa atividade cultural eu participava"
+		intervals [2]:
+			xmin = 2.01
+			xmax = 2.36
+			text = "..."
+		intervals [3]:
+			xmin = 2.36
+			xmax = 4.43
+			text = "muito bem se tivesse nota para isso"
+		intervals [4]:
+			xmin = 4.43
+			xmax = 4.88
+			text = "..."
+		intervals [5]:
+			xmin = 4.88
+			xmax = 5.77
+			text = "eu teria dez"
+		intervals [6]:
+			xmin = 5.77
+			xmax = 6.35
+			text = "..."
+		intervals [7]:
+			xmin = 6.35
+			xmax = 10.35
+			text = "agora nas outras nas matérias mesmo português matemática"
+		intervals [8]:
+			xmin = 10.35
+			xmax = 10.78
+			text = "..."
+		intervals [9]:
+			xmin = 10.78
+			xmax = 15.49
+			text = "eu já não era muito ma matemática que era o meu ponto fraco português geografia história eu sempre saía bem"
+		intervals [10]:
+			xmin = 15.49
+			xmax = 15.72
+			text = "..."
+		intervals [11]:
+			xmin = 15.72
+			xmax = 16.06
+			text = "porque assim"
+		intervals [12]:
+			xmin = 16.06
+			xmax = 16.44
+			text = "..."
+		intervals [13]:
+			xmin = 16.44
+			xmax = 17.83
+			text = "é onde tem mais essa parte"
+		intervals [14]:
+			xmin = 17.83
+			xmax = 18.39
+			text = "lúdica"
+		intervals [15]:
+			xmin = 18.39
+			xmax = 21.27
+			text = "de ficar criando imaginando contando histórias"
+		intervals [16]:
+			xmin = 21.27
+			xmax = 21.77
+			text = "..."
+		intervals [17]:
+			xmin = 21.77
+			xmax = 22.67
+			text = "isso é mais fácil"
+		intervals [18]:
+			xmin = 22.67
+			xmax = 23.06
+			text = "..."
+		intervals [19]:
+			xmin = 23.06
+			xmax = 24.36
+			text = "o pensamento lógico"
+		intervals [20]:
+			xmin = 24.36
+			xmax = 24.69
+			text = "..."
+		intervals [21]:
+			xmin = 24.69
+			xmax = 25.14
+			text = "já é o que"
+		intervals [22]:
+			xmin = 25.14
+			xmax = 25.35
+			text = "é"
+		intervals [23]:
+			xmin = 25.35
+			xmax = 25.73
+			text = "..."
+		intervals [24]:
+			xmin = 25.73
+			xmax = 26.8
+			text = "um pouco mais difícil"
+		intervals [25]:
+			xmin = 26.8
+			xmax = 27.31
+			text = "..."
+		intervals [26]:
+			xmin = 27.31
+			xmax = 28.12
+			text = "para a minha cabeça"
+		intervals [27]:
+			xmin = 28.12
+			xmax = 28.86
+			text = "..."
+		intervals [28]:
+			xmin = 28.86
+			xmax = 36.66
+			text = ""
+		intervals [29]:
+			xmin = 36.66
+			xmax = 38.16
+			text = "rio grande é pequeno"
+		intervals [30]:
+			xmin = 38.16
+			xmax = 38.61
+			text = "..."
+		intervals [31]:
+			xmin = 38.61
+			xmax = 39.69
+			text = "hum é pequeno o"
+		intervals [32]:
+			xmin = 39.69
+			xmax = 40.73
+			text = "..."
+		intervals [33]:
+			xmin = 40.73
+			xmax = 41.31
+			text = "o hoje"
+		intervals [34]:
+			xmin = 41.31
+			xmax = 46.11
+			text = "tem mais ou menos uns duzentos e cinquenta mil trezentos mil habitantes no máximo porque"
+		intervals [35]:
+			xmin = 46.11
+			xmax = 46.97
+			text = "..."
+		intervals [36]:
+			xmin = 46.97
+			xmax = 49.01
+			text = "a cidade cresceu muito em função"
+		intervals [37]:
+			xmin = 49.01
+			xmax = 49.16
+			text = "..."
+		intervals [38]:
+			xmin = 49.16
+			xmax = 50.25
+			text = "do super porto"
+		intervals [39]:
+			xmin = 50.25
+			xmax = 50.51
+			text = "..."
+		intervals [40]:
+			xmin = 50.51
+			xmax = 52.07
+			text = "que muita gente de fora"
+		intervals [41]:
+			xmin = 52.07
+			xmax = 53.7
+			text = "veio para rio grande isso há"
+		intervals [42]:
+			xmin = 53.7
+			xmax = 54.33
+			text = "..."
+		intervals [43]:
+			xmin = 54.33
+			xmax = 56.55
+			text = "quarenta ãh e tantos anos atrás"
+		intervals [44]:
+			xmin = 56.55
+			xmax = 57.34
+			text = "não só"
+		intervals [45]:
+			xmin = 57.34
+			xmax = 57.67
+			text = "..."
+		intervals [46]:
+			xmin = 57.67
+			xmax = 59.35
+			text = "só moravam mesmo os habitantes"
+		intervals [47]:
+			xmin = 59.35
+			xmax = 59.8
+			text = "..."
+		intervals [48]:
+			xmin = 59.8
+			xmax = 61.92
+			text = "na época rio grande tinha o quê uns"
+		intervals [49]:
+			xmin = 61.92
+			xmax = 62.62
+			text = "..."
+		intervals [50]:
+			xmin = 62.62
+			xmax = 64.99
+			text = "entre quinze e vinte mil habitantes mais ou menos"
+		intervals [51]:
+			xmin = 64.99
+			xmax = 65.9
+			text = ""
+		intervals [52]:
+			xmin = 65.9
+			xmax = 68.43
+			text = "é uma cidade pequena porque ela também é li ela é ê limitada"
+		intervals [53]:
+			xmin = 68.43
+			xmax = 68.8
+			text = "..."
+		intervals [54]:
+			xmin = 68.8
+			xmax = 69.5
+			text = "pelo mar"
+		intervals [55]:
+			xmin = 69.5
+			xmax = 70.2
+			text = "..."
+		intervals [56]:
+			xmin = 70.2
+			xmax = 72.39
+			text = "rio grande ela fica à direita"
+		intervals [57]:
+			xmin = 72.39
+			xmax = 72.97
+			text = "..."
+		intervals [58]:
+			xmin = 72.97
+			xmax = 77.47
+			text = "na margem direita da quando a lagoa dos patos se encontra com o oceano atlântico"
+		intervals [59]:
+			xmin = 77.47
+			xmax = 78.18
+			text = "..."
+		intervals [60]:
+			xmin = 78.18
+			xmax = 79.95
+			text = "a margem direita tem um banco"
+		intervals [61]:
+			xmin = 79.95
+			xmax = 80.39
+			text = "..."
+		intervals [62]:
+			xmin = 80.39
+			xmax = 81.46
+			text = "uma península uma"
+		intervals [63]:
+			xmin = 81.46
+			xmax = 82.0
+			text = "..."
+		intervals [64]:
+			xmin = 82.0
+			xmax = 83.18
+			text = "um braço de areia"
+		intervals [65]:
+			xmin = 83.18
+			xmax = 83.94
+			text = "..."
+		intervals [66]:
+			xmin = 83.94
+			xmax = 85.41
+			text = "e é ali que rio grande foi"
+		intervals [67]:
+			xmin = 85.41
+			xmax = 86.36
+			text = "se desenvolvendo"
+		intervals [68]:
+			xmin = 86.36
+			xmax = 87.48
+			text = "..."
+		intervals [69]:
+			xmin = 87.48
+			xmax = 87.9
+			text = "por"
+		intervals [70]:
+			xmin = 87.9
+			xmax = 88.57
+			text = "..."
+		intervals [71]:
+			xmin = 88.57
+			xmax = 90.16
+			text = "por ser um ponto estratégico"
+		intervals [72]:
+			xmin = 90.16
+			xmax = 90.72
+			text = "..."
+		intervals [73]:
+			xmin = 90.72
+			xmax = 93.36
+			text = "que anteriormente os portugueses e os espanhóis"
+		intervals [74]:
+			xmin = 93.36
+			xmax = 94.02
+			text = "..."
+		intervals [75]:
+			xmin = 94.02
+			xmax = 95.56
+			text = "na época da dominação"
+		intervals [76]:
+			xmin = 95.56
+			xmax = 95.81
+			text = "..."
+		intervals [77]:
+			xmin = 95.81
+			xmax = 96.22
+			text = "eles"
+		intervals [78]:
+			xmin = 96.22
+			xmax = 96.35
+			text = "..."
+		intervals [79]:
+			xmin = 96.35
+			xmax = 99.96
+			text = "disputavam esse ponto porque militarmente era um ponto estratégico"
+		intervals [80]:
+			xmin = 99.96
+			xmax = 100.48
+			text = "..."
+		intervals [81]:
+			xmin = 100.48
+			xmax = 102.67
+			text = "quem dominava esse ponto dominava toda"
+		intervals [82]:
+			xmin = 102.67
+			xmax = 102.99
+			text = "..."
+		intervals [83]:
+			xmin = 102.99
+			xmax = 105.21
+			text = "a entrada da lagoa dos patos"
+		intervals [84]:
+			xmin = 105.21
+			xmax = 106.22
+			text = "..."
+		intervals [85]:
+			xmin = 106.22
+			xmax = 107.97
+			text = "então a partir dessa disputa"
+		intervals [86]:
+			xmin = 107.97
+			xmax = 108.27
+			text = "..."
+		intervals [87]:
+			xmin = 108.27
+			xmax = 111.19
+			text = "é que a cidade foi desenvolvendo primeiro fizeram um forte"
+		intervals [88]:
+			xmin = 111.19
+			xmax = 111.57
+			text = "..."
+		intervals [89]:
+			xmin = 111.57
+			xmax = 113.36
+			text = "daí junto com o forte uma igreja"
+		intervals [90]:
+			xmin = 113.36
+			xmax = 113.67
+			text = "..."
+		intervals [91]:
+			xmin = 113.67
+			xmax = 115.25
+			text = "e a partir daí que rio grande foi"
+		intervals [92]:
+			xmin = 115.25
+			xmax = 115.51
+			text = "..."
+		intervals [93]:
+			xmin = 115.51
+			xmax = 116.01
+			text = "crescendo"
+		intervals [94]:
+			xmin = 116.01
+			xmax = 116.7
+			text = "..."
+		intervals [95]:
+			xmin = 116.7
+			xmax = 120.31
+			text = ""
+		intervals [96]:
+			xmin = 120.31
+			xmax = 120.35
+			text = "ãh"
+		intervals [97]:
+			xmin = 120.35
+			xmax = 120.79
+			text = "..."
+		intervals [98]:
+			xmin = 120.79
+			xmax = 123.93
+			text = "vamos tentar pegar a passar da sua infância chegar à sua adolescência"
+		intervals [99]:
+			xmin = 123.93
+			xmax = 124.26
+			text = "..."
+		intervals [100]:
+			xmin = 124.26
+			xmax = 125.22
+			text = "tendo como"
+		intervals [101]:
+			xmin = 125.22
+			xmax = 125.47
+			text = "..."
+		intervals [102]:
+			xmin = 125.47
+			xmax = 127.71
+			text = "fio condutor dessa narrativa a sua"
+		intervals [103]:
+			xmin = 127.71
+			xmax = 129.19
+			text = "descoberta e a sua aptidão"
+		intervals [104]:
+			xmin = 129.19
+			xmax = 129.68
+			text = "..."
+		intervals [105]:
+			xmin = 129.68
+			xmax = 134.77
+			text = "para a música sua mãe você estava dizendo que ela descobriu começou a descobrir esse seu lado com quando você tinha um ano e meio hum"
+		intervals [106]:
+			xmin = 134.77
+			xmax = 135.82
+			text = ""
+		intervals [107]:
+			xmin = 135.82
+			xmax = 136.72
+			text = "com te dando a lata"
+		intervals [108]:
+			xmin = 136.72
+			xmax = 139.2
+			text = "lá e como é que isso foi seguindo eh essa sua"
+		intervals [109]:
+			xmin = 139.2
+			xmax = 140.82
+			text = "esse seu contato com a música"
+		intervals [110]:
+			xmin = 140.82
+			xmax = 141.26
+			text = "..."
+		intervals [111]:
+			xmin = 141.26
+			xmax = 143.66
+			text = "o estímulo que a sua mãe dava para esse seu"
+		intervals [112]:
+			xmin = 143.66
+			xmax = 144.57
+			text = "para esse seu dom"
+		intervals [113]:
+			xmin = 144.57
+			xmax = 144.96
+			text = "..."
+		intervals [114]:
+			xmin = 144.96
+			xmax = 146.15
+			text = "conta para a gente como foi isso"
+		intervals [115]:
+			xmin = 146.15
+			xmax = 146.74
+			text = "..."
+		intervals [116]:
+			xmin = 146.74
+			xmax = 223.41
+			text = ""
+		intervals [117]:
+			xmin = 223.41
+			xmax = 224.39
+			text = "não profissionalmente"
+		intervals [118]:
+			xmin = 224.39
+			xmax = 224.69
+			text = "não"
+		intervals [119]:
+			xmin = 224.69
+			xmax = 224.93
+			text = "..."
+		intervals [120]:
+			xmin = 224.93
+			xmax = 226.15
+			text = ""
+		intervals [121]:
+			xmin = 226.15
+			xmax = 227.39
+			text = "não meu pai não"
+		intervals [122]:
+			xmin = 227.39
+			xmax = 227.6
+			text = "..."
+		intervals [123]:
+			xmin = 227.6
+			xmax = 229.26
+			text = "minha mãe também não mas eles"
+		intervals [124]:
+			xmin = 229.26
+			xmax = 231.15
+			text = "têm um ouvido muito legal"
+		intervals [125]:
+			xmin = 231.15
+			xmax = 231.99
+			text = "..."
+		intervals [126]:
+			xmin = 231.99
+			xmax = 232.71
+			text = "muito legal"
+		intervals [127]:
+			xmin = 232.71
+			xmax = 233.63
+			text = "..."
+		intervals [128]:
+			xmin = 233.63
+			xmax = 234.09
+			text = "eh"
+		intervals [129]:
+			xmin = 234.09
+			xmax = 234.75
+			text = "..."
+		intervals [130]:
+			xmin = 234.75
+			xmax = 235.77
+			text = "os meus tios"
+		intervals [131]:
+			xmin = 235.77
+			xmax = 236.17
+			text = "..."
+		intervals [132]:
+			xmin = 236.17
+			xmax = 237.44
+			text = "tanto por parte de hum"
+		intervals [133]:
+			xmin = 237.44
+			xmax = 237.58
+			text = "..."
+		intervals [134]:
+			xmin = 237.58
+			xmax = 239.19
+			text = "de pai ou parte de mãe"
+		intervals [135]:
+			xmin = 239.19
+			xmax = 239.61
+			text = "..."
+		intervals [136]:
+			xmin = 239.61
+			xmax = 243.95
+			text = "vários tocavam instrumentos nunca chegaram a ser profissional por parte de pai"
+		intervals [137]:
+			xmin = 243.95
+			xmax = 244.56
+			text = "..."
+		intervals [138]:
+			xmin = 244.56
+			xmax = 246.55
+			text = "tinham dois tios que tocavam"
+		intervals [139]:
+			xmin = 246.55
+			xmax = 246.91
+			text = "..."
+		intervals [140]:
+			xmin = 246.91
+			xmax = 247.61
+			text = "percussão"
+		intervals [141]:
+			xmin = 247.61
+			xmax = 249.13
+			text = "..."
+		intervals [142]:
+			xmin = 249.13
+			xmax = 250.68
+			text = "por parte de mãe"
+		intervals [143]:
+			xmin = 250.68
+			xmax = 250.84
+			text = "..."
+		intervals [144]:
+			xmin = 250.84
+			xmax = 252.09
+			text = "também tinham dois tios"
+		intervals [145]:
+			xmin = 252.09
+			xmax = 253.15
+			text = "..."
+		intervals [146]:
+			xmin = 253.15
+			xmax = 253.92
+			text = "que tocavam"
+		intervals [147]:
+			xmin = 253.92
+			xmax = 254.65
+			text = "..."
+		intervals [148]:
+			xmin = 254.65
+			xmax = 257.76
+			text = "banjo esse meu tio meu tio [J] tocava banjo"
+		intervals [149]:
+			xmin = 257.76
+			xmax = 260.48
+			text = "e trombone e tinha um outro tio que tocava violão"
+		intervals [150]:
+			xmin = 260.48
+			xmax = 260.91
+			text = "..."
+		intervals [151]:
+			xmin = 260.91
+			xmax = 264.59
+			text = "inclusive tem uma história muito im muito importante que muito curiosa que o meu pai conta"
+		intervals [152]:
+			xmin = 264.59
+			xmax = 265.47
+			text = "..."
+		intervals [153]:
+			xmin = 265.47
+			xmax = 268.03
+			text = "que eu tinha uns três ou quatro anos e esses meus tios"
+		intervals [154]:
+			xmin = 268.03
+			xmax = 268.56
+			text = "..."
+		intervals [155]:
+			xmin = 268.56
+			xmax = 269.8
+			text = "sempre ficavam lá em casa"
+		intervals [156]:
+			xmin = 269.8
+			xmax = 270.21
+			text = "..."
+		intervals [157]:
+			xmin = 270.21
+			xmax = 274.0
+			text = "que um na casa do meu pai era onde que se reuniam tanto o lado"
+		intervals [158]:
+			xmin = 274.0
+			xmax = 274.19
+			text = "..."
+		intervals [159]:
+			xmin = 274.19
+			xmax = 276.52
+			text = "do meu pai quanto o lado da minha mãe os meus tios"
+		intervals [160]:
+			xmin = 276.52
+			xmax = 276.87
+			text = "..."
+		intervals [161]:
+			xmin = 276.87
+			xmax = 278.17
+			text = "maternos e paternos"
+		intervals [162]:
+			xmin = 278.17
+			xmax = 278.52
+			text = "..."
+		intervals [163]:
+			xmin = 278.52
+			xmax = 279.19
+			text = "se juntavam"
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 279.19
+		intervals: size = 57
+		intervals [1]:
+			xmin = 0.0
+			xmax = 28.86
+			text = ""
+		intervals [2]:
+			xmin = 28.86
+			xmax = 31.04
+			text = "e o [E] qual que era só pra gente também é"
+		intervals [3]:
+			xmin = 31.04
+			xmax = 31.24
+			text = "é"
+		intervals [4]:
+			xmin = 31.24
+			xmax = 36.66
+			text = "imaginar melhor todas essas histórias que você ta contando qual que era o tamanho de rio grande nessa época da cidade"
+		intervals [5]:
+			xmin = 36.66
+			xmax = 64.99
+			text = ""
+		intervals [6]:
+			xmin = 64.99
+			xmax = 65.31
+			text = "certo"
+		intervals [7]:
+			xmin = 65.31
+			xmax = 65.65
+			text = "..."
+		intervals [8]:
+			xmin = 65.65
+			xmax = 65.9
+			text = "vamos"
+		intervals [9]:
+			xmin = 65.9
+			xmax = 116.7
+			text = ""
+		intervals [10]:
+			xmin = 116.7
+			xmax = 117.84
+			text = "bom voltando lá na"
+		intervals [11]:
+			xmin = 117.84
+			xmax = 120.06
+			text = "na época de rio grande com quinze mil habitantes"
+		intervals [12]:
+			xmin = 120.06
+			xmax = 134.77
+			text = ""
+		intervals [13]:
+			xmin = 134.77
+			xmax = 135.22
+			text = "um ano e meio"
+		intervals [14]:
+			xmin = 135.22
+			xmax = 135.82
+			text = "mais ou menos"
+		intervals [15]:
+			xmin = 135.82
+			xmax = 146.74
+			text = ""
+		intervals [16]:
+			xmin = 146.74
+			xmax = 149.12
+			text = "é ela ficou me estimulando"
+		intervals [17]:
+			xmin = 149.12
+			xmax = 149.45
+			text = "..."
+		intervals [18]:
+			xmin = 149.45
+			xmax = 150.94
+			text = "de de várias formas"
+		intervals [19]:
+			xmin = 150.94
+			xmax = 152.13
+			text = "..."
+		intervals [20]:
+			xmin = 152.13
+			xmax = 153.3
+			text = "primeiramente"
+		intervals [21]:
+			xmin = 153.3
+			xmax = 153.74
+			text = "..."
+		intervals [22]:
+			xmin = 153.74
+			xmax = 159.74
+			text = "com a música daquela época que se ouvia então em casa tinha uma vitrola que ficava tocando aqueles discos"
+		intervals [23]:
+			xmin = 159.74
+			xmax = 160.12
+			text = "..."
+		intervals [24]:
+			xmin = 160.12
+			xmax = 164.56
+			text = "bem legais da época então se ouvia de tudo desde teixeirinha"
+		intervals [25]:
+			xmin = 164.56
+			xmax = 165.33
+			text = "..."
+		intervals [26]:
+			xmin = 165.33
+			xmax = 168.23
+			text = "até luiz gonzaga se ouvia de tudo"
+		intervals [27]:
+			xmin = 168.23
+			xmax = 168.61
+			text = "..."
+		intervals [28]:
+			xmin = 168.61
+			xmax = 168.78
+			text = "né"
+		intervals [29]:
+			xmin = 168.78
+			xmax = 170.18
+			text = "..."
+		intervals [30]:
+			xmin = 170.18
+			xmax = 172.11
+			text = "passando por elza soares"
+		intervals [31]:
+			xmin = 172.11
+			xmax = 172.83
+			text = "..."
+		intervals [32]:
+			xmin = 172.83
+			xmax = 174.17
+			text = "miltinho"
+		intervals [33]:
+			xmin = 174.17
+			xmax = 175.06
+			text = "..."
+		intervals [34]:
+			xmin = 175.06
+			xmax = 177.81
+			text = "cauby peixoto ângela maria"
+		intervals [35]:
+			xmin = 177.81
+			xmax = 178.51
+			text = "..."
+		intervals [36]:
+			xmin = 178.51
+			xmax = 180.1
+			text = "todos aqueles artistas né"
+		intervals [37]:
+			xmin = 180.1
+			xmax = 180.62
+			text = "..."
+		intervals [38]:
+			xmin = 180.62
+			xmax = 191.75
+			text = "daquela época e a parte também da música experimental que mais tarde eu como músico profissional acabei desenvolvendo que também foi ela que me estimulou por exemplo"
+		intervals [39]:
+			xmin = 191.75
+			xmax = 192.19
+			text = "..."
+		intervals [40]:
+			xmin = 192.19
+			xmax = 193.75
+			text = "a fazer música"
+		intervals [41]:
+			xmin = 193.75
+			xmax = 194.15
+			text = "..."
+		intervals [42]:
+			xmin = 194.15
+			xmax = 204.76
+			text = "numa numa caixinha de pasta de dente foi ela que me ensi que me mostrou que a partir daquele daquele tubo de papel podia se transformar em um instrumento fazia som né"
+		intervals [43]:
+			xmin = 204.76
+			xmax = 206.18
+			text = "..."
+		intervals [44]:
+			xmin = 206.18
+			xmax = 208.92
+			text = "se soprava naquela caixa e ali saía som quer"
+		intervals [45]:
+			xmin = 208.92
+			xmax = 209.31
+			text = "..."
+		intervals [46]:
+			xmin = 209.31
+			xmax = 210.81
+			text = "dizer isso também foi ela"
+		intervals [47]:
+			xmin = 210.81
+			xmax = 211.48
+			text = "..."
+		intervals [48]:
+			xmin = 211.48
+			xmax = 214.29
+			text = "que me despertou o sardi dessa parte"
+		intervals [49]:
+			xmin = 214.29
+			xmax = 214.66
+			text = "..."
+		intervals [50]:
+			xmin = 214.66
+			xmax = 215.19
+			text = "mais"
+		intervals [51]:
+			xmin = 215.19
+			xmax = 215.8
+			text = "..."
+		intervals [52]:
+			xmin = 215.8
+			xmax = 223.41
+			text = "alternativa da música vamos dizer mas seus pais eles tinham eles têm alguma alguma ligação com a música a não ser de o prazer de ouvir eles são"
+		intervals [53]:
+			xmin = 223.41
+			xmax = 224.69
+			text = ""
+		intervals [54]:
+			xmin = 224.69
+			xmax = 225.61
+			text = "mas eles tocam"
+		intervals [55]:
+			xmin = 225.61
+			xmax = 225.81
+			text = "alguma"
+		intervals [56]:
+			xmin = 225.81
+			xmax = 226.15
+			text = "coisa"
+		intervals [57]:
+			xmin = 226.15
+			xmax = 279.19
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 279.19
+		intervals: size = 76
+		intervals [1]:
+			xmin = 0.0
+			xmax = 28.86
+			text = ""
+		intervals [2]:
+			xmin = 28.86
+			xmax = 31.04
+			text = "e o [E] qual que era só pra gente também é"
+		intervals [3]:
+			xmin = 31.04
+			xmax = 31.24
+			text = "é"
+		intervals [4]:
+			xmin = 31.24
+			xmax = 36.66
+			text = "imaginar melhor todas essas histórias que você ta contando qual que era o tamanho de rio grande nessa época da cidade"
+		intervals [5]:
+			xmin = 36.66
+			xmax = 64.99
+			text = ""
+		intervals [6]:
+			xmin = 64.99
+			xmax = 65.31
+			text = "certo"
+		intervals [7]:
+			xmin = 65.31
+			xmax = 65.65
+			text = "..."
+		intervals [8]:
+			xmin = 65.65
+			xmax = 65.9
+			text = "vamos"
+		intervals [9]:
+			xmin = 65.9
+			xmax = 116.7
+			text = ""
+		intervals [10]:
+			xmin = 116.7
+			xmax = 117.84
+			text = "bom voltando lá na"
+		intervals [11]:
+			xmin = 117.84
+			xmax = 120.06
+			text = "na época de rio grande com quinze mil habitantes"
+		intervals [12]:
+			xmin = 120.06
+			xmax = 120.31
+			text = "..."
+		intervals [13]:
+			xmin = 120.31
+			xmax = 134.77
+			text = ""
+		intervals [14]:
+			xmin = 134.77
+			xmax = 135.22
+			text = "um ano e meio"
+		intervals [15]:
+			xmin = 135.22
+			xmax = 135.82
+			text = "mais ou menos"
+		intervals [16]:
+			xmin = 135.82
+			xmax = 146.74
+			text = ""
+		intervals [17]:
+			xmin = 146.74
+			xmax = 149.12
+			text = "é ela ficou me estimulando"
+		intervals [18]:
+			xmin = 149.12
+			xmax = 149.45
+			text = "..."
+		intervals [19]:
+			xmin = 149.45
+			xmax = 150.94
+			text = "de de várias formas"
+		intervals [20]:
+			xmin = 150.94
+			xmax = 152.13
+			text = "..."
+		intervals [21]:
+			xmin = 152.13
+			xmax = 153.3
+			text = "primeiramente"
+		intervals [22]:
+			xmin = 153.3
+			xmax = 153.74
+			text = "..."
+		intervals [23]:
+			xmin = 153.74
+			xmax = 159.74
+			text = "com a música daquela época que se ouvia então em casa tinha uma vitrola que ficava tocando aqueles discos"
+		intervals [24]:
+			xmin = 159.74
+			xmax = 160.12
+			text = "..."
+		intervals [25]:
+			xmin = 160.12
+			xmax = 164.56
+			text = "bem legais da época então se ouvia de tudo desde teixeirinha"
+		intervals [26]:
+			xmin = 164.56
+			xmax = 165.33
+			text = "..."
+		intervals [27]:
+			xmin = 165.33
+			xmax = 168.23
+			text = "até luiz gonzaga se ouvia de tudo"
+		intervals [28]:
+			xmin = 168.23
+			xmax = 168.61
+			text = "..."
+		intervals [29]:
+			xmin = 168.61
+			xmax = 168.78
+			text = "né"
+		intervals [30]:
+			xmin = 168.78
+			xmax = 170.18
+			text = "..."
+		intervals [31]:
+			xmin = 170.18
+			xmax = 172.11
+			text = "passando por elza soares"
+		intervals [32]:
+			xmin = 172.11
+			xmax = 172.83
+			text = "..."
+		intervals [33]:
+			xmin = 172.83
+			xmax = 174.17
+			text = "miltinho"
+		intervals [34]:
+			xmin = 174.17
+			xmax = 175.06
+			text = "..."
+		intervals [35]:
+			xmin = 175.06
+			xmax = 177.81
+			text = "cauby peixoto ângela maria"
+		intervals [36]:
+			xmin = 177.81
+			xmax = 178.51
+			text = "..."
+		intervals [37]:
+			xmin = 178.51
+			xmax = 180.1
+			text = "todos aqueles artistas né"
+		intervals [38]:
+			xmin = 180.1
+			xmax = 180.62
+			text = "..."
+		intervals [39]:
+			xmin = 180.62
+			xmax = 184.91
+			text = "daquela época e a parte também da música experimental"
+		intervals [40]:
+			xmin = 184.91
+			xmax = 185.12
+			text = "..."
+		intervals [41]:
+			xmin = 185.12
+			xmax = 187.4
+			text = "que mais tarde eu como músico profissional"
+		intervals [42]:
+			xmin = 187.4
+			xmax = 187.55
+			text = "..."
+		intervals [43]:
+			xmin = 187.55
+			xmax = 191.75
+			text = "acabei desenvolvendo que também foi ela que me estimulou por exemplo"
+		intervals [44]:
+			xmin = 191.75
+			xmax = 192.19
+			text = "..."
+		intervals [45]:
+			xmin = 192.19
+			xmax = 193.75
+			text = "a fazer música"
+		intervals [46]:
+			xmin = 193.75
+			xmax = 194.15
+			text = "..."
+		intervals [47]:
+			xmin = 194.15
+			xmax = 195.2
+			text = "numa"
+		intervals [48]:
+			xmin = 195.2
+			xmax = 195.36
+			text = "..."
+		intervals [49]:
+			xmin = 195.36
+			xmax = 198.77
+			text = "numa caixinha de pasta de dente foi ela que me ensi que me mostrou"
+		intervals [50]:
+			xmin = 198.77
+			xmax = 199.02
+			text = "..."
+		intervals [51]:
+			xmin = 199.02
+			xmax = 200.45
+			text = "que a partir daquele"
+		intervals [52]:
+			xmin = 200.45
+			xmax = 200.61
+			text = "..."
+		intervals [53]:
+			xmin = 200.61
+			xmax = 202.32
+			text = "daquele tubo de papel"
+		intervals [54]:
+			xmin = 202.32
+			xmax = 202.46
+			text = "..."
+		intervals [55]:
+			xmin = 202.46
+			xmax = 204.76
+			text = "podia se transformar em um instrumento fazia som né"
+		intervals [56]:
+			xmin = 204.76
+			xmax = 206.18
+			text = "..."
+		intervals [57]:
+			xmin = 206.18
+			xmax = 207.67
+			text = "se soprava naquela caixa"
+		intervals [58]:
+			xmin = 207.67
+			xmax = 207.94
+			text = "..."
+		intervals [59]:
+			xmin = 207.94
+			xmax = 208.92
+			text = "e ali saía som quer"
+		intervals [60]:
+			xmin = 208.92
+			xmax = 209.31
+			text = "..."
+		intervals [61]:
+			xmin = 209.31
+			xmax = 210.81
+			text = "dizer isso também foi ela"
+		intervals [62]:
+			xmin = 210.81
+			xmax = 211.48
+			text = "..."
+		intervals [63]:
+			xmin = 211.48
+			xmax = 211.95
+			text = "que"
+		intervals [64]:
+			xmin = 211.95
+			xmax = 212.21
+			text = "..."
+		intervals [65]:
+			xmin = 212.21
+			xmax = 213.08
+			text = "me despertou"
+		intervals [66]:
+			xmin = 213.08
+			xmax = 213.2
+			text = "..."
+		intervals [67]:
+			xmin = 213.2
+			xmax = 214.29
+			text = "o sardi dessa parte"
+		intervals [68]:
+			xmin = 214.29
+			xmax = 214.66
+			text = "..."
+		intervals [69]:
+			xmin = 214.66
+			xmax = 215.19
+			text = "mais"
+		intervals [70]:
+			xmin = 215.19
+			xmax = 215.8
+			text = "..."
+		intervals [71]:
+			xmin = 215.8
+			xmax = 223.41
+			text = "alternativa da música vamos dizer mas seus pais eles tinham eles têm alguma alguma ligação com a música a não ser de o prazer de ouvir eles são"
+		intervals [72]:
+			xmin = 223.41
+			xmax = 224.93
+			text = ""
+		intervals [73]:
+			xmin = 224.93
+			xmax = 225.61
+			text = "mas eles tocam"
+		intervals [74]:
+			xmin = 225.61
+			xmax = 225.81
+			text = "alguma"
+		intervals [75]:
+			xmin = 225.81
+			xmax = 226.15
+			text = "coisa"
+		intervals [76]:
+			xmin = 226.15
+			xmax = 279.19
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 279.19
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 279.19
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 279.19
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 279.19
+			text = ""

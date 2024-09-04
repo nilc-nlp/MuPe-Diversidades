@@ -1,0 +1,1120 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 282.36
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 282.36
+		intervals: size = 100
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.24
+			text = "não nessa época minha mãe trabalhava em"
+		intervals [2]:
+			xmin = 2.24
+			xmax = 3.41
+			text = "firma"
+		intervals [3]:
+			xmin = 3.41
+			xmax = 12.13
+			text = "tal a minha mãe foi fazer o curso de cabeleireiro dela eu já estava com oito nove anos justamente para poder ficar mais perto da gente porque como cabeleireira ela poderia"
+		intervals [4]:
+			xmin = 12.13
+			xmax = 12.53
+			text = "..."
+		intervals [5]:
+			xmin = 12.53
+			xmax = 21.77
+			text = "trabalhar em casa que foi o que aconteceu e ficou trabalhando em casa até os tre até eu fazer meus não até os meus dezesseis anos porque daí quando eu fiz dezesseis ela abriu um salão"
+		intervals [6]:
+			xmin = 21.77
+			xmax = 22.27
+			text = "..."
+		intervals [7]:
+			xmin = 22.27
+			xmax = 27.78
+			text = "em um bar no de que não era em casa né afastado num ponto comercial"
+		intervals [8]:
+			xmin = 27.78
+			xmax = 28.52
+			text = "..."
+		intervals [9]:
+			xmin = 28.52
+			xmax = 34.99
+			text = ""
+		intervals [10]:
+			xmin = 34.99
+			xmax = 46.72
+			text = "sempre sempre fazendo sala para as pessoas sempre conversando até assim quando eu fiz onze anos de idade minha mãe me colocou num curso de manicure né para poder ajudar ela mas aí a dona da escola chegou para ela e falou assim olha não"
+		intervals [11]:
+			xmin = 46.72
+			xmax = 47.54
+			text = "..."
+		intervals [12]:
+			xmin = 47.54
+			xmax = 51.43
+			text = "deixa ela fazer unha de ninguém por favor eu fiquei um ano fazendo curso"
+		intervals [13]:
+			xmin = 51.43
+			xmax = 51.89
+			text = "..."
+		intervals [14]:
+			xmin = 51.89
+			xmax = 55.17
+			text = "e eu não aprendi nem a minha própria unha eu consigo fazer porque"
+		intervals [15]:
+			xmin = 55.17
+			xmax = 56.24
+			text = "ela"
+		intervals [16]:
+			xmin = 56.24
+			xmax = 56.52
+			text = "porque"
+		intervals [17]:
+			xmin = 56.52
+			xmax = 58.4
+			text = "assim não é é é"
+		intervals [18]:
+			xmin = 58.4
+			xmax = 59.7
+			text = "é muito da pessoa por"
+		intervals [19]:
+			xmin = 59.7
+			xmax = 60.49
+			text = "i por isso que eu"
+		intervals [20]:
+			xmin = 60.49
+			xmax = 60.82
+			text = "..."
+		intervals [21]:
+			xmin = 60.82
+			xmax = 65.21
+			text = "acho que eu faço tantas coisas porque eu aprendi com a minha mãe isso"
+		intervals [22]:
+			xmin = 65.21
+			xmax = 65.59
+			text = "..."
+		intervals [23]:
+			xmin = 65.59
+			xmax = 71.05
+			text = "ó ela trabalhava em firma tal ãh ela trabalhou já na roça trabalhou em firma"
+		intervals [24]:
+			xmin = 71.05
+			xmax = 71.62
+			text = "..."
+		intervals [25]:
+			xmin = 71.62
+			xmax = 79.55
+			text = "daí ela fez corte e costura e ela adorava só que daí ela começou a se sentir sozinha porque ela só via a satisfação da cliente quando ela"
+		intervals [26]:
+			xmin = 79.55
+			xmax = 80.2
+			text = "..."
+		intervals [27]:
+			xmin = 80.2
+			xmax = 83.45
+			text = "estava lá quando a pron a roupa estava pronta mas ah desde"
+		intervals [28]:
+			xmin = 83.45
+			xmax = 83.99
+			text = "..."
+		intervals [29]:
+			xmin = 83.99
+			xmax = 88.77
+			text = "a época que ela tirou a medida até ela a roupa ficar pronta ela ficou um"
+		intervals [30]:
+			xmin = 88.77
+			xmax = 89.18
+			text = "..."
+		intervals [31]:
+			xmin = 89.18
+			xmax = 91.14
+			text = "um tempo muito grande sozinha"
+		intervals [32]:
+			xmin = 91.14
+			xmax = 91.52
+			text = "..."
+		intervals [33]:
+			xmin = 91.52
+			xmax = 98.18
+			text = "né lá costurando tal então ela ela começou a se sentir triste então ela pegou e falou assim ah"
+		intervals [34]:
+			xmin = 98.18
+			xmax = 98.8
+			text = "..."
+		intervals [35]:
+			xmin = 98.8
+			xmax = 106.22
+			text = "eu sempre gostei de mexer em cabelo ela é muito vaidosa minha mãe não sai de casa sem um batom vermelho sem uma maquiagem toda vaidosa"
+		intervals [36]:
+			xmin = 106.22
+			xmax = 106.73
+			text = "..."
+		intervals [37]:
+			xmin = 106.73
+			xmax = 111.62
+			text = "en en ninguém vê ela sem tomar banho sem arrumar o cabelo fazer escova e tal"
+		intervals [38]:
+			xmin = 111.62
+			xmax = 112.59
+			text = "..."
+		intervals [39]:
+			xmin = 112.59
+			xmax = 114.31
+			text = "e e o que que acontece"
+		intervals [40]:
+			xmin = 114.31
+			xmax = 115.16
+			text = "..."
+		intervals [41]:
+			xmin = 115.16
+			xmax = 123.29
+			text = "ela pegou e foi fazer o curso de cabelo e daí ela se identificou porque ela está em contato ela ainda ela está transformando a pessoa deixando ela bonita né"
+		intervals [42]:
+			xmin = 123.29
+			xmax = 123.69
+			text = "..."
+		intervals [43]:
+			xmin = 123.69
+			xmax = 128.63
+			text = "ela está acompanhando aquilo e o contato a energia tal né com a pessoa"
+		intervals [44]:
+			xmin = 128.63
+			xmax = 129.35
+			text = "..."
+		intervals [45]:
+			xmin = 129.35
+			xmax = 135.99
+			text = "daí ela pegou e e foi fazer o curso de cabelo e acabou assim agregando de ficar perto das filhas né"
+		intervals [46]:
+			xmin = 135.99
+			xmax = 136.5
+			text = "..."
+		intervals [47]:
+			xmin = 136.5
+			xmax = 140.89
+			text = "e eu e assim e ela sem ela fala com paixão da"
+		intervals [48]:
+			xmin = 140.89
+			xmax = 141.71
+			text = "..."
+		intervals [49]:
+			xmin = 141.71
+			xmax = 147.07
+			text = "da profissão dela do que ela sente quando ela está mexendo no cabelo da cliente que ela fala"
+		intervals [50]:
+			xmin = 147.07
+			xmax = 147.43
+			text = "..."
+		intervals [51]:
+			xmin = 147.43
+			xmax = 152.35
+			text = "a minha maior felicidade é quando entra uma mulher com a cara assim e sai toda glamourosa porque"
+		intervals [52]:
+			xmin = 152.35
+			xmax = 152.66
+			text = "..."
+		intervals [53]:
+			xmin = 152.66
+			xmax = 154.01
+			text = "mexe com a autoestima né"
+		intervals [54]:
+			xmin = 154.01
+			xmax = 154.41
+			text = "..."
+		intervals [55]:
+			xmin = 154.41
+			xmax = 157.38
+			text = "então eu sempre vi a minha mãe com esse amor com a profissão"
+		intervals [56]:
+			xmin = 157.38
+			xmax = 157.87
+			text = "..."
+		intervals [57]:
+			xmin = 157.87
+			xmax = 163.95
+			text = "e assim eu tenho um pouco eu gosto de tudo o que eu faço né eu ponho amor em tudo o que eu faço"
+		intervals [58]:
+			xmin = 163.95
+			xmax = 164.64
+			text = "..."
+		intervals [59]:
+			xmin = 164.64
+			xmax = 165.22
+			text = "mas"
+		intervals [60]:
+			xmin = 165.22
+			xmax = 165.67
+			text = "..."
+		intervals [61]:
+			xmin = 165.67
+			xmax = 165.83
+			text = "eh"
+		intervals [62]:
+			xmin = 165.83
+			xmax = 166.27
+			text = "..."
+		intervals [63]:
+			xmin = 166.27
+			xmax = 166.99
+			text = "daí e daí"
+		intervals [64]:
+			xmin = 166.99
+			xmax = 167.43
+			text = "isso"
+		intervals [65]:
+			xmin = 167.43
+			xmax = 172.48
+			text = "é perigoso porque às vezes você se apega a a coisas com a própria advocacia"
+		intervals [66]:
+			xmin = 172.48
+			xmax = 172.8
+			text = "..."
+		intervals [67]:
+			xmin = 172.8
+			xmax = 178.71
+			text = "eu tenho amor pelo o que eu faço não amo o que eu faço eh eh eu fa eu faço é pera deixa eu"
+		intervals [68]:
+			xmin = 178.71
+			xmax = 179.22
+			text = "..."
+		intervals [69]:
+			xmin = 179.22
+			xmax = 185.11
+			text = "coordenar eu faço com amor porque sou eu que estou fazendo porque a pessoa que vai receber precisa de respeito tudo"
+		intervals [70]:
+			xmin = 185.11
+			xmax = 185.51
+			text = "..."
+		intervals [71]:
+			xmin = 185.51
+			xmax = 188.12
+			text = "mas não é que eu amo ai eu quero isso né"
+		intervals [72]:
+			xmin = 188.12
+			xmax = 188.56
+			text = "..."
+		intervals [73]:
+			xmin = 188.56
+			xmax = 197.89
+			text = "daí foi por isso que assim eu comecei a fazer teatro eu tive a minha primeira experiência com teatro na escola porque eu não podia fazer vôlei porque a minha mãe tinha medo que a minha"
+		intervals [74]:
+			xmin = 197.89
+			xmax = 198.28
+			text = "..."
+		intervals [75]:
+			xmin = 198.28
+			xmax = 200.34
+			text = "que a bola machucasse meus peitos"
+		intervals [76]:
+			xmin = 200.34
+			xmax = 201.56
+			text = "..."
+		intervals [77]:
+			xmin = 201.56
+			xmax = 206.17
+			text = "aí verdade porque começou a crescer com oito anos e tal daí ela ficou super preocupada"
+		intervals [78]:
+			xmin = 206.17
+			xmax = 206.61
+			text = "..."
+		intervals [79]:
+			xmin = 206.61
+			xmax = 215.16
+			text = "então eu não podia fazer atividade física igual era até a época das olimpíada de noventa e dois que a seleção de vôlei masculina foi campeã então era"
+		intervals [80]:
+			xmin = 215.16
+			xmax = 215.49
+			text = "..."
+		intervals [81]:
+			xmin = 215.49
+			xmax = 223.53
+			text = "uma frenesi todo mundo queria fazer vôlei né treinar vôlei todas as minhas amigas treinavam achava um charme aquelas joelheiras aquelas coisas"
+		intervals [82]:
+			xmin = 223.53
+			xmax = 224.23
+			text = "..."
+		intervals [83]:
+			xmin = 224.23
+			xmax = 240.69
+			text = "mas minha mãe não deixou porque imagina tinha que ir de em em horários diferentes da aula né não era no período da aula e eu podia me machucar podia quebrar o dedo eu nunca ela sempre ela tem orgulho de falar que eu nunca quebrei nada que eu e minha irmã nunca quebramos nenhuma parte do corpo né"
+		intervals [84]:
+			xmin = 240.69
+			xmax = 241.39
+			text = "..."
+		intervals [85]:
+			xmin = 241.39
+			xmax = 242.18
+			text = "daí"
+		intervals [86]:
+			xmin = 242.18
+			xmax = 243.07
+			text = "..."
+		intervals [87]:
+			xmin = 243.07
+			xmax = 246.83
+			text = "já que eu não podia fazer isso eu comecei a fazer teatro na escola e"
+		intervals [88]:
+			xmin = 246.83
+			xmax = 247.26
+			text = "..."
+		intervals [89]:
+			xmin = 247.26
+			xmax = 247.67
+			text = "isso"
+		intervals [90]:
+			xmin = 247.67
+			xmax = 249.47
+			text = "ela foi deixando porque no com hum"
+		intervals [91]:
+			xmin = 249.47
+			xmax = 254.18
+			text = "quando eu era criança fazia balé tudo então ela sempre gostou que eu fui sa soube"
+		intervals [92]:
+			xmin = 254.18
+			xmax = 255.43
+			text = "que eu gostava de ficar"
+		intervals [93]:
+			xmin = 255.43
+			xmax = 255.83
+			text = "..."
+		intervals [94]:
+			xmin = 255.83
+			xmax = 271.0
+			text = "assim no palco e foi cre assim foi um envolvimento muito legal lá na escola porque chegou a um ponto que assim a arte ou ela te pica principalmente o teatro ou não e as outras crianças que estavam envolvidas nessa atividade da professora de educação artística"
+		intervals [95]:
+			xmin = 271.0
+			xmax = 271.76
+			text = "..."
+		intervals [96]:
+			xmin = 271.76
+			xmax = 276.12
+			text = "e em conjugada com uma professora de educação física que elas duas estavam"
+		intervals [97]:
+			xmin = 276.12
+			xmax = 276.66
+			text = "..."
+		intervals [98]:
+			xmin = 276.66
+			xmax = 278.82
+			text = "eh fazendo um trabalho conjunto né"
+		intervals [99]:
+			xmin = 278.82
+			xmax = 279.65
+			text = "..."
+		intervals [100]:
+			xmin = 279.65
+			xmax = 282.36
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 282.36
+		intervals: size = 157
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.24
+			text = "não nessa época minha mãe trabalhava em"
+		intervals [2]:
+			xmin = 2.24
+			xmax = 3.41
+			text = "firma"
+		intervals [3]:
+			xmin = 3.41
+			xmax = 7.67
+			text = "tal a minha mãe foi fazer o curso de cabeleireiro dela eu já estava com oito nove anos"
+		intervals [4]:
+			xmin = 7.67
+			xmax = 7.93
+			text = "..."
+		intervals [5]:
+			xmin = 7.93
+			xmax = 12.13
+			text = "justamente para poder ficar mais perto da gente porque como cabeleireira ela poderia"
+		intervals [6]:
+			xmin = 12.13
+			xmax = 12.53
+			text = "..."
+		intervals [7]:
+			xmin = 12.53
+			xmax = 21.77
+			text = "trabalhar em casa que foi o que aconteceu e ficou trabalhando em casa até os tre até eu fazer meus não até os meus dezesseis anos porque daí quando eu fiz dezesseis ela abriu um salão"
+		intervals [8]:
+			xmin = 21.77
+			xmax = 22.27
+			text = "..."
+		intervals [9]:
+			xmin = 22.27
+			xmax = 23.54
+			text = "em um bar no de"
+		intervals [10]:
+			xmin = 23.54
+			xmax = 23.76
+			text = "..."
+		intervals [11]:
+			xmin = 23.76
+			xmax = 27.78
+			text = "que não era em casa né afastado num ponto comercial"
+		intervals [12]:
+			xmin = 27.78
+			xmax = 28.52
+			text = "..."
+		intervals [13]:
+			xmin = 28.52
+			xmax = 34.99
+			text = ""
+		intervals [14]:
+			xmin = 34.99
+			xmax = 43.67
+			text = "sempre sempre fazendo sala para as pessoas sempre conversando até assim quando eu fiz onze anos de idade minha mãe me colocou num curso de manicure né para poder ajudar ela"
+		intervals [15]:
+			xmin = 43.67
+			xmax = 43.96
+			text = "..."
+		intervals [16]:
+			xmin = 43.96
+			xmax = 45.21
+			text = "mas aí a dona da escola chegou"
+		intervals [17]:
+			xmin = 45.21
+			xmax = 45.51
+			text = "..."
+		intervals [18]:
+			xmin = 45.51
+			xmax = 46.72
+			text = "para ela e falou assim olha não"
+		intervals [19]:
+			xmin = 46.72
+			xmax = 47.54
+			text = "..."
+		intervals [20]:
+			xmin = 47.54
+			xmax = 49.29
+			text = "deixa ela fazer unha de ninguém"
+		intervals [21]:
+			xmin = 49.29
+			xmax = 49.5
+			text = "..."
+		intervals [22]:
+			xmin = 49.5
+			xmax = 51.43
+			text = "por favor eu fiquei um ano fazendo curso"
+		intervals [23]:
+			xmin = 51.43
+			xmax = 51.89
+			text = "..."
+		intervals [24]:
+			xmin = 51.89
+			xmax = 55.17
+			text = "e eu não aprendi nem a minha própria unha eu consigo fazer porque"
+		intervals [25]:
+			xmin = 55.17
+			xmax = 56.1
+			text = "ela"
+		intervals [26]:
+			xmin = 56.1
+			xmax = 56.24
+			text = "..."
+		intervals [27]:
+			xmin = 56.24
+			xmax = 56.52
+			text = "porque"
+		intervals [28]:
+			xmin = 56.52
+			xmax = 58.4
+			text = "assim não é é é"
+		intervals [29]:
+			xmin = 58.4
+			xmax = 59.47
+			text = "é muito da pessoa"
+		intervals [30]:
+			xmin = 59.47
+			xmax = 59.6
+			text = "..."
+		intervals [31]:
+			xmin = 59.6
+			xmax = 59.7
+			text = "por"
+		intervals [32]:
+			xmin = 59.7
+			xmax = 60.49
+			text = "i por isso que eu"
+		intervals [33]:
+			xmin = 60.49
+			xmax = 60.82
+			text = "..."
+		intervals [34]:
+			xmin = 60.82
+			xmax = 63.04
+			text = "acho que eu faço tantas coisas porque"
+		intervals [35]:
+			xmin = 63.04
+			xmax = 63.28
+			text = "..."
+		intervals [36]:
+			xmin = 63.28
+			xmax = 65.21
+			text = "eu aprendi com a minha mãe isso"
+		intervals [37]:
+			xmin = 65.21
+			xmax = 65.59
+			text = "..."
+		intervals [38]:
+			xmin = 65.59
+			xmax = 71.05
+			text = "ó ela trabalhava em firma tal ãh ela trabalhou já na roça trabalhou em firma"
+		intervals [39]:
+			xmin = 71.05
+			xmax = 71.62
+			text = "..."
+		intervals [40]:
+			xmin = 71.62
+			xmax = 73.51
+			text = "daí ela fez corte e costura"
+		intervals [41]:
+			xmin = 73.51
+			xmax = 73.8
+			text = "..."
+		intervals [42]:
+			xmin = 73.8
+			xmax = 79.55
+			text = "e ela adorava só que daí ela começou a se sentir sozinha porque ela só via a satisfação da cliente quando ela"
+		intervals [43]:
+			xmin = 79.55
+			xmax = 80.2
+			text = "..."
+		intervals [44]:
+			xmin = 80.2
+			xmax = 82.89
+			text = "estava lá quando a pron a roupa estava pronta mas ah"
+		intervals [45]:
+			xmin = 82.89
+			xmax = 83.01
+			text = "..."
+		intervals [46]:
+			xmin = 83.01
+			xmax = 83.45
+			text = "desde"
+		intervals [47]:
+			xmin = 83.45
+			xmax = 83.99
+			text = "..."
+		intervals [48]:
+			xmin = 83.99
+			xmax = 88.77
+			text = "a época que ela tirou a medida até ela a roupa ficar pronta ela ficou um"
+		intervals [49]:
+			xmin = 88.77
+			xmax = 89.18
+			text = "..."
+		intervals [50]:
+			xmin = 89.18
+			xmax = 91.14
+			text = "um tempo muito grande sozinha"
+		intervals [51]:
+			xmin = 91.14
+			xmax = 91.52
+			text = "..."
+		intervals [52]:
+			xmin = 91.52
+			xmax = 93.16
+			text = "né lá costurando tal"
+		intervals [53]:
+			xmin = 93.16
+			xmax = 93.43
+			text = "..."
+		intervals [54]:
+			xmin = 93.43
+			xmax = 94.19
+			text = "então ela"
+		intervals [55]:
+			xmin = 94.19
+			xmax = 94.39
+			text = "..."
+		intervals [56]:
+			xmin = 94.39
+			xmax = 95.69
+			text = "ela começou a se sentir"
+		intervals [57]:
+			xmin = 95.69
+			xmax = 95.88
+			text = "..."
+		intervals [58]:
+			xmin = 95.88
+			xmax = 98.18
+			text = "triste então ela pegou e falou assim ah"
+		intervals [59]:
+			xmin = 98.18
+			xmax = 98.8
+			text = "..."
+		intervals [60]:
+			xmin = 98.8
+			xmax = 102.24
+			text = "eu sempre gostei de mexer em cabelo ela é muito vaidosa minha mãe não sai"
+		intervals [61]:
+			xmin = 102.24
+			xmax = 102.41
+			text = "..."
+		intervals [62]:
+			xmin = 102.41
+			xmax = 106.22
+			text = "de casa sem um batom vermelho sem uma maquiagem toda vaidosa"
+		intervals [63]:
+			xmin = 106.22
+			xmax = 106.73
+			text = "..."
+		intervals [64]:
+			xmin = 106.73
+			xmax = 111.62
+			text = "en en ninguém vê ela sem tomar banho sem arrumar o cabelo fazer escova e tal"
+		intervals [65]:
+			xmin = 111.62
+			xmax = 112.59
+			text = "..."
+		intervals [66]:
+			xmin = 112.59
+			xmax = 114.31
+			text = "e e o que que acontece"
+		intervals [67]:
+			xmin = 114.31
+			xmax = 115.16
+			text = "..."
+		intervals [68]:
+			xmin = 115.16
+			xmax = 123.29
+			text = "ela pegou e foi fazer o curso de cabelo e daí ela se identificou porque ela está em contato ela ainda ela está transformando a pessoa deixando ela bonita né"
+		intervals [69]:
+			xmin = 123.29
+			xmax = 123.69
+			text = "..."
+		intervals [70]:
+			xmin = 123.69
+			xmax = 128.63
+			text = "ela está acompanhando aquilo e o contato a energia tal né com a pessoa"
+		intervals [71]:
+			xmin = 128.63
+			xmax = 129.35
+			text = "..."
+		intervals [72]:
+			xmin = 129.35
+			xmax = 135.99
+			text = "daí ela pegou e e foi fazer o curso de cabelo e acabou assim agregando de ficar perto das filhas né"
+		intervals [73]:
+			xmin = 135.99
+			xmax = 136.5
+			text = "..."
+		intervals [74]:
+			xmin = 136.5
+			xmax = 137.57
+			text = "e eu e assim"
+		intervals [75]:
+			xmin = 137.57
+			xmax = 137.82
+			text = "..."
+		intervals [76]:
+			xmin = 137.82
+			xmax = 140.89
+			text = "e ela sem ela fala com paixão da"
+		intervals [77]:
+			xmin = 140.89
+			xmax = 141.71
+			text = "..."
+		intervals [78]:
+			xmin = 141.71
+			xmax = 145.64
+			text = "da profissão dela do que ela sente quando ela está mexendo no cabelo da"
+		intervals [79]:
+			xmin = 145.64
+			xmax = 145.74
+			text = "..."
+		intervals [80]:
+			xmin = 145.74
+			xmax = 147.07
+			text = "cliente que ela fala"
+		intervals [81]:
+			xmin = 147.07
+			xmax = 147.43
+			text = "..."
+		intervals [82]:
+			xmin = 147.43
+			xmax = 152.35
+			text = "a minha maior felicidade é quando entra uma mulher com a cara assim e sai toda glamourosa porque"
+		intervals [83]:
+			xmin = 152.35
+			xmax = 152.66
+			text = "..."
+		intervals [84]:
+			xmin = 152.66
+			xmax = 154.01
+			text = "mexe com a autoestima né"
+		intervals [85]:
+			xmin = 154.01
+			xmax = 154.41
+			text = "..."
+		intervals [86]:
+			xmin = 154.41
+			xmax = 157.38
+			text = "então eu sempre vi a minha mãe com esse amor com a profissão"
+		intervals [87]:
+			xmin = 157.38
+			xmax = 157.87
+			text = "..."
+		intervals [88]:
+			xmin = 157.87
+			xmax = 158.36
+			text = "e assim"
+		intervals [89]:
+			xmin = 158.36
+			xmax = 158.54
+			text = "..."
+		intervals [90]:
+			xmin = 158.54
+			xmax = 161.28
+			text = "eu tenho um pouco eu gosto de tudo o que eu faço"
+		intervals [91]:
+			xmin = 161.28
+			xmax = 161.57
+			text = "..."
+		intervals [92]:
+			xmin = 161.57
+			xmax = 163.95
+			text = "né eu ponho amor em tudo o que eu faço"
+		intervals [93]:
+			xmin = 163.95
+			xmax = 164.64
+			text = "..."
+		intervals [94]:
+			xmin = 164.64
+			xmax = 165.22
+			text = "mas"
+		intervals [95]:
+			xmin = 165.22
+			xmax = 165.67
+			text = "..."
+		intervals [96]:
+			xmin = 165.67
+			xmax = 165.83
+			text = "eh"
+		intervals [97]:
+			xmin = 165.83
+			xmax = 166.27
+			text = "..."
+		intervals [98]:
+			xmin = 166.27
+			xmax = 166.99
+			text = "daí e daí"
+		intervals [99]:
+			xmin = 166.99
+			xmax = 167.43
+			text = "isso"
+		intervals [100]:
+			xmin = 167.43
+			xmax = 172.48
+			text = "é perigoso porque às vezes você se apega a a coisas com a própria advocacia"
+		intervals [101]:
+			xmin = 172.48
+			xmax = 172.8
+			text = "..."
+		intervals [102]:
+			xmin = 172.8
+			xmax = 178.71
+			text = "eu tenho amor pelo o que eu faço não amo o que eu faço eh eh eu fa eu faço é pera deixa eu"
+		intervals [103]:
+			xmin = 178.71
+			xmax = 179.22
+			text = "..."
+		intervals [104]:
+			xmin = 179.22
+			xmax = 179.79
+			text = "coordenar eu"
+		intervals [105]:
+			xmin = 179.79
+			xmax = 179.91
+			text = "..."
+		intervals [106]:
+			xmin = 179.91
+			xmax = 182.64
+			text = "faço com amor porque sou eu que estou fazendo porque a pessoa"
+		intervals [107]:
+			xmin = 182.64
+			xmax = 182.91
+			text = "..."
+		intervals [108]:
+			xmin = 182.91
+			xmax = 185.11
+			text = "que vai receber precisa de respeito tudo"
+		intervals [109]:
+			xmin = 185.11
+			xmax = 185.51
+			text = "..."
+		intervals [110]:
+			xmin = 185.51
+			xmax = 188.12
+			text = "mas não é que eu amo ai eu quero isso né"
+		intervals [111]:
+			xmin = 188.12
+			xmax = 188.56
+			text = "..."
+		intervals [112]:
+			xmin = 188.56
+			xmax = 194.48
+			text = "daí foi por isso que assim eu comecei a fazer teatro eu tive a minha primeira experiência com teatro na escola"
+		intervals [113]:
+			xmin = 194.48
+			xmax = 194.67
+			text = "..."
+		intervals [114]:
+			xmin = 194.67
+			xmax = 197.89
+			text = "porque eu não podia fazer vôlei porque a minha mãe tinha medo que a minha"
+		intervals [115]:
+			xmin = 197.89
+			xmax = 198.28
+			text = "..."
+		intervals [116]:
+			xmin = 198.28
+			xmax = 200.34
+			text = "que a bola machucasse meus peitos"
+		intervals [117]:
+			xmin = 200.34
+			xmax = 201.56
+			text = "..."
+		intervals [118]:
+			xmin = 201.56
+			xmax = 206.17
+			text = "aí verdade porque começou a crescer com oito anos e tal daí ela ficou super preocupada"
+		intervals [119]:
+			xmin = 206.17
+			xmax = 206.61
+			text = "..."
+		intervals [120]:
+			xmin = 206.61
+			xmax = 214.57
+			text = "então eu não podia fazer atividade física igual era até a época das olimpíada de noventa e dois que a seleção de vôlei masculina foi campeã"
+		intervals [121]:
+			xmin = 214.57
+			xmax = 214.73
+			text = "..."
+		intervals [122]:
+			xmin = 214.73
+			xmax = 215.16
+			text = "então era"
+		intervals [123]:
+			xmin = 215.16
+			xmax = 215.49
+			text = "..."
+		intervals [124]:
+			xmin = 215.49
+			xmax = 221.08
+			text = "uma frenesi todo mundo queria fazer vôlei né treinar vôlei todas as minhas amigas treinavam"
+		intervals [125]:
+			xmin = 221.08
+			xmax = 221.24
+			text = "..."
+		intervals [126]:
+			xmin = 221.24
+			xmax = 223.53
+			text = "achava um charme aquelas joelheiras aquelas coisas"
+		intervals [127]:
+			xmin = 223.53
+			xmax = 224.23
+			text = "..."
+		intervals [128]:
+			xmin = 224.23
+			xmax = 224.65
+			text = "mas"
+		intervals [129]:
+			xmin = 224.65
+			xmax = 224.78
+			text = "..."
+		intervals [130]:
+			xmin = 224.78
+			xmax = 225.74
+			text = "minha mãe não deixou"
+		intervals [131]:
+			xmin = 225.74
+			xmax = 225.88
+			text = "..."
+		intervals [132]:
+			xmin = 225.88
+			xmax = 240.69
+			text = "porque imagina tinha que ir de em em horários diferentes da aula né não era no período da aula e eu podia me machucar podia quebrar o dedo eu nunca ela sempre ela tem orgulho de falar que eu nunca quebrei nada que eu e minha irmã nunca quebramos nenhuma parte do corpo né"
+		intervals [133]:
+			xmin = 240.69
+			xmax = 241.39
+			text = "..."
+		intervals [134]:
+			xmin = 241.39
+			xmax = 242.18
+			text = "daí"
+		intervals [135]:
+			xmin = 242.18
+			xmax = 243.07
+			text = "..."
+		intervals [136]:
+			xmin = 243.07
+			xmax = 246.83
+			text = "já que eu não podia fazer isso eu comecei a fazer teatro na escola e"
+		intervals [137]:
+			xmin = 246.83
+			xmax = 247.26
+			text = "..."
+		intervals [138]:
+			xmin = 247.26
+			xmax = 247.67
+			text = "isso"
+		intervals [139]:
+			xmin = 247.67
+			xmax = 249.12
+			text = "ela foi deixando porque no com"
+		intervals [140]:
+			xmin = 249.12
+			xmax = 249.24
+			text = "..."
+		intervals [141]:
+			xmin = 249.24
+			xmax = 249.47
+			text = "hum"
+		intervals [142]:
+			xmin = 249.47
+			xmax = 253.21
+			text = "quando eu era criança fazia balé tudo então ela sempre gostou que eu fui"
+		intervals [143]:
+			xmin = 253.21
+			xmax = 253.34
+			text = "..."
+		intervals [144]:
+			xmin = 253.34
+			xmax = 254.18
+			text = "sa soube"
+		intervals [145]:
+			xmin = 254.18
+			xmax = 255.43
+			text = "que eu gostava de ficar"
+		intervals [146]:
+			xmin = 255.43
+			xmax = 255.83
+			text = "..."
+		intervals [147]:
+			xmin = 255.83
+			xmax = 256.73
+			text = "assim no palco"
+		intervals [148]:
+			xmin = 256.73
+			xmax = 256.84
+			text = "..."
+		intervals [149]:
+			xmin = 256.84
+			xmax = 257.35
+			text = "e foi cre"
+		intervals [150]:
+			xmin = 257.35
+			xmax = 257.61
+			text = "..."
+		intervals [151]:
+			xmin = 257.61
+			xmax = 271.0
+			text = "assim foi um envolvimento muito legal lá na escola porque chegou a um ponto que assim a arte ou ela te pica principalmente o teatro ou não e as outras crianças que estavam envolvidas nessa atividade da professora de educação artística"
+		intervals [152]:
+			xmin = 271.0
+			xmax = 271.76
+			text = "..."
+		intervals [153]:
+			xmin = 271.76
+			xmax = 276.12
+			text = "e em conjugada com uma professora de educação física que elas duas estavam"
+		intervals [154]:
+			xmin = 276.12
+			xmax = 276.66
+			text = "..."
+		intervals [155]:
+			xmin = 276.66
+			xmax = 278.82
+			text = "eh fazendo um trabalho conjunto né"
+		intervals [156]:
+			xmin = 278.82
+			xmax = 279.65
+			text = "..."
+		intervals [157]:
+			xmin = 279.65
+			xmax = 282.36
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 282.36
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 28.52
+			text = ""
+		intervals [2]:
+			xmin = 28.52
+			xmax = 32.9
+			text = "e e lá na lá na sua casa o pessoal ia para lá as as moças lá fazer"
+		intervals [3]:
+			xmin = 32.9
+			xmax = 33.33
+			text = "..."
+		intervals [4]:
+			xmin = 33.33
+			xmax = 34.99
+			text = "você ficava lá no meio olhando"
+		intervals [5]:
+			xmin = 34.99
+			xmax = 282.36
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 282.36
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 28.52
+			text = ""
+		intervals [2]:
+			xmin = 28.52
+			xmax = 32.9
+			text = "e e lá na lá na sua casa o pessoal ia para lá as as moças lá fazer"
+		intervals [3]:
+			xmin = 32.9
+			xmax = 33.33
+			text = "..."
+		intervals [4]:
+			xmin = 33.33
+			xmax = 34.99
+			text = "você ficava lá no meio olhando"
+		intervals [5]:
+			xmin = 34.99
+			xmax = 282.36
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 282.36
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 282.36
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 282.36
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 282.36
+			text = ""

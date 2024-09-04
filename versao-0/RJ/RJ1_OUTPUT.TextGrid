@@ -1,0 +1,1692 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 252.56
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 252.56
+		intervals: size = 138
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.87
+			text = "aí eu fui para uma escola"
+		intervals [2]:
+			xmin = 0.87
+			xmax = 2.12
+			text = "maravilhosa"
+		intervals [3]:
+			xmin = 2.12
+			xmax = 3.07
+			text = "..."
+		intervals [4]:
+			xmin = 3.07
+			xmax = 4.53
+			text = "que eu nem sei se ainda existe"
+		intervals [5]:
+			xmin = 4.53
+			xmax = 4.64
+			text = ""
+		intervals [6]:
+			xmin = 4.64
+			xmax = 8.3
+			text = "se chamava era uma escola ela não era nem pública bem era tipo assim"
+		intervals [7]:
+			xmin = 8.3
+			xmax = 9.03
+			text = "..."
+		intervals [8]:
+			xmin = 9.03
+			xmax = 10.49
+			text = "prefeitura ti fo eles tinham"
+		intervals [9]:
+			xmin = 10.49
+			xmax = 10.84
+			text = "um"
+		intervals [10]:
+			xmin = 10.84
+			xmax = 18.45
+			text = "eles tinham uma ajuda da prefeitura mas a maioria da da das coisas todas quem colocava era mesmo a diretora que era dona da escola"
+		intervals [11]:
+			xmin = 18.45
+			xmax = 19.2
+			text = "..."
+		intervals [12]:
+			xmin = 19.2
+			xmax = 27.11
+			text = "né é assim dona [AAA] era diretora dessa escola ela era era viúva de um almirante da marinha e ela"
+		intervals [13]:
+			xmin = 27.11
+			xmax = 41.31
+			text = "fe eles fizeram essa escola antes dele morrer porque eu não cheguei a conhecêlo né só conhecia dona [A] então ela que era era dona era diretora era tudo então essa escola era assim a gente não pagava pagava assim tipo como se fosse hoje cinco reais que tinha antigamente um negócio de caixa escolar né e"
+		intervals [14]:
+			xmin = 41.31
+			xmax = 42.27
+			text = "..."
+		intervals [15]:
+			xmin = 42.27
+			xmax = 45.81
+			text = "e assim tinha tudo naquela escola era uma casa"
+		intervals [16]:
+			xmin = 45.81
+			xmax = 46.19
+			text = "..."
+		intervals [17]:
+			xmin = 46.19
+			xmax = 49.94
+			text = "era um tipo eu eu acredito até que tenha sido uma fazenda alguma coisa lá"
+		intervals [18]:
+			xmin = 49.94
+			xmax = 50.55
+			text = "..."
+		intervals [19]:
+			xmin = 50.55
+			xmax = 52.37
+			text = "é lá em caxias e ela é eh até"
+		intervals [20]:
+			xmin = 52.37
+			xmax = 52.79
+			text = "..."
+		intervals [21]:
+			xmin = 52.79
+			xmax = 59.23
+			text = "que ela é perto da do do centro de caxias não é afastado não era uma casa assim tipo uma casa de fazenda com varanda toda volta"
+		intervals [22]:
+			xmin = 59.23
+			xmax = 59.53
+			text = "..."
+		intervals [23]:
+			xmin = 59.53
+			xmax = 63.25
+			text = "um quintal enorme tinha horta tinha jardim"
+		intervals [24]:
+			xmin = 63.25
+			xmax = 63.68
+			text = "..."
+		intervals [25]:
+			xmin = 63.68
+			xmax = 66.79
+			text = "e tinha tudo sim tinha uma pequena biblioteca"
+		intervals [26]:
+			xmin = 66.79
+			xmax = 67.32
+			text = "..."
+		intervals [27]:
+			xmin = 67.32
+			xmax = 68.28
+			text = "tinha uma"
+		intervals [28]:
+			xmin = 68.28
+			xmax = 68.82
+			text = "..."
+		intervals [29]:
+			xmin = 68.82
+			xmax = 70.22
+			text = "uma salinha que era como"
+		intervals [30]:
+			xmin = 70.22
+			xmax = 71.25
+			text = "..."
+		intervals [31]:
+			xmin = 71.25
+			xmax = 77.9
+			text = "se diz uma oficina para o bom isso antes tinha uma uma salinha assim como essa uma sala assim que eles fizeram um pequeno museu"
+		intervals [32]:
+			xmin = 77.9
+			xmax = 78.32
+			text = ""
+		intervals [33]:
+			xmin = 78.32
+			xmax = 83.29
+			text = "é então era um museu assim de coisas curiosas tinha bichos empalhados tinha"
+		intervals [34]:
+			xmin = 83.29
+			xmax = 84.23
+			text = "pedras"
+		intervals [35]:
+			xmin = 84.23
+			xmax = 84.6
+			text = "..."
+		intervals [36]:
+			xmin = 84.6
+			xmax = 86.26
+			text = "qualquer ãh pedra"
+		intervals [37]:
+			xmin = 86.26
+			xmax = 87.5
+			text = "malacaxeta todas essas coisas"
+		intervals [38]:
+			xmin = 87.5
+			xmax = 87.79
+			text = "que"
+		intervals [39]:
+			xmin = 87.79
+			xmax = 88.18
+			text = "..."
+		intervals [40]:
+			xmin = 88.18
+			xmax = 89.67
+			text = "que a gente normalmente"
+		intervals [41]:
+			xmin = 89.67
+			xmax = 91.83
+			text = "ah antigamente aprendia né na escola"
+		intervals [42]:
+			xmin = 91.83
+			xmax = 92.16
+			text = "..."
+		intervals [43]:
+			xmin = 92.16
+			xmax = 93.02
+			text = "a conhecer né"
+		intervals [44]:
+			xmin = 93.02
+			xmax = 93.54
+			text = ""
+		intervals [45]:
+			xmin = 93.54
+			xmax = 97.95
+			text = "é malacaxeta quartzo essas coisas né cristal então tinha aí tinha os"
+		intervals [46]:
+			xmin = 97.95
+			xmax = 99.38
+			text = "bichos tinha flores"
+		intervals [47]:
+			xmin = 99.38
+			xmax = 99.88
+			text = "secas"
+		intervals [48]:
+			xmin = 99.88
+			xmax = 100.52
+			text = "tudo que a gente"
+		intervals [49]:
+			xmin = 100.52
+			xmax = 100.84
+			text = "..."
+		intervals [50]:
+			xmin = 100.84
+			xmax = 104.59
+			text = "achasse que era interessante a gente levava para a escola e a professora avaliava"
+		intervals [51]:
+			xmin = 104.59
+			xmax = 104.83
+			text = "e"
+		intervals [52]:
+			xmin = 104.83
+			xmax = 110.13
+			text = "colocava nesse museu tinha coisas do amazonas tinha língua de peixe pirarucu onde"
+		intervals [53]:
+			xmin = 110.13
+			xmax = 111.57
+			text = "eles ralavam a guaraná"
+		intervals [54]:
+			xmin = 111.57
+			xmax = 112.25
+			text = ""
+		intervals [55]:
+			xmin = 112.25
+			xmax = 112.53
+			text = "é"
+		intervals [56]:
+			xmin = 112.53
+			xmax = 122.05
+			text = "não algumas coisas a gente levava né o que a gente achava de interessante mas já tinha montado quando eu cheguei na escola já tinha esse museu e tinha um ambulatório que era para quando as crianças caíam"
+		intervals [57]:
+			xmin = 122.05
+			xmax = 123.13
+			text = "..."
+		intervals [58]:
+			xmin = 123.13
+			xmax = 124.95
+			text = "ralava o joelho a gente colocava eu era"
+		intervals [59]:
+			xmin = 124.95
+			xmax = 125.43
+			text = "..."
+		intervals [60]:
+			xmin = 125.43
+			xmax = 126.49
+			text = "eu era enfermeira a"
+		intervals [61]:
+			xmin = 126.49
+			xmax = 127.31
+			text = "..."
+		intervals [62]:
+			xmin = 127.31
+			xmax = 130.62
+			text = "encarregada do ambulatório colocava mercúrio né"
+		intervals [63]:
+			xmin = 130.62
+			xmax = 130.77
+			text = ""
+		intervals [64]:
+			xmin = 130.77
+			xmax = 132.29
+			text = "desinfetava"
+		intervals [65]:
+			xmin = 132.29
+			xmax = 132.65
+			text = "ensina"
+		intervals [66]:
+			xmin = 132.65
+			xmax = 133.51
+			text = ""
+		intervals [67]:
+			xmin = 133.51
+			xmax = 136.26
+			text = "era eu era encarregada do ambulatório e eu não gostava nada"
+		intervals [68]:
+			xmin = 136.26
+			xmax = 137.44
+			text = "quando caía alguma criança que já"
+		intervals [69]:
+			xmin = 137.44
+			xmax = 138.83
+			text = "vinha aquilo escorrendo sangue para"
+		intervals [70]:
+			xmin = 138.83
+			xmax = 139.25
+			text = "..."
+		intervals [71]:
+			xmin = 139.25
+			xmax = 141.01
+			text = "fazer curativo ih lá vem"
+		intervals [72]:
+			xmin = 141.01
+			xmax = 141.59
+			text = "bomba"
+		intervals [73]:
+			xmin = 141.59
+			xmax = 142.75
+			text = ""
+		intervals [74]:
+			xmin = 142.75
+			xmax = 143.88
+			text = "quando eu estava no primário"
+		intervals [75]:
+			xmin = 143.88
+			xmax = 145.39
+			text = ""
+		intervals [76]:
+			xmin = 145.39
+			xmax = 147.33
+			text = "é cada ca um encarregado do museu hum"
+		intervals [77]:
+			xmin = 147.33
+			xmax = 147.8
+			text = "..."
+		intervals [78]:
+			xmin = 147.8
+			xmax = 148.83
+			text = "hum deixa eu ver se"
+		intervals [79]:
+			xmin = 148.83
+			xmax = 149.15
+			text = "já"
+		intervals [80]:
+			xmin = 149.15
+			xmax = 152.0
+			text = "dá um encarregado do museu outro da ambulatório"
+		intervals [81]:
+			xmin = 152.0
+			xmax = 152.24
+			text = ""
+		intervals [82]:
+			xmin = 152.24
+			xmax = 154.53
+			text = "outro da biblioteca cada aluno cuidava de"
+		intervals [83]:
+			xmin = 154.53
+			xmax = 154.79
+			text = "um"
+		intervals [84]:
+			xmin = 154.79
+			xmax = 155.34
+			text = "..."
+		intervals [85]:
+			xmin = 155.34
+			xmax = 157.4
+			text = "cada aluno né depois conforme ia passando de"
+		intervals [86]:
+			xmin = 157.4
+			xmax = 157.81
+			text = "ano"
+		intervals [87]:
+			xmin = 157.81
+			xmax = 158.95
+			text = "eles iam substituindo"
+		intervals [88]:
+			xmin = 158.95
+			xmax = 159.44
+			text = ""
+		intervals [89]:
+			xmin = 159.44
+			xmax = 159.88
+			text = "mas"
+		intervals [90]:
+			xmin = 159.88
+			xmax = 159.99
+			text = "era"
+		intervals [91]:
+			xmin = 159.99
+			xmax = 160.78
+			text = "interessante"
+		intervals [92]:
+			xmin = 160.78
+			xmax = 162.95
+			text = ""
+		intervals [93]:
+			xmin = 162.95
+			xmax = 163.57
+			text = "ah e aí eu fiz o"
+		intervals [94]:
+			xmin = 163.57
+			xmax = 164.87
+			text = ""
+		intervals [95]:
+			xmin = 164.87
+			xmax = 165.77
+			text = "o terceiro"
+		intervals [96]:
+			xmin = 165.77
+			xmax = 166.16
+			text = "..."
+		intervals [97]:
+			xmin = 166.16
+			xmax = 166.62
+			text = "e o quarto"
+		intervals [98]:
+			xmin = 166.62
+			xmax = 167.08
+			text = "ano"
+		intervals [99]:
+			xmin = 167.08
+			xmax = 167.24
+			text = ""
+		intervals [100]:
+			xmin = 167.24
+			xmax = 168.87
+			text = "terminei o primário lá né"
+		intervals [101]:
+			xmin = 168.87
+			xmax = 172.39
+			text = "ãh e tinha também a gente passava o dia todo nessa escola das oito da manhã"
+		intervals [102]:
+			xmin = 172.39
+			xmax = 173.06
+			text = "até"
+		intervals [103]:
+			xmin = 173.06
+			xmax = 181.4
+			text = "as quatro ou cinco da tarde e almoçavase lá era muito bom era uma escola muito boa que devia ter né outras assim uma maravilha não existe mais né"
+		intervals [104]:
+			xmin = 181.4
+			xmax = 185.86
+			text = ""
+		intervals [105]:
+			xmin = 185.86
+			xmax = 195.81
+			text = "ai eu tinha não todo mundo fazia né assim jogava vôlei tinha tinha tudo lá era muito bo tudo assim muito simples mas tinha né e eu não gostava eu nunca gostei de jogar então"
+		intervals [106]:
+			xmin = 195.81
+			xmax = 196.22
+			text = "..."
+		intervals [107]:
+			xmin = 196.22
+			xmax = 199.08
+			text = "na hora da que era para jogar eu já ia fazer outra coisa"
+		intervals [108]:
+			xmin = 199.08
+			xmax = 205.59
+			text = "ficava lendo ficava com as minhas amigas que também não não não gostavam não estavam interessadas hoje em dia é que a as pessoas se interessam muito né em"
+		intervals [109]:
+			xmin = 205.59
+			xmax = 206.02
+			text = "..."
+		intervals [110]:
+			xmin = 206.02
+			xmax = 206.67
+			text = "em em educação"
+		intervals [111]:
+			xmin = 206.67
+			xmax = 208.76
+			text = "física e em em em esporte que é muito"
+		intervals [112]:
+			xmin = 208.76
+			xmax = 211.54
+			text = "bom né e eu não agora que eu estou interessada"
+		intervals [113]:
+			xmin = 211.54
+			xmax = 211.92
+			text = "..."
+		intervals [114]:
+			xmin = 211.92
+			xmax = 212.53
+			text = "antes não"
+		intervals [115]:
+			xmin = 212.53
+			xmax = 215.65
+			text = ""
+		intervals [116]:
+			xmin = 215.65
+			xmax = 215.72
+			text = "aí"
+		intervals [117]:
+			xmin = 215.72
+			xmax = 217.89
+			text = ""
+		intervals [118]:
+			xmin = 217.89
+			xmax = 219.66
+			text = "não aí a gente não aí a gente já estava em"
+		intervals [119]:
+			xmin = 219.66
+			xmax = 221.83
+			text = "caxias aí eu mudei com catorze"
+		intervals [120]:
+			xmin = 221.83
+			xmax = 222.27
+			text = ""
+		intervals [121]:
+			xmin = 222.27
+			xmax = 223.83
+			text = "nós nos mudamos para"
+		intervals [122]:
+			xmin = 223.83
+			xmax = 225.14
+			text = "..."
+		intervals [123]:
+			xmin = 225.14
+			xmax = 225.93
+			text = "para copacabana"
+		intervals [124]:
+			xmin = 225.93
+			xmax = 226.24
+			text = "..."
+		intervals [125]:
+			xmin = 226.24
+			xmax = 226.67
+			text = ""
+		intervals [126]:
+			xmin = 226.67
+			xmax = 229.06
+			text = "que aí nós fomos morar na barata ribeiro"
+		intervals [127]:
+			xmin = 229.06
+			xmax = 230.14
+			text = "..."
+		intervals [128]:
+			xmin = 230.14
+			xmax = 231.72
+			text = "era um apartamento pequenininho mas"
+		intervals [129]:
+			xmin = 231.72
+			xmax = 232.02
+			text = "..."
+		intervals [130]:
+			xmin = 232.02
+			xmax = 232.97
+			text = "dava dava para todo mundo"
+		intervals [131]:
+			xmin = 232.97
+			xmax = 233.3
+			text = "..."
+		intervals [132]:
+			xmin = 233.3
+			xmax = 245.33
+			text = "e aí mas aí meu irmão já estava casado minha irmã também inclusive a minha irmã a mais velha já tinha se separado e já estava com a gente de volta com um filho de três anos quando ela voltou né mas a gente ainda estava lá em caxias e"
+		intervals [133]:
+			xmin = 245.33
+			xmax = 247.82
+			text = "..."
+		intervals [134]:
+			xmin = 247.82
+			xmax = 249.18
+			text = "aí eu passei é catorze"
+		intervals [135]:
+			xmin = 249.18
+			xmax = 249.71
+			text = "anos"
+		intervals [136]:
+			xmin = 249.71
+			xmax = 249.77
+			text = "que"
+		intervals [137]:
+			xmin = 249.77
+			xmax = 250.2
+			text = "..."
+		intervals [138]:
+			xmin = 250.2
+			xmax = 252.56
+			text = "até eu vir para são paulo eu morei no rio de janeiro na zona sul"
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 252.56
+		intervals: size = 175
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.87
+			text = "aí eu fui para uma escola"
+		intervals [2]:
+			xmin = 0.87
+			xmax = 2.12
+			text = "maravilhosa"
+		intervals [3]:
+			xmin = 2.12
+			xmax = 3.07
+			text = "..."
+		intervals [4]:
+			xmin = 3.07
+			xmax = 4.53
+			text = "que eu nem sei se ainda existe"
+		intervals [5]:
+			xmin = 4.53
+			xmax = 4.64
+			text = ""
+		intervals [6]:
+			xmin = 4.64
+			xmax = 8.3
+			text = "se chamava era uma escola ela não era nem pública bem era tipo assim"
+		intervals [7]:
+			xmin = 8.3
+			xmax = 9.03
+			text = "..."
+		intervals [8]:
+			xmin = 9.03
+			xmax = 10.49
+			text = "prefeitura ti fo eles tinham"
+		intervals [9]:
+			xmin = 10.49
+			xmax = 10.84
+			text = "um"
+		intervals [10]:
+			xmin = 10.84
+			xmax = 16.95
+			text = "eles tinham uma ajuda da prefeitura mas a maioria da da das coisas todas quem colocava era mesmo a diretora"
+		intervals [11]:
+			xmin = 16.95
+			xmax = 17.18
+			text = "..."
+		intervals [12]:
+			xmin = 17.18
+			xmax = 18.45
+			text = "que era dona da escola"
+		intervals [13]:
+			xmin = 18.45
+			xmax = 19.2
+			text = "..."
+		intervals [14]:
+			xmin = 19.2
+			xmax = 24.93
+			text = "né é assim dona [AAA] era diretora dessa escola ela era era viúva de um"
+		intervals [15]:
+			xmin = 24.93
+			xmax = 25.06
+			text = "..."
+		intervals [16]:
+			xmin = 25.06
+			xmax = 26.98
+			text = "almirante da marinha e ela"
+		intervals [17]:
+			xmin = 26.98
+			xmax = 27.11
+			text = "..."
+		intervals [18]:
+			xmin = 27.11
+			xmax = 39.32
+			text = "fe eles fizeram essa escola antes dele morrer porque eu não cheguei a conhecêlo né só conhecia dona [A] então ela que era era dona era diretora era tudo então essa escola era assim a gente não pagava pagava assim tipo como se fosse hoje cinco reais"
+		intervals [19]:
+			xmin = 39.32
+			xmax = 39.48
+			text = "..."
+		intervals [20]:
+			xmin = 39.48
+			xmax = 41.31
+			text = "que tinha antigamente um negócio de caixa escolar né e"
+		intervals [21]:
+			xmin = 41.31
+			xmax = 42.27
+			text = "..."
+		intervals [22]:
+			xmin = 42.27
+			xmax = 45.81
+			text = "e assim tinha tudo naquela escola era uma casa"
+		intervals [23]:
+			xmin = 45.81
+			xmax = 46.19
+			text = "..."
+		intervals [24]:
+			xmin = 46.19
+			xmax = 49.94
+			text = "era um tipo eu eu acredito até que tenha sido uma fazenda alguma coisa lá"
+		intervals [25]:
+			xmin = 49.94
+			xmax = 50.55
+			text = "..."
+		intervals [26]:
+			xmin = 50.55
+			xmax = 51.6
+			text = "é lá em caxias e ela é eh"
+		intervals [27]:
+			xmin = 51.6
+			xmax = 51.86
+			text = "..."
+		intervals [28]:
+			xmin = 51.86
+			xmax = 52.37
+			text = "até"
+		intervals [29]:
+			xmin = 52.37
+			xmax = 52.79
+			text = "..."
+		intervals [30]:
+			xmin = 52.79
+			xmax = 59.23
+			text = "que ela é perto da do do centro de caxias não é afastado não era uma casa assim tipo uma casa de fazenda com varanda toda volta"
+		intervals [31]:
+			xmin = 59.23
+			xmax = 59.53
+			text = "..."
+		intervals [32]:
+			xmin = 59.53
+			xmax = 60.88
+			text = "um quintal enorme"
+		intervals [33]:
+			xmin = 60.88
+			xmax = 61.17
+			text = "..."
+		intervals [34]:
+			xmin = 61.17
+			xmax = 63.25
+			text = "tinha horta tinha jardim"
+		intervals [35]:
+			xmin = 63.25
+			xmax = 63.68
+			text = "..."
+		intervals [36]:
+			xmin = 63.68
+			xmax = 66.79
+			text = "e tinha tudo sim tinha uma pequena biblioteca"
+		intervals [37]:
+			xmin = 66.79
+			xmax = 67.32
+			text = "..."
+		intervals [38]:
+			xmin = 67.32
+			xmax = 68.28
+			text = "tinha uma"
+		intervals [39]:
+			xmin = 68.28
+			xmax = 68.82
+			text = "..."
+		intervals [40]:
+			xmin = 68.82
+			xmax = 70.22
+			text = "uma salinha que era como"
+		intervals [41]:
+			xmin = 70.22
+			xmax = 71.25
+			text = "..."
+		intervals [42]:
+			xmin = 71.25
+			xmax = 74.27
+			text = "se diz uma oficina para o bom isso antes tinha uma"
+		intervals [43]:
+			xmin = 74.27
+			xmax = 74.56
+			text = "..."
+		intervals [44]:
+			xmin = 74.56
+			xmax = 77.9
+			text = "uma salinha assim como essa uma sala assim que eles fizeram um pequeno museu"
+		intervals [45]:
+			xmin = 77.9
+			xmax = 78.32
+			text = ""
+		intervals [46]:
+			xmin = 78.32
+			xmax = 82.22
+			text = "é então era um museu assim de coisas curiosas tinha bichos empalhados"
+		intervals [47]:
+			xmin = 82.22
+			xmax = 82.48
+			text = "..."
+		intervals [48]:
+			xmin = 82.48
+			xmax = 83.29
+			text = "tinha"
+		intervals [49]:
+			xmin = 83.29
+			xmax = 84.23
+			text = "pedras"
+		intervals [50]:
+			xmin = 84.23
+			xmax = 84.6
+			text = "..."
+		intervals [51]:
+			xmin = 84.6
+			xmax = 86.26
+			text = "qualquer ãh pedra"
+		intervals [52]:
+			xmin = 86.26
+			xmax = 87.5
+			text = "malacaxeta todas essas coisas"
+		intervals [53]:
+			xmin = 87.5
+			xmax = 87.79
+			text = "que"
+		intervals [54]:
+			xmin = 87.79
+			xmax = 88.18
+			text = "..."
+		intervals [55]:
+			xmin = 88.18
+			xmax = 89.67
+			text = "que a gente normalmente"
+		intervals [56]:
+			xmin = 89.67
+			xmax = 91.83
+			text = "ah antigamente aprendia né na escola"
+		intervals [57]:
+			xmin = 91.83
+			xmax = 92.16
+			text = "..."
+		intervals [58]:
+			xmin = 92.16
+			xmax = 93.02
+			text = "a conhecer né"
+		intervals [59]:
+			xmin = 93.02
+			xmax = 93.79
+			text = ""
+		intervals [60]:
+			xmin = 93.79
+			xmax = 97.95
+			text = "é malacaxeta quartzo essas coisas né cristal então tinha aí tinha os"
+		intervals [61]:
+			xmin = 97.95
+			xmax = 98.82
+			text = "bichos tinha"
+		intervals [62]:
+			xmin = 98.82
+			xmax = 99.11
+			text = "..."
+		intervals [63]:
+			xmin = 99.11
+			xmax = 99.38
+			text = "flores"
+		intervals [64]:
+			xmin = 99.38
+			xmax = 99.88
+			text = "secas"
+		intervals [65]:
+			xmin = 99.88
+			xmax = 100.52
+			text = "tudo que a gente"
+		intervals [66]:
+			xmin = 100.52
+			xmax = 100.84
+			text = "..."
+		intervals [67]:
+			xmin = 100.84
+			xmax = 104.59
+			text = "achasse que era interessante a gente levava para a escola e a professora avaliava"
+		intervals [68]:
+			xmin = 104.59
+			xmax = 104.83
+			text = "e"
+		intervals [69]:
+			xmin = 104.83
+			xmax = 107.45
+			text = "colocava nesse museu tinha coisas do amazonas tinha"
+		intervals [70]:
+			xmin = 107.45
+			xmax = 107.75
+			text = "..."
+		intervals [71]:
+			xmin = 107.75
+			xmax = 109.59
+			text = "língua de peixe pirarucu"
+		intervals [72]:
+			xmin = 109.59
+			xmax = 109.85
+			text = "..."
+		intervals [73]:
+			xmin = 109.85
+			xmax = 110.13
+			text = "onde"
+		intervals [74]:
+			xmin = 110.13
+			xmax = 111.57
+			text = "eles ralavam a guaraná"
+		intervals [75]:
+			xmin = 111.57
+			xmax = 112.25
+			text = ""
+		intervals [76]:
+			xmin = 112.25
+			xmax = 112.53
+			text = "é"
+		intervals [77]:
+			xmin = 112.53
+			xmax = 122.05
+			text = "não algumas coisas a gente levava né o que a gente achava de interessante mas já tinha montado quando eu cheguei na escola já tinha esse museu e tinha um ambulatório que era para quando as crianças caíam"
+		intervals [78]:
+			xmin = 122.05
+			xmax = 123.13
+			text = "..."
+		intervals [79]:
+			xmin = 123.13
+			xmax = 124.95
+			text = "ralava o joelho a gente colocava eu era"
+		intervals [80]:
+			xmin = 124.95
+			xmax = 125.43
+			text = "..."
+		intervals [81]:
+			xmin = 125.43
+			xmax = 126.49
+			text = "eu era enfermeira a"
+		intervals [82]:
+			xmin = 126.49
+			xmax = 127.31
+			text = "..."
+		intervals [83]:
+			xmin = 127.31
+			xmax = 129.54
+			text = "encarregada do ambulatório colocava"
+		intervals [84]:
+			xmin = 129.54
+			xmax = 129.77
+			text = "..."
+		intervals [85]:
+			xmin = 129.77
+			xmax = 130.62
+			text = "mercúrio né"
+		intervals [86]:
+			xmin = 130.62
+			xmax = 130.77
+			text = ""
+		intervals [87]:
+			xmin = 130.77
+			xmax = 132.16
+			text = "desinfetava"
+		intervals [88]:
+			xmin = 132.16
+			xmax = 132.29
+			text = "..."
+		intervals [89]:
+			xmin = 132.29
+			xmax = 132.65
+			text = "ensina"
+		intervals [90]:
+			xmin = 132.65
+			xmax = 133.51
+			text = ""
+		intervals [91]:
+			xmin = 133.51
+			xmax = 136.26
+			text = "era eu era encarregada do ambulatório e eu não gostava nada"
+		intervals [92]:
+			xmin = 136.26
+			xmax = 137.44
+			text = "quando caía alguma criança que já"
+		intervals [93]:
+			xmin = 137.44
+			xmax = 138.83
+			text = "vinha aquilo escorrendo sangue para"
+		intervals [94]:
+			xmin = 138.83
+			xmax = 139.25
+			text = "..."
+		intervals [95]:
+			xmin = 139.25
+			xmax = 140.86
+			text = "fazer curativo ih lá vem"
+		intervals [96]:
+			xmin = 140.86
+			xmax = 141.01
+			text = "..."
+		intervals [97]:
+			xmin = 141.01
+			xmax = 141.59
+			text = "bomba"
+		intervals [98]:
+			xmin = 141.59
+			xmax = 142.75
+			text = ""
+		intervals [99]:
+			xmin = 142.75
+			xmax = 143.88
+			text = "quando eu estava no primário"
+		intervals [100]:
+			xmin = 143.88
+			xmax = 145.39
+			text = ""
+		intervals [101]:
+			xmin = 145.39
+			xmax = 147.33
+			text = "é cada ca um encarregado do museu hum"
+		intervals [102]:
+			xmin = 147.33
+			xmax = 147.8
+			text = "..."
+		intervals [103]:
+			xmin = 147.8
+			xmax = 148.54
+			text = "hum deixa eu ver"
+		intervals [104]:
+			xmin = 148.54
+			xmax = 148.69
+			text = "..."
+		intervals [105]:
+			xmin = 148.69
+			xmax = 148.83
+			text = "se"
+		intervals [106]:
+			xmin = 148.83
+			xmax = 149.15
+			text = "já"
+		intervals [107]:
+			xmin = 149.15
+			xmax = 152.0
+			text = "dá um encarregado do museu outro da ambulatório"
+		intervals [108]:
+			xmin = 152.0
+			xmax = 152.24
+			text = ""
+		intervals [109]:
+			xmin = 152.24
+			xmax = 154.53
+			text = "outro da biblioteca cada aluno cuidava de"
+		intervals [110]:
+			xmin = 154.53
+			xmax = 154.79
+			text = "um"
+		intervals [111]:
+			xmin = 154.79
+			xmax = 155.34
+			text = "..."
+		intervals [112]:
+			xmin = 155.34
+			xmax = 157.4
+			text = "cada aluno né depois conforme ia passando de"
+		intervals [113]:
+			xmin = 157.4
+			xmax = 157.81
+			text = "ano"
+		intervals [114]:
+			xmin = 157.81
+			xmax = 158.95
+			text = "eles iam substituindo"
+		intervals [115]:
+			xmin = 158.95
+			xmax = 159.22
+			text = "..."
+		intervals [116]:
+			xmin = 159.22
+			xmax = 159.44
+			text = ""
+		intervals [117]:
+			xmin = 159.44
+			xmax = 159.88
+			text = "mas"
+		intervals [118]:
+			xmin = 159.88
+			xmax = 159.99
+			text = "era"
+		intervals [119]:
+			xmin = 159.99
+			xmax = 160.78
+			text = "interessante"
+		intervals [120]:
+			xmin = 160.78
+			xmax = 162.95
+			text = ""
+		intervals [121]:
+			xmin = 162.95
+			xmax = 163.57
+			text = "ah e aí eu fiz o"
+		intervals [122]:
+			xmin = 163.57
+			xmax = 164.87
+			text = ""
+		intervals [123]:
+			xmin = 164.87
+			xmax = 165.77
+			text = "o terceiro"
+		intervals [124]:
+			xmin = 165.77
+			xmax = 166.16
+			text = "..."
+		intervals [125]:
+			xmin = 166.16
+			xmax = 166.62
+			text = "e o quarto"
+		intervals [126]:
+			xmin = 166.62
+			xmax = 167.08
+			text = "ano"
+		intervals [127]:
+			xmin = 167.08
+			xmax = 167.24
+			text = ""
+		intervals [128]:
+			xmin = 167.24
+			xmax = 168.6
+			text = "terminei o primário lá né"
+		intervals [129]:
+			xmin = 168.6
+			xmax = 168.87
+			text = "..."
+		intervals [130]:
+			xmin = 168.87
+			xmax = 172.39
+			text = "ãh e tinha também a gente passava o dia todo nessa escola das oito da manhã"
+		intervals [131]:
+			xmin = 172.39
+			xmax = 173.06
+			text = "até"
+		intervals [132]:
+			xmin = 173.06
+			xmax = 181.4
+			text = "as quatro ou cinco da tarde e almoçavase lá era muito bom era uma escola muito boa que devia ter né outras assim uma maravilha não existe mais né"
+		intervals [133]:
+			xmin = 181.4
+			xmax = 185.86
+			text = ""
+		intervals [134]:
+			xmin = 185.86
+			xmax = 195.81
+			text = "ai eu tinha não todo mundo fazia né assim jogava vôlei tinha tinha tudo lá era muito bo tudo assim muito simples mas tinha né e eu não gostava eu nunca gostei de jogar então"
+		intervals [135]:
+			xmin = 195.81
+			xmax = 196.22
+			text = "..."
+		intervals [136]:
+			xmin = 196.22
+			xmax = 196.83
+			text = "na hora da"
+		intervals [137]:
+			xmin = 196.83
+			xmax = 197.11
+			text = "..."
+		intervals [138]:
+			xmin = 197.11
+			xmax = 199.08
+			text = "que era para jogar eu já ia fazer outra coisa"
+		intervals [139]:
+			xmin = 199.08
+			xmax = 200.04
+			text = "ficava lendo"
+		intervals [140]:
+			xmin = 200.04
+			xmax = 200.33
+			text = "..."
+		intervals [141]:
+			xmin = 200.33
+			xmax = 203.72
+			text = "ficava com as minhas amigas que também não não não gostavam não estavam interessadas hoje em dia é que a"
+		intervals [142]:
+			xmin = 203.72
+			xmax = 203.99
+			text = "..."
+		intervals [143]:
+			xmin = 203.99
+			xmax = 205.59
+			text = "as pessoas se interessam muito né em"
+		intervals [144]:
+			xmin = 205.59
+			xmax = 206.02
+			text = "..."
+		intervals [145]:
+			xmin = 206.02
+			xmax = 206.67
+			text = "em em educação"
+		intervals [146]:
+			xmin = 206.67
+			xmax = 208.76
+			text = "física e em em em esporte que é muito"
+		intervals [147]:
+			xmin = 208.76
+			xmax = 211.54
+			text = "bom né e eu não agora que eu estou interessada"
+		intervals [148]:
+			xmin = 211.54
+			xmax = 211.92
+			text = "..."
+		intervals [149]:
+			xmin = 211.92
+			xmax = 212.53
+			text = "antes não"
+		intervals [150]:
+			xmin = 212.53
+			xmax = 215.65
+			text = ""
+		intervals [151]:
+			xmin = 215.65
+			xmax = 215.72
+			text = "aí"
+		intervals [152]:
+			xmin = 215.72
+			xmax = 217.89
+			text = ""
+		intervals [153]:
+			xmin = 217.89
+			xmax = 219.66
+			text = "não aí a gente não aí a gente já estava em"
+		intervals [154]:
+			xmin = 219.66
+			xmax = 221.83
+			text = "caxias aí eu mudei com catorze"
+		intervals [155]:
+			xmin = 221.83
+			xmax = 222.27
+			text = ""
+		intervals [156]:
+			xmin = 222.27
+			xmax = 223.83
+			text = "nós nos mudamos para"
+		intervals [157]:
+			xmin = 223.83
+			xmax = 225.14
+			text = "..."
+		intervals [158]:
+			xmin = 225.14
+			xmax = 225.93
+			text = "para copacabana"
+		intervals [159]:
+			xmin = 225.93
+			xmax = 226.24
+			text = "..."
+		intervals [160]:
+			xmin = 226.24
+			xmax = 226.67
+			text = ""
+		intervals [161]:
+			xmin = 226.67
+			xmax = 229.06
+			text = "que aí nós fomos morar na barata ribeiro"
+		intervals [162]:
+			xmin = 229.06
+			xmax = 230.14
+			text = "..."
+		intervals [163]:
+			xmin = 230.14
+			xmax = 231.72
+			text = "era um apartamento pequenininho mas"
+		intervals [164]:
+			xmin = 231.72
+			xmax = 232.02
+			text = "..."
+		intervals [165]:
+			xmin = 232.02
+			xmax = 232.97
+			text = "dava dava para todo mundo"
+		intervals [166]:
+			xmin = 232.97
+			xmax = 233.3
+			text = "..."
+		intervals [167]:
+			xmin = 233.3
+			xmax = 236.86
+			text = "e aí mas aí meu irmão já estava casado minha irmã também inclusive a minha irmã"
+		intervals [168]:
+			xmin = 236.86
+			xmax = 237.13
+			text = "..."
+		intervals [169]:
+			xmin = 237.13
+			xmax = 245.33
+			text = "a mais velha já tinha se separado e já estava com a gente de volta com um filho de três anos quando ela voltou né mas a gente ainda estava lá em caxias e"
+		intervals [170]:
+			xmin = 245.33
+			xmax = 247.82
+			text = "..."
+		intervals [171]:
+			xmin = 247.82
+			xmax = 249.18
+			text = "aí eu passei é catorze"
+		intervals [172]:
+			xmin = 249.18
+			xmax = 249.71
+			text = "anos"
+		intervals [173]:
+			xmin = 249.71
+			xmax = 249.77
+			text = "que"
+		intervals [174]:
+			xmin = 249.77
+			xmax = 250.2
+			text = "..."
+		intervals [175]:
+			xmin = 250.2
+			xmax = 252.56
+			text = "até eu vir para são paulo eu morei no rio de janeiro na zona sul"
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 252.56
+		intervals: size = 47
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.53
+			text = ""
+		intervals [2]:
+			xmin = 4.53
+			xmax = 4.64
+			text = "onde"
+		intervals [3]:
+			xmin = 4.64
+			xmax = 77.9
+			text = ""
+		intervals [4]:
+			xmin = 77.9
+			xmax = 78.24
+			text = "ah"
+		intervals [5]:
+			xmin = 78.24
+			xmax = 78.32
+			text = "é"
+		intervals [6]:
+			xmin = 78.32
+			xmax = 93.02
+			text = ""
+		intervals [7]:
+			xmin = 93.02
+			xmax = 93.32
+			text = "ah"
+		intervals [8]:
+			xmin = 93.32
+			xmax = 93.54
+			text = "é"
+		intervals [9]:
+			xmin = 93.54
+			xmax = 111.57
+			text = ""
+		intervals [10]:
+			xmin = 111.57
+			xmax = 112.05
+			text = "levaram"
+		intervals [11]:
+			xmin = 112.05
+			xmax = 112.25
+			text = "os"
+		intervals [12]:
+			xmin = 112.25
+			xmax = 130.62
+			text = ""
+		intervals [13]:
+			xmin = 130.62
+			xmax = 130.69
+			text = "é"
+		intervals [14]:
+			xmin = 130.69
+			xmax = 132.65
+			text = ""
+		intervals [15]:
+			xmin = 132.65
+			xmax = 133.0
+			text = "a senhora"
+		intervals [16]:
+			xmin = 133.0
+			xmax = 133.51
+			text = "era o quê"
+		intervals [17]:
+			xmin = 133.51
+			xmax = 141.59
+			text = ""
+		intervals [18]:
+			xmin = 141.59
+			xmax = 141.93
+			text = "mas"
+		intervals [19]:
+			xmin = 141.93
+			xmax = 142.3
+			text = "isso"
+		intervals [20]:
+			xmin = 142.3
+			xmax = 142.75
+			text = "quando"
+		intervals [21]:
+			xmin = 142.75
+			xmax = 143.88
+			text = ""
+		intervals [22]:
+			xmin = 143.88
+			xmax = 144.05
+			text = "ah"
+		intervals [23]:
+			xmin = 144.05
+			xmax = 145.39
+			text = "porque daí os alunos também eram enca"
+		intervals [24]:
+			xmin = 145.39
+			xmax = 152.0
+			text = ""
+		intervals [25]:
+			xmin = 152.0
+			xmax = 152.24
+			text = "aham"
+		intervals [26]:
+			xmin = 152.24
+			xmax = 159.22
+			text = ""
+		intervals [27]:
+			xmin = 159.22
+			xmax = 159.44
+			text = "ãh"
+		intervals [28]:
+			xmin = 159.44
+			xmax = 160.78
+			text = ""
+		intervals [29]:
+			xmin = 160.78
+			xmax = 162.61
+			text = "e nesse e nessa escola então passou bastante"
+		intervals [30]:
+			xmin = 162.61
+			xmax = 162.95
+			text = "tempo"
+		intervals [31]:
+			xmin = 162.95
+			xmax = 163.57
+			text = ""
+		intervals [32]:
+			xmin = 163.57
+			xmax = 164.87
+			text = "de amizades lá dentro"
+		intervals [33]:
+			xmin = 164.87
+			xmax = 167.08
+			text = ""
+		intervals [34]:
+			xmin = 167.08
+			xmax = 167.24
+			text = "ãh"
+		intervals [35]:
+			xmin = 167.24
+			xmax = 181.4
+			text = ""
+		intervals [36]:
+			xmin = 181.4
+			xmax = 182.23
+			text = "e da eh a"
+		intervals [37]:
+			xmin = 182.23
+			xmax = 185.86
+			text = "senhora lembra de alguma brincadeira específica que gostava que gostava de fazer nessa época"
+		intervals [38]:
+			xmin = 185.86
+			xmax = 212.53
+			text = ""
+		intervals [39]:
+			xmin = 212.53
+			xmax = 215.65
+			text = "e como é que foi depois a passagem também para a adolescência né como é que foi a adolescência"
+		intervals [40]:
+			xmin = 215.65
+			xmax = 215.72
+			text = ""
+		intervals [41]:
+			xmin = 215.72
+			xmax = 217.89
+			text = "lá no rio de janeiro você já ainda estava em madureira"
+		intervals [42]:
+			xmin = 217.89
+			xmax = 221.83
+			text = ""
+		intervals [43]:
+			xmin = 221.83
+			xmax = 221.86
+			text = "é"
+		intervals [44]:
+			xmin = 221.86
+			xmax = 222.27
+			text = "..."
+		intervals [45]:
+			xmin = 222.27
+			xmax = 226.24
+			text = ""
+		intervals [46]:
+			xmin = 226.24
+			xmax = 226.41
+			text = "é"
+		intervals [47]:
+			xmin = 226.41
+			xmax = 252.56
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 252.56
+		intervals: size = 50
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.53
+			text = ""
+		intervals [2]:
+			xmin = 4.53
+			xmax = 4.64
+			text = "onde"
+		intervals [3]:
+			xmin = 4.64
+			xmax = 77.9
+			text = ""
+		intervals [4]:
+			xmin = 77.9
+			xmax = 78.24
+			text = "ah"
+		intervals [5]:
+			xmin = 78.24
+			xmax = 78.32
+			text = "é"
+		intervals [6]:
+			xmin = 78.32
+			xmax = 93.02
+			text = ""
+		intervals [7]:
+			xmin = 93.02
+			xmax = 93.12
+			text = "ah"
+		intervals [8]:
+			xmin = 93.12
+			xmax = 93.32
+			text = "..."
+		intervals [9]:
+			xmin = 93.32
+			xmax = 93.54
+			text = "é"
+		intervals [10]:
+			xmin = 93.54
+			xmax = 93.79
+			text = "..."
+		intervals [11]:
+			xmin = 93.79
+			xmax = 111.57
+			text = ""
+		intervals [12]:
+			xmin = 111.57
+			xmax = 112.05
+			text = "levaram"
+		intervals [13]:
+			xmin = 112.05
+			xmax = 112.25
+			text = "os"
+		intervals [14]:
+			xmin = 112.25
+			xmax = 130.62
+			text = ""
+		intervals [15]:
+			xmin = 130.62
+			xmax = 130.69
+			text = "é"
+		intervals [16]:
+			xmin = 130.69
+			xmax = 132.65
+			text = ""
+		intervals [17]:
+			xmin = 132.65
+			xmax = 133.0
+			text = "a senhora"
+		intervals [18]:
+			xmin = 133.0
+			xmax = 133.51
+			text = "era o quê"
+		intervals [19]:
+			xmin = 133.51
+			xmax = 141.59
+			text = ""
+		intervals [20]:
+			xmin = 141.59
+			xmax = 141.93
+			text = "mas"
+		intervals [21]:
+			xmin = 141.93
+			xmax = 142.3
+			text = "isso"
+		intervals [22]:
+			xmin = 142.3
+			xmax = 142.75
+			text = "quando"
+		intervals [23]:
+			xmin = 142.75
+			xmax = 143.88
+			text = ""
+		intervals [24]:
+			xmin = 143.88
+			xmax = 144.05
+			text = "ah"
+		intervals [25]:
+			xmin = 144.05
+			xmax = 145.39
+			text = "porque daí os alunos também eram enca"
+		intervals [26]:
+			xmin = 145.39
+			xmax = 152.0
+			text = ""
+		intervals [27]:
+			xmin = 152.0
+			xmax = 152.24
+			text = "aham"
+		intervals [28]:
+			xmin = 152.24
+			xmax = 159.22
+			text = ""
+		intervals [29]:
+			xmin = 159.22
+			xmax = 159.44
+			text = "ãh"
+		intervals [30]:
+			xmin = 159.44
+			xmax = 160.78
+			text = ""
+		intervals [31]:
+			xmin = 160.78
+			xmax = 162.61
+			text = "e nesse e nessa escola então passou bastante"
+		intervals [32]:
+			xmin = 162.61
+			xmax = 162.95
+			text = "tempo"
+		intervals [33]:
+			xmin = 162.95
+			xmax = 163.57
+			text = ""
+		intervals [34]:
+			xmin = 163.57
+			xmax = 164.87
+			text = "de amizades lá dentro"
+		intervals [35]:
+			xmin = 164.87
+			xmax = 167.08
+			text = ""
+		intervals [36]:
+			xmin = 167.08
+			xmax = 167.24
+			text = "ãh"
+		intervals [37]:
+			xmin = 167.24
+			xmax = 181.4
+			text = ""
+		intervals [38]:
+			xmin = 181.4
+			xmax = 182.23
+			text = "e da eh a"
+		intervals [39]:
+			xmin = 182.23
+			xmax = 185.86
+			text = "senhora lembra de alguma brincadeira específica que gostava que gostava de fazer nessa época"
+		intervals [40]:
+			xmin = 185.86
+			xmax = 212.53
+			text = ""
+		intervals [41]:
+			xmin = 212.53
+			xmax = 215.65
+			text = "e como é que foi depois a passagem também para a adolescência né como é que foi a adolescência"
+		intervals [42]:
+			xmin = 215.65
+			xmax = 215.72
+			text = ""
+		intervals [43]:
+			xmin = 215.72
+			xmax = 217.89
+			text = "lá no rio de janeiro você já ainda estava em madureira"
+		intervals [44]:
+			xmin = 217.89
+			xmax = 221.83
+			text = ""
+		intervals [45]:
+			xmin = 221.83
+			xmax = 221.86
+			text = "é"
+		intervals [46]:
+			xmin = 221.86
+			xmax = 222.27
+			text = "..."
+		intervals [47]:
+			xmin = 222.27
+			xmax = 226.24
+			text = ""
+		intervals [48]:
+			xmin = 226.24
+			xmax = 226.41
+			text = "é"
+		intervals [49]:
+			xmin = 226.41
+			xmax = 226.67
+			text = "..."
+		intervals [50]:
+			xmin = 226.67
+			xmax = 252.56
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 252.56
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 252.56
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 252.56
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 252.56
+			text = ""
