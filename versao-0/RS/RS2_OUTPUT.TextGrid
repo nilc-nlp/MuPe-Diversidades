@@ -1,0 +1,1984 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 278.76
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "TB-speaker 0"
+		xmin = 0.0
+		xmax = 278.76
+		intervals: size = 183
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.94
+			text = "eu lembro eu lembro direitinho dessa cena eu comecei a andar e sabe quando tu vê parece que todo mundo em câmera lenta assim"
+		intervals [2]:
+			xmin = 4.94
+			xmax = 5.28
+			text = "..."
+		intervals [3]:
+			xmin = 5.28
+			xmax = 13.75
+			text = "aí aquelas crianças jogando basquete uns grupinhos de meninas conversando e eu andando e olhando aquilo e falando eu não tenho amigos eu acho que eu estava o quê na"
+		intervals [4]:
+			xmin = 13.75
+			xmax = 14.2
+			text = "..."
+		intervals [5]:
+			xmin = 14.2
+			xmax = 15.05
+			text = "sei lá terceira"
+		intervals [6]:
+			xmin = 15.05
+			xmax = 15.57
+			text = "sé"
+		intervals [7]:
+			xmin = 15.57
+			xmax = 16.62
+			text = "quarta série eu estava"
+		intervals [8]:
+			xmin = 16.62
+			xmax = 16.96
+			text = "..."
+		intervals [9]:
+			xmin = 16.96
+			xmax = 22.65
+			text = "e eu comecei a chorar que eu não tinha amigos aí a coordenadora da escola me chamou e eu chorava eu não queria falar por quê"
+		intervals [10]:
+			xmin = 22.65
+			xmax = 23.05
+			text = "..."
+		intervals [11]:
+			xmin = 23.05
+			xmax = 29.46
+			text = "aí eu acabei contando ela me levou para a para a classe que já tinha começado a aula aí eu cheguei lá na porta foi um mico né porque eu cheguei e tudo"
+		intervals [12]:
+			xmin = 29.46
+			xmax = 30.89
+			text = "..."
+		intervals [13]:
+			xmin = 30.89
+			xmax = 32.19
+			text = "e aí ela abriu a porta e"
+		intervals [14]:
+			xmin = 32.19
+			xmax = 32.57
+			text = "..."
+		intervals [15]:
+			xmin = 32.57
+			xmax = 33.48
+			text = "todo mundo me olhou"
+		intervals [16]:
+			xmin = 33.48
+			xmax = 34.02
+			text = "..."
+		intervals [17]:
+			xmin = 34.02
+			xmax = 37.79
+			text = "e falou ah a [M] vai entrar porque ela estava mal não sei o que mas agora está tudo bem"
+		intervals [18]:
+			xmin = 37.79
+			xmax = 38.17
+			text = "..."
+		intervals [19]:
+			xmin = 38.17
+			xmax = 43.94
+			text = "e eu não quis entrar não quis entrar aí eu entrei quando eu entrei assim sentei lá na minha aquela lá no fundo"
+		intervals [20]:
+			xmin = 43.94
+			xmax = 44.41
+			text = "..."
+		intervals [21]:
+			xmin = 44.41
+			xmax = 46.81
+			text = "aí um coleguinha meu pegou e falou assim"
+		intervals [22]:
+			xmin = 46.81
+			xmax = 47.22
+			text = "..."
+		intervals [23]:
+			xmin = 47.22
+			xmax = 51.76
+			text = "ah ela está assim porque ela fez xixi nas calças nossa eu saí correndo para fora de novo"
+		intervals [24]:
+			xmin = 51.76
+			xmax = 52.27
+			text = "..."
+		intervals [25]:
+			xmin = 52.27
+			xmax = 54.35
+			text = "nisso chegou uma uma menina"
+		intervals [26]:
+			xmin = 54.35
+			xmax = 55.06
+			text = "..."
+		intervals [27]:
+			xmin = 55.06
+			xmax = 56.35
+			text = "ela veio conversar comigo a [A]"
+		intervals [28]:
+			xmin = 56.35
+			xmax = 56.86
+			text = "..."
+		intervals [29]:
+			xmin = 56.86
+			xmax = 57.93
+			text = "ela chegou e falou"
+		intervals [30]:
+			xmin = 57.93
+			xmax = 58.29
+			text = "..."
+		intervals [31]:
+			xmin = 58.29
+			xmax = 62.97
+			text = "ai [M] não fica assim ela levantou a minha blusa e falou olha tu nem fez xixi nada viu aí"
+		intervals [32]:
+			xmin = 62.97
+			xmax = 63.73
+			text = "..."
+		intervals [33]:
+			xmin = 63.73
+			xmax = 67.27
+			text = "está bom depois ela virou a minha melhor amiga essa menina assim a gente ficou muito amiga hoje"
+		intervals [34]:
+			xmin = 67.27
+			xmax = 67.81
+			text = "..."
+		intervals [35]:
+			xmin = 67.81
+			xmax = 69.73
+			text = "nem sei por onde anda ah por orkut eu sei mas"
+		intervals [36]:
+			xmin = 69.73
+			xmax = 70.74
+			text = "..."
+		intervals [37]:
+			xmin = 70.74
+			xmax = 71.11
+			text = "enfim"
+		intervals [38]:
+			xmin = 71.11
+			xmax = 71.93
+			text = "..."
+		intervals [39]:
+			xmin = 71.93
+			xmax = 72.71
+			text = "eu era muito tímida"
+		intervals [40]:
+			xmin = 72.71
+			xmax = 73.04
+			text = "..."
+		intervals [41]:
+			xmin = 73.04
+			xmax = 73.41
+			text = "e"
+		intervals [42]:
+			xmin = 73.41
+			xmax = 73.82
+			text = "me ajudou"
+		intervals [43]:
+			xmin = 73.82
+			xmax = 76.33
+			text = "a ficar mais tímida dessa vez aí depois eu mudei de colégio e mudou"
+		intervals [44]:
+			xmin = 76.33
+			xmax = 76.7
+			text = "a minha vida"
+		intervals [45]:
+			xmin = 76.7
+			xmax = 77.09
+			text = "..."
+		intervals [46]:
+			xmin = 77.09
+			xmax = 77.19
+			text = "assim"
+		intervals [47]:
+			xmin = 77.19
+			xmax = 82.63
+			text = ""
+		intervals [48]:
+			xmin = 82.63
+			xmax = 84.41
+			text = "lembro colégio nossa senhora"
+		intervals [49]:
+			xmin = 84.41
+			xmax = 85.78
+			text = "..."
+		intervals [50]:
+			xmin = 85.78
+			xmax = 86.31
+			text = "auxiliadora"
+		intervals [51]:
+			xmin = 86.31
+			xmax = 91.95
+			text = ""
+		intervals [52]:
+			xmin = 91.95
+			xmax = 92.28
+			text = "bah"
+		intervals [53]:
+			xmin = 92.28
+			xmax = 92.81
+			text = "..."
+		intervals [54]:
+			xmin = 92.81
+			xmax = 94.33
+			text = "eu lembro que eu tinha um eu eu"
+		intervals [55]:
+			xmin = 94.33
+			xmax = 95.76
+			text = "..."
+		intervals [56]:
+			xmin = 95.76
+			xmax = 98.6
+			text = "estudei em uma em uma escola antes dessa que"
+		intervals [57]:
+			xmin = 98.6
+			xmax = 99.1
+			text = "..."
+		intervals [58]:
+			xmin = 99.1
+			xmax = 102.42
+			text = "foi tipo maternal que chamava casinha amarela linda"
+		intervals [59]:
+			xmin = 102.42
+			xmax = 102.98
+			text = "..."
+		intervals [60]:
+			xmin = 102.98
+			xmax = 106.52
+			text = "na casinha amarela eu lembro assim de alguns acontecimentos era bem pequena"
+		intervals [61]:
+			xmin = 106.52
+			xmax = 107.15
+			text = "..."
+		intervals [62]:
+			xmin = 107.15
+			xmax = 108.61
+			text = "e eu lembro que"
+		intervals [63]:
+			xmin = 108.61
+			xmax = 109.99
+			text = "..."
+		intervals [64]:
+			xmin = 109.99
+			xmax = 112.41
+			text = "nossa eu lembro que eu sempre fui uma criança sempre"
+		intervals [65]:
+			xmin = 112.41
+			xmax = 114.67
+			text = "..."
+		intervals [66]:
+			xmin = 114.67
+			xmax = 117.25
+			text = "por exemplo lá em bagé tem a semana crioula"
+		intervals [67]:
+			xmin = 117.25
+			xmax = 118.09
+			text = "..."
+		intervals [68]:
+			xmin = 118.09
+			xmax = 119.2
+			text = "é tipo uma semana assim"
+		intervals [69]:
+			xmin = 119.2
+			xmax = 119.51
+			text = "..."
+		intervals [70]:
+			xmin = 119.51
+			xmax = 121.23
+			text = "que é tudo ai e todo mundo"
+		intervals [71]:
+			xmin = 121.23
+			xmax = 121.83
+			text = "anda"
+		intervals [72]:
+			xmin = 121.83
+			xmax = 128.73
+			text = "piochado que é vestido de gaúcho na rua todo mundo fica tomando chimarrão eles liberam as crianças para ir para o pátio tomar chimarrão ouvir música gaú"
+		intervals [73]:
+			xmin = 128.73
+			xmax = 129.05
+			text = "..."
+		intervals [74]:
+			xmin = 129.05
+			xmax = 129.24
+			text = "é tipo"
+		intervals [75]:
+			xmin = 129.24
+			xmax = 130.44
+			text = ""
+		intervals [76]:
+			xmin = 130.44
+			xmax = 132.48
+			text = "ixe deve ser perto da"
+		intervals [77]:
+			xmin = 132.48
+			xmax = 133.69
+			text = "..."
+		intervals [78]:
+			xmin = 133.69
+			xmax = 135.21
+			text = "deve comemorar a a"
+		intervals [79]:
+			xmin = 135.21
+			xmax = 135.56
+			text = "..."
+		intervals [80]:
+			xmin = 135.56
+			xmax = 137.63
+			text = "revolução farroupilha deve ser nessa época não sei"
+		intervals [81]:
+			xmin = 137.63
+			xmax = 138.64
+			text = "..."
+		intervals [82]:
+			xmin = 138.64
+			xmax = 141.95
+			text = "e eu lembro que sempre bo deixavam na nossa agendinha lá tipo"
+		intervals [83]:
+			xmin = 141.95
+			xmax = 142.33
+			text = "..."
+		intervals [84]:
+			xmin = 142.33
+			xmax = 148.49
+			text = "vim vestida de prenda né tinha épocas que era piscina né eles faziam uma vez no mês ir para a piscina"
+		intervals [85]:
+			xmin = 148.49
+			xmax = 148.83
+			text = "..."
+		intervals [86]:
+			xmin = 148.83
+			xmax = 154.53
+			text = "eu nunca levava para minha mãe todo chegava lá eu chegava tava todo mundo fantasiado eu falava gente o que que está acontecendo menos eu"
+		intervals [87]:
+			xmin = 154.53
+			xmax = 154.86
+			text = "..."
+		intervals [88]:
+			xmin = 154.86
+			xmax = 159.41
+			text = "aí tem foto assim de todos meus coleguinhos fantasiados e eu tipo no cantinho assim"
+		intervals [89]:
+			xmin = 159.41
+			xmax = 159.95
+			text = "..."
+		intervals [90]:
+			xmin = 159.95
+			xmax = 161.35
+			text = "tipo com o uniforme"
+		intervals [91]:
+			xmin = 161.35
+			xmax = 161.9
+			text = "um"
+		intervals [92]:
+			xmin = 161.9
+			xmax = 164.28
+			text = "a professora lá e fazia um desenhinho no meu rosto"
+		intervals [93]:
+			xmin = 164.28
+			xmax = 165.04
+			text = "..."
+		intervals [94]:
+			xmin = 165.04
+			xmax = 167.22
+			text = "eu era muito sem noção assim"
+		intervals [95]:
+			xmin = 167.22
+			xmax = 167.56
+			text = "..."
+		intervals [96]:
+			xmin = 167.56
+			xmax = 169.25
+			text = "mas eu lembro de pouca coisa eu lembro que eu era assim"
+		intervals [97]:
+			xmin = 169.25
+			xmax = 169.75
+			text = "..."
+		intervals [98]:
+			xmin = 169.75
+			xmax = 171.2
+			text = "aí nessa ma maternal eu lembro"
+		intervals [99]:
+			xmin = 171.2
+			xmax = 172.33
+			text = "..."
+		intervals [100]:
+			xmin = 172.33
+			xmax = 173.3
+			text = "eu lembro que nessa"
+		intervals [101]:
+			xmin = 173.3
+			xmax = 173.83
+			text = "época"
+		intervals [102]:
+			xmin = 173.83
+			xmax = 174.56
+			text = "eu lembro direitinho"
+		intervals [103]:
+			xmin = 174.56
+			xmax = 174.94
+			text = "..."
+		intervals [104]:
+			xmin = 174.94
+			xmax = 176.78
+			text = "eu criava umas roupas assim"
+		intervals [105]:
+			xmin = 176.78
+			xmax = 177.11
+			text = "..."
+		intervals [106]:
+			xmin = 177.11
+			xmax = 178.44
+			text = "e eu adorava saia rodada"
+		intervals [107]:
+			xmin = 178.44
+			xmax = 178.77
+			text = "..."
+		intervals [108]:
+			xmin = 178.77
+			xmax = 180.96
+			text = "na época da lambada assim adorava"
+		intervals [109]:
+			xmin = 180.96
+			xmax = 181.31
+			text = "..."
+		intervals [110]:
+			xmin = 181.31
+			xmax = 183.33
+			text = "então eu usava uma na cintura e uma no pescoço"
+		intervals [111]:
+			xmin = 183.33
+			xmax = 183.64
+			text = "..."
+		intervals [112]:
+			xmin = 183.64
+			xmax = 187.33
+			text = "fazia uma de blusa não não usava a blusa e aí ficava rodando rodando rodando"
+		intervals [113]:
+			xmin = 187.33
+			xmax = 187.82
+			text = "..."
+		intervals [114]:
+			xmin = 187.82
+			xmax = 188.36
+			text = "ficava louca"
+		intervals [115]:
+			xmin = 188.36
+			xmax = 189.14
+			text = "..."
+		intervals [116]:
+			xmin = 189.14
+			xmax = 190.14
+			text = "isso que eu lembro do maternal"
+		intervals [117]:
+			xmin = 190.14
+			xmax = 190.52
+			text = "..."
+		intervals [118]:
+			xmin = 190.52
+			xmax = 191.66
+			text = "que eu acho que eu lembro"
+		intervals [119]:
+			xmin = 191.66
+			xmax = 191.92
+			text = ""
+		intervals [120]:
+			xmin = 191.92
+			xmax = 193.06
+			text = "e depois na escola"
+		intervals [121]:
+			xmin = 193.06
+			xmax = 193.57
+			text = "..."
+		intervals [122]:
+			xmin = 193.57
+			xmax = 194.06
+			text = "eu lembro"
+		intervals [123]:
+			xmin = 194.06
+			xmax = 194.59
+			text = "..."
+		intervals [124]:
+			xmin = 194.59
+			xmax = 197.66
+			text = "pouca coisa do pré eu lembro das minhas professoras"
+		intervals [125]:
+			xmin = 197.66
+			xmax = 198.13
+			text = "assim"
+		intervals [126]:
+			xmin = 198.13
+			xmax = 199.82
+			text = ""
+		intervals [127]:
+			xmin = 199.82
+			xmax = 201.64
+			text = "tinha mas eu não sei o nome dela era gordinha"
+		intervals [128]:
+			xmin = 201.64
+			xmax = 202.2
+			text = "fofa"
+		intervals [129]:
+			xmin = 202.2
+			xmax = 202.52
+			text = "querida"
+		intervals [130]:
+			xmin = 202.52
+			xmax = 204.56
+			text = ""
+		intervals [131]:
+			xmin = 204.56
+			xmax = 208.4
+			text = "não porque lá no pré tipo é uma professora para todas as matérias sim"
+		intervals [132]:
+			xmin = 208.4
+			xmax = 209.12
+			text = ""
+		intervals [133]:
+			xmin = 209.12
+			xmax = 209.65
+			text = "é"
+		intervals [134]:
+			xmin = 209.65
+			xmax = 210.15
+			text = "..."
+		intervals [135]:
+			xmin = 210.15
+			xmax = 211.61
+			text = "mas eu lembro muito bem da sala de aula"
+		intervals [136]:
+			xmin = 211.61
+			xmax = 212.01
+			text = "..."
+		intervals [137]:
+			xmin = 212.01
+			xmax = 214.0
+			text = "ah eu lembro de uma vez que teve uma festa"
+		intervals [138]:
+			xmin = 214.0
+			xmax = 214.78
+			text = "de uma menina"
+		intervals [139]:
+			xmin = 214.78
+			xmax = 215.28
+			text = "..."
+		intervals [140]:
+			xmin = 215.28
+			xmax = 220.61
+			text = "que eu achei incrível que sabe aquele balão que fica gigante no meio a festa inteira e depois estoura e cai um monte"
+		intervals [141]:
+			xmin = 220.61
+			xmax = 221.37
+			text = "..."
+		intervals [142]:
+			xmin = 221.37
+			xmax = 226.12
+			text = "e a gente sempre ficava olhando e pensando o que que tem todo mundo tinha que tentar adivinhar o que que tinha o que que tinha e ninguém"
+		intervals [143]:
+			xmin = 226.12
+			xmax = 227.06
+			text = "imaginava"
+		intervals [144]:
+			xmin = 227.06
+			xmax = 227.85
+			text = "tipo ninguém"
+		intervals [145]:
+			xmin = 227.85
+			xmax = 231.57
+			text = "conseguia ver nada e aí o pai lá na hora do parabéns foi estourar"
+		intervals [146]:
+			xmin = 231.57
+			xmax = 231.96
+			text = "..."
+		intervals [147]:
+			xmin = 231.96
+			xmax = 234.66
+			text = "era um monte de bolinha de isopor eu"
+		intervals [148]:
+			xmin = 234.66
+			xmax = 235.58
+			text = "..."
+		intervals [149]:
+			xmin = 235.58
+			xmax = 236.02
+			text = "achei aquilo"
+		intervals [150]:
+			xmin = 236.02
+			xmax = 236.7
+			text = "mágico"
+		intervals [151]:
+			xmin = 236.7
+			xmax = 238.78
+			text = "assim começou a voar a bolinha de isopor parecia neve"
+		intervals [152]:
+			xmin = 238.78
+			xmax = 239.4
+			text = "..."
+		intervals [153]:
+			xmin = 239.4
+			xmax = 241.84
+			text = "nossa tipo muito legal muito mais legal do que brinquedo eu"
+		intervals [154]:
+			xmin = 241.84
+			xmax = 242.19
+			text = "..."
+		intervals [155]:
+			xmin = 242.19
+			xmax = 243.09
+			text = "lembro desse acontecimento"
+		intervals [156]:
+			xmin = 243.09
+			xmax = 244.11
+			text = "..."
+		intervals [157]:
+			xmin = 244.11
+			xmax = 246.84
+			text = "e eu lembro eu lembro de bastante coisa assim de detalhes"
+		intervals [158]:
+			xmin = 246.84
+			xmax = 247.19
+			text = "..."
+		intervals [159]:
+			xmin = 247.19
+			xmax = 248.85
+			text = "da pracinha como é que era a pracinha"
+		intervals [160]:
+			xmin = 248.85
+			xmax = 249.18
+			text = "..."
+		intervals [161]:
+			xmin = 249.18
+			xmax = 253.43
+			text = "eu lembro que tinha um muro que separava do colegião a gente chamava que era o pré e depois eram"
+		intervals [162]:
+			xmin = 253.43
+			xmax = 254.07
+			text = "..."
+		intervals [163]:
+			xmin = 254.07
+			xmax = 255.65
+			text = "os as as outras turmas lá"
+		intervals [164]:
+			xmin = 255.65
+			xmax = 256.14
+			text = "..."
+		intervals [165]:
+			xmin = 256.14
+			xmax = 256.65
+			text = "e tinha um muro"
+		intervals [166]:
+			xmin = 256.65
+			xmax = 257.21
+			text = "branco"
+		intervals [167]:
+			xmin = 257.21
+			xmax = 258.84
+			text = "e ele tinha um monte de buraquinho"
+		intervals [168]:
+			xmin = 258.84
+			xmax = 259.63
+			text = "..."
+		intervals [169]:
+			xmin = 259.63
+			xmax = 262.44
+			text = "tipo é como se eles não tivessem colocado o tijolo em alguns momentos assim"
+		intervals [170]:
+			xmin = 262.44
+			xmax = 262.75
+			text = "..."
+		intervals [171]:
+			xmin = 262.75
+			xmax = 265.66
+			text = "tipo tinha uns buraquinhos e a gente ficava espiando o colegião de lá"
+		intervals [172]:
+			xmin = 265.66
+			xmax = 266.14
+			text = "..."
+		intervals [173]:
+			xmin = 266.14
+			xmax = 268.4
+			text = "e aí eu lembro que a gente tinha aquela sabe aquelas brincadeiras"
+		intervals [174]:
+			xmin = 268.4
+			xmax = 269.13
+			text = "..."
+		intervals [175]:
+			xmin = 269.13
+			xmax = 271.94
+			text = "tipo adoleta essas coisas aí a gente ficava fazendo"
+		intervals [176]:
+			xmin = 271.94
+			xmax = 272.69
+			text = ""
+		intervals [177]:
+			xmin = 272.69
+			xmax = 272.86
+			text = "tipo"
+		intervals [178]:
+			xmin = 272.86
+			xmax = 273.89
+			text = "adoleta"
+		intervals [179]:
+			xmin = 273.89
+			xmax = 274.44
+			text = "..."
+		intervals [180]:
+			xmin = 274.44
+			xmax = 275.32
+			text = "dessas brincadeiras"
+		intervals [181]:
+			xmin = 275.32
+			xmax = 277.2
+			text = ""
+		intervals [182]:
+			xmin = 277.2
+			xmax = 278.48
+			text = "então eu não lembro tinha"
+		intervals [183]:
+			xmin = 278.48
+			xmax = 278.76
+			text = "um que era"
+	item [2]:
+		class = "IntervalTier"
+		name = "NTB-speaker 0"
+		xmin = 0.0
+		xmax = 278.76
+		intervals: size = 243
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "eu"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 0.27
+			text = "..."
+		intervals [3]:
+			xmin = 0.27
+			xmax = 1.46
+			text = "lembro eu lembro direitinho dessa cena"
+		intervals [4]:
+			xmin = 1.46
+			xmax = 1.75
+			text = "..."
+		intervals [5]:
+			xmin = 1.75
+			xmax = 4.94
+			text = "eu comecei a andar e sabe quando tu vê parece que todo mundo em câmera lenta assim"
+		intervals [6]:
+			xmin = 4.94
+			xmax = 5.28
+			text = "..."
+		intervals [7]:
+			xmin = 5.28
+			xmax = 7.46
+			text = "aí aquelas crianças jogando basquete"
+		intervals [8]:
+			xmin = 7.46
+			xmax = 7.76
+			text = "..."
+		intervals [9]:
+			xmin = 7.76
+			xmax = 9.83
+			text = "uns grupinhos de meninas conversando"
+		intervals [10]:
+			xmin = 9.83
+			xmax = 10.09
+			text = "..."
+		intervals [11]:
+			xmin = 10.09
+			xmax = 11.68
+			text = "e eu andando e olhando aquilo e falando"
+		intervals [12]:
+			xmin = 11.68
+			xmax = 11.79
+			text = "..."
+		intervals [13]:
+			xmin = 11.79
+			xmax = 13.75
+			text = "eu não tenho amigos eu acho que eu estava o quê na"
+		intervals [14]:
+			xmin = 13.75
+			xmax = 14.2
+			text = "..."
+		intervals [15]:
+			xmin = 14.2
+			xmax = 15.05
+			text = "sei lá terceira"
+		intervals [16]:
+			xmin = 15.05
+			xmax = 15.41
+			text = "sé"
+		intervals [17]:
+			xmin = 15.41
+			xmax = 15.57
+			text = "..."
+		intervals [18]:
+			xmin = 15.57
+			xmax = 16.62
+			text = "quarta série eu estava"
+		intervals [19]:
+			xmin = 16.62
+			xmax = 16.96
+			text = "..."
+		intervals [20]:
+			xmin = 16.96
+			xmax = 18.86
+			text = "e eu comecei a chorar que eu não tinha amigos aí a"
+		intervals [21]:
+			xmin = 18.86
+			xmax = 19.09
+			text = "..."
+		intervals [22]:
+			xmin = 19.09
+			xmax = 22.09
+			text = "coordenadora da escola me chamou e eu chorava eu não queria falar por"
+		intervals [23]:
+			xmin = 22.09
+			xmax = 22.2
+			text = "..."
+		intervals [24]:
+			xmin = 22.2
+			xmax = 22.65
+			text = "quê"
+		intervals [25]:
+			xmin = 22.65
+			xmax = 23.05
+			text = "..."
+		intervals [26]:
+			xmin = 23.05
+			xmax = 25.98
+			text = "aí eu acabei contando ela me levou para a para a classe"
+		intervals [27]:
+			xmin = 25.98
+			xmax = 26.14
+			text = "..."
+		intervals [28]:
+			xmin = 26.14
+			xmax = 29.46
+			text = "que já tinha começado a aula aí eu cheguei lá na porta foi um mico né porque eu cheguei e tudo"
+		intervals [29]:
+			xmin = 29.46
+			xmax = 30.89
+			text = "..."
+		intervals [30]:
+			xmin = 30.89
+			xmax = 32.19
+			text = "e aí ela abriu a porta e"
+		intervals [31]:
+			xmin = 32.19
+			xmax = 32.57
+			text = "..."
+		intervals [32]:
+			xmin = 32.57
+			xmax = 33.48
+			text = "todo mundo me olhou"
+		intervals [33]:
+			xmin = 33.48
+			xmax = 34.02
+			text = "..."
+		intervals [34]:
+			xmin = 34.02
+			xmax = 37.79
+			text = "e falou ah a [M] vai entrar porque ela estava mal não sei o que mas agora está tudo bem"
+		intervals [35]:
+			xmin = 37.79
+			xmax = 38.17
+			text = "..."
+		intervals [36]:
+			xmin = 38.17
+			xmax = 40.17
+			text = "e eu não quis entrar não quis entrar aí eu entrei"
+		intervals [37]:
+			xmin = 40.17
+			xmax = 40.41
+			text = "..."
+		intervals [38]:
+			xmin = 40.41
+			xmax = 41.84
+			text = "quando eu entrei assim"
+		intervals [39]:
+			xmin = 41.84
+			xmax = 41.99
+			text = "..."
+		intervals [40]:
+			xmin = 41.99
+			xmax = 42.84
+			text = "sentei lá na minha"
+		intervals [41]:
+			xmin = 42.84
+			xmax = 42.97
+			text = "..."
+		intervals [42]:
+			xmin = 42.97
+			xmax = 43.94
+			text = "aquela lá no fundo"
+		intervals [43]:
+			xmin = 43.94
+			xmax = 44.41
+			text = "..."
+		intervals [44]:
+			xmin = 44.41
+			xmax = 46.81
+			text = "aí um coleguinha meu pegou e falou assim"
+		intervals [45]:
+			xmin = 46.81
+			xmax = 47.22
+			text = "..."
+		intervals [46]:
+			xmin = 47.22
+			xmax = 51.76
+			text = "ah ela está assim porque ela fez xixi nas calças nossa eu saí correndo para fora de novo"
+		intervals [47]:
+			xmin = 51.76
+			xmax = 52.27
+			text = "..."
+		intervals [48]:
+			xmin = 52.27
+			xmax = 54.35
+			text = "nisso chegou uma uma menina"
+		intervals [49]:
+			xmin = 54.35
+			xmax = 55.06
+			text = "..."
+		intervals [50]:
+			xmin = 55.06
+			xmax = 56.35
+			text = "ela veio conversar comigo a [A]"
+		intervals [51]:
+			xmin = 56.35
+			xmax = 56.86
+			text = "..."
+		intervals [52]:
+			xmin = 56.86
+			xmax = 57.93
+			text = "ela chegou e falou"
+		intervals [53]:
+			xmin = 57.93
+			xmax = 58.29
+			text = "..."
+		intervals [54]:
+			xmin = 58.29
+			xmax = 60.79
+			text = "ai [M] não fica assim ela levantou a minha blusa e falou"
+		intervals [55]:
+			xmin = 60.79
+			xmax = 61.03
+			text = "..."
+		intervals [56]:
+			xmin = 61.03
+			xmax = 62.97
+			text = "olha tu nem fez xixi nada viu aí"
+		intervals [57]:
+			xmin = 62.97
+			xmax = 63.73
+			text = "..."
+		intervals [58]:
+			xmin = 63.73
+			xmax = 67.27
+			text = "está bom depois ela virou a minha melhor amiga essa menina assim a gente ficou muito amiga hoje"
+		intervals [59]:
+			xmin = 67.27
+			xmax = 67.81
+			text = "..."
+		intervals [60]:
+			xmin = 67.81
+			xmax = 69.73
+			text = "nem sei por onde anda ah por orkut eu sei mas"
+		intervals [61]:
+			xmin = 69.73
+			xmax = 70.74
+			text = "..."
+		intervals [62]:
+			xmin = 70.74
+			xmax = 71.11
+			text = "enfim"
+		intervals [63]:
+			xmin = 71.11
+			xmax = 71.93
+			text = "..."
+		intervals [64]:
+			xmin = 71.93
+			xmax = 72.71
+			text = "eu era muito tímida"
+		intervals [65]:
+			xmin = 72.71
+			xmax = 73.04
+			text = "..."
+		intervals [66]:
+			xmin = 73.04
+			xmax = 73.41
+			text = "e"
+		intervals [67]:
+			xmin = 73.41
+			xmax = 73.82
+			text = "me ajudou"
+		intervals [68]:
+			xmin = 73.82
+			xmax = 76.33
+			text = "a ficar mais tímida dessa vez aí depois eu mudei de colégio e mudou"
+		intervals [69]:
+			xmin = 76.33
+			xmax = 76.7
+			text = "a minha vida"
+		intervals [70]:
+			xmin = 76.7
+			xmax = 77.09
+			text = "..."
+		intervals [71]:
+			xmin = 77.09
+			xmax = 77.19
+			text = "assim"
+		intervals [72]:
+			xmin = 77.19
+			xmax = 77.38
+			text = "..."
+		intervals [73]:
+			xmin = 77.38
+			xmax = 82.63
+			text = ""
+		intervals [74]:
+			xmin = 82.63
+			xmax = 84.41
+			text = "lembro colégio nossa senhora"
+		intervals [75]:
+			xmin = 84.41
+			xmax = 85.78
+			text = "..."
+		intervals [76]:
+			xmin = 85.78
+			xmax = 86.31
+			text = "auxiliadora"
+		intervals [77]:
+			xmin = 86.31
+			xmax = 91.95
+			text = ""
+		intervals [78]:
+			xmin = 91.95
+			xmax = 92.28
+			text = "bah"
+		intervals [79]:
+			xmin = 92.28
+			xmax = 92.81
+			text = "..."
+		intervals [80]:
+			xmin = 92.81
+			xmax = 94.33
+			text = "eu lembro que eu tinha um eu eu"
+		intervals [81]:
+			xmin = 94.33
+			xmax = 95.76
+			text = "..."
+		intervals [82]:
+			xmin = 95.76
+			xmax = 98.11
+			text = "estudei em uma em uma escola antes dessa"
+		intervals [83]:
+			xmin = 98.11
+			xmax = 98.22
+			text = "..."
+		intervals [84]:
+			xmin = 98.22
+			xmax = 98.6
+			text = "que"
+		intervals [85]:
+			xmin = 98.6
+			xmax = 99.1
+			text = "..."
+		intervals [86]:
+			xmin = 99.1
+			xmax = 102.42
+			text = "foi tipo maternal que chamava casinha amarela linda"
+		intervals [87]:
+			xmin = 102.42
+			xmax = 102.98
+			text = "..."
+		intervals [88]:
+			xmin = 102.98
+			xmax = 106.52
+			text = "na casinha amarela eu lembro assim de alguns acontecimentos era bem pequena"
+		intervals [89]:
+			xmin = 106.52
+			xmax = 107.15
+			text = "..."
+		intervals [90]:
+			xmin = 107.15
+			xmax = 107.77
+			text = "e eu lembro"
+		intervals [91]:
+			xmin = 107.77
+			xmax = 107.96
+			text = "..."
+		intervals [92]:
+			xmin = 107.96
+			xmax = 108.61
+			text = "que"
+		intervals [93]:
+			xmin = 108.61
+			xmax = 109.99
+			text = "..."
+		intervals [94]:
+			xmin = 109.99
+			xmax = 111.22
+			text = "nossa eu lembro que eu sempre fui uma"
+		intervals [95]:
+			xmin = 111.22
+			xmax = 111.39
+			text = "..."
+		intervals [96]:
+			xmin = 111.39
+			xmax = 112.41
+			text = "criança sempre"
+		intervals [97]:
+			xmin = 112.41
+			xmax = 114.67
+			text = "..."
+		intervals [98]:
+			xmin = 114.67
+			xmax = 117.25
+			text = "por exemplo lá em bagé tem a semana crioula"
+		intervals [99]:
+			xmin = 117.25
+			xmax = 118.09
+			text = "..."
+		intervals [100]:
+			xmin = 118.09
+			xmax = 119.2
+			text = "é tipo uma semana assim"
+		intervals [101]:
+			xmin = 119.2
+			xmax = 119.51
+			text = "..."
+		intervals [102]:
+			xmin = 119.51
+			xmax = 121.23
+			text = "que é tudo ai e todo mundo"
+		intervals [103]:
+			xmin = 121.23
+			xmax = 121.83
+			text = "anda"
+		intervals [104]:
+			xmin = 121.83
+			xmax = 125.41
+			text = "piochado que é vestido de gaúcho na rua todo mundo fica tomando chimarrão"
+		intervals [105]:
+			xmin = 125.41
+			xmax = 125.67
+			text = "..."
+		intervals [106]:
+			xmin = 125.67
+			xmax = 128.73
+			text = "eles liberam as crianças para ir para o pátio tomar chimarrão ouvir música gaú"
+		intervals [107]:
+			xmin = 128.73
+			xmax = 129.05
+			text = "..."
+		intervals [108]:
+			xmin = 129.05
+			xmax = 129.24
+			text = "é tipo"
+		intervals [109]:
+			xmin = 129.24
+			xmax = 130.44
+			text = ""
+		intervals [110]:
+			xmin = 130.44
+			xmax = 131.67
+			text = "ixe deve ser"
+		intervals [111]:
+			xmin = 131.67
+			xmax = 131.95
+			text = "..."
+		intervals [112]:
+			xmin = 131.95
+			xmax = 132.48
+			text = "perto da"
+		intervals [113]:
+			xmin = 132.48
+			xmax = 133.69
+			text = "..."
+		intervals [114]:
+			xmin = 133.69
+			xmax = 135.21
+			text = "deve comemorar a a"
+		intervals [115]:
+			xmin = 135.21
+			xmax = 135.56
+			text = "..."
+		intervals [116]:
+			xmin = 135.56
+			xmax = 137.63
+			text = "revolução farroupilha deve ser nessa época não sei"
+		intervals [117]:
+			xmin = 137.63
+			xmax = 138.64
+			text = "..."
+		intervals [118]:
+			xmin = 138.64
+			xmax = 141.95
+			text = "e eu lembro que sempre bo deixavam na nossa agendinha lá tipo"
+		intervals [119]:
+			xmin = 141.95
+			xmax = 142.33
+			text = "..."
+		intervals [120]:
+			xmin = 142.33
+			xmax = 144.0
+			text = "vim vestida de prenda"
+		intervals [121]:
+			xmin = 144.0
+			xmax = 144.29
+			text = "..."
+		intervals [122]:
+			xmin = 144.29
+			xmax = 145.59
+			text = "né tinha épocas que era"
+		intervals [123]:
+			xmin = 145.59
+			xmax = 145.77
+			text = "..."
+		intervals [124]:
+			xmin = 145.77
+			xmax = 148.49
+			text = "piscina né eles faziam uma vez no mês ir para a piscina"
+		intervals [125]:
+			xmin = 148.49
+			xmax = 148.83
+			text = "..."
+		intervals [126]:
+			xmin = 148.83
+			xmax = 154.53
+			text = "eu nunca levava para minha mãe todo chegava lá eu chegava tava todo mundo fantasiado eu falava gente o que que está acontecendo menos eu"
+		intervals [127]:
+			xmin = 154.53
+			xmax = 154.86
+			text = "..."
+		intervals [128]:
+			xmin = 154.86
+			xmax = 157.41
+			text = "aí tem foto assim de todos meus coleguinhos fantasiados"
+		intervals [129]:
+			xmin = 157.41
+			xmax = 157.7
+			text = "..."
+		intervals [130]:
+			xmin = 157.7
+			xmax = 159.41
+			text = "e eu tipo no cantinho assim"
+		intervals [131]:
+			xmin = 159.41
+			xmax = 159.95
+			text = "..."
+		intervals [132]:
+			xmin = 159.95
+			xmax = 161.35
+			text = "tipo com o uniforme"
+		intervals [133]:
+			xmin = 161.35
+			xmax = 161.64
+			text = "um"
+		intervals [134]:
+			xmin = 161.64
+			xmax = 161.9
+			text = "..."
+		intervals [135]:
+			xmin = 161.9
+			xmax = 164.28
+			text = "a professora lá e fazia um desenhinho no meu rosto"
+		intervals [136]:
+			xmin = 164.28
+			xmax = 165.04
+			text = "..."
+		intervals [137]:
+			xmin = 165.04
+			xmax = 167.22
+			text = "eu era muito sem noção assim"
+		intervals [138]:
+			xmin = 167.22
+			xmax = 167.56
+			text = "..."
+		intervals [139]:
+			xmin = 167.56
+			xmax = 169.25
+			text = "mas eu lembro de pouca coisa eu lembro que eu era assim"
+		intervals [140]:
+			xmin = 169.25
+			xmax = 169.75
+			text = "..."
+		intervals [141]:
+			xmin = 169.75
+			xmax = 171.2
+			text = "aí nessa ma maternal eu lembro"
+		intervals [142]:
+			xmin = 171.2
+			xmax = 172.33
+			text = "..."
+		intervals [143]:
+			xmin = 172.33
+			xmax = 173.3
+			text = "eu lembro que nessa"
+		intervals [144]:
+			xmin = 173.3
+			xmax = 173.83
+			text = "época"
+		intervals [145]:
+			xmin = 173.83
+			xmax = 174.56
+			text = "eu lembro direitinho"
+		intervals [146]:
+			xmin = 174.56
+			xmax = 174.94
+			text = "..."
+		intervals [147]:
+			xmin = 174.94
+			xmax = 176.78
+			text = "eu criava umas roupas assim"
+		intervals [148]:
+			xmin = 176.78
+			xmax = 177.11
+			text = "..."
+		intervals [149]:
+			xmin = 177.11
+			xmax = 178.44
+			text = "e eu adorava saia rodada"
+		intervals [150]:
+			xmin = 178.44
+			xmax = 178.77
+			text = "..."
+		intervals [151]:
+			xmin = 178.77
+			xmax = 180.96
+			text = "na época da lambada assim adorava"
+		intervals [152]:
+			xmin = 180.96
+			xmax = 181.31
+			text = "..."
+		intervals [153]:
+			xmin = 181.31
+			xmax = 183.33
+			text = "então eu usava uma na cintura e uma no pescoço"
+		intervals [154]:
+			xmin = 183.33
+			xmax = 183.64
+			text = "..."
+		intervals [155]:
+			xmin = 183.64
+			xmax = 185.63
+			text = "fazia uma de blusa não não usava a blusa"
+		intervals [156]:
+			xmin = 185.63
+			xmax = 185.86
+			text = "..."
+		intervals [157]:
+			xmin = 185.86
+			xmax = 187.33
+			text = "e aí ficava rodando rodando rodando"
+		intervals [158]:
+			xmin = 187.33
+			xmax = 187.82
+			text = "..."
+		intervals [159]:
+			xmin = 187.82
+			xmax = 188.36
+			text = "ficava louca"
+		intervals [160]:
+			xmin = 188.36
+			xmax = 189.14
+			text = "..."
+		intervals [161]:
+			xmin = 189.14
+			xmax = 190.14
+			text = "isso que eu lembro do maternal"
+		intervals [162]:
+			xmin = 190.14
+			xmax = 190.52
+			text = "..."
+		intervals [163]:
+			xmin = 190.52
+			xmax = 191.04
+			text = "que eu acho"
+		intervals [164]:
+			xmin = 191.04
+			xmax = 191.22
+			text = "..."
+		intervals [165]:
+			xmin = 191.22
+			xmax = 191.66
+			text = "que eu lembro"
+		intervals [166]:
+			xmin = 191.66
+			xmax = 191.92
+			text = ""
+		intervals [167]:
+			xmin = 191.92
+			xmax = 193.06
+			text = "e depois na escola"
+		intervals [168]:
+			xmin = 193.06
+			xmax = 193.57
+			text = "..."
+		intervals [169]:
+			xmin = 193.57
+			xmax = 194.06
+			text = "eu lembro"
+		intervals [170]:
+			xmin = 194.06
+			xmax = 194.59
+			text = "..."
+		intervals [171]:
+			xmin = 194.59
+			xmax = 194.95
+			text = "pouca"
+		intervals [172]:
+			xmin = 194.95
+			xmax = 195.09
+			text = "..."
+		intervals [173]:
+			xmin = 195.09
+			xmax = 195.65
+			text = "coisa do"
+		intervals [174]:
+			xmin = 195.65
+			xmax = 195.83
+			text = "..."
+		intervals [175]:
+			xmin = 195.83
+			xmax = 197.66
+			text = "pré eu lembro das minhas professoras"
+		intervals [176]:
+			xmin = 197.66
+			xmax = 198.13
+			text = "assim"
+		intervals [177]:
+			xmin = 198.13
+			xmax = 199.82
+			text = ""
+		intervals [178]:
+			xmin = 199.82
+			xmax = 201.64
+			text = "tinha mas eu não sei o nome dela era gordinha"
+		intervals [179]:
+			xmin = 201.64
+			xmax = 202.2
+			text = "fofa"
+		intervals [180]:
+			xmin = 202.2
+			xmax = 202.52
+			text = "querida"
+		intervals [181]:
+			xmin = 202.52
+			xmax = 202.68
+			text = "..."
+		intervals [182]:
+			xmin = 202.68
+			xmax = 204.56
+			text = ""
+		intervals [183]:
+			xmin = 204.56
+			xmax = 206.55
+			text = "não porque lá no pré tipo é uma professora para"
+		intervals [184]:
+			xmin = 206.55
+			xmax = 206.7
+			text = "..."
+		intervals [185]:
+			xmin = 206.7
+			xmax = 208.4
+			text = "todas as matérias sim"
+		intervals [186]:
+			xmin = 208.4
+			xmax = 209.34
+			text = ""
+		intervals [187]:
+			xmin = 209.34
+			xmax = 209.65
+			text = "é"
+		intervals [188]:
+			xmin = 209.65
+			xmax = 210.15
+			text = "..."
+		intervals [189]:
+			xmin = 210.15
+			xmax = 211.61
+			text = "mas eu lembro muito bem da sala de aula"
+		intervals [190]:
+			xmin = 211.61
+			xmax = 212.01
+			text = "..."
+		intervals [191]:
+			xmin = 212.01
+			xmax = 214.0
+			text = "ah eu lembro de uma vez que teve uma festa"
+		intervals [192]:
+			xmin = 214.0
+			xmax = 214.78
+			text = "de uma menina"
+		intervals [193]:
+			xmin = 214.78
+			xmax = 215.28
+			text = "..."
+		intervals [194]:
+			xmin = 215.28
+			xmax = 220.61
+			text = "que eu achei incrível que sabe aquele balão que fica gigante no meio a festa inteira e depois estoura e cai um monte"
+		intervals [195]:
+			xmin = 220.61
+			xmax = 221.37
+			text = "..."
+		intervals [196]:
+			xmin = 221.37
+			xmax = 225.52
+			text = "e a gente sempre ficava olhando e pensando o que que tem todo mundo tinha que tentar adivinhar o que que tinha o que"
+		intervals [197]:
+			xmin = 225.52
+			xmax = 225.64
+			text = "..."
+		intervals [198]:
+			xmin = 225.64
+			xmax = 226.12
+			text = "que tinha e ninguém"
+		intervals [199]:
+			xmin = 226.12
+			xmax = 227.06
+			text = "imaginava"
+		intervals [200]:
+			xmin = 227.06
+			xmax = 227.85
+			text = "tipo ninguém"
+		intervals [201]:
+			xmin = 227.85
+			xmax = 231.57
+			text = "conseguia ver nada e aí o pai lá na hora do parabéns foi estourar"
+		intervals [202]:
+			xmin = 231.57
+			xmax = 231.96
+			text = "..."
+		intervals [203]:
+			xmin = 231.96
+			xmax = 234.66
+			text = "era um monte de bolinha de isopor eu"
+		intervals [204]:
+			xmin = 234.66
+			xmax = 235.58
+			text = "..."
+		intervals [205]:
+			xmin = 235.58
+			xmax = 236.02
+			text = "achei aquilo"
+		intervals [206]:
+			xmin = 236.02
+			xmax = 236.7
+			text = "mágico"
+		intervals [207]:
+			xmin = 236.7
+			xmax = 238.78
+			text = "assim começou a voar a bolinha de isopor parecia neve"
+		intervals [208]:
+			xmin = 238.78
+			xmax = 239.4
+			text = "..."
+		intervals [209]:
+			xmin = 239.4
+			xmax = 241.84
+			text = "nossa tipo muito legal muito mais legal do que brinquedo eu"
+		intervals [210]:
+			xmin = 241.84
+			xmax = 242.19
+			text = "..."
+		intervals [211]:
+			xmin = 242.19
+			xmax = 243.09
+			text = "lembro desse acontecimento"
+		intervals [212]:
+			xmin = 243.09
+			xmax = 244.11
+			text = "..."
+		intervals [213]:
+			xmin = 244.11
+			xmax = 246.84
+			text = "e eu lembro eu lembro de bastante coisa assim de detalhes"
+		intervals [214]:
+			xmin = 246.84
+			xmax = 247.19
+			text = "..."
+		intervals [215]:
+			xmin = 247.19
+			xmax = 248.85
+			text = "da pracinha como é que era a pracinha"
+		intervals [216]:
+			xmin = 248.85
+			xmax = 249.18
+			text = "..."
+		intervals [217]:
+			xmin = 249.18
+			xmax = 252.06
+			text = "eu lembro que tinha um muro que separava do colegião a gente chamava"
+		intervals [218]:
+			xmin = 252.06
+			xmax = 252.3
+			text = "..."
+		intervals [219]:
+			xmin = 252.3
+			xmax = 253.43
+			text = "que era o pré e depois eram"
+		intervals [220]:
+			xmin = 253.43
+			xmax = 254.07
+			text = "..."
+		intervals [221]:
+			xmin = 254.07
+			xmax = 254.32
+			text = "os"
+		intervals [222]:
+			xmin = 254.32
+			xmax = 254.45
+			text = "..."
+		intervals [223]:
+			xmin = 254.45
+			xmax = 255.65
+			text = "as as outras turmas lá"
+		intervals [224]:
+			xmin = 255.65
+			xmax = 256.14
+			text = "..."
+		intervals [225]:
+			xmin = 256.14
+			xmax = 256.65
+			text = "e tinha um muro"
+		intervals [226]:
+			xmin = 256.65
+			xmax = 257.21
+			text = "branco"
+		intervals [227]:
+			xmin = 257.21
+			xmax = 258.84
+			text = "e ele tinha um monte de buraquinho"
+		intervals [228]:
+			xmin = 258.84
+			xmax = 259.63
+			text = "..."
+		intervals [229]:
+			xmin = 259.63
+			xmax = 262.44
+			text = "tipo é como se eles não tivessem colocado o tijolo em alguns momentos assim"
+		intervals [230]:
+			xmin = 262.44
+			xmax = 262.75
+			text = "..."
+		intervals [231]:
+			xmin = 262.75
+			xmax = 265.66
+			text = "tipo tinha uns buraquinhos e a gente ficava espiando o colegião de lá"
+		intervals [232]:
+			xmin = 265.66
+			xmax = 266.14
+			text = "..."
+		intervals [233]:
+			xmin = 266.14
+			xmax = 268.4
+			text = "e aí eu lembro que a gente tinha aquela sabe aquelas brincadeiras"
+		intervals [234]:
+			xmin = 268.4
+			xmax = 269.13
+			text = "..."
+		intervals [235]:
+			xmin = 269.13
+			xmax = 271.94
+			text = "tipo adoleta essas coisas aí a gente ficava fazendo"
+		intervals [236]:
+			xmin = 271.94
+			xmax = 272.69
+			text = ""
+		intervals [237]:
+			xmin = 272.69
+			xmax = 272.86
+			text = "tipo"
+		intervals [238]:
+			xmin = 272.86
+			xmax = 273.89
+			text = "adoleta"
+		intervals [239]:
+			xmin = 273.89
+			xmax = 274.44
+			text = "..."
+		intervals [240]:
+			xmin = 274.44
+			xmax = 275.32
+			text = "dessas brincadeiras"
+		intervals [241]:
+			xmin = 275.32
+			xmax = 277.2
+			text = ""
+		intervals [242]:
+			xmin = 277.2
+			xmax = 278.48
+			text = "então eu não lembro tinha"
+		intervals [243]:
+			xmin = 278.48
+			xmax = 278.76
+			text = "um que era"
+	item [3]:
+		class = "IntervalTier"
+		name = "TB-speaker 1"
+		xmin = 0.0
+		xmax = 278.76
+		intervals: size = 28
+		intervals [1]:
+			xmin = 0.0
+			xmax = 77.38
+			text = ""
+		intervals [2]:
+			xmin = 77.38
+			xmax = 81.82
+			text = "deixa eu voltar já que você falou da escola [M] você lembra assim da eh do nome"
+		intervals [3]:
+			xmin = 81.82
+			xmax = 82.63
+			text = "dessa escola"
+		intervals [4]:
+			xmin = 82.63
+			xmax = 86.31
+			text = ""
+		intervals [5]:
+			xmin = 86.31
+			xmax = 86.38
+			text = "e"
+		intervals [6]:
+			xmin = 86.38
+			xmax = 87.02
+			text = "..."
+		intervals [7]:
+			xmin = 87.02
+			xmax = 87.33
+			text = "você"
+		intervals [8]:
+			xmin = 87.33
+			xmax = 88.71
+			text = "lembra do primeiro dia de aula"
+		intervals [9]:
+			xmin = 88.71
+			xmax = 91.95
+			text = "..."
+		intervals [10]:
+			xmin = 91.95
+			xmax = 129.24
+			text = ""
+		intervals [11]:
+			xmin = 129.24
+			xmax = 130.44
+			text = "quando que acontece isso"
+		intervals [12]:
+			xmin = 130.44
+			xmax = 191.66
+			text = ""
+		intervals [13]:
+			xmin = 191.66
+			xmax = 191.69
+			text = "e"
+		intervals [14]:
+			xmin = 191.69
+			xmax = 191.92
+			text = "você"
+		intervals [15]:
+			xmin = 191.92
+			xmax = 198.2
+			text = ""
+		intervals [16]:
+			xmin = 198.2
+			xmax = 198.6
+			text = "tinha uma"
+		intervals [17]:
+			xmin = 198.6
+			xmax = 199.39
+			text = "preferida"
+		intervals [18]:
+			xmin = 199.39
+			xmax = 199.82
+			text = "..."
+		intervals [19]:
+			xmin = 199.82
+			xmax = 202.68
+			text = ""
+		intervals [20]:
+			xmin = 202.68
+			xmax = 204.56
+			text = "e qual que era a disciplina dela você lembra"
+		intervals [21]:
+			xmin = 204.56
+			xmax = 208.4
+			text = ""
+		intervals [22]:
+			xmin = 208.4
+			xmax = 209.12
+			text = "polivalência"
+		intervals [23]:
+			xmin = 209.12
+			xmax = 271.94
+			text = ""
+		intervals [24]:
+			xmin = 271.94
+			xmax = 272.69
+			text = "o nome da brincadeira"
+		intervals [25]:
+			xmin = 272.69
+			xmax = 275.32
+			text = ""
+		intervals [26]:
+			xmin = 275.32
+			xmax = 276.32
+			text = "como que é padoleta"
+		intervals [27]:
+			xmin = 276.32
+			xmax = 277.2
+			text = "..."
+		intervals [28]:
+			xmin = 277.2
+			xmax = 278.76
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "NTB-speaker 1"
+		xmin = 0.0
+		xmax = 278.76
+		intervals: size = 29
+		intervals [1]:
+			xmin = 0.0
+			xmax = 77.38
+			text = ""
+		intervals [2]:
+			xmin = 77.38
+			xmax = 81.82
+			text = "deixa eu voltar já que você falou da escola [M] você lembra assim da eh do nome"
+		intervals [3]:
+			xmin = 81.82
+			xmax = 82.63
+			text = "dessa escola"
+		intervals [4]:
+			xmin = 82.63
+			xmax = 86.31
+			text = ""
+		intervals [5]:
+			xmin = 86.31
+			xmax = 86.38
+			text = "e"
+		intervals [6]:
+			xmin = 86.38
+			xmax = 87.02
+			text = "..."
+		intervals [7]:
+			xmin = 87.02
+			xmax = 87.33
+			text = "você"
+		intervals [8]:
+			xmin = 87.33
+			xmax = 88.71
+			text = "lembra do primeiro dia de aula"
+		intervals [9]:
+			xmin = 88.71
+			xmax = 91.95
+			text = "..."
+		intervals [10]:
+			xmin = 91.95
+			xmax = 129.24
+			text = ""
+		intervals [11]:
+			xmin = 129.24
+			xmax = 130.44
+			text = "quando que acontece isso"
+		intervals [12]:
+			xmin = 130.44
+			xmax = 191.66
+			text = ""
+		intervals [13]:
+			xmin = 191.66
+			xmax = 191.69
+			text = "e"
+		intervals [14]:
+			xmin = 191.69
+			xmax = 191.92
+			text = "você"
+		intervals [15]:
+			xmin = 191.92
+			xmax = 198.2
+			text = ""
+		intervals [16]:
+			xmin = 198.2
+			xmax = 198.6
+			text = "tinha uma"
+		intervals [17]:
+			xmin = 198.6
+			xmax = 199.39
+			text = "preferida"
+		intervals [18]:
+			xmin = 199.39
+			xmax = 199.82
+			text = "..."
+		intervals [19]:
+			xmin = 199.82
+			xmax = 202.68
+			text = ""
+		intervals [20]:
+			xmin = 202.68
+			xmax = 204.56
+			text = "e qual que era a disciplina dela você lembra"
+		intervals [21]:
+			xmin = 204.56
+			xmax = 208.4
+			text = ""
+		intervals [22]:
+			xmin = 208.4
+			xmax = 209.12
+			text = "polivalência"
+		intervals [23]:
+			xmin = 209.12
+			xmax = 209.34
+			text = "..."
+		intervals [24]:
+			xmin = 209.34
+			xmax = 271.94
+			text = ""
+		intervals [25]:
+			xmin = 271.94
+			xmax = 272.69
+			text = "o nome da brincadeira"
+		intervals [26]:
+			xmin = 272.69
+			xmax = 275.32
+			text = ""
+		intervals [27]:
+			xmin = 275.32
+			xmax = 276.32
+			text = "como que é padoleta"
+		intervals [28]:
+			xmin = 276.32
+			xmax = 277.2
+			text = "..."
+		intervals [29]:
+			xmin = 277.2
+			xmax = 278.76
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "comentarios-anotacao"
+		xmin = 0.0
+		xmax = 278.76
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 278.76
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "comentarios"
+		xmin = 0.0
+		xmax = 278.76
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 278.76
+			text = ""
