@@ -4,16 +4,12 @@ MuPe-Diversidades is a diverse selection of samples of audios in Brazilian Portu
 
 **Version-0**
 
-Already available
-
 Includes anonymized audios and transcriptions with automatic prosodic segmentation annotation
 
 Note: audios were cut every 30 seconds automatically at pre-processing steps and put back together, which was found to jeopardize the quality of prosodic segmentation annotation, so version 1.0 will soon be available with the correction of the problem
 
 
 **Version 1.0**
-
-In progress
 
 Audios without cuts 
 
