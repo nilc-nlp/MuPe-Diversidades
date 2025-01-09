@@ -19,6 +19,19 @@ With manual review of the prosodic segmentation annotation
 
 This work was carried out at the Center for Artificial Intelligence (C4AI-USP), with support by the São Paulo Research Foundation (FAPESP grant #2019/07665-4) and by the IBM Corporation. This project was also supported by the Ministry of Science, Technology and Innovation, with resources of Law No. 8.248, of October 23, 1991, within the scope of PPI-SOFTEX, coordinated by Softex and published Residence in TIC 13, DOU 01245.010222/2022-44.
 
+# Citation
+
+Citation
+
+Craveiro, G. M., Galdino, J. C. Diversity in Data for Speech Processing in Brazilian Portuguese. Proceedings of the 34th Brazilian Conference on Intelligent Systems (BRACIS) (2024).
+
+@InProceedings{{speech-diversity-bp-2024,
+    author = {Giovana Meloni Craveiro and Julio Cesar Galdino},
+    title = {Diversity in Data for Speech Processing in Brazilian Portuguese},
+    booktitle  = {Proceedings of 34th Brazilian Conference on Intelligent Systems (BRACIS)},
+    year = {2024}
+}
+
 # CORAA MUPE
 
 Available soon at: (link will be inserted here)
