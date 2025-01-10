@@ -22,15 +22,20 @@ This work was carried out at the Center for Artificial Intelligence (C4AI-USP), 
 
 # Citation
 
-Craveiro, G. M., Galdino, J. C. Diversity in Data for Speech Processing in Brazilian Portuguese. Proceedings of the 34th Brazilian Conference on Intelligent Systems (BRACIS) (2024).
-
 ```
-@InProceedings{{speech-diversity-bp-2024,
-    author = {Giovana Meloni Craveiro and Julio Cesar Galdino},
-    title = {Diversity in Data for Speech Processing in Brazilian Portuguese},
-    booktitle  = {Proceedings of 34th Brazilian Conference on Intelligent Systems (BRACIS)},
-    year = {2024}
+@InProceedings{Craveiro2024Bracis,
+author= {Craveiro, Giovana Meloni
+and Galdino, Julio Cesar},
+editor={Paes, A.
+and Verri, F.A.N.},
+title={Diversity in Data for Speech Processing in {B}razilian Portuguese},
+booktitle={Intelligent Systems: 34th Brazilian Conference, Bracis 2024, Bel{\'e}m Do Par{\'a}, Brazil, November 17-21, 2024, Proceedings, Part I},
+year={2025},
+publisher={Springer Nature Switzerland},
+isbn={9783031790287},
+url={https://books.google.com.br/books?id=g_n90AEACAAJ}
 }
+
 ```
 
 
