@@ -1,5 +1,5 @@
 # MuPe-Diversidades
-MuPe-Diversidades is a diverse selection of samples of audios in Brazilian Portuguese, extracted from CORAA MuPe, and their respective transcriptions with prosodic segmentation annotation. It includes samples of speech of approximately 10 minutes for each state, around 5 minutes for each speaker from a singular state, who are diverse in gender and age.
+MuPe-Diversidades is a diverse selection of samples of audios in Brazilian Portuguese, extracted from CORAA MuPe ASR, and their respective transcriptions with prosodic segmentation annotation. It includes samples of speech of approximately 10 minutes for each state, around 5 minutes for each speaker from a singular state, who are diverse in gender and age.
 
 
 **Version-0**
@@ -39,6 +39,6 @@ url={https://books.google.com.br/books?id=g_n90AEACAAJ}
 ```
 
 
-# CORAA MUPE
+# CORAA MUPE ASR
 
-Available soon at: (link will be inserted here)
+Available soon at: https://huggingface.co/datasets/nilc-nlp/CORAA-MUPE-ASR
