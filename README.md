@@ -41,4 +41,4 @@ url={https://books.google.com.br/books?id=g_n90AEACAAJ}
 
 # CORAA MUPE ASR
 
-Available soon at: https://huggingface.co/datasets/nilc-nlp/CORAA-MUPE-ASR
+Available at: https://huggingface.co/datasets/nilc-nlp/CORAA-MUPE-ASR
