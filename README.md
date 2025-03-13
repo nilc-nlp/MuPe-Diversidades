@@ -15,6 +15,11 @@ Audios without cuts
 
 With manual review of the prosodic segmentation annotation
 
+The following table presents characteristics from the speakers that compose MuPe-Diversidades
+
+![Captura de tela de 2025-03-13 09-31-25](https://github.com/user-attachments/assets/79a32837-0377-4b3d-a69a-d2544bb820bf)
+
+
 # Sponsors / Funding
 
 This work was carried out at the Center for Artificial Intelligence (C4AI-USP), with support by the São Paulo Research Foundation (FAPESP grant #2019/07665-4) and by the IBM Corporation. This project was also supported by the Ministry of Science, Technology and Innovation, with resources of Law No. 8.248, of October 23, 1991, within the scope of PPI-SOFTEX, coordinated by Softex and published Residence in TIC 13, DOU 01245.010222/2022-44.
