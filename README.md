@@ -15,10 +15,12 @@ Audios without cuts
 
 With manual review of the prosodic segmentation annotation
 
-The following table presents characteristics from the speakers that compose MuPe-Diversidades
+The following table presents characteristics from the speakers whose voice is included in MuPe-Diversidades
 
-![Captura de tela de 2025-03-13 09-31-25](https://github.com/user-attachments/assets/79a32837-0377-4b3d-a69a-d2544bb820bf)
+![Captura de tela de 2025-03-18 15-03-04](https://github.com/user-attachments/assets/639cfd79-b8af-45ab-b7f9-07948f5610b3)
 
+Table 1: Characteristics of the speakers, whose interviews/life storys form MuPe-Diversidades. The table contains information about each interviewee (first column presents the Story ID in our dataset), including sex (S) (M:male, F:female), region/state of origin,indicated by its abbreviation (PA stands for Pará, MG for Minas Gerais, PE for Pernambuco, RJ for Rio de Janeiro, RO for Rondônia, RS for Rio Grande do Sul, PB for Paraíba, AL for Alagoas, GO for Goiás, PI for Piauí, MS for Mato Grosso do Sul, ES for Espírito Santo, SE for Sergipe, and SP for São Paulo;) city of origin, year of birth (YOB), and education level. Given the nature
+of this data, which was collected through the interview, one information about YOB is lacking, which is marked with "unk" (date of the interview) for "unknown".
 
 # Sponsors / Funding
 
