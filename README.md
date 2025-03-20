@@ -15,6 +15,8 @@ Audios without cuts
 
 With manual review of the prosodic segmentation annotation
 
+Note: Speaker 0 is always the interviewee, and the other speakers are different interviewers. However, it was necessary to correct  PA1, PA2, RJ1, RO1, SE1 by inverting names of tiers of speaker 0 and speaker 1, as when we first made all files available,speakers 0 and 1 were inverted in those cases. Version 0 (obsolete) continues with speakers 0 and 1 not inverted.
+
 The following table presents characteristics from the speakers whose voice is included in MuPe-Diversidades
 
 ![Captura de tela de 2025-03-18 15-03-04](https://github.com/user-attachments/assets/639cfd79-b8af-45ab-b7f9-07948f5610b3)
